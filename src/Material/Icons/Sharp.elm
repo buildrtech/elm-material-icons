@@ -1,21 +1,22 @@
 module Material.Icons.Sharp exposing
-    ( three_d_rotation, accessibility, accessibility_new, accessible, accessible_forward, account_balance, account_balance_wallet, account_box, account_circle, add_shopping_cart, add_task, addchart, admin_panel_settings, alarm, alarm_add, alarm_off, alarm_on, all_inbox, all_out, analytics, anchor, android, announcement, api, app_blocking, arrow_circle_down, arrow_circle_up, arrow_right_alt, article, aspect_ratio, assessment, assignment, assignment_ind, assignment_late, assignment_return, assignment_returned, assignment_turned_in, autorenew, backup, backup_table, batch_prediction, book, book_online, bookmark, bookmark_border, bookmarks, bug_report, build, build_circle, cached, calendar_today, calendar_view_day, camera_enhance, cancel_schedule_send, card_giftcard, card_membership, card_travel, change_history, check_circle, check_circle_outline, chrome_reader_mode, class, close_fullscreen, code, comment_bank, commute, compare_arrows, contact_page, contact_support, contactless, copyright, credit_card, dashboard, date_range, delete, delete_forever, delete_outline, description, disabled_by_default, dns, done, done_all, done_outline, donut_large, donut_small, drag_indicator, dynamic_form, eco, eject, euro_symbol, event, event_seat, exit_to_app, explore, explore_off, extension, face, fact_check, favorite, favorite_border, feedback, filter_alt, find_in_page, find_replace, fingerprint, flaky, flight_land, flight_takeoff, flip_to_back, flip_to_front, g_translate, gavel, get_app, gif, grade, grading, group_work, help, help_center, help_outline, highlight_alt, highlight_off, history, history_toggle_off, home, horizontal_split, hourglass_disabled, hourglass_empty, hourglass_full, http, https, important_devices, info, input, integration_instructions, invert_colors, label, label_important, label_off, language, launch, leaderboard, line_style, line_weight, list, lock, lock_open, login, loyalty, markunread_mailbox, maximize, mediation, minimize, model_training, next_plan, not_accessible, not_started, note_add, offline_bolt, offline_pin, online_prediction, opacity, open_in_browser, open_in_full, open_in_new, open_with, outbond, outlet, pageview, pan_tool, payment, pending, pending_actions, perm_camera_mic, perm_contact_calendar, perm_data_setting, perm_device_information, perm_identity, perm_media, perm_phone_msg, perm_scan_wifi, pets, picture_in_picture, picture_in_picture_alt, plagiarism, play_for_work, polymer, power_settings_new, pregnant_woman, preview, print, privacy_tip, published_with_changes, query_builder, question_answer, quickreply, receipt, record_voice_over, redeem, remove_shopping_cart, reorder, report_problem, request_page, restore, restore_from_trash, restore_page, room, rounded_corner, rowing, rule, schedule, search, search_off, settings, settings_applications, settings_backup_restore, settings_bluetooth, settings_brightness, settings_cell, settings_ethernet, settings_input_antenna, settings_input_component, settings_input_composite, settings_input_hdmi, settings_input_svideo, settings_overscan, settings_phone, settings_power, settings_remote, settings_voice, shop, shop_two, shopping_bag, shopping_basket, shopping_cart, smart_button, source, speaker_notes, speaker_notes_off, spellcheck, star_rate, stars, sticky_note_2, store, subject, subtitles_off, supervised_user_circle, supervisor_account, support, swap_horiz, swap_horizontal_circle, swap_vert, swap_vertical_circle, sync_alt, system_update_alt, tab, tab_unselected, table_view, text_rotate_up, text_rotate_vertical, text_rotation_angledown, text_rotation_angleup, text_rotation_down, text_rotation_none, theaters, thumb_down, thumb_up, thumbs_up_down, timeline, toc, today, toll, touch_app, tour, track_changes, translate, trending_down, trending_flat, trending_up, turned_in, turned_in_not, unpublished, update, update_disabled, upgrade, verified, verified_user, vertical_split, view_agenda, view_array, view_carousel, view_column, view_day, view_headline, view_list, view_module, view_quilt, view_sidebar, view_stream, view_week, visibility, visibility_off, voice_over_off, watch_later, wifi_protected_setup, work, work_off, work_outline, wysiwyg, youtube_searched_for, zoom_in, zoom_out
-    , add_alert, auto_delete, error, error_outline, notification_important, warning
-    , four_k, five_g, add_to_queue, airplay, album, art_track, av_timer, branding_watermark, call_to_action, closed_caption, closed_caption_disabled, control_camera, equalizer, explicit, fast_forward, fast_rewind, featured_play_list, featured_video, fiber_dvr, fiber_manual_record, fiber_new, fiber_pin, fiber_smart_record, forward_10, forward_30, forward_5, games, hd, hearing, hearing_disabled, high_quality, library_add, library_add_check, library_books, library_music, loop, mic, mic_none, mic_off, missed_video_call, movie, music_video, new_releases, not_interested, note, pause, pause_circle_filled, pause_circle_outline, play_arrow, play_circle_filled, play_circle_outline, playlist_add, playlist_add_check, playlist_play, queue, queue_music, queue_play_next, radio, recent_actors, remove_from_queue, repeat, repeat_one, replay, replay_10, replay_30, replay_5, shuffle, skip_next, skip_previous, slow_motion_video, snooze, sort_by_alpha, speed, stop, stop_circle, subscriptions, subtitles, surround_sound, video_call, video_label, video_library, video_settings, videocam, videocam_off, volume_down, volume_mute, volume_off, volume_up, web, web_asset
-    , add_ic_call, alternate_email, business, call, call_end, call_made, call_merge, call_missed, call_missed_outgoing, call_received, call_split, cancel_presentation, chat, chat_bubble, chat_bubble_outline, clear_all, comment, contact_mail, contact_phone, contacts, desktop_access_disabled, dialer_sip, dialpad, domain_disabled, domain_verification, duo, email, forum, forward_to_inbox, hourglass_bottom, hourglass_top, import_contacts, import_export, invert_colors_off, list_alt, live_help, location_off, location_on, mail_outline, mark_chat_read, mark_chat_unread, mark_email_read, mark_email_unread, message, mobile_screen_share, more_time, nat, no_sim, pause_presentation, person_add_disabled, person_search, phone, phone_disabled, phone_enabled, phonelink_erase, phonelink_lock, phonelink_ring, phonelink_setup, portable_wifi_off, present_to_all, print_disabled, qr_code, qr_code_2, qr_code_scanner, read_more, ring_volume, rss_feed, screen_share, sentiment_satisfied_alt, speaker_phone, stay_current_landscape, stay_current_portrait, stay_primary_landscape, stay_primary_portrait, stop_screen_share, swap_calls, textsms, unsubscribe, voicemail, vpn_key, wifi_calling
-    , add, add_box, add_circle, add_circle_outline, amp_stories, archive, backspace, ballot, biotech, block, calculate, clear, content_copy, content_cut, content_paste, create, delete_sweep, drafts, dynamic_feed, file_copy, filter_list, flag, font_download, forward, gesture, how_to_reg, how_to_vote, inbox, insights, link, link_off, low_priority, mail, markunread, move_to_inbox, next_week, outlined_flag, policy, push_pin, redo, remove, remove_circle, remove_circle_outline, reply, reply_all, report, report_off, save, save_alt, select_all, send, sort, square_foot, text_format, unarchive, undo, waves, weekend, where_to_vote
-    , access_alarm, access_alarms, access_time, ad_units, add_alarm, add_to_home_screen, airplanemode_active, airplanemode_inactive, battery_alert, battery_charging_full, battery_full, battery_std, battery_unknown, bluetooth, bluetooth_connected, bluetooth_disabled, bluetooth_searching, brightness_auto, brightness_high, brightness_low, brightness_medium, data_usage, developer_mode, devices, dvr, gps_fixed, gps_not_fixed, gps_off, graphic_eq, location_disabled, location_searching, mobile_friendly, mobile_off, nfc, screen_lock_landscape, screen_lock_portrait, screen_lock_rotation, screen_rotation, sd_storage, settings_system_daydream, signal_cellular_4_bar, signal_cellular_alt, signal_cellular_connected_no_internet_4_bar, signal_cellular_no_sim, signal_cellular_null, signal_cellular_off, signal_wifi_4_bar, signal_wifi_4_bar_lock, signal_wifi_off, storage, usb, wallpaper, widgets, wifi_lock, wifi_tethering
-    , add_comment, align_horizontal_center, align_horizontal_left, align_horizontal_right, align_vertical_bottom, align_vertical_center, align_vertical_top, attach_file, attach_money, bar_chart, border_all, border_bottom, border_clear, border_horizontal, border_inner, border_left, border_outer, border_right, border_style, border_top, border_vertical, bubble_chart, drag_handle, format_align_center, format_align_justify, format_align_left, format_align_right, format_bold, format_clear, format_color_reset, format_indent_decrease, format_indent_increase, format_italic, format_line_spacing, format_list_bulleted, format_list_numbered, format_list_numbered_rtl, format_paint, format_quote, format_shapes, format_size, format_strikethrough, format_textdirection_l_to_r, format_textdirection_r_to_l, format_underlined, functions, height, highlight, horizontal_distribute, horizontal_rule, insert_chart, insert_chart_outlined, insert_comment, insert_drive_file, insert_emoticon, insert_invitation, insert_link, insert_photo, linear_scale, merge_type, mode_comment, monetization_on, money_off, multiline_chart, notes, pie_chart, post_add, publish, scatter_plot, score, short_text, show_chart, space_bar, stacked_line_chart, strikethrough_s, subscript, superscript, table_chart, table_rows, text_fields, title, vertical_align_bottom, vertical_align_center, vertical_align_top, vertical_distribute, wrap_text
-    , attach_email, attachment, cloud, cloud_circle, cloud_done, cloud_download, cloud_off, cloud_queue, cloud_upload, create_new_folder, folder, folder_open, folder_shared, request_quote, rule_folder, snippet_folder, text_snippet, topic
-    , browser_not_supported, cast, cast_connected, cast_for_education, computer, desktop_mac, desktop_windows, developer_board, device_hub, device_unknown, devices_other, dock, gamepad, headset, headset_mic, keyboard, keyboard_arrow_down, keyboard_arrow_left, keyboard_arrow_right, keyboard_arrow_up, keyboard_backspace, keyboard_capslock, keyboard_hide, keyboard_return, keyboard_tab, keyboard_voice, laptop, laptop_chromebook, laptop_mac, laptop_windows, memory, mouse, phone_android, phone_iphone, phonelink, phonelink_off, point_of_sale, power_input, router, scanner, security, sim_card, smartphone, speaker, speaker_group, tablet, tablet_android, tablet_mac, toys, tv, videogame_asset, watch
+    ( three_d_rotation, accessibility, accessibility_new, accessible, accessible_forward, account_balance, account_balance_wallet, account_box, account_circle, add_shopping_cart, add_task, add_to_drive, addchart, admin_panel_settings, alarm, alarm_add, alarm_off, alarm_on, all_inbox, all_out, analytics, anchor, android, announcement, api, app_blocking, arrow_circle_down, arrow_circle_up, arrow_right_alt, article, aspect_ratio, assessment, assignment, assignment_ind, assignment_late, assignment_return, assignment_returned, assignment_turned_in, autorenew, backup, backup_table, batch_prediction, book, book_online, bookmark, bookmark_add, bookmark_added, bookmark_border, bookmark_remove, bookmarks, bug_report, build, build_circle, cached, calendar_today, calendar_view_day, calendar_view_month, calendar_view_week, camera_enhance, cancel_schedule_send, card_giftcard, card_membership, card_travel, change_history, check_circle, check_circle_outline, chrome_reader_mode, circle_notifications, class, close_fullscreen, code, code_off, comment_bank, commute, compare_arrows, compress, contact_page, contact_support, contactless, copyright, credit_card, credit_card_off, dangerous, dashboard, dashboard_customize, date_range, delete, delete_forever, delete_outline, description, disabled_by_default, dns, done, done_all, done_outline, donut_large, donut_small, drag_indicator, dynamic_form, eco, edit_off, eject, euro_symbol, event, event_seat, exit_to_app, expand, explore, explore_off, extension, extension_off, face, fact_check, favorite, favorite_border, feedback, file_present, filter_alt, find_in_page, find_replace, fingerprint, fit_screen, flaky, flight_land, flight_takeoff, flip_to_back, flip_to_front, flutter_dash, g_translate, gavel, get_app, gif, grade, grading, group_work, help, help_center, help_outline, hide_source, highlight_alt, highlight_off, history, history_toggle_off, home, horizontal_split, hourglass_disabled, hourglass_empty, hourglass_full, http, https, important_devices, info, input, integration_instructions, invert_colors, label, label_important, label_off, language, launch, leaderboard, lightbulb, line_style, line_weight, list, lock, lock_clock, lock_open, login, logout, loyalty, manage_accounts, mark_as_unread, markunread_mailbox, maximize, mediation, minimize, model_training, next_plan, nightlight_round, no_accounts, not_accessible, not_started, note_add, offline_bolt, offline_pin, online_prediction, opacity, open_in_browser, open_in_full, open_in_new, open_in_new_off, open_with, outbound, outbox, outlet, pageview, paid, pan_tool, payment, pending, pending_actions, perm_camera_mic, perm_contact_calendar, perm_data_setting, perm_device_information, perm_identity, perm_media, perm_phone_msg, perm_scan_wifi, pets, picture_in_picture, picture_in_picture_alt, plagiarism, play_for_work, polymer, power_settings_new, pregnant_woman, preview, print, privacy_tip, production_quantity_limits, published_with_changes, query_builder, question_answer, quickreply, receipt, record_voice_over, redeem, remove_done, remove_shopping_cart, reorder, report_problem, request_page, restore, restore_from_trash, restore_page, room, rounded_corner, rowing, rule, saved_search, savings, schedule, schedule_send, search, search_off, segment, send_and_archive, sensors, sensors_off, settings, settings_accessibility, settings_applications, settings_backup_restore, settings_bluetooth, settings_brightness, settings_cell, settings_ethernet, settings_input_antenna, settings_input_component, settings_input_composite, settings_input_hdmi, settings_input_svideo, settings_overscan, settings_phone, settings_power, settings_remote, settings_voice, shop, shop_2, shop_two, shopping_bag, shopping_basket, shopping_cart, smart_button, source, speaker_notes, speaker_notes_off, spellcheck, star_rate, stars, sticky_note_2, store, subject, subtitles_off, supervised_user_circle, supervisor_account, support, swap_horiz, swap_horizontal_circle, swap_vert, swap_vertical_circle, swipe, sync_alt, system_update_alt, tab, tab_unselected, table_view, task_alt, text_rotate_up, text_rotate_vertical, text_rotation_angledown, text_rotation_angleup, text_rotation_down, text_rotation_none, theaters, thumb_down, thumb_down_off_alt, thumb_up, thumb_up_off_alt, thumbs_up_down, timeline, toc, today, toll, touch_app, tour, track_changes, translate, trending_down, trending_flat, trending_up, try, turned_in, turned_in_not, unpublished, update, update_disabled, upgrade, verified, verified_user, vertical_split, view_agenda, view_array, view_carousel, view_column, view_day, view_headline, view_in_ar, view_list, view_module, view_quilt, view_sidebar, view_stream, view_week, visibility, visibility_off, voice_over_off, watch_later, wifi_protected_setup, work, work_off, work_outline, wysiwyg, youtube_searched_for, zoom_in, zoom_out
+    , add_alert, auto_delete, error, error_outline, notification_important, warning, warning_amber
+    , ten_k, one_k, two_k, three_k, four_k, five_g, five_k, six_k, seven_k, eight_k, nine_k, add_to_queue, airplay, album, art_track, av_timer, branding_watermark, call_to_action, closed_caption, closed_caption_disabled, closed_caption_off, control_camera, equalizer, explicit, fast_forward, fast_rewind, featured_play_list, featured_video, fiber_dvr, fiber_manual_record, fiber_new, fiber_pin, fiber_smart_record, forward_10, forward_30, forward_5, games, hd, hearing, hearing_disabled, high_quality, library_add, library_add_check, library_books, library_music, loop, mic, mic_none, mic_off, missed_video_call, movie, music_video, new_releases, not_interested, note, pause, pause_circle, pause_circle_filled, pause_circle_outline, play_arrow, play_circle, play_circle_filled, play_circle_outline, play_disabled, playlist_add, playlist_add_check, playlist_play, queue, queue_music, queue_play_next, radio, recent_actors, remove_from_queue, repeat, repeat_on, repeat_one, repeat_one_on, replay, replay_10, replay_30, replay_5, replay_circle_filled, sd, shuffle, shuffle_on, skip_next, skip_previous, slow_motion_video, snooze, sort_by_alpha, speed, stop, stop_circle, subscriptions, subtitles, surround_sound, video_call, video_label, video_library, video_settings, videocam, videocam_off, volume_down, volume_mute, volume_off, volume_up, web, web_asset, web_asset_off
+    , three_p, add_ic_call, alternate_email, app_registration, business, call, call_end, call_made, call_merge, call_missed, call_missed_outgoing, call_received, call_split, cancel_presentation, cell_wifi, chat, chat_bubble, chat_bubble_outline, clear_all, comment, contact_mail, contact_phone, contacts, desktop_access_disabled, dialer_sip, dialpad, domain_disabled, domain_verification, duo, email, forum, forward_to_inbox, hourglass_bottom, hourglass_top, import_contacts, import_export, invert_colors_off, list_alt, live_help, location_off, location_on, mail_outline, mark_chat_read, mark_chat_unread, mark_email_read, mark_email_unread, message, mobile_screen_share, more_time, nat, no_sim, pause_presentation, person_add_disabled, person_search, phone, phone_disabled, phone_enabled, phonelink_erase, phonelink_lock, phonelink_ring, phonelink_setup, portable_wifi_off, present_to_all, print_disabled, qr_code, qr_code_2, qr_code_scanner, read_more, ring_volume, rss_feed, rtt, screen_share, sentiment_satisfied_alt, sip, speaker_phone, stay_current_landscape, stay_current_portrait, stay_primary_landscape, stay_primary_portrait, stop_screen_share, swap_calls, textsms, unsubscribe, voicemail, vpn_key, wifi_calling
+    , add, add_box, add_circle, add_circle_outline, add_link, archive, attribution, backspace, ballot, biotech, block, bolt, calculate, change_circle, clear, content_copy, content_cut, content_paste, content_paste_off, copy_all, create, delete_sweep, drafts, dynamic_feed, file_copy, filter_list, flag, font_download, font_download_off, forward, gesture, how_to_reg, how_to_vote, inbox, insights, inventory, inventory_2, link, link_off, low_priority, mail, markunread, move_to_inbox, next_week, outlined_flag, policy, push_pin, redo, remove, remove_circle, remove_circle_outline, reply, reply_all, report, report_gmailerrorred, report_off, save, save_alt, select_all, send, shield, sort, square_foot, stacked_bar_chart, stream, tag, text_format, unarchive, undo, upcoming, waves, weekend, where_to_vote
+    , one_x_mobiledata, thirty_fps, three_g_mobiledata, four_g_mobiledata, four_g_plus_mobiledata, sixty_fps, access_alarm, access_alarms, access_time, access_time_filled, ad_units, add_alarm, add_to_home_screen, air, airplane_ticket, airplanemode_active, airplanemode_inactive, aod, battery_alert, battery_charging_full, battery_full, battery_saver, battery_std, battery_unknown, bloodtype, bluetooth, bluetooth_connected, bluetooth_disabled, bluetooth_drive, bluetooth_searching, brightness_auto, brightness_high, brightness_low, brightness_medium, cable, cameraswitch, credit_score, dark_mode, data_saver_off, data_saver_on, data_usage, developer_mode, device_thermostat, devices, do_not_disturb_on_total_silence, dvr, e_mobiledata, edgesensor_high, edgesensor_low, flashlight_off, flashlight_on, flourescent, fmd_bad, fmd_good, g_mobiledata, gpp_bad, gpp_good, gpp_maybe, gps_fixed, gps_not_fixed, gps_off, graphic_eq, grid_3x3, grid_4x4, grid_goldenratio, h_mobiledata, h_plus_mobiledata, hdr_auto, hdr_auto_select, hdr_off_select, hdr_on_select, lens_blur, light_mode, location_disabled, location_searching, lte_mobiledata, lte_plus_mobiledata, media_bluetooth_off, media_bluetooth_on, medication, mobile_friendly, mobile_off, mobiledata_off, mode_night, mode_standby, monitor_weight, nearby_error, nearby_off, network_cell, network_wifi, nfc, nightlight, note_alt, password, pattern, pin, play_lesson, price_change, price_check, quiz, r_mobiledata, radar, remember_me, reset_tv, restart_alt, reviews, rsvp, screen_lock_landscape, screen_lock_portrait, screen_lock_rotation, screen_rotation, screen_search_desktop, screenshot, sd_storage, security_update, security_update_good, security_update_warning, sell, send_to_mobile, settings_suggest, settings_system_daydream, share_location, shortcut, signal_cellular_0_bar, signal_cellular_4_bar, signal_cellular_alt, signal_cellular_connected_no_internet_0_bar, signal_cellular_connected_no_internet_4_bar, signal_cellular_no_sim, signal_cellular_nodata, signal_cellular_null, signal_cellular_off, signal_wifi_0_bar, signal_wifi_4_bar, signal_wifi_4_bar_lock, signal_wifi_bad, signal_wifi_connected_no_internet_4, signal_wifi_off, signal_wifi_statusbar_4_bar, signal_wifi_statusbar_connected_no_internet_4, signal_wifi_statusbar_null, sim_card_download, splitscreen, sports_score, storage, storm, summarize, system_security_update, system_security_update_good, system_security_update_warning, task, thermostat, timer_10_select, timer_3_select, tungsten, usb, usb_off, wallpaper, water, widgets, wifi_calling_3, wifi_lock, wifi_tethering, wifi_tethering_error_rounded, wifi_tethering_off
+    , add_chart, add_comment, align_horizontal_center, align_horizontal_left, align_horizontal_right, align_vertical_bottom, align_vertical_center, align_vertical_top, attach_file, attach_money, auto_graph, bar_chart, border_all, border_bottom, border_clear, border_color, border_horizontal, border_inner, border_left, border_outer, border_right, border_style, border_top, border_vertical, bubble_chart, drag_handle, format_align_center, format_align_justify, format_align_left, format_align_right, format_bold, format_clear, format_color_fill, format_color_reset, format_color_text, format_indent_decrease, format_indent_increase, format_italic, format_line_spacing, format_list_bulleted, format_list_numbered, format_list_numbered_rtl, format_paint, format_quote, format_shapes, format_size, format_strikethrough, format_textdirection_l_to_r, format_textdirection_r_to_l, format_underlined, functions, height, highlight, horizontal_distribute, horizontal_rule, insert_chart, insert_chart_outlined, insert_comment, insert_drive_file, insert_emoticon, insert_invitation, insert_link, insert_photo, linear_scale, margin, merge_type, mode, mode_comment, mode_edit, mode_edit_outline, monetization_on, money_off, money_off_csred, multiline_chart, notes, padding, pie_chart, pie_chart_outline, post_add, publish, query_stats, scatter_plot, schema, score, short_text, show_chart, space_bar, stacked_line_chart, strikethrough_s, subscript, superscript, table_chart, table_rows, text_fields, title, vertical_align_bottom, vertical_align_center, vertical_align_top, vertical_distribute, wrap_text
+    , approval, attach_email, attachment, cloud, cloud_circle, cloud_done, cloud_download, cloud_off, cloud_queue, cloud_upload, create_new_folder, download, download_done, download_for_offline, downloading, drive_file_move, drive_file_rename_outline, drive_folder_upload, file_download, file_download_done, file_download_off, file_upload, folder, folder_open, folder_shared, grid_view, request_quote, rule_folder, snippet_folder, text_snippet, topic, upload, upload_file, workspaces
+    , browser_not_supported, cast, cast_connected, cast_for_education, computer, connected_tv, desktop_mac, desktop_windows, developer_board, developer_board_off, device_hub, device_unknown, devices_other, dock, earbuds, earbuds_battery, gamepad, headphones, headphones_battery, headset, headset_mic, headset_off, home_max, home_mini, keyboard, keyboard_alt, keyboard_arrow_down, keyboard_arrow_left, keyboard_arrow_right, keyboard_arrow_up, keyboard_backspace, keyboard_capslock, keyboard_hide, keyboard_return, keyboard_tab, keyboard_voice, laptop, laptop_chromebook, laptop_mac, laptop_windows, memory, monitor, mouse, phone_android, phone_iphone, phonelink, phonelink_off, point_of_sale, power_input, router, scanner, security, sim_card, smart_display, smart_screen, smart_toy, smartphone, speaker, speaker_group, tablet, tablet_android, tablet_mac, toys, tv, videogame_asset, videogame_asset_off, watch
     , sensor_door, sensor_window
-    , add_a_photo, add_photo_alternate, add_to_photos, adjust, assistant, assistant_photo, audiotrack, bedtime, blur_circular, blur_linear, blur_off, blur_on, brightness_1, brightness_2, brightness_3, brightness_4, brightness_5, brightness_6, brightness_7, broken_image, brush, burst_mode, camera, camera_alt, camera_front, camera_rear, camera_roll, center_focus_strong, center_focus_weak, collections, collections_bookmark, color_lens, colorize, compare, control_point, control_point_duplicate, crop, crop_16_9, crop_3_2, crop_5_4, crop_7_5, crop_din, crop_free, crop_landscape, crop_original, crop_portrait, crop_rotate, crop_square, dehaze, details, edit, euro, exposure, exposure_neg_1, exposure_neg_2, exposure_plus_1, exposure_plus_2, exposure_zero, filter, filter_1, filter_2, filter_3, filter_4, filter_5, filter_6, filter_7, filter_8, filter_9, filter_9_plus, filter_b_and_w, filter_center_focus, filter_drama, filter_frames, filter_hdr, filter_none, filter_tilt_shift, filter_vintage, flare, flash_auto, flash_off, flash_on, flip, flip_camera_android, flip_camera_ios, gradient, grain, grid_off, grid_on, hdr_off, hdr_on, hdr_strong, hdr_weak, healing, image, image_aspect_ratio, image_not_supported, image_search, iso, landscape, leak_add, leak_remove, lens, linked_camera, looks, looks_3, looks_4, looks_5, looks_6, looks_one, looks_two, loupe, monochrome_photos, motion_photos_on, motion_photos_pause, motion_photos_paused, movie_creation, movie_filter, music_note, music_off, nature, nature_people, navigate_before, navigate_next, palette, panorama, panorama_fish_eye, panorama_horizontal, panorama_vertical, panorama_wide_angle, photo, photo_album, photo_camera, photo_filter, photo_library, photo_size_select_actual, photo_size_select_large, photo_size_select_small, picture_as_pdf, portrait, receipt_long, remove_red_eye, rotate_90_degrees_ccw, rotate_left, rotate_right, shutter_speed, slideshow, straighten, style, switch_camera, switch_video, tag_faces, texture, timelapse, timer, timer_10, timer_3, timer_off, tonality, transform, tune, view_comfy, view_compact, vignette, wb_auto, wb_cloudy, wb_incandescent, wb_iridescent, wb_sunny
-    , three_sixty, add_business, add_location, add_location_alt, add_road, agriculture, alt_route, atm, beenhere, bike_scooter, category, cleaning_services, compass_calibration, departure_board, design_services, directions, directions_bike, directions_boat, directions_bus, directions_car, directions_railway, directions_run, directions_subway, directions_transit, directions_walk, edit_attributes, edit_location, edit_road, electric_bike, electric_car, electric_moped, electric_scooter, electrical_services, ev_station, fastfood, flight, handyman, home_repair_service, hotel, hvac, layers, layers_clear, local_activity, local_airport, local_atm, local_bar, local_cafe, local_car_wash, local_convenience_store, local_dining, local_drink, local_fire_department, local_florist, local_gas_station, local_grocery_store, local_hospital, local_hotel, local_laundry_service, local_library, local_mall, local_movies, local_offer, local_parking, local_pharmacy, local_phone, local_pizza, local_play, local_police, local_post_office, local_printshop, local_see, local_shipping, local_taxi, map, maps_ugc, medical_services, menu_book, miscellaneous_services, money, moped, multiple_stop, museum, my_location, navigation, near_me, near_me_disabled, no_meals, no_transfer, not_listed_location, pedal_bike, person_pin, person_pin_circle, pest_control, pest_control_rodent, pin_drop, place, plumbing, rate_review, restaurant, restaurant_menu, run_circle, satellite, set_meal, store_mall_directory, streetview, subway, terrain, traffic, train, tram, transfer_within_a_station, transit_enterexit, trip_origin, two_wheeler, wine_bar, wrong_location, zoom_out_map
-    , app_settings_alt, apps, arrow_back, arrow_back_ios, arrow_downward, arrow_drop_down, arrow_drop_down_circle, arrow_drop_up, arrow_forward, arrow_forward_ios, arrow_left, arrow_right, arrow_upward, campaign, cancel, check, chevron_left, chevron_right, close, double_arrow, east, expand_less, expand_more, first_page, fullscreen, fullscreen_exit, home_work, last_page, legend_toggle, menu, menu_open, more_horiz, more_vert, north, north_east, north_west, payments, refresh, south, south_east, south_west, subdirectory_arrow_left, subdirectory_arrow_right, switch_left, switch_right, unfold_less, unfold_more, west
-    , account_tree, adb, airline_seat_flat, airline_seat_flat_angled, airline_seat_individual_suite, airline_seat_legroom_extra, airline_seat_legroom_normal, airline_seat_legroom_reduced, airline_seat_recline_extra, airline_seat_recline_normal, bluetooth_audio, confirmation_number, directions_off, disc_full, drive_eta, enhanced_encryption, event_available, event_busy, event_note, folder_special, live_tv, mms, more, network_check, network_locked, no_encryption, ondemand_video, personal_video, phone_bluetooth_speaker, phone_callback, phone_forwarded, phone_in_talk, phone_locked, phone_missed, phone_paused, power, power_off, priority_high, sd_card, sms, sms_failed, support_agent, sync, sync_disabled, sync_problem, system_update, tap_and_play, time_to_leave, tv_off, vibration, voice_chat, vpn_lock, wc, wifi, wifi_off
-    , ac_unit, airport_shuttle, all_inclusive, apartment, baby_changing_station, backpack, bathtub, beach_access, bento, business_center, carpenter, casino, charging_station, checkroom, child_care, child_friendly, corporate_fare, countertops, do_not_step, do_not_touch, dry, elevator, escalator, escalator_warning, family_restroom, fence, fire_extinguisher, fitness_center, food_bank, foundation, free_breakfast, golf_course, grass, hot_tub, house, house_siding, kitchen, meeting_room, microwave, night_shelter, no_backpack, no_cell, no_drinks, no_flash, no_food, no_meeting_room, no_photography, no_stroller, pool, rice_bowl, roofing, room_preferences, room_service, rv_hookup, smoke_free, smoking_rooms, soap, spa, sports_bar, stairs, storefront, stroller, tapas, tty, umbrella, wash, water_damage, wheelchair_pickup
-    , six_ft_apart, architecture, cake, clean_hands, connect_without_contact, construction, coronavirus, deck, domain, elderly, emoji_emotions, emoji_events, emoji_flags, emoji_food_beverage, emoji_nature, emoji_objects, emoji_people, emoji_symbols, emoji_transportation, engineering, facebook, fireplace, follow_the_signs, group, group_add, groups, history_edu, king_bed, location_city, luggage, masks, military_tech, mood, mood_bad, nights_stay, no_luggage, notifications, notifications_active, notifications_none, notifications_off, notifications_paused, outdoor_grill, pages, party_mode, people, people_alt, people_outline, person, person_add, person_add_alt_1, person_outline, person_remove, person_remove_alt_1, plus_one, poll, psychology, public, public_off, reduce_capacity, sanitizer, school, science, self_improvement, sentiment_dissatisfied, sentiment_satisfied, sentiment_very_dissatisfied, sentiment_very_satisfied, share, sick, single_bed, sports, sports_baseball, sports_basketball, sports_cricket, sports_esports, sports_football, sports_golf, sports_handball, sports_hockey, sports_kabaddi, sports_mma, sports_motorsports, sports_rugby, sports_soccer, sports_tennis, sports_volleyball, thumb_down_alt, thumb_up_alt, whatshot
-    , check_box, check_box_outline_blank, indeterminate_check_box, radio_button_checked, radio_button_unchecked, star, star_border, star_half, star_outline, toggle_off, toggle_on
+    , ten_mp, eleven_mp, twelve_mp, thirteen_mp, fourteen_mp, fifteen_mp, sixteen_mp, seventeen_mp, eighteen_mp, nineteen_mp, twenty_mp, twenty_one_mp, twenty_two_mp, twenty_three_mp, twenty_four_mp, two_mp, thirty_fps_select, three_mp, four_mp, five_mp, sixty_fps_select, six_mp, seven_mp, eight_mp, nine_mp, add_a_photo, add_photo_alternate, add_to_photos, adjust, animation, assistant, assistant_photo, audiotrack, auto_awesome, auto_awesome_mosaic, auto_awesome_motion, auto_fix_high, auto_fix_normal, auto_fix_off, auto_stories, autofps_select, bedtime, blur_circular, blur_linear, blur_off, blur_on, brightness_1, brightness_2, brightness_3, brightness_4, brightness_5, brightness_6, brightness_7, broken_image, brush, burst_mode, camera, camera_alt, camera_front, camera_rear, camera_roll, cases, center_focus_strong, center_focus_weak, circle, collections, collections_bookmark, color_lens, colorize, compare, control_point, control_point_duplicate, crop, crop_16_9, crop_3_2, crop_5_4, crop_7_5, crop_din, crop_free, crop_landscape, crop_original, crop_portrait, crop_rotate, crop_square, dehaze, details, dirty_lens, edit, euro, exposure, exposure_neg_1, exposure_neg_2, exposure_plus_1, exposure_plus_2, exposure_zero, face_retouching_natural, face_retouching_off, filter, filter_1, filter_2, filter_3, filter_4, filter_5, filter_6, filter_7, filter_8, filter_9, filter_9_plus, filter_b_and_w, filter_center_focus, filter_drama, filter_frames, filter_hdr, filter_none, filter_tilt_shift, filter_vintage, flare, flash_auto, flash_off, flash_on, flip, flip_camera_android, flip_camera_ios, gradient, grain, grid_off, grid_on, hdr_enhanced_select, hdr_off, hdr_on, hdr_plus, hdr_strong, hdr_weak, healing, hevc, hide_image, image, image_aspect_ratio, image_not_supported, image_search, iso, landscape, leak_add, leak_remove, lens, linked_camera, looks, looks_3, looks_4, looks_5, looks_6, looks_one, looks_two, loupe, mic_external_off, mic_external_on, monochrome_photos, motion_photos_auto, motion_photos_off, motion_photos_on, motion_photos_pause, motion_photos_paused, movie_creation, movie_filter, mp, music_note, music_off, nature, nature_people, navigate_before, navigate_next, palette, panorama, panorama_fish_eye, panorama_horizontal, panorama_horizontal_select, panorama_photosphere, panorama_photosphere_select, panorama_vertical, panorama_vertical_select, panorama_wide_angle, panorama_wide_angle_select, photo, photo_album, photo_camera, photo_camera_back, photo_camera_front, photo_filter, photo_library, photo_size_select_actual, photo_size_select_large, photo_size_select_small, picture_as_pdf, portrait, raw_off, raw_on, receipt_long, remove_red_eye, rotate_90_degrees_ccw, rotate_left, rotate_right, shutter_speed, slideshow, straighten, style, switch_camera, switch_video, tag_faces, texture, thermostat_auto, timelapse, timer, timer_10, timer_3, timer_off, tonality, transform, tune, video_camera_back, video_camera_front, video_stable, view_comfy, view_compact, vignette, vrpano, wb_auto, wb_cloudy, wb_incandescent, wb_iridescent, wb_shade, wb_sunny, wb_twilight
+    , three_sixty, add_business, add_location, add_location_alt, add_road, agriculture, alt_route, atm, attractions, badge, bakery_dining, beenhere, bike_scooter, breakfast_dining, brunch_dining, bus_alert, car_rental, car_repair, category, celebration, cleaning_services, compass_calibration, delivery_dining, departure_board, design_services, dinner_dining, directions, directions_bike, directions_boat, directions_boat_filled, directions_bus, directions_bus_filled, directions_car, directions_car_filled, directions_railway, directions_railway_filled, directions_run, directions_subway, directions_subway_filled, directions_transit, directions_transit_filled, directions_walk, dry_cleaning, edit_attributes, edit_location, edit_location_alt, edit_road, electric_bike, electric_car, electric_moped, electric_rickshaw, electric_scooter, electrical_services, ev_station, fastfood, festival, flight, hail, handyman, hardware, home_repair_service, hotel, hvac, icecream, layers, layers_clear, liquor, local_activity, local_airport, local_atm, local_bar, local_cafe, local_car_wash, local_convenience_store, local_dining, local_drink, local_fire_department, local_florist, local_gas_station, local_grocery_store, local_hospital, local_hotel, local_laundry_service, local_library, local_mall, local_movies, local_offer, local_parking, local_pharmacy, local_phone, local_pizza, local_play, local_police, local_post_office, local_printshop, local_see, local_shipping, local_taxi, lunch_dining, map, maps_ugc, medical_services, menu_book, miscellaneous_services, money, moped, moving, multiple_stop, museum, my_location, navigation, near_me, near_me_disabled, nightlife, no_meals, no_transfer, not_listed_location, park, pedal_bike, person_pin, person_pin_circle, pest_control, pest_control_rodent, pin_drop, place, plumbing, railway_alert, ramen_dining, rate_review, restaurant, restaurant_menu, run_circle, sailing, satellite, set_meal, snowmobile, store_mall_directory, streetview, subway, takeout_dining, taxi_alert, terrain, theater_comedy, traffic, train, tram, transfer_within_a_station, transit_enterexit, trip_origin, two_wheeler, volunteer_activism, wine_bar, wrong_location, zoom_out_map
+    , app_settings_alt, apps, arrow_back, arrow_back_ios, arrow_back_ios_new, arrow_downward, arrow_drop_down, arrow_drop_down_circle, arrow_drop_up, arrow_forward, arrow_forward_ios, arrow_left, arrow_right, arrow_upward, assistant_direction, campaign, cancel, check, chevron_left, chevron_right, close, double_arrow, east, expand_less, expand_more, first_page, fullscreen, fullscreen_exit, home_work, last_page, legend_toggle, maps_home_work, menu, menu_open, more_horiz, more_vert, north, north_east, north_west, offline_share, payments, pivot_table_chart, refresh, south, south_east, south_west, subdirectory_arrow_left, subdirectory_arrow_right, switch_left, switch_right, unfold_less, unfold_more, waterfall_chart, west
+    , account_tree, adb, airline_seat_flat, airline_seat_flat_angled, airline_seat_individual_suite, airline_seat_legroom_extra, airline_seat_legroom_normal, airline_seat_legroom_reduced, airline_seat_recline_extra, airline_seat_recline_normal, bluetooth_audio, confirmation_number, directions_off, disc_full, do_disturb, do_disturb_alt, do_disturb_off, do_disturb_on, do_not_disturb, do_not_disturb_alt, do_not_disturb_off, do_not_disturb_on, drive_eta, enhanced_encryption, event_available, event_busy, event_note, folder_special, imagesearch_roller, live_tv, mms, more, network_check, network_locked, no_encryption, no_encryption_gmailerrorred, ondemand_video, personal_video, phone_bluetooth_speaker, phone_callback, phone_forwarded, phone_in_talk, phone_locked, phone_missed, phone_paused, power, power_off, priority_high, running_with_errors, sd_card, sd_card_alert, sim_card_alert, sms, sms_failed, support_agent, sync, sync_disabled, sync_problem, system_update, tap_and_play, time_to_leave, tv_off, vibration, voice_chat, vpn_lock, wc, wifi, wifi_off
+    , ac_unit, airport_shuttle, all_inclusive, apartment, baby_changing_station, backpack, balcony, bathtub, beach_access, bento, bungalow, business_center, cabin, carpenter, casino, chalet, charging_station, checkroom, child_care, child_friendly, corporate_fare, cottage, countertops, crib, do_not_step, do_not_touch, dry, elevator, escalator, escalator_warning, family_restroom, fence, fire_extinguisher, fitness_center, food_bank, foundation, free_breakfast, gite, golf_course, grass, holiday_village, hot_tub, house, house_siding, houseboat, iron, kitchen, meeting_room, microwave, night_shelter, no_backpack, no_cell, no_drinks, no_flash, no_food, no_meeting_room, no_photography, no_stroller, other_houses, pool, rice_bowl, roofing, room_preferences, room_service, rv_hookup, smoke_free, smoking_rooms, soap, spa, sports_bar, stairs, storefront, stroller, tapas, tty, umbrella, villa, wash, water_damage, wheelchair_pickup
+    , bathroom, bed, bedroom_baby, bedroom_child, bedroom_parent, blender, camera_indoor, camera_outdoor, chair, chair_alt, coffee, coffee_maker, dining, door_back, door_front, door_sliding, doorbell, feed, flatware, garage, light, living, manage_search, podcasts, shower, window, yard
+    , six_ft_apart, add_moderator, add_reaction, architecture, cake, catching_pokemon, clean_hands, connect_without_contact, construction, coronavirus, deck, domain, downhill_skiing, edit_notifications, elderly, emoji_emotions, emoji_events, emoji_flags, emoji_food_beverage, emoji_nature, emoji_objects, emoji_people, emoji_symbols, emoji_transportation, engineering, facebook, female, fireplace, follow_the_signs, group, group_add, groups, health_and_safety, hiking, history_edu, ice_skating, ios_share, kayaking, king_bed, kitesurfing, location_city, luggage, male, masks, military_tech, mood, mood_bad, nights_stay, no_luggage, nordic_walking, notification_add, notifications, notifications_active, notifications_none, notifications_off, notifications_paused, outdoor_grill, pages, paragliding, party_mode, people, people_alt, people_outline, person, person_add, person_add_alt, person_add_alt_1, person_off, person_outline, person_remove, person_remove_alt_1, piano, piano_off, plus_one, poll, precision_manufacturing, psychology, public, public_off, recommend, reduce_capacity, remove_moderator, safety_divider, sanitizer, school, science, self_improvement, sentiment_dissatisfied, sentiment_neutral, sentiment_satisfied, sentiment_very_dissatisfied, sentiment_very_satisfied, share, sick, single_bed, skateboarding, sledding, snowboarding, snowshoeing, social_distance, sports, sports_baseball, sports_basketball, sports_cricket, sports_esports, sports_football, sports_golf, sports_handball, sports_hockey, sports_kabaddi, sports_mma, sports_motorsports, sports_rugby, sports_soccer, sports_tennis, sports_volleyball, surfing, switch_account, thumb_down_alt, thumb_up_alt, transgender, travel_explore, whatshot
+    , check_box, check_box_outline_blank, indeterminate_check_box, radio_button_checked, radio_button_unchecked, star, star_border, star_border_purple500, star_half, star_outline, star_purple500, toggle_off, toggle_on
     )
 
 {-|
@@ -23,47 +24,47 @@ module Material.Icons.Sharp exposing
 
 # Action
 
-@docs three_d_rotation, accessibility, accessibility_new, accessible, accessible_forward, account_balance, account_balance_wallet, account_box, account_circle, add_shopping_cart, add_task, addchart, admin_panel_settings, alarm, alarm_add, alarm_off, alarm_on, all_inbox, all_out, analytics, anchor, android, announcement, api, app_blocking, arrow_circle_down, arrow_circle_up, arrow_right_alt, article, aspect_ratio, assessment, assignment, assignment_ind, assignment_late, assignment_return, assignment_returned, assignment_turned_in, autorenew, backup, backup_table, batch_prediction, book, book_online, bookmark, bookmark_border, bookmarks, bug_report, build, build_circle, cached, calendar_today, calendar_view_day, camera_enhance, cancel_schedule_send, card_giftcard, card_membership, card_travel, change_history, check_circle, check_circle_outline, chrome_reader_mode, class, close_fullscreen, code, comment_bank, commute, compare_arrows, contact_page, contact_support, contactless, copyright, credit_card, dashboard, date_range, delete, delete_forever, delete_outline, description, disabled_by_default, dns, done, done_all, done_outline, donut_large, donut_small, drag_indicator, dynamic_form, eco, eject, euro_symbol, event, event_seat, exit_to_app, explore, explore_off, extension, face, fact_check, favorite, favorite_border, feedback, filter_alt, find_in_page, find_replace, fingerprint, flaky, flight_land, flight_takeoff, flip_to_back, flip_to_front, g_translate, gavel, get_app, gif, grade, grading, group_work, help, help_center, help_outline, highlight_alt, highlight_off, history, history_toggle_off, home, horizontal_split, hourglass_disabled, hourglass_empty, hourglass_full, http, https, important_devices, info, input, integration_instructions, invert_colors, label, label_important, label_off, language, launch, leaderboard, line_style, line_weight, list, lock, lock_open, login, loyalty, markunread_mailbox, maximize, mediation, minimize, model_training, next_plan, not_accessible, not_started, note_add, offline_bolt, offline_pin, online_prediction, opacity, open_in_browser, open_in_full, open_in_new, open_with, outbond, outlet, pageview, pan_tool, payment, pending, pending_actions, perm_camera_mic, perm_contact_calendar, perm_data_setting, perm_device_information, perm_identity, perm_media, perm_phone_msg, perm_scan_wifi, pets, picture_in_picture, picture_in_picture_alt, plagiarism, play_for_work, polymer, power_settings_new, pregnant_woman, preview, print, privacy_tip, published_with_changes, query_builder, question_answer, quickreply, receipt, record_voice_over, redeem, remove_shopping_cart, reorder, report_problem, request_page, restore, restore_from_trash, restore_page, room, rounded_corner, rowing, rule, schedule, search, search_off, settings, settings_applications, settings_backup_restore, settings_bluetooth, settings_brightness, settings_cell, settings_ethernet, settings_input_antenna, settings_input_component, settings_input_composite, settings_input_hdmi, settings_input_svideo, settings_overscan, settings_phone, settings_power, settings_remote, settings_voice, shop, shop_two, shopping_bag, shopping_basket, shopping_cart, smart_button, source, speaker_notes, speaker_notes_off, spellcheck, star_rate, stars, sticky_note_2, store, subject, subtitles_off, supervised_user_circle, supervisor_account, support, swap_horiz, swap_horizontal_circle, swap_vert, swap_vertical_circle, sync_alt, system_update_alt, tab, tab_unselected, table_view, text_rotate_up, text_rotate_vertical, text_rotation_angledown, text_rotation_angleup, text_rotation_down, text_rotation_none, theaters, thumb_down, thumb_up, thumbs_up_down, timeline, toc, today, toll, touch_app, tour, track_changes, translate, trending_down, trending_flat, trending_up, turned_in, turned_in_not, unpublished, update, update_disabled, upgrade, verified, verified_user, vertical_split, view_agenda, view_array, view_carousel, view_column, view_day, view_headline, view_list, view_module, view_quilt, view_sidebar, view_stream, view_week, visibility, visibility_off, voice_over_off, watch_later, wifi_protected_setup, work, work_off, work_outline, wysiwyg, youtube_searched_for, zoom_in, zoom_out
+@docs three_d_rotation, accessibility, accessibility_new, accessible, accessible_forward, account_balance, account_balance_wallet, account_box, account_circle, add_shopping_cart, add_task, add_to_drive, addchart, admin_panel_settings, alarm, alarm_add, alarm_off, alarm_on, all_inbox, all_out, analytics, anchor, android, announcement, api, app_blocking, arrow_circle_down, arrow_circle_up, arrow_right_alt, article, aspect_ratio, assessment, assignment, assignment_ind, assignment_late, assignment_return, assignment_returned, assignment_turned_in, autorenew, backup, backup_table, batch_prediction, book, book_online, bookmark, bookmark_add, bookmark_added, bookmark_border, bookmark_remove, bookmarks, bug_report, build, build_circle, cached, calendar_today, calendar_view_day, calendar_view_month, calendar_view_week, camera_enhance, cancel_schedule_send, card_giftcard, card_membership, card_travel, change_history, check_circle, check_circle_outline, chrome_reader_mode, circle_notifications, class, close_fullscreen, code, code_off, comment_bank, commute, compare_arrows, compress, contact_page, contact_support, contactless, copyright, credit_card, credit_card_off, dangerous, dashboard, dashboard_customize, date_range, delete, delete_forever, delete_outline, description, disabled_by_default, dns, done, done_all, done_outline, donut_large, donut_small, drag_indicator, dynamic_form, eco, edit_off, eject, euro_symbol, event, event_seat, exit_to_app, expand, explore, explore_off, extension, extension_off, face, fact_check, favorite, favorite_border, feedback, file_present, filter_alt, find_in_page, find_replace, fingerprint, fit_screen, flaky, flight_land, flight_takeoff, flip_to_back, flip_to_front, flutter_dash, g_translate, gavel, get_app, gif, grade, grading, group_work, help, help_center, help_outline, hide_source, highlight_alt, highlight_off, history, history_toggle_off, home, horizontal_split, hourglass_disabled, hourglass_empty, hourglass_full, http, https, important_devices, info, input, integration_instructions, invert_colors, label, label_important, label_off, language, launch, leaderboard, lightbulb, line_style, line_weight, list, lock, lock_clock, lock_open, login, logout, loyalty, manage_accounts, mark_as_unread, markunread_mailbox, maximize, mediation, minimize, model_training, next_plan, nightlight_round, no_accounts, not_accessible, not_started, note_add, offline_bolt, offline_pin, online_prediction, opacity, open_in_browser, open_in_full, open_in_new, open_in_new_off, open_with, outbound, outbox, outlet, pageview, paid, pan_tool, payment, pending, pending_actions, perm_camera_mic, perm_contact_calendar, perm_data_setting, perm_device_information, perm_identity, perm_media, perm_phone_msg, perm_scan_wifi, pets, picture_in_picture, picture_in_picture_alt, plagiarism, play_for_work, polymer, power_settings_new, pregnant_woman, preview, print, privacy_tip, production_quantity_limits, published_with_changes, query_builder, question_answer, quickreply, receipt, record_voice_over, redeem, remove_done, remove_shopping_cart, reorder, report_problem, request_page, restore, restore_from_trash, restore_page, room, rounded_corner, rowing, rule, saved_search, savings, schedule, schedule_send, search, search_off, segment, send_and_archive, sensors, sensors_off, settings, settings_accessibility, settings_applications, settings_backup_restore, settings_bluetooth, settings_brightness, settings_cell, settings_ethernet, settings_input_antenna, settings_input_component, settings_input_composite, settings_input_hdmi, settings_input_svideo, settings_overscan, settings_phone, settings_power, settings_remote, settings_voice, shop, shop_2, shop_two, shopping_bag, shopping_basket, shopping_cart, smart_button, source, speaker_notes, speaker_notes_off, spellcheck, star_rate, stars, sticky_note_2, store, subject, subtitles_off, supervised_user_circle, supervisor_account, support, swap_horiz, swap_horizontal_circle, swap_vert, swap_vertical_circle, swipe, sync_alt, system_update_alt, tab, tab_unselected, table_view, task_alt, text_rotate_up, text_rotate_vertical, text_rotation_angledown, text_rotation_angleup, text_rotation_down, text_rotation_none, theaters, thumb_down, thumb_down_off_alt, thumb_up, thumb_up_off_alt, thumbs_up_down, timeline, toc, today, toll, touch_app, tour, track_changes, translate, trending_down, trending_flat, trending_up, try, turned_in, turned_in_not, unpublished, update, update_disabled, upgrade, verified, verified_user, vertical_split, view_agenda, view_array, view_carousel, view_column, view_day, view_headline, view_in_ar, view_list, view_module, view_quilt, view_sidebar, view_stream, view_week, visibility, visibility_off, voice_over_off, watch_later, wifi_protected_setup, work, work_off, work_outline, wysiwyg, youtube_searched_for, zoom_in, zoom_out
 
 
 # Alert
 
-@docs add_alert, auto_delete, error, error_outline, notification_important, warning
+@docs add_alert, auto_delete, error, error_outline, notification_important, warning, warning_amber
 
 
 # Av
 
-@docs four_k, five_g, add_to_queue, airplay, album, art_track, av_timer, branding_watermark, call_to_action, closed_caption, closed_caption_disabled, control_camera, equalizer, explicit, fast_forward, fast_rewind, featured_play_list, featured_video, fiber_dvr, fiber_manual_record, fiber_new, fiber_pin, fiber_smart_record, forward_10, forward_30, forward_5, games, hd, hearing, hearing_disabled, high_quality, library_add, library_add_check, library_books, library_music, loop, mic, mic_none, mic_off, missed_video_call, movie, music_video, new_releases, not_interested, note, pause, pause_circle_filled, pause_circle_outline, play_arrow, play_circle_filled, play_circle_outline, playlist_add, playlist_add_check, playlist_play, queue, queue_music, queue_play_next, radio, recent_actors, remove_from_queue, repeat, repeat_one, replay, replay_10, replay_30, replay_5, shuffle, skip_next, skip_previous, slow_motion_video, snooze, sort_by_alpha, speed, stop, stop_circle, subscriptions, subtitles, surround_sound, video_call, video_label, video_library, video_settings, videocam, videocam_off, volume_down, volume_mute, volume_off, volume_up, web, web_asset
+@docs ten_k, one_k, one_k, two_k, two_k, three_k, three_k, four_k, four_k, five_g, five_k, five_k, six_k, six_k, seven_k, seven_k, eight_k, eight_k, nine_k, nine_k, add_to_queue, airplay, album, art_track, av_timer, branding_watermark, call_to_action, closed_caption, closed_caption_disabled, closed_caption_off, control_camera, equalizer, explicit, fast_forward, fast_rewind, featured_play_list, featured_video, fiber_dvr, fiber_manual_record, fiber_new, fiber_pin, fiber_smart_record, forward_10, forward_30, forward_5, games, hd, hearing, hearing_disabled, high_quality, library_add, library_add_check, library_books, library_music, loop, mic, mic_none, mic_off, missed_video_call, movie, music_video, new_releases, not_interested, note, pause, pause_circle, pause_circle_filled, pause_circle_outline, play_arrow, play_circle, play_circle_filled, play_circle_outline, play_disabled, playlist_add, playlist_add_check, playlist_play, queue, queue_music, queue_play_next, radio, recent_actors, remove_from_queue, repeat, repeat_on, repeat_one, repeat_one_on, replay, replay_10, replay_30, replay_5, replay_circle_filled, sd, shuffle, shuffle_on, skip_next, skip_previous, slow_motion_video, snooze, sort_by_alpha, speed, stop, stop_circle, subscriptions, subtitles, surround_sound, video_call, video_label, video_library, video_settings, videocam, videocam_off, volume_down, volume_mute, volume_off, volume_up, web, web_asset, web_asset_off
 
 
 # Communication
 
-@docs add_ic_call, alternate_email, business, call, call_end, call_made, call_merge, call_missed, call_missed_outgoing, call_received, call_split, cancel_presentation, chat, chat_bubble, chat_bubble_outline, clear_all, comment, contact_mail, contact_phone, contacts, desktop_access_disabled, dialer_sip, dialpad, domain_disabled, domain_verification, duo, email, forum, forward_to_inbox, hourglass_bottom, hourglass_top, import_contacts, import_export, invert_colors_off, list_alt, live_help, location_off, location_on, mail_outline, mark_chat_read, mark_chat_unread, mark_email_read, mark_email_unread, message, mobile_screen_share, more_time, nat, no_sim, pause_presentation, person_add_disabled, person_search, phone, phone_disabled, phone_enabled, phonelink_erase, phonelink_lock, phonelink_ring, phonelink_setup, portable_wifi_off, present_to_all, print_disabled, qr_code, qr_code_2, qr_code_scanner, read_more, ring_volume, rss_feed, screen_share, sentiment_satisfied_alt, speaker_phone, stay_current_landscape, stay_current_portrait, stay_primary_landscape, stay_primary_portrait, stop_screen_share, swap_calls, textsms, unsubscribe, voicemail, vpn_key, wifi_calling
+@docs three_p, add_ic_call, alternate_email, app_registration, business, call, call_end, call_made, call_merge, call_missed, call_missed_outgoing, call_received, call_split, cancel_presentation, cell_wifi, chat, chat_bubble, chat_bubble_outline, clear_all, comment, contact_mail, contact_phone, contacts, desktop_access_disabled, dialer_sip, dialpad, domain_disabled, domain_verification, duo, email, forum, forward_to_inbox, hourglass_bottom, hourglass_top, import_contacts, import_export, invert_colors_off, list_alt, live_help, location_off, location_on, mail_outline, mark_chat_read, mark_chat_unread, mark_email_read, mark_email_unread, message, mobile_screen_share, more_time, nat, no_sim, pause_presentation, person_add_disabled, person_search, phone, phone_disabled, phone_enabled, phonelink_erase, phonelink_lock, phonelink_ring, phonelink_setup, portable_wifi_off, present_to_all, print_disabled, qr_code, qr_code_2, qr_code_scanner, read_more, ring_volume, rss_feed, rtt, screen_share, sentiment_satisfied_alt, sip, speaker_phone, stay_current_landscape, stay_current_portrait, stay_primary_landscape, stay_primary_portrait, stop_screen_share, swap_calls, textsms, unsubscribe, voicemail, vpn_key, wifi_calling
 
 
 # Content
 
-@docs add, add_box, add_circle, add_circle_outline, amp_stories, archive, backspace, ballot, biotech, block, calculate, clear, content_copy, content_cut, content_paste, create, delete_sweep, drafts, dynamic_feed, file_copy, filter_list, flag, font_download, forward, gesture, how_to_reg, how_to_vote, inbox, insights, link, link_off, low_priority, mail, markunread, move_to_inbox, next_week, outlined_flag, policy, push_pin, redo, remove, remove_circle, remove_circle_outline, reply, reply_all, report, report_off, save, save_alt, select_all, send, sort, square_foot, text_format, unarchive, undo, waves, weekend, where_to_vote
+@docs add, add_box, add_circle, add_circle_outline, add_link, archive, attribution, backspace, ballot, biotech, block, bolt, calculate, change_circle, clear, content_copy, content_cut, content_paste, content_paste_off, copy_all, create, delete_sweep, drafts, dynamic_feed, file_copy, filter_list, flag, font_download, font_download_off, forward, gesture, how_to_reg, how_to_vote, inbox, insights, inventory, inventory_2, link, link_off, low_priority, mail, markunread, move_to_inbox, next_week, outlined_flag, policy, push_pin, redo, remove, remove_circle, remove_circle_outline, reply, reply_all, report, report_gmailerrorred, report_off, save, save_alt, select_all, send, shield, sort, square_foot, stacked_bar_chart, stream, tag, text_format, unarchive, undo, upcoming, waves, weekend, where_to_vote
 
 
 # Device
 
-@docs access_alarm, access_alarms, access_time, ad_units, add_alarm, add_to_home_screen, airplanemode_active, airplanemode_inactive, battery_alert, battery_charging_full, battery_full, battery_std, battery_unknown, bluetooth, bluetooth_connected, bluetooth_disabled, bluetooth_searching, brightness_auto, brightness_high, brightness_low, brightness_medium, data_usage, developer_mode, devices, dvr, gps_fixed, gps_not_fixed, gps_off, graphic_eq, location_disabled, location_searching, mobile_friendly, mobile_off, nfc, screen_lock_landscape, screen_lock_portrait, screen_lock_rotation, screen_rotation, sd_storage, settings_system_daydream, signal_cellular_4_bar, signal_cellular_alt, signal_cellular_connected_no_internet_4_bar, signal_cellular_no_sim, signal_cellular_null, signal_cellular_off, signal_wifi_4_bar, signal_wifi_4_bar_lock, signal_wifi_off, storage, usb, wallpaper, widgets, wifi_lock, wifi_tethering
+@docs one_x_mobiledata, thirty_fps, three_g_mobiledata, four_g_mobiledata, four_g_plus_mobiledata, sixty_fps, access_alarm, access_alarms, access_time, access_time_filled, ad_units, add_alarm, add_to_home_screen, air, airplane_ticket, airplanemode_active, airplanemode_inactive, aod, battery_alert, battery_charging_full, battery_full, battery_saver, battery_std, battery_unknown, bloodtype, bluetooth, bluetooth_connected, bluetooth_disabled, bluetooth_drive, bluetooth_searching, brightness_auto, brightness_high, brightness_low, brightness_medium, cable, cameraswitch, credit_score, dark_mode, data_saver_off, data_saver_on, data_usage, developer_mode, device_thermostat, devices, do_not_disturb_on_total_silence, dvr, e_mobiledata, edgesensor_high, edgesensor_low, flashlight_off, flashlight_on, flourescent, fmd_bad, fmd_good, g_mobiledata, gpp_bad, gpp_good, gpp_maybe, gps_fixed, gps_not_fixed, gps_off, graphic_eq, grid_3x3, grid_4x4, grid_goldenratio, h_mobiledata, h_plus_mobiledata, hdr_auto, hdr_auto_select, hdr_off_select, hdr_on_select, lens_blur, light_mode, location_disabled, location_searching, lte_mobiledata, lte_plus_mobiledata, media_bluetooth_off, media_bluetooth_on, medication, mobile_friendly, mobile_off, mobiledata_off, mode_night, mode_standby, monitor_weight, nearby_error, nearby_off, network_cell, network_wifi, nfc, nightlight, note_alt, password, pattern, pin, play_lesson, price_change, price_check, quiz, r_mobiledata, radar, remember_me, reset_tv, restart_alt, reviews, rsvp, screen_lock_landscape, screen_lock_portrait, screen_lock_rotation, screen_rotation, screen_search_desktop, screenshot, sd_storage, security_update, security_update_good, security_update_warning, sell, send_to_mobile, settings_suggest, settings_system_daydream, share_location, shortcut, signal_cellular_0_bar, signal_cellular_4_bar, signal_cellular_alt, signal_cellular_connected_no_internet_0_bar, signal_cellular_connected_no_internet_4_bar, signal_cellular_no_sim, signal_cellular_nodata, signal_cellular_null, signal_cellular_off, signal_wifi_0_bar, signal_wifi_4_bar, signal_wifi_4_bar_lock, signal_wifi_bad, signal_wifi_connected_no_internet_4, signal_wifi_off, signal_wifi_statusbar_4_bar, signal_wifi_statusbar_connected_no_internet_4, signal_wifi_statusbar_null, sim_card_download, splitscreen, sports_score, storage, storm, summarize, system_security_update, system_security_update_good, system_security_update_warning, task, thermostat, timer_10_select, timer_3_select, tungsten, usb, usb_off, wallpaper, water, widgets, wifi_calling_3, wifi_lock, wifi_tethering, wifi_tethering_error_rounded, wifi_tethering_off
 
 
 # Editor
 
-@docs add_comment, align_horizontal_center, align_horizontal_left, align_horizontal_right, align_vertical_bottom, align_vertical_center, align_vertical_top, attach_file, attach_money, bar_chart, border_all, border_bottom, border_clear, border_horizontal, border_inner, border_left, border_outer, border_right, border_style, border_top, border_vertical, bubble_chart, drag_handle, format_align_center, format_align_justify, format_align_left, format_align_right, format_bold, format_clear, format_color_reset, format_indent_decrease, format_indent_increase, format_italic, format_line_spacing, format_list_bulleted, format_list_numbered, format_list_numbered_rtl, format_paint, format_quote, format_shapes, format_size, format_strikethrough, format_textdirection_l_to_r, format_textdirection_r_to_l, format_underlined, functions, height, highlight, horizontal_distribute, horizontal_rule, insert_chart, insert_chart_outlined, insert_comment, insert_drive_file, insert_emoticon, insert_invitation, insert_link, insert_photo, linear_scale, merge_type, mode_comment, monetization_on, money_off, multiline_chart, notes, pie_chart, post_add, publish, scatter_plot, score, short_text, show_chart, space_bar, stacked_line_chart, strikethrough_s, subscript, superscript, table_chart, table_rows, text_fields, title, vertical_align_bottom, vertical_align_center, vertical_align_top, vertical_distribute, wrap_text
+@docs add_chart, add_comment, align_horizontal_center, align_horizontal_left, align_horizontal_right, align_vertical_bottom, align_vertical_center, align_vertical_top, attach_file, attach_money, auto_graph, bar_chart, border_all, border_bottom, border_clear, border_color, border_horizontal, border_inner, border_left, border_outer, border_right, border_style, border_top, border_vertical, bubble_chart, drag_handle, format_align_center, format_align_justify, format_align_left, format_align_right, format_bold, format_clear, format_color_fill, format_color_reset, format_color_text, format_indent_decrease, format_indent_increase, format_italic, format_line_spacing, format_list_bulleted, format_list_numbered, format_list_numbered_rtl, format_paint, format_quote, format_shapes, format_size, format_strikethrough, format_textdirection_l_to_r, format_textdirection_r_to_l, format_underlined, functions, height, highlight, horizontal_distribute, horizontal_rule, insert_chart, insert_chart_outlined, insert_comment, insert_drive_file, insert_emoticon, insert_invitation, insert_link, insert_photo, linear_scale, margin, merge_type, mode, mode_comment, mode_edit, mode_edit_outline, monetization_on, money_off, money_off_csred, multiline_chart, notes, padding, pie_chart, pie_chart_outline, post_add, publish, query_stats, scatter_plot, schema, score, short_text, show_chart, space_bar, stacked_line_chart, strikethrough_s, subscript, superscript, table_chart, table_rows, text_fields, title, vertical_align_bottom, vertical_align_center, vertical_align_top, vertical_distribute, wrap_text
 
 
 # File
 
-@docs attach_email, attachment, cloud, cloud_circle, cloud_done, cloud_download, cloud_off, cloud_queue, cloud_upload, create_new_folder, folder, folder_open, folder_shared, request_quote, rule_folder, snippet_folder, text_snippet, topic
+@docs approval, attach_email, attachment, cloud, cloud_circle, cloud_done, cloud_download, cloud_off, cloud_queue, cloud_upload, create_new_folder, download, download_done, download_for_offline, downloading, drive_file_move, drive_file_rename_outline, drive_folder_upload, file_download, file_download_done, file_download_off, file_upload, folder, folder_open, folder_shared, grid_view, request_quote, rule_folder, snippet_folder, text_snippet, topic, upload, upload_file, workspaces
 
 
 # Hardware
 
-@docs browser_not_supported, cast, cast_connected, cast_for_education, computer, desktop_mac, desktop_windows, developer_board, device_hub, device_unknown, devices_other, dock, gamepad, headset, headset_mic, keyboard, keyboard_arrow_down, keyboard_arrow_left, keyboard_arrow_right, keyboard_arrow_up, keyboard_backspace, keyboard_capslock, keyboard_hide, keyboard_return, keyboard_tab, keyboard_voice, laptop, laptop_chromebook, laptop_mac, laptop_windows, memory, mouse, phone_android, phone_iphone, phonelink, phonelink_off, point_of_sale, power_input, router, scanner, security, sim_card, smartphone, speaker, speaker_group, tablet, tablet_android, tablet_mac, toys, tv, videogame_asset, watch
+@docs browser_not_supported, cast, cast_connected, cast_for_education, computer, connected_tv, desktop_mac, desktop_windows, developer_board, developer_board_off, device_hub, device_unknown, devices_other, dock, earbuds, earbuds_battery, gamepad, headphones, headphones_battery, headset, headset_mic, headset_off, home_max, home_mini, keyboard, keyboard_alt, keyboard_arrow_down, keyboard_arrow_left, keyboard_arrow_right, keyboard_arrow_up, keyboard_backspace, keyboard_capslock, keyboard_hide, keyboard_return, keyboard_tab, keyboard_voice, laptop, laptop_chromebook, laptop_mac, laptop_windows, memory, monitor, mouse, phone_android, phone_iphone, phonelink, phonelink_off, point_of_sale, power_input, router, scanner, security, sim_card, smart_display, smart_screen, smart_toy, smartphone, speaker, speaker_group, tablet, tablet_android, tablet_mac, toys, tv, videogame_asset, videogame_asset_off, watch
 
 
 # Home
@@ -73,37 +74,42 @@ module Material.Icons.Sharp exposing
 
 # Image
 
-@docs add_a_photo, add_photo_alternate, add_to_photos, adjust, assistant, assistant_photo, audiotrack, bedtime, blur_circular, blur_linear, blur_off, blur_on, brightness_1, brightness_2, brightness_3, brightness_4, brightness_5, brightness_6, brightness_7, broken_image, brush, burst_mode, camera, camera_alt, camera_front, camera_rear, camera_roll, center_focus_strong, center_focus_weak, collections, collections_bookmark, color_lens, colorize, compare, control_point, control_point_duplicate, crop, crop_16_9, crop_3_2, crop_5_4, crop_7_5, crop_din, crop_free, crop_landscape, crop_original, crop_portrait, crop_rotate, crop_square, dehaze, details, edit, euro, exposure, exposure_neg_1, exposure_neg_2, exposure_plus_1, exposure_plus_2, exposure_zero, filter, filter_1, filter_2, filter_3, filter_4, filter_5, filter_6, filter_7, filter_8, filter_9, filter_9_plus, filter_b_and_w, filter_center_focus, filter_drama, filter_frames, filter_hdr, filter_none, filter_tilt_shift, filter_vintage, flare, flash_auto, flash_off, flash_on, flip, flip_camera_android, flip_camera_ios, gradient, grain, grid_off, grid_on, hdr_off, hdr_on, hdr_strong, hdr_weak, healing, image, image_aspect_ratio, image_not_supported, image_search, iso, landscape, leak_add, leak_remove, lens, linked_camera, looks, looks_3, looks_4, looks_5, looks_6, looks_one, looks_two, loupe, monochrome_photos, motion_photos_on, motion_photos_pause, motion_photos_paused, movie_creation, movie_filter, music_note, music_off, nature, nature_people, navigate_before, navigate_next, palette, panorama, panorama_fish_eye, panorama_horizontal, panorama_vertical, panorama_wide_angle, photo, photo_album, photo_camera, photo_filter, photo_library, photo_size_select_actual, photo_size_select_large, photo_size_select_small, picture_as_pdf, portrait, receipt_long, remove_red_eye, rotate_90_degrees_ccw, rotate_left, rotate_right, shutter_speed, slideshow, straighten, style, switch_camera, switch_video, tag_faces, texture, timelapse, timer, timer_10, timer_3, timer_off, tonality, transform, tune, view_comfy, view_compact, vignette, wb_auto, wb_cloudy, wb_incandescent, wb_iridescent, wb_sunny
+@docs ten_mp, eleven_mp, twelve_mp, thirteen_mp, fourteen_mp, fifteen_mp, sixteen_mp, seventeen_mp, eighteen_mp, nineteen_mp, twenty_mp, twenty_one_mp, twenty_two_mp, twenty_three_mp, twenty_four_mp, two_mp, thirty_fps_select, three_mp, four_mp, five_mp, sixty_fps_select, six_mp, seven_mp, eight_mp, nine_mp, add_a_photo, add_photo_alternate, add_to_photos, adjust, animation, assistant, assistant_photo, audiotrack, auto_awesome, auto_awesome_mosaic, auto_awesome_motion, auto_fix_high, auto_fix_normal, auto_fix_off, auto_stories, autofps_select, bedtime, blur_circular, blur_linear, blur_off, blur_on, brightness_1, brightness_2, brightness_3, brightness_4, brightness_5, brightness_6, brightness_7, broken_image, brush, burst_mode, camera, camera_alt, camera_front, camera_rear, camera_roll, cases, center_focus_strong, center_focus_weak, circle, collections, collections_bookmark, color_lens, colorize, compare, control_point, control_point_duplicate, crop, crop_16_9, crop_3_2, crop_5_4, crop_7_5, crop_din, crop_free, crop_landscape, crop_original, crop_portrait, crop_rotate, crop_square, dehaze, details, dirty_lens, edit, euro, exposure, exposure_neg_1, exposure_neg_2, exposure_plus_1, exposure_plus_2, exposure_zero, face_retouching_natural, face_retouching_off, filter, filter_1, filter_2, filter_3, filter_4, filter_5, filter_6, filter_7, filter_8, filter_9, filter_9_plus, filter_b_and_w, filter_center_focus, filter_drama, filter_frames, filter_hdr, filter_none, filter_tilt_shift, filter_vintage, flare, flash_auto, flash_off, flash_on, flip, flip_camera_android, flip_camera_ios, gradient, grain, grid_off, grid_on, hdr_enhanced_select, hdr_off, hdr_on, hdr_plus, hdr_strong, hdr_weak, healing, hevc, hide_image, image, image_aspect_ratio, image_not_supported, image_search, iso, landscape, leak_add, leak_remove, lens, linked_camera, looks, looks_3, looks_4, looks_5, looks_6, looks_one, looks_two, loupe, mic_external_off, mic_external_on, monochrome_photos, motion_photos_auto, motion_photos_off, motion_photos_on, motion_photos_pause, motion_photos_paused, movie_creation, movie_filter, mp, music_note, music_off, nature, nature_people, navigate_before, navigate_next, palette, panorama, panorama_fish_eye, panorama_horizontal, panorama_horizontal_select, panorama_photosphere, panorama_photosphere_select, panorama_vertical, panorama_vertical_select, panorama_wide_angle, panorama_wide_angle_select, photo, photo_album, photo_camera, photo_camera_back, photo_camera_front, photo_filter, photo_library, photo_size_select_actual, photo_size_select_large, photo_size_select_small, picture_as_pdf, portrait, raw_off, raw_on, receipt_long, remove_red_eye, rotate_90_degrees_ccw, rotate_left, rotate_right, shutter_speed, slideshow, straighten, style, switch_camera, switch_video, tag_faces, texture, thermostat_auto, timelapse, timer, timer_10, timer_3, timer_off, tonality, transform, tune, video_camera_back, video_camera_front, video_stable, view_comfy, view_compact, vignette, vrpano, wb_auto, wb_cloudy, wb_incandescent, wb_iridescent, wb_shade, wb_sunny, wb_twilight
 
 
 # Maps
 
-@docs three_sixty, add_business, add_location, add_location_alt, add_road, agriculture, alt_route, atm, beenhere, bike_scooter, category, cleaning_services, compass_calibration, departure_board, design_services, directions, directions_bike, directions_boat, directions_bus, directions_car, directions_railway, directions_run, directions_subway, directions_transit, directions_walk, edit_attributes, edit_location, edit_road, electric_bike, electric_car, electric_moped, electric_scooter, electrical_services, ev_station, fastfood, flight, handyman, home_repair_service, hotel, hvac, layers, layers_clear, local_activity, local_airport, local_atm, local_bar, local_cafe, local_car_wash, local_convenience_store, local_dining, local_drink, local_fire_department, local_florist, local_gas_station, local_grocery_store, local_hospital, local_hotel, local_laundry_service, local_library, local_mall, local_movies, local_offer, local_parking, local_pharmacy, local_phone, local_pizza, local_play, local_police, local_post_office, local_printshop, local_see, local_shipping, local_taxi, map, maps_ugc, medical_services, menu_book, miscellaneous_services, money, moped, multiple_stop, museum, my_location, navigation, near_me, near_me_disabled, no_meals, no_transfer, not_listed_location, pedal_bike, person_pin, person_pin_circle, pest_control, pest_control_rodent, pin_drop, place, plumbing, rate_review, restaurant, restaurant_menu, run_circle, satellite, set_meal, store_mall_directory, streetview, subway, terrain, traffic, train, tram, transfer_within_a_station, transit_enterexit, trip_origin, two_wheeler, wine_bar, wrong_location, zoom_out_map
+@docs three_sixty, add_business, add_location, add_location_alt, add_road, agriculture, alt_route, atm, attractions, badge, bakery_dining, beenhere, bike_scooter, breakfast_dining, brunch_dining, bus_alert, car_rental, car_repair, category, celebration, cleaning_services, compass_calibration, delivery_dining, departure_board, design_services, dinner_dining, directions, directions_bike, directions_boat, directions_boat_filled, directions_bus, directions_bus_filled, directions_car, directions_car_filled, directions_railway, directions_railway_filled, directions_run, directions_subway, directions_subway_filled, directions_transit, directions_transit_filled, directions_walk, dry_cleaning, edit_attributes, edit_location, edit_location_alt, edit_road, electric_bike, electric_car, electric_moped, electric_rickshaw, electric_scooter, electrical_services, ev_station, fastfood, festival, flight, hail, handyman, hardware, home_repair_service, hotel, hvac, icecream, layers, layers_clear, liquor, local_activity, local_airport, local_atm, local_bar, local_cafe, local_car_wash, local_convenience_store, local_dining, local_drink, local_fire_department, local_florist, local_gas_station, local_grocery_store, local_hospital, local_hotel, local_laundry_service, local_library, local_mall, local_movies, local_offer, local_parking, local_pharmacy, local_phone, local_pizza, local_play, local_police, local_post_office, local_printshop, local_see, local_shipping, local_taxi, lunch_dining, map, maps_ugc, medical_services, menu_book, miscellaneous_services, money, moped, moving, multiple_stop, museum, my_location, navigation, near_me, near_me_disabled, nightlife, no_meals, no_transfer, not_listed_location, park, pedal_bike, person_pin, person_pin_circle, pest_control, pest_control_rodent, pin_drop, place, plumbing, railway_alert, ramen_dining, rate_review, restaurant, restaurant_menu, run_circle, sailing, satellite, set_meal, snowmobile, store_mall_directory, streetview, subway, takeout_dining, taxi_alert, terrain, theater_comedy, traffic, train, tram, transfer_within_a_station, transit_enterexit, trip_origin, two_wheeler, volunteer_activism, wine_bar, wrong_location, zoom_out_map
 
 
 # Navigation
 
-@docs app_settings_alt, apps, arrow_back, arrow_back_ios, arrow_downward, arrow_drop_down, arrow_drop_down_circle, arrow_drop_up, arrow_forward, arrow_forward_ios, arrow_left, arrow_right, arrow_upward, campaign, cancel, check, chevron_left, chevron_right, close, double_arrow, east, expand_less, expand_more, first_page, fullscreen, fullscreen_exit, home_work, last_page, legend_toggle, menu, menu_open, more_horiz, more_vert, north, north_east, north_west, payments, refresh, south, south_east, south_west, subdirectory_arrow_left, subdirectory_arrow_right, switch_left, switch_right, unfold_less, unfold_more, west
+@docs app_settings_alt, apps, arrow_back, arrow_back_ios, arrow_back_ios_new, arrow_downward, arrow_drop_down, arrow_drop_down_circle, arrow_drop_up, arrow_forward, arrow_forward_ios, arrow_left, arrow_right, arrow_upward, assistant_direction, campaign, cancel, check, chevron_left, chevron_right, close, double_arrow, east, expand_less, expand_more, first_page, fullscreen, fullscreen_exit, home_work, last_page, legend_toggle, maps_home_work, menu, menu_open, more_horiz, more_vert, north, north_east, north_west, offline_share, payments, pivot_table_chart, refresh, south, south_east, south_west, subdirectory_arrow_left, subdirectory_arrow_right, switch_left, switch_right, unfold_less, unfold_more, waterfall_chart, west
 
 
 # Notification
 
-@docs account_tree, adb, airline_seat_flat, airline_seat_flat_angled, airline_seat_individual_suite, airline_seat_legroom_extra, airline_seat_legroom_normal, airline_seat_legroom_reduced, airline_seat_recline_extra, airline_seat_recline_normal, bluetooth_audio, confirmation_number, directions_off, disc_full, drive_eta, enhanced_encryption, event_available, event_busy, event_note, folder_special, live_tv, mms, more, network_check, network_locked, no_encryption, ondemand_video, personal_video, phone_bluetooth_speaker, phone_callback, phone_forwarded, phone_in_talk, phone_locked, phone_missed, phone_paused, power, power_off, priority_high, sd_card, sms, sms_failed, support_agent, sync, sync_disabled, sync_problem, system_update, tap_and_play, time_to_leave, tv_off, vibration, voice_chat, vpn_lock, wc, wifi, wifi_off
+@docs account_tree, adb, airline_seat_flat, airline_seat_flat_angled, airline_seat_individual_suite, airline_seat_legroom_extra, airline_seat_legroom_normal, airline_seat_legroom_reduced, airline_seat_recline_extra, airline_seat_recline_normal, bluetooth_audio, confirmation_number, directions_off, disc_full, do_disturb, do_disturb_alt, do_disturb_off, do_disturb_on, do_not_disturb, do_not_disturb_alt, do_not_disturb_off, do_not_disturb_on, drive_eta, enhanced_encryption, event_available, event_busy, event_note, folder_special, imagesearch_roller, live_tv, mms, more, network_check, network_locked, no_encryption, no_encryption_gmailerrorred, ondemand_video, personal_video, phone_bluetooth_speaker, phone_callback, phone_forwarded, phone_in_talk, phone_locked, phone_missed, phone_paused, power, power_off, priority_high, running_with_errors, sd_card, sd_card_alert, sim_card_alert, sms, sms_failed, support_agent, sync, sync_disabled, sync_problem, system_update, tap_and_play, time_to_leave, tv_off, vibration, voice_chat, vpn_lock, wc, wifi, wifi_off
 
 
 # Places
 
-@docs ac_unit, airport_shuttle, all_inclusive, apartment, baby_changing_station, backpack, bathtub, beach_access, bento, business_center, carpenter, casino, charging_station, checkroom, child_care, child_friendly, corporate_fare, countertops, do_not_step, do_not_touch, dry, elevator, escalator, escalator_warning, family_restroom, fence, fire_extinguisher, fitness_center, food_bank, foundation, free_breakfast, golf_course, grass, hot_tub, house, house_siding, kitchen, meeting_room, microwave, night_shelter, no_backpack, no_cell, no_drinks, no_flash, no_food, no_meeting_room, no_photography, no_stroller, pool, rice_bowl, roofing, room_preferences, room_service, rv_hookup, smoke_free, smoking_rooms, soap, spa, sports_bar, stairs, storefront, stroller, tapas, tty, umbrella, wash, water_damage, wheelchair_pickup
+@docs ac_unit, airport_shuttle, all_inclusive, apartment, baby_changing_station, backpack, balcony, bathtub, beach_access, bento, bungalow, business_center, cabin, carpenter, casino, chalet, charging_station, checkroom, child_care, child_friendly, corporate_fare, cottage, countertops, crib, do_not_step, do_not_touch, dry, elevator, escalator, escalator_warning, family_restroom, fence, fire_extinguisher, fitness_center, food_bank, foundation, free_breakfast, gite, golf_course, grass, holiday_village, hot_tub, house, house_siding, houseboat, iron, kitchen, meeting_room, microwave, night_shelter, no_backpack, no_cell, no_drinks, no_flash, no_food, no_meeting_room, no_photography, no_stroller, other_houses, pool, rice_bowl, roofing, room_preferences, room_service, rv_hookup, smoke_free, smoking_rooms, soap, spa, sports_bar, stairs, storefront, stroller, tapas, tty, umbrella, villa, wash, water_damage, wheelchair_pickup
+
+
+# Search
+
+@docs bathroom, bed, bedroom_baby, bedroom_child, bedroom_parent, blender, camera_indoor, camera_outdoor, chair, chair_alt, coffee, coffee_maker, dining, door_back, door_front, door_sliding, doorbell, feed, flatware, garage, light, living, manage_search, podcasts, shower, window, yard
 
 
 # Social
 
-@docs six_ft_apart, architecture, cake, clean_hands, connect_without_contact, construction, coronavirus, deck, domain, elderly, emoji_emotions, emoji_events, emoji_flags, emoji_food_beverage, emoji_nature, emoji_objects, emoji_people, emoji_symbols, emoji_transportation, engineering, facebook, fireplace, follow_the_signs, group, group_add, groups, history_edu, king_bed, location_city, luggage, masks, military_tech, mood, mood_bad, nights_stay, no_luggage, notifications, notifications_active, notifications_none, notifications_off, notifications_paused, outdoor_grill, pages, party_mode, people, people_alt, people_outline, person, person_add, person_add_alt_1, person_outline, person_remove, person_remove_alt_1, plus_one, poll, psychology, public, public_off, reduce_capacity, sanitizer, school, science, self_improvement, sentiment_dissatisfied, sentiment_satisfied, sentiment_very_dissatisfied, sentiment_very_satisfied, share, sick, single_bed, sports, sports_baseball, sports_basketball, sports_cricket, sports_esports, sports_football, sports_golf, sports_handball, sports_hockey, sports_kabaddi, sports_mma, sports_motorsports, sports_rugby, sports_soccer, sports_tennis, sports_volleyball, thumb_down_alt, thumb_up_alt, whatshot
+@docs six_ft_apart, add_moderator, add_reaction, architecture, cake, catching_pokemon, clean_hands, connect_without_contact, construction, coronavirus, deck, domain, downhill_skiing, edit_notifications, elderly, emoji_emotions, emoji_events, emoji_flags, emoji_food_beverage, emoji_nature, emoji_objects, emoji_people, emoji_symbols, emoji_transportation, engineering, facebook, female, fireplace, follow_the_signs, group, group_add, groups, health_and_safety, hiking, history_edu, ice_skating, ios_share, kayaking, king_bed, kitesurfing, location_city, luggage, male, masks, military_tech, mood, mood_bad, nights_stay, no_luggage, nordic_walking, notification_add, notifications, notifications_active, notifications_none, notifications_off, notifications_paused, outdoor_grill, pages, paragliding, party_mode, people, people_alt, people_outline, person, person_add, person_add_alt, person_add_alt_1, person_off, person_outline, person_remove, person_remove_alt_1, piano, piano_off, plus_one, poll, precision_manufacturing, psychology, public, public_off, recommend, reduce_capacity, remove_moderator, safety_divider, sanitizer, school, science, self_improvement, sentiment_dissatisfied, sentiment_neutral, sentiment_satisfied, sentiment_very_dissatisfied, sentiment_very_satisfied, share, sick, single_bed, skateboarding, sledding, snowboarding, snowshoeing, social_distance, sports, sports_baseball, sports_basketball, sports_cricket, sports_esports, sports_football, sports_golf, sports_handball, sports_hockey, sports_kabaddi, sports_mma, sports_motorsports, sports_rugby, sports_soccer, sports_tennis, sports_volleyball, surfing, switch_account, thumb_down_alt, thumb_up_alt, transgender, travel_explore, whatshot
 
 
 # Toggle
 
-@docs check_box, check_box_outline_blank, indeterminate_check_box, radio_button_checked, radio_button_unchecked, star, star_border, star_half, star_outline, toggle_off, toggle_on
+@docs check_box, check_box_outline_blank, indeterminate_check_box, radio_button_checked, radio_button_unchecked, star, star_border, star_border_purple500, star_half, star_outline, star_purple500, toggle_off, toggle_on
 
 -}
 
@@ -121,6 +127,603 @@ o =
 t : String -> Svg.Attribute msg
 t =
     A.transform
+
+
+{-| -}
+ten_k : Icon msg
+ten_k =
+    icon
+        [ enableBackground "new 0 0 24 24", viewBox "0 0 24 24" ]
+        [ g
+            []
+            [ rect
+                [ fill "none" ]
+                []
+            ]
+        , g
+            []
+            [ path
+                [ d "M10,10.5h1.5v3H10V10.5z M21,3H3v18h18V3z M7.5,15H6v-4.5H4.5V9h3V15z M13,9v6H8.5V9H13z M19,15h-1.75l-1.75-2.25V15H14V9 h1.5v2.25L17.25,9H19l-2.25,3L19,15z" ]
+                []
+            ]
+        ]
+
+
+{-| -}
+ten_mp : Icon msg
+ten_mp =
+    icon
+        [ enableBackground "new 0 0 24 24", viewBox "0 0 24 24" ]
+        [ g
+            []
+            [ rect
+                [ fill "none" ]
+                []
+            ]
+        , g
+            []
+            [ g
+                []
+                [ path
+                    [ d "M13.5,7H15v3h-1.5V7z M21,3H3v18h18V3z M12.5,18.5H11V14h-1v3H8.5v-3h-1v4.5H6v-6h6.5V18.5z M15,18.5h-1.5v-6H18V17h-3 V18.5z M10,5.5v6H8.5V7H7V5.5H10z M16.5,5.5v6H12v-6H16.5z M15,14h1.5v1.5H15V14z" ]
+                    []
+                ]
+            ]
+        ]
+
+
+{-| -}
+eleven_mp : Icon msg
+eleven_mp =
+    icon
+        [ enableBackground "new 0 0 24 24", viewBox "0 0 24 24" ]
+        [ g
+            []
+            [ rect
+                [ fill "none" ]
+                []
+            ]
+        , g
+            []
+            [ g
+                []
+                [ path
+                    [ d "M3,3v18h18V3H3z M8,5.5h3v6H9.5V7H8V5.5z M12.5,18.5H11V14h-1v3H8.5v-3h-1v4.5H6v-6h6.5V18.5z M13,5.5h3v6h-1.5V7H13V5.5z M18,17h-3v1.5h-1.5v-6H18V17z" ]
+                    []
+                , rect
+                    []
+                    []
+                ]
+            ]
+        ]
+
+
+{-| -}
+twelve_mp : Icon msg
+twelve_mp =
+    icon
+        [ enableBackground "new 0 0 24 24", viewBox "0 0 24 24" ]
+        [ g
+            []
+            [ rect
+                [ fill "none" ]
+                []
+            ]
+        , g
+            []
+            [ g
+                []
+                [ path
+                    [ d "M3,3v18h18V3H3z M12,8h3V7h-3V5.5h4.5V9h-3v1h3v1.5H12V8z M7,5.5h3v6H8.5V7H7V5.5z M12.5,18.5H11V14h-1v3H8.5v-3h-1v4.5H6 v-6h6.5V18.5z M18,17h-3v1.5h-1.5v-6H18V17z" ]
+                    []
+                , rect
+                    []
+                    []
+                ]
+            ]
+        ]
+
+
+{-| -}
+thirteen_mp : Icon msg
+thirteen_mp =
+    icon
+        [ enableBackground "new 0 0 24 24", viewBox "0 0 24 24" ]
+        [ g
+            []
+            [ rect
+                [ fill "none" ]
+                []
+            ]
+        , g
+            []
+            [ g
+                []
+                [ rect
+                    []
+                    []
+                , path
+                    [ d "M3,3v18h18V3H3z M12,10h3V9h-2V8h2V7h-3V5.5h4.5v6H12V10z M7,5.5h3v6H8.5V7H7V5.5z M12.5,18.5H11V14h-1v3H8.5v-3h-1v4.5H6 v-6h6.5V18.5z M18,17h-3v1.5h-1.5v-6H18V17z" ]
+                    []
+                ]
+            ]
+        ]
+
+
+{-| -}
+fourteen_mp : Icon msg
+fourteen_mp =
+    icon
+        [ enableBackground "new 0 0 24 24", viewBox "0 0 24 24" ]
+        [ g
+            []
+            [ rect
+                [ fill "none" ]
+                []
+            ]
+        , g
+            []
+            [ g
+                []
+                [ rect
+                    []
+                    []
+                , path
+                    [ d "M3,3v18h18V3H3z M12,5.5h1.5v3H15v-3h1.5v3h1V10h-1v1.5H15V10h-3V5.5z M7,5.5h3v6H8.5V7H7V5.5z M12.5,18.5H11V14h-1v3H8.5 v-3h-1v4.5H6v-6h6.5V18.5z M18,17h-3v1.5h-1.5v-6H18V17z" ]
+                    []
+                ]
+            ]
+        ]
+
+
+{-| -}
+fifteen_mp : Icon msg
+fifteen_mp =
+    icon
+        [ enableBackground "new 0 0 24 24", viewBox "0 0 24 24" ]
+        [ g
+            []
+            [ rect
+                [ fill "none" ]
+                []
+            ]
+        , g
+            []
+            [ g
+                []
+                [ rect
+                    []
+                    []
+                , path
+                    [ d "M3,3v18h18V3H3z M12,10h3V9h-3V5.5h4.5V7h-3v1h3v3.5H12V10z M7,5.5h3v6H8.5V7H7V5.5z M12.5,18.5H11V14h-1v3H8.5v-3h-1v4.5 H6v-6h6.5V18.5z M18,17h-3v1.5h-1.5v-6H18V17z" ]
+                    []
+                ]
+            ]
+        ]
+
+
+{-| -}
+sixteen_mp : Icon msg
+sixteen_mp =
+    icon
+        [ enableBackground "new 0 0 24 24", viewBox "0 0 24 24" ]
+        [ g
+            []
+            [ rect
+                [ fill "none" ]
+                []
+            ]
+        , g
+            []
+            [ g
+                []
+                [ rect
+                    []
+                    []
+                , path
+                    [ d "M3,3v18h18V3H3z M12,5.5h4.5V7h-3v1h3v3.5H12V5.5z M7,5.5h3v6H8.5V7H7V5.5z M12.5,18.5H11V14h-1v3H8.5v-3h-1v4.5H6v-6h6.5 V18.5z M18,17h-3v1.5h-1.5v-6H18V17z" ]
+                    []
+                , rect
+                    []
+                    []
+                ]
+            ]
+        ]
+
+
+{-| -}
+seventeen_mp : Icon msg
+seventeen_mp =
+    icon
+        [ enableBackground "new 0 0 24 24", viewBox "0 0 24 24" ]
+        [ g
+            []
+            [ rect
+                [ fill "none" ]
+                []
+            ]
+        , g
+            []
+            [ g
+                []
+                [ path
+                    [ d "M3,3v18h18V3H3z M7,5.5h3v6H8.5V7H7V5.5z M12.5,18.5H11V14h-1v3H8.5v-3h-1v4.5H6v-6h6.5V18.5z M12,7V5.5h4.87l-1.87,6 h-1.75L14.62,7H12z M18,17h-3v1.5h-1.5v-6H18V17z" ]
+                    []
+                , rect
+                    []
+                    []
+                ]
+            ]
+        ]
+
+
+{-| -}
+eighteen_mp : Icon msg
+eighteen_mp =
+    icon
+        [ enableBackground "new 0 0 24 24", viewBox "0 0 24 24" ]
+        [ g
+            []
+            [ rect
+                [ fill "none" ]
+                []
+            ]
+        , g
+            []
+            [ g
+                []
+                [ rect
+                    []
+                    []
+                , rect
+                    []
+                    []
+                , path
+                    [ d "M3,3v18h18V3H3z M12,5.5h4.5v6H12V5.5z M7,5.5h3v6H8.5V7H7V5.5z M12.5,18.5H11V14h-1v3H8.5v-3h-1v4.5H6v-6h6.5V18.5z M18,17h-3v1.5h-1.5v-6H18V17z" ]
+                    []
+                , rect
+                    []
+                    []
+                ]
+            ]
+        ]
+
+
+{-| -}
+nineteen_mp : Icon msg
+nineteen_mp =
+    icon
+        [ enableBackground "new 0 0 24 24", viewBox "0 0 24 24" ]
+        [ g
+            []
+            [ rect
+                [ fill "none" ]
+                []
+            ]
+        , g
+            []
+            [ g
+                []
+                [ rect
+                    []
+                    []
+                , rect
+                    []
+                    []
+                , path
+                    [ d "M3,3v18h18V3H3z M12,10h3V9h-3V5.5h4.5v6H12V10z M7,5.5h3v6H8.5V7H7V5.5z M12.5,18.5H11V14h-1v3H8.5v-3h-1v4.5H6v-6h6.5 V18.5z M18,17h-3v1.5h-1.5v-6H18V17z" ]
+                    []
+                ]
+            ]
+        ]
+
+
+{-| -}
+one_k : Icon msg
+one_k =
+    icon
+        [ enableBackground "new 0 0 24 24", viewBox "0 0 24 24" ]
+        [ g
+            []
+            [ rect
+                [ fill "none" ]
+                []
+            ]
+        , g
+            []
+            [ path
+                [ d "M21,3H3v18h18V3z M10,15H8.5v-4.5H7V9h3V15z M17,15h-1.75l-1.75-2.25V15H12V9h1.5v2.25L15.25,9H17l-2.25,3L17,15z" ]
+                []
+            ]
+        ]
+
+
+{-| -}
+one_k : Icon msg
+one_k =
+    icon
+        [ enableBackground "new 0 0 24 24", viewBox "0 0 24 24" ]
+        [ g
+            []
+            [ rect
+                [ fill "none" ]
+                []
+            ]
+        , g
+            []
+            [ path
+                [ d "M21,3H3v18h18V3z M9,15H7.5v-4.5H6V9h3V15z M13.75,15L12,12.75V15h-1.5V9H12v2.25L13.75,9h1.75l-2.25,3l2.25,3H13.75z M19,12.5h-1.5V14h-1v-1.5H15v-1h1.5V10h1v1.5H19V12.5z" ]
+                []
+            ]
+        ]
+
+
+{-| -}
+one_x_mobiledata : Icon msg
+one_x_mobiledata =
+    icon
+        [ enableBackground "new 0 0 24 24", viewBox "0 0 24 24" ]
+        [ g
+            []
+            [ path
+                [ d "M0,0h24v24H0V0z", fill "none" ]
+                []
+            ]
+        , g
+            []
+            [ g
+                []
+                [ path
+                    [ d "M4,7h4v10H6V9H4V7z M15.83,11.72L18.66,7h-2.33l-1.66,2.77L13,7h-2.33l2.83,4.72L10.33,17h2.33l2-3.34l2,3.34H19 L15.83,11.72z" ]
+                    []
+                ]
+            ]
+        ]
+
+
+{-| -}
+twenty_mp : Icon msg
+twenty_mp =
+    icon
+        [ enableBackground "new 0 0 24 24", viewBox "0 0 24 24" ]
+        [ g
+            []
+            [ rect
+                [ fill "none" ]
+                []
+            ]
+        , g
+            []
+            [ g
+                []
+                [ rect
+                    []
+                    []
+                , path
+                    [ d "M3,3v18h18V3H3z M6.5,8h3V7h-3V5.5H11V9H8v1h3v1.5H6.5V8z M12.5,18.5H11V14h-1v3H8.5v-3h-1v4.5H6v-6h6.5V18.5z M13,5.5 h4.5v6H13V5.5z M18,17h-3v1.5h-1.5v-6H18V17z" ]
+                    []
+                , rect
+                    []
+                    []
+                ]
+            ]
+        ]
+
+
+{-| -}
+twenty_one_mp : Icon msg
+twenty_one_mp =
+    icon
+        [ enableBackground "new 0 0 24 24", viewBox "0 0 24 24" ]
+        [ g
+            []
+            [ rect
+                [ fill "none" ]
+                []
+            ]
+        , g
+            []
+            [ g
+                []
+                [ rect
+                    []
+                    []
+                , path
+                    [ d "M3,3v18h18V3H3z M7.5,8h3V7h-3V5.5H12V9H9v1h3v1.5H7.5V8z M12.5,18.5H11V14h-1v3H8.5v-3h-1v4.5H6v-6h6.5V18.5z M13,5.5h3 v6h-1.5V7H13V5.5z M18,17h-3v1.5h-1.5v-6H18V17z" ]
+                    []
+                ]
+            ]
+        ]
+
+
+{-| -}
+twenty_two_mp : Icon msg
+twenty_two_mp =
+    icon
+        [ enableBackground "new 0 0 24 24", viewBox "0 0 24 24" ]
+        [ g
+            []
+            [ rect
+                [ fill "none" ]
+                []
+            ]
+        , g
+            []
+            [ g
+                []
+                [ path
+                    [ d "M3,3v18h18V3H3z M6.5,8h3V7h-3V5.5H11V9H8v1h3v1.5H6.5V8z M12.5,18.5H11V14h-1v3H8.5v-3h-1v4.5H6v-6h6.5V18.5z M13,8h3V7 h-3V5.5h4.5V9h-3v1h3v1.5H13V8z M18,17h-3v1.5h-1.5v-6H18V17z" ]
+                    []
+                , rect
+                    []
+                    []
+                ]
+            ]
+        ]
+
+
+{-| -}
+twenty_three_mp : Icon msg
+twenty_three_mp =
+    icon
+        [ enableBackground "new 0 0 24 24", viewBox "0 0 24 24" ]
+        [ g
+            []
+            [ rect
+                [ fill "none" ]
+                []
+            ]
+        , g
+            []
+            [ g
+                []
+                [ path
+                    [ d "M3,3v18h18V3H3z M6.5,8h3V7h-3V5.5H11V9H8v1h3v1.5H6.5V8z M12.5,18.5H11V14h-1v3H8.5v-3h-1v4.5H6v-6h6.5V18.5z M13,10h3V9 h-2V8h2V7h-3V5.5h4.5v6H13V10z M18,17h-3v1.5h-1.5v-6H18V17z" ]
+                    []
+                , rect
+                    []
+                    []
+                ]
+            ]
+        ]
+
+
+{-| -}
+twenty_four_mp : Icon msg
+twenty_four_mp =
+    icon
+        [ enableBackground "new 0 0 24 24", viewBox "0 0 24 24" ]
+        [ g
+            []
+            [ rect
+                [ fill "none" ]
+                []
+            ]
+        , g
+            []
+            [ g
+                []
+                [ rect
+                    []
+                    []
+                , path
+                    [ d "M3,3v18h18V3H3z M6.5,8h3V7h-3V5.5H11V9H8v1h3v1.5H6.5V8z M12.5,18.5H11V14h-1v3H8.5v-3h-1v4.5H6v-6h6.5V18.5z M18,17h-3 v1.5h-1.5v-6H18V17z M18.5,10h-1v1.5H16V10h-3V5.5h1.5v3H16v-3h1.5v3h1V10z" ]
+                    []
+                ]
+            ]
+        ]
+
+
+{-| -}
+two_k : Icon msg
+two_k =
+    icon
+        [ enableBackground "new 0 0 24 24", viewBox "0 0 24 24" ]
+        [ g
+            []
+            [ rect
+                [ fill "none" ]
+                []
+            ]
+        , g
+            []
+            [ path
+                [ d "M21,3H3v18h18V3z M8,12.5v1h3V15H6.5v-3.5h3v-1h-3V9H11v3.5H8z M18,15h-1.75l-1.75-2.25V15H13V9h1.5v2.25L16.25,9H18 l-2.25,3L18,15z" ]
+                []
+            ]
+        ]
+
+
+{-| -}
+two_k : Icon msg
+two_k =
+    icon
+        [ enableBackground "new 0 0 24 24", viewBox "0 0 24 24" ]
+        [ g
+            []
+            [ rect
+                [ fill "none" ]
+                []
+            ]
+        , g
+            []
+            [ path
+                [ d "M21,3H3v18h18V3z M10,12.5H7.5v1H10V15H6v-3.5h2.5v-1H6V9h4V12.5z M14.25,15l-1.75-2.25V15H11V9h1.5v2.25L14.25,9H16 l-2.25,3L16,15H14.25z M19,12.5h-1.5V14h-1v-1.5H15v-1h1.5V10h1v1.5H19V12.5z" ]
+                []
+            ]
+        ]
+
+
+{-| -}
+two_mp : Icon msg
+two_mp =
+    icon
+        [ enableBackground "new 0 0 24 24", viewBox "0 0 24 24" ]
+        [ g
+            []
+            [ rect
+                [ fill "none" ]
+                []
+            ]
+        , g
+            []
+            [ g
+                []
+                [ path
+                    [ d "M3,3v18h18V3H3z M10,8h3V7h-3V5.5h4.5V9h-3v1h3v1.5H10V8z M12.5,18.5H11V14h-1v3H8.5v-3h-1v4.5H6v-6h6.5V18.5z M18,17h-3 v1.5h-1.5v-6H18V17z" ]
+                    []
+                , rect
+                    []
+                    []
+                ]
+            ]
+        ]
+
+
+{-| -}
+thirty_fps : Icon msg
+thirty_fps =
+    icon
+        [ enableBackground "new 0 0 24 24", viewBox "0 0 24 24" ]
+        [ g
+            []
+            [ path
+                [ d "M0,0h24v24H0V0z", fill "none" ]
+                []
+            ]
+        , g
+            []
+            [ g
+                []
+                [ path
+                    [ d "M2,5v3h6v2.5H3v3h5V16H2v3h9V5H2z M19,8v8h-4V8H19 M22,5H12v14h10V5z" ]
+                    []
+                ]
+            ]
+        ]
+
+
+{-| -}
+thirty_fps_select : Icon msg
+thirty_fps_select =
+    icon
+        [ enableBackground "new 0 0 24 24", viewBox "0 0 24 24" ]
+        [ g
+            []
+            [ rect
+                [ fill "none" ]
+                []
+            ]
+        , g
+            []
+            [ g
+                []
+                [ path
+                    [ d "M4,4v2h5v2H5v2h4v2H4v2h7V4H4z M13,4h7v10h-7V4z M18,6h-3v6h3V6z M5,22H3v-5h2V22z M9,22H7v-5h2V22z M13,22h-2v-5h2V22z M21,22h-6v-5h6V22z" ]
+                    []
+                ]
+            ]
+        ]
 
 
 {-| -}
@@ -152,6 +755,161 @@ three_d_rotation =
 
 
 {-| -}
+three_g_mobiledata : Icon msg
+three_g_mobiledata =
+    icon
+        [ enableBackground "new 0 0 24 24", viewBox "0 0 24 24" ]
+        [ g
+            []
+            [ path
+                [ d "M0,0h24v24H0V0z", fill "none" ]
+                []
+            ]
+        , g
+            []
+            [ g
+                []
+                [ path
+                    [ d "M3,7v2h5v2H4v2h4v2H3v2h7V7H3z M21,11v6h-9V7h9v2h-7v6h5v-2h-2.5v-2H21z" ]
+                    []
+                ]
+            ]
+        ]
+
+
+{-| -}
+three_k : Icon msg
+three_k =
+    icon
+        [ enableBackground "new 0 0 24 24", viewBox "0 0 24 24" ]
+        [ g
+            []
+            [ rect
+                [ fill "none" ]
+                []
+            ]
+        , g
+            []
+            [ path
+                [ d "M21,3H3v18h18V3z M11,9v6H6.5v-1.5h3v-1h-2v-1h2v-1h-3V9H11z M18,15h-1.75l-1.75-2.25V15H13V9h1.5v2.25L16.25,9H18l-2.25,3 L18,15z" ]
+                []
+            ]
+        ]
+
+
+{-| -}
+three_k : Icon msg
+three_k =
+    icon
+        [ enableBackground "new 0 0 24 24", viewBox "0 0 24 24" ]
+        [ g
+            []
+            [ rect
+                [ fill "none" ]
+                []
+            ]
+        , g
+            []
+            [ path
+                [ d "M21,3H3v18h18V3z M10,9v6H5.5v-1.5h3v-1h-2v-1h2v-1h-3V9H10z M16,15h-1.75l-1.75-2.25V15H11V9h1.5v2.25L14.25,9H16l-2.25,3 L16,15z M19,12.5h-1.5V14h-1v-1.5H15v-1h1.5V10h1v1.5H19V12.5z" ]
+                []
+            ]
+        ]
+
+
+{-| -}
+three_mp : Icon msg
+three_mp =
+    icon
+        [ enableBackground "new 0 0 24 24", viewBox "0 0 24 24" ]
+        [ g
+            []
+            [ rect
+                [ fill "none" ]
+                []
+            ]
+        , g
+            []
+            [ g
+                []
+                [ path
+                    [ d "M3,3v18h18V3H3z M12.5,18.5H11V14h-1v3H8.5v-3h-1v4.5H6v-6h6.5V18.5z M10,10h3V9h-2V8h2V7h-3V5.5h4.5v6H10V10z M18,17h-3 v1.5h-1.5v-6H18V17z" ]
+                    []
+                , rect
+                    []
+                    []
+                ]
+            ]
+        ]
+
+
+{-| -}
+three_p : Icon msg
+three_p =
+    icon
+        [ enableBackground "new 0 0 24 24", viewBox "0 0 24 24" ]
+        [ g
+            []
+            [ rect
+                [ fill "none" ]
+                []
+            ]
+        , g
+            []
+            [ path
+                [ d "M2,2v20l4-4h16V2H2z M12,6c1.1,0,2,0.9,2,2s-0.9,2-2,2s-2-0.9-2-2S10.9,6,12,6z M16,14H8v-0.57c0-0.81,0.48-1.53,1.22-1.85 C10.07,11.21,11.01,11,12,11c0.99,0,1.93,0.21,2.78,0.58C15.52,11.9,16,12.62,16,13.43V14z" ]
+                []
+            ]
+        ]
+
+
+{-| -}
+four_g_mobiledata : Icon msg
+four_g_mobiledata =
+    icon
+        [ enableBackground "new 0 0 24 24", viewBox "0 0 24 24" ]
+        [ g
+            []
+            [ path
+                [ d "M0,0h24v24H0V0z", fill "none" ]
+                []
+            ]
+        , g
+            []
+            [ g
+                []
+                [ path
+                    [ d "M9,7H7v5H5V7H3v7h4v3h2v-3h2v-2H9V7z M17,11v2h2v2h-5V9h7V7h-9v10h9v-6H17z" ]
+                    []
+                ]
+            ]
+        ]
+
+
+{-| -}
+four_g_plus_mobiledata : Icon msg
+four_g_plus_mobiledata =
+    icon
+        [ enableBackground "new 0 0 24 24", viewBox "0 0 24 24" ]
+        [ g
+            []
+            [ path
+                [ d "M0,0h24v24H0V0z", fill "none" ]
+                []
+            ]
+        , g
+            []
+            [ g
+                []
+                [ path
+                    [ d "M13,11v2h2v2h-4V9h6V7H9v10h8v-6H13z M24,11h-2V9h-2v2h-2v2h2v2h2v-2h2V11z M7,7H5v5H3V7H1v7h4v3h2v-3h1v-2H7V7z" ]
+                    []
+                ]
+            ]
+        ]
+
+
+{-| -}
 four_k : Icon msg
 four_k =
     icon
@@ -162,6 +920,52 @@ four_k =
         , path
             [ d "M21 3H3v18h18V3zm-9 10.51h-1V15H9.5v-1.5h-3V9H8v3h1.5V9H11v3h1v1.51zM18.2 15h-1.7l-2-3v3H13V9h1.5v3l2-3h1.7l-2 3 2 3z" ]
             []
+        ]
+
+
+{-| -}
+four_k : Icon msg
+four_k =
+    icon
+        [ enableBackground "new 0 0 24 24", viewBox "0 0 24 24" ]
+        [ g
+            []
+            [ rect
+                [ fill "none" ]
+                []
+            ]
+        , g
+            []
+            [ path
+                [ d "M21,3H3v18h18V3z M11,13.5h-1V15H8.5v-1.5h-3V9H7v3h1.5V9H10v3h1V13.5z M14.75,15L13,12.75V15h-1.5V9H13v2.25L14.75,9h1.75 l-2.25,3l2.25,3H14.75z M19,12.5h-1.5V14h-1v-1.5H15v-1h1.5V10h1v1.5H19V12.5z" ]
+                []
+            ]
+        ]
+
+
+{-| -}
+four_mp : Icon msg
+four_mp =
+    icon
+        [ enableBackground "new 0 0 24 24", viewBox "0 0 24 24" ]
+        [ g
+            []
+            [ rect
+                [ fill "none" ]
+                []
+            ]
+        , g
+            []
+            [ g
+                []
+                [ rect
+                    []
+                    []
+                , path
+                    [ d "M3,3v18h18V3H3z M12.5,18.5H11V14h-1v3H8.5v-3h-1v4.5H6v-6h6.5V18.5z M9.5,10V5.5H11v3h1.5v-3H14v3h1V10h-1v1.5h-1.5V10 H9.5z M18,17h-3v1.5h-1.5v-6H18V17z" ]
+                    []
+                ]
+            ]
         ]
 
 
@@ -192,6 +996,118 @@ five_g =
 
 
 {-| -}
+five_k : Icon msg
+five_k =
+    icon
+        [ enableBackground "new 0 0 24 24", viewBox "0 0 24 24" ]
+        [ g
+            []
+            [ rect
+                [ fill "none" ]
+                []
+            ]
+        , g
+            []
+            [ path
+                [ d "M21,3H3v18h18V3z M11,10.5H8v1h3V15H6.5v-1.5h3v-1h-3V9H11V10.5z M18,15h-1.75l-1.75-2.25V15H13V9h1.5v2.25L16.25,9H18 l-2.25,3L18,15z" ]
+                []
+            ]
+        ]
+
+
+{-| -}
+five_k : Icon msg
+five_k =
+    icon
+        [ enableBackground "new 0 0 24 24", viewBox "0 0 24 24" ]
+        [ g
+            []
+            [ rect
+                [ fill "none" ]
+                []
+            ]
+        , g
+            []
+            [ path
+                [ d "M21,3H3v18h18V3z M10,10.5H7.5v1H10V15H6v-1.5h2.5v-1H6V9h4V10.5z M16,15h-1.75l-1.75-2.25V15H11V9h1.5v2.25L14.25,9H16 l-2.25,3L16,15z M19,12.5h-1.5V14h-1v-1.5H15v-1h1.5V10h1v1.5H19V12.5z" ]
+                []
+            ]
+        ]
+
+
+{-| -}
+five_mp : Icon msg
+five_mp =
+    icon
+        [ enableBackground "new 0 0 24 24", viewBox "0 0 24 24" ]
+        [ g
+            []
+            [ rect
+                [ fill "none" ]
+                []
+            ]
+        , g
+            []
+            [ g
+                []
+                [ rect
+                    []
+                    []
+                , path
+                    [ d "M3,3v18h18V3H3z M10,10h3V9h-3V5.5h4.5V7h-3v1h3v3.5H10V10z M12.5,18.5H11V14h-1v3H8.5v-3h-1v4.5H6v-6h6.5V18.5z M18,17 h-3v1.5h-1.5v-6H18V17z" ]
+                    []
+                ]
+            ]
+        ]
+
+
+{-| -}
+sixty_fps : Icon msg
+sixty_fps =
+    icon
+        [ enableBackground "new 0 0 24 24", viewBox "0 0 24 24" ]
+        [ g
+            []
+            [ path
+                [ d "M0,0h24v24H0V0z", fill "none" ]
+                []
+            ]
+        , g
+            []
+            [ g
+                []
+                [ path
+                    [ d "M19,8v8h-4V8H19 M22,5H12v14h10V5z M10,8V5H2v14h9v-9H5V8H10z M8,13v3H5v-3H8z" ]
+                    []
+                ]
+            ]
+        ]
+
+
+{-| -}
+sixty_fps_select : Icon msg
+sixty_fps_select =
+    icon
+        [ enableBackground "new 0 0 24 24", viewBox "0 0 24 24" ]
+        [ g
+            []
+            [ rect
+                [ fill "none" ]
+                []
+            ]
+        , g
+            []
+            [ g
+                []
+                [ path
+                    [ d "M18,6v6h-3V6H18z M20,4h-7v10h7V4z M11,6V4H4v10h7V8H6V6H11z M9,10v2H6v-2H9z M5,22H3v-5h2V22z M9,22H7v-5h2V22z M13,22 h-2v-5h2V22z M21,22h-6v-5h6V22z" ]
+                    []
+                ]
+            ]
+        ]
+
+
+{-| -}
 six_ft_apart : Icon msg
 six_ft_apart =
     icon
@@ -202,6 +1118,282 @@ six_ft_apart =
         , path
             [ d "M6,6c1.1,0,2-0.9,2-2S7.1,2,6,2S4,2.9,4,4S4.9,6,6,6z M10,9.43c0-0.81-0.48-1.53-1.22-1.85C7.93,7.21,6.99,7,6,7 C5.01,7,4.07,7.21,3.22,7.58C2.48,7.9,2,8.62,2,9.43V10h8V9.43z M18,6c1.1,0,2-0.9,2-2s-0.9-2-2-2s-2,0.9-2,2S16.9,6,18,6z M22,9.43 c0-0.81-0.48-1.53-1.22-1.85C19.93,7.21,18.99,7,18,7c-0.99,0-1.93,0.21-2.78,0.58C14.48,7.9,14,8.62,14,9.43V10h8V9.43z M19,17 v-2.01L5,15v2l-3-3l3-3v2.01L19,13v-2l3,3L19,17z M10,19v-1H7v4h3v-2.5H8V19H10z M9,20.5V21H8v-0.5H9z M17.5,19h-1v3h-1v-3h-1v-1h3 V19z M12.5,19v0.5h1v1h-1V22h-1v-4H14v1H12.5z" ]
             []
+        ]
+
+
+{-| -}
+six_k : Icon msg
+six_k =
+    icon
+        [ enableBackground "new 0 0 24 24", viewBox "0 0 24 24" ]
+        [ g
+            []
+            [ rect
+                [ fill "none" ]
+                []
+            ]
+        , g
+            []
+            [ path
+                [ d "M8,12.5h1.5V14H8V12.5z M21,3H3v18h18V3z M11,10.5H8v1h3V15H6.5V9H11V10.5z M18,15h-1.75l-1.75-2.25V15H13V9h1.5v2.25 L16.25,9H18l-2.25,3L18,15z" ]
+                []
+            ]
+        ]
+
+
+{-| -}
+six_k : Icon msg
+six_k =
+    icon
+        [ enableBackground "new 0 0 24 24", viewBox "0 0 24 24" ]
+        [ g
+            []
+            [ rect
+                [ fill "none" ]
+                []
+            ]
+        , g
+            []
+            [ path
+                [ d "M7.5,12.5h1V14h-1V12.5z M21,3H3v18h18V3z M10,10.5H7.5v1H10V15H6V9h4V10.5z M16,15h-1.75l-1.75-2.25V15H11V9h1.5v2.25 L14.25,9H16l-2.25,3L16,15z M19,12.5h-1.5V14h-1v-1.5H15v-1h1.5V10h1v1.5H19V12.5z" ]
+                []
+            ]
+        ]
+
+
+{-| -}
+six_mp : Icon msg
+six_mp =
+    icon
+        [ enableBackground "new 0 0 24 24", viewBox "0 0 24 24" ]
+        [ g
+            []
+            [ rect
+                [ fill "none" ]
+                []
+            ]
+        , g
+            []
+            [ g
+                []
+                [ rect
+                    []
+                    []
+                , path
+                    [ d "M3,3v18h18V3H3z M10,5.5h4.5V7h-3v1h3v3.5H10V5.5z M12.5,18.5H11V14h-1v3H8.5v-3h-1v4.5H6v-6h6.5V18.5z M18,17h-3v1.5 h-1.5v-6H18V17z" ]
+                    []
+                , rect
+                    []
+                    []
+                ]
+            ]
+        ]
+
+
+{-| -}
+seven_k : Icon msg
+seven_k =
+    icon
+        [ enableBackground "new 0 0 24 24", viewBox "0 0 24 24" ]
+        [ g
+            []
+            [ rect
+                [ fill "none" ]
+                []
+            ]
+        , g
+            []
+            [ path
+                [ d "M21,3H3v18h18V3z M9.5,15H7.75l1.38-4.5H6.5V9h4.86L9.5,15z M18,15h-1.75l-1.75-2.25V15H13V9h1.5v2.25L16.25,9H18l-2.25,3 L18,15z" ]
+                []
+            ]
+        ]
+
+
+{-| -}
+seven_k : Icon msg
+seven_k =
+    icon
+        [ enableBackground "new 0 0 24 24", viewBox "0 0 24 24" ]
+        [ g
+            []
+            [ rect
+                [ fill "none" ]
+                []
+            ]
+        , g
+            []
+            [ path
+                [ d "M21,3H3v18h18V3z M8.5,15H6.75l1.38-4.5H5.5V9h4.86L8.5,15z M16,15h-1.75l-1.75-2.25V15H11V9h1.5v2.25L14.25,9H16l-2.25,3 L16,15z M19,12.5h-1.5V14h-1v-1.5H15v-1h1.5V10h1v1.5H19V12.5z" ]
+                []
+            ]
+        ]
+
+
+{-| -}
+seven_mp : Icon msg
+seven_mp =
+    icon
+        [ enableBackground "new 0 0 24 24", viewBox "0 0 24 24" ]
+        [ g
+            []
+            [ rect
+                [ fill "none" ]
+                []
+            ]
+        , g
+            []
+            [ g
+                []
+                [ rect
+                    []
+                    []
+                , path
+                    [ d "M3,3v18h18V3H3z M12.5,18.5H11V14h-1v3H8.5v-3h-1v4.5H6v-6h6.5V18.5z M11.25,11.5L12.62,7H10V5.5h4.87l-1.87,6H11.25z M18,17h-3v1.5h-1.5v-6H18V17z" ]
+                    []
+                ]
+            ]
+        ]
+
+
+{-| -}
+eight_k : Icon msg
+eight_k =
+    icon
+        [ enableBackground "new 0 0 24 24", viewBox "0 0 24 24" ]
+        [ g
+            []
+            [ rect
+                [ fill "none" ]
+                []
+            ]
+        , g
+            []
+            [ path
+                [ d "M8,12.5h1.5V14H8V12.5z M8,10h1.5v1.5H8V10z M21,3H3v18h18V3z M11,10v4c0,0.55-0.45,1-1,1H7.5c-0.55,0-1-0.45-1-1v-4 c0-0.55,0.45-1,1-1H10C10.55,9,11,9.45,11,10z M18,15h-1.75l-1.75-2.25V15H13V9h1.5v2.25L16.25,9H18l-2.25,3L18,15z" ]
+                []
+            ]
+        ]
+
+
+{-| -}
+eight_k : Icon msg
+eight_k =
+    icon
+        [ enableBackground "new 0 0 24 24", viewBox "0 0 24 24" ]
+        [ g
+            []
+            [ rect
+                [ fill "none" ]
+                []
+            ]
+        , g
+            []
+            [ path
+                [ d "M7.5,12.5h1V14h-1V12.5z M7.5,10h1v1.5h-1V10z M21,3H3v18h18V3z M10,14c0,0.55-0.45,1-1,1H7c-0.55,0-1-0.45-1-1v-4 c0-0.55,0.45-1,1-1h2c0.55,0,1,0.45,1,1V14z M16,15h-1.75l-1.75-2.25V15H11V9h1.5v2.25L14.25,9H16l-2.25,3L16,15z M19,12.5h-1.5V14 h-1v-1.5H15v-1h1.5V10h1v1.5H19V12.5z" ]
+                []
+            ]
+        ]
+
+
+{-| -}
+eight_mp : Icon msg
+eight_mp =
+    icon
+        [ enableBackground "new 0 0 24 24", viewBox "0 0 24 24" ]
+        [ g
+            []
+            [ rect
+                [ fill "none" ]
+                []
+            ]
+        , g
+            []
+            [ g
+                []
+                [ rect
+                    []
+                    []
+                , rect
+                    []
+                    []
+                , path
+                    [ d "M3,3v18h18V3H3z M10,5.5h4.5v6H10V5.5z M12.5,18.5H11V14h-1v3H8.5v-3h-1v4.5H6v-6h6.5V18.5z M18,17h-3v1.5h-1.5v-6H18V17z" ]
+                    []
+                , rect
+                    []
+                    []
+                ]
+            ]
+        ]
+
+
+{-| -}
+nine_k : Icon msg
+nine_k =
+    icon
+        [ enableBackground "new 0 0 24 24", viewBox "0 0 24 24" ]
+        [ g
+            []
+            [ rect
+                [ fill "none" ]
+                []
+            ]
+        , g
+            []
+            [ path
+                [ d "M8,10h1.5v1.5H8V10z M21,3H3v18h18V3z M11,9v6H6.5v-1.5h3v-1h-3V9H11z M18,15h-1.75l-1.75-2.25V15H13V9h1.5v2.25L16.25,9 H18l-2.25,3L18,15z" ]
+                []
+            ]
+        ]
+
+
+{-| -}
+nine_k : Icon msg
+nine_k =
+    icon
+        [ enableBackground "new 0 0 24 24", viewBox "0 0 24 24" ]
+        [ g
+            []
+            [ rect
+                [ fill "none" ]
+                []
+            ]
+        , g
+            []
+            [ path
+                [ d "M7.5,10h1v1.5h-1V10z M21,3H3v18h18V3z M10,9v6H6v-1.5h2.5v-1H6V9H10z M16,15h-1.75l-1.75-2.25V15H11V9h1.5v2.25L14.25,9 H16l-2.25,3L16,15z M19,12.5h-1.5V14h-1v-1.5H15v-1h1.5V10h1v1.5H19V12.5z" ]
+                []
+            ]
+        ]
+
+
+{-| -}
+nine_mp : Icon msg
+nine_mp =
+    icon
+        [ enableBackground "new 0 0 24 24", viewBox "0 0 24 24" ]
+        [ g
+            []
+            [ rect
+                [ fill "none" ]
+                []
+            ]
+        , g
+            []
+            [ g
+                []
+                [ rect
+                    []
+                    []
+                , path
+                    [ d "M3,3v18h18V3H3z M10,10h3V9h-3V5.5h4.5v6H10V10z M12.5,18.5H11V14h-1v3H8.5v-3h-1v4.5H6v-6h6.5V18.5z M18,17h-3v1.5h-1.5 v-6H18V17z" ]
+                    []
+                , rect
+                    []
+                    []
+                ]
+            ]
         ]
 
 
@@ -258,6 +1450,26 @@ access_time =
         , path
             [ d "M11.99 2C6.47 2 2 6.48 2 12s4.47 10 9.99 10C17.52 22 22 17.52 22 12S17.52 2 11.99 2zM12 20c-4.42 0-8-3.58-8-8s3.58-8 8-8 8 3.58 8 8-3.58 8-8 8zm.5-13H11v6l5.25 3.15.75-1.23-4.5-2.67z" ]
             []
+        ]
+
+
+{-| -}
+access_time_filled : Icon msg
+access_time_filled =
+    icon
+        [ enableBackground "new 0 0 24 24", viewBox "0 0 24 24" ]
+        [ g
+            []
+            [ path
+                [ d "M0,0h24v24H0V0z", fill "none" ]
+                []
+            ]
+        , g
+            []
+            [ path
+                [ d "M11.99,2C6.47,2,2,6.48,2,12s4.47,10,9.99,10C17.52,22,22,17.52,22,12S17.52,2,11.99,2z M15.29,16.71L11,12.41V7h2v4.59 l3.71,3.71L15.29,16.71z" ]
+                []
+            ]
         ]
 
 
@@ -530,6 +1742,41 @@ add_business =
 
 
 {-| -}
+add_chart : Icon msg
+add_chart =
+    icon
+        [ enableBackground "new 0 0 24 24", viewBox "0 0 24 24" ]
+        [ g
+            []
+            [ rect
+                [ fill "none" ]
+                []
+            ]
+        , g
+            []
+            [ g
+                []
+                [ polygon
+                    [ points "19,19 5,19 5,5 14,5 14,3 3,3 3,21 21,21 21,10 19,10" ]
+                    []
+                , rect
+                    []
+                    []
+                , rect
+                    []
+                    []
+                , rect
+                    []
+                    []
+                , polygon
+                    [ points "19,5 19,3 17,3 17,5 15,5 15,7 17,7 17,9 19,9 19,7 21,7 21,5" ]
+                    []
+                ]
+            ]
+        ]
+
+
+{-| -}
 add_circle : Icon msg
 add_circle =
     icon
@@ -583,6 +1830,26 @@ add_ic_call =
 
 
 {-| -}
+add_link : Icon msg
+add_link =
+    icon
+        [ enableBackground "new 0 0 24 24", viewBox "0 0 24 24" ]
+        [ g
+            []
+            [ rect
+                [ fill "none" ]
+                []
+            ]
+        , g
+            []
+            [ path
+                [ d "M8,11h8v2H8V11z M20.1,12H22c0-2.76-2.24-5-5-5h-4v1.9h4C18.71,8.9,20.1,10.29,20.1,12z M3.9,12c0-1.71,1.39-3.1,3.1-3.1h4 V7H7c-2.76,0-5,2.24-5,5s2.24,5,5,5h4v-1.9H7C5.29,15.1,3.9,13.71,3.9,12z M19,12h-2v3h-3v2h3v3h2v-3h3v-2h-3V12z" ]
+                []
+            ]
+        ]
+
+
+{-| -}
 add_location : Icon msg
 add_location =
     icon
@@ -620,6 +1887,32 @@ add_location_alt =
 
 
 {-| -}
+add_moderator : Icon msg
+add_moderator =
+    icon
+        [ enableBackground "new 0 0 24 24", viewBox "0 0 24 24" ]
+        [ g
+            []
+            [ rect
+                [ fill "none" ]
+                []
+            ]
+        , g
+            []
+            [ g
+                []
+                [ path
+                    [ d "M17,10c1.08,0,2.09,0.25,3,0.68V5l-8-3L4,5v6.09c0,5.05,3.41,9.76,8,10.91c0.03-0.01,0.05-0.02,0.08-0.02 C10.8,20.71,10,18.95,10,17C10,13.13,13.13,10,17,10z" ]
+                    []
+                , path
+                    [ d "M17,12c-2.76,0-5,2.24-5,5s2.24,5,5,5s5-2.24,5-5S19.76,12,17,12z M20,17.5h-2.5V20h-1v-2.5H14v-1h2.5V14h1v2.5H20V17.5z" ]
+                    []
+                ]
+            ]
+        ]
+
+
+{-| -}
 add_photo_alternate : Icon msg
 add_photo_alternate =
     icon
@@ -629,6 +1922,20 @@ add_photo_alternate =
             []
         , path
             [ d "M19 7v2.99s-1.99.01-2 0V7h-3s.01-1.99 0-2h3V2h2v3h3v2h-3zm-3 4V8h-3V5H3v16h16V11h-3zM5 19l3-4 2 3 3-4 4 5H5z" ]
+            []
+        ]
+
+
+{-| -}
+add_reaction : Icon msg
+add_reaction =
+    icon
+        [ enableBackground "new 0 0 24 24", viewBox "0 0 24 24" ]
+        [ rect
+            [ fill "none" ]
+            []
+        , path
+            [ d "M18,9V7h-2V2.84C14.77,2.3,13.42,2,11.99,2C6.47,2,2,6.48,2,12s4.47,10,9.99,10C17.52,22,22,17.52,22,12 c0-1.05-0.17-2.05-0.47-3H18z M15.5,8C16.33,8,17,8.67,17,9.5S16.33,11,15.5,11S14,10.33,14,9.5S14.67,8,15.5,8z M8.5,8 C9.33,8,10,8.67,10,9.5S9.33,11,8.5,11S7,10.33,7,9.5S7.67,8,8.5,8z M12,17.5c-2.33,0-4.31-1.46-5.11-3.5h10.22 C16.31,16.04,14.33,17.5,12,17.5z M22,3h2v2h-2v2h-2V5h-2V3h2V1h2V3z" ]
             []
         ]
 
@@ -696,6 +2003,38 @@ add_task =
         , path
             [ d "M22,5.18L10.59,16.6l-4.24-4.24l1.41-1.41l2.83,2.83l10-10L22,5.18z M12,20c-4.41,0-8-3.59-8-8s3.59-8,8-8 c1.57,0,3.04,0.46,4.28,1.25l1.45-1.45C16.1,2.67,14.13,2,12,2C6.48,2,2,6.48,2,12s4.48,10,10,10c1.73,0,3.36-0.44,4.78-1.22 l-1.5-1.5C14.28,19.74,13.17,20,12,20z M19,15h-3v2h3v3h2v-3h3v-2h-3v-3h-2V15z" ]
             []
+        ]
+
+
+{-| -}
+add_to_drive : Icon msg
+add_to_drive =
+    icon
+        [ enableBackground "new 0 0 24 24", viewBox "0 0 24 24" ]
+        [ g
+            []
+            [ rect
+                [ fill "none" ]
+                []
+            ]
+        , g
+            []
+            [ g
+                []
+                [ path
+                    [ d "M19,11c0.17,0,0.33,0.01,0.49,0.02L15,3H9l5.68,9.84C15.77,11.71,17.3,11,19,11z" ]
+                    []
+                , polygon
+                    [ points "8.15,4.52 2,15.5 5,21 11.33,10.03" ]
+                    []
+                , path
+                    [ d "M13.2,15.5H9.9L6.73,21h7.81C13.58,19.94,13,18.54,13,17C13,16.48,13.07,15.98,13.2,15.5z" ]
+                    []
+                , polygon
+                    [ points "20,16 20,13 18,13 18,16 15,16 15,18 18,18 18,21 19,21 20,21 20,18 23,18 23,16" ]
+                    []
+                ]
+            ]
         ]
 
 
@@ -834,6 +2173,29 @@ agriculture =
 
 
 {-| -}
+air : Icon msg
+air =
+    icon
+        [ enableBackground "new 0 0 24 24", viewBox "0 0 24 24" ]
+        [ g
+            []
+            [ path
+                [ d "M0,0h24v24H0V0z", fill "none" ]
+                []
+            ]
+        , g
+            []
+            [ g
+                []
+                [ path
+                    [ d "M14.5,17c0,1.65-1.35,3-3,3s-3-1.35-3-3h2c0,0.55,0.45,1,1,1s1-0.45,1-1s-0.45-1-1-1H2v-2h9.5 C13.15,14,14.5,15.35,14.5,17z M19,6.5C19,4.57,17.43,3,15.5,3S12,4.57,12,6.5h2C14,5.67,14.67,5,15.5,5S17,5.67,17,6.5 S16.33,8,15.5,8H2v2h13.5C17.43,10,19,8.43,19,6.5z M18.5,11H2v2h16.5c0.83,0,1.5,0.67,1.5,1.5S19.33,16,18.5,16v2 c1.93,0,3.5-1.57,3.5-3.5S20.43,11,18.5,11z" ]
+                    []
+                ]
+            ]
+        ]
+
+
+{-| -}
 airline_seat_flat : Icon msg
 airline_seat_flat =
     icon
@@ -942,6 +2304,26 @@ airline_seat_recline_normal =
         , path
             [ d "M7.59 5.41c-.78-.78-.78-2.05 0-2.83s2.05-.78 2.83 0 .78 2.05 0 2.83c-.79.79-2.05.79-2.83 0zM6 19V7H4v14h11v-2H6zm14 1.07L14.93 15H11.5v-3.68c1.4 1.15 3.6 2.16 5.5 2.16v-2.16c-1.66.02-3.61-.87-4.67-2.04l-1.4-1.55c-.19-.21-.43-.38-.69-.5-.29-.14-.62-.23-.96-.23h-.03C8.01 7 7 8.01 7 9.25V18h8.07l3.5 3.5L20 20.07z" ]
             []
+        ]
+
+
+{-| -}
+airplane_ticket : Icon msg
+airplane_ticket =
+    icon
+        [ enableBackground "new 0 0 24 24", viewBox "0 0 24 24" ]
+        [ g
+            []
+            [ path
+                [ d "M0,0h24v24H0V0z", fill "none" ]
+                []
+            ]
+        , g
+            []
+            [ path
+                [ d "M22,4H2.01v6C3.11,10,4,10.9,4,12s-0.89,2-2,2v6h20V4z M17.73,13.3l-8.86,2.36l-1.66-2.88l0.93-0.25l1.26,0.99l2.39-0.64 l-2.4-4.16l1.4-0.38l4.01,3.74l2.44-0.65c0.51-0.14,1.04,0.17,1.18,0.68C18.55,12.62,18.25,13.15,17.73,13.3z" ]
+                []
+            ]
         ]
 
 
@@ -1247,38 +2629,6 @@ alternate_email =
 
 
 {-| -}
-amp_stories : Icon msg
-amp_stories =
-    icon
-        [ enableBackground "new 0 0 24 24", viewBox "0 0 24 24" ]
-        [ g
-            []
-            [ rect
-                [ fill "none" ]
-                []
-            ]
-        , g
-            []
-            [ g
-                []
-                []
-            , g
-                []
-                [ rect
-                    []
-                    []
-                , rect
-                    []
-                    []
-                , rect
-                    []
-                    []
-                ]
-            ]
-        ]
-
-
-{-| -}
 analytics : Icon msg
 analytics =
     icon
@@ -1333,6 +2683,29 @@ android =
 
 
 {-| -}
+animation : Icon msg
+animation =
+    icon
+        [ enableBackground "new 0 0 24 24", viewBox "0 0 24 24" ]
+        [ g
+            []
+            [ rect
+                [ fill "none" ]
+                []
+            ]
+        , g
+            []
+            [ g
+                []
+                [ path
+                    [ d "M15,2c-2.71,0-5.05,1.54-6.22,3.78c-1.28,0.67-2.34,1.72-3,3C3.54,9.95,2,12.29,2,15c0,3.87,3.13,7,7,7 c2.71,0,5.05-1.54,6.22-3.78c1.28-0.67,2.34-1.72,3-3C20.46,14.05,22,11.71,22,9C22,5.13,18.87,2,15,2z M9,20c-2.76,0-5-2.24-5-5 c0-1.12,0.37-2.16,1-3c0,3.87,3.13,7,7,7C11.16,19.63,10.12,20,9,20z M12,17c-2.76,0-5-2.24-5-5c0-1.12,0.37-2.16,1-3 c0,3.86,3.13,6.99,7,7C14.16,16.63,13.12,17,12,17z M16.7,13.7C16.17,13.89,15.6,14,15,14c-2.76,0-5-2.24-5-5 c0-0.6,0.11-1.17,0.3-1.7C10.83,7.11,11.4,7,12,7c2.76,0,5,2.24,5,5C17,12.6,16.89,13.17,16.7,13.7z M19,12c0-3.86-3.13-6.99-7-7 c0.84-0.63,1.87-1,3-1c2.76,0,5,2.24,5,5C20,10.12,19.63,11.16,19,12z" ]
+                    []
+                ]
+            ]
+        ]
+
+
+{-| -}
 announcement : Icon msg
 announcement =
     icon
@@ -1343,6 +2716,29 @@ announcement =
         , path
             [ d "M22 2H2v20l4-4h16V2zm-9 9h-2V5h2v6zm0 4h-2v-2h2v2z" ]
             []
+        ]
+
+
+{-| -}
+aod : Icon msg
+aod =
+    icon
+        [ enableBackground "new 0 0 24 24", viewBox "0 0 24 24" ]
+        [ g
+            []
+            [ path
+                [ d "M0,0h24v24H0V0z", fill "none" ]
+                []
+            ]
+        , g
+            []
+            [ g
+                []
+                [ path
+                    [ d "M19,1H5v22h14V1z M17,18H7V6h10V18z M8,10h8v1.5H8V10z M9,13h6v1.5H9V13z" ]
+                    []
+                ]
+            ]
         ]
 
 
@@ -1407,6 +2803,50 @@ app_blocking =
 
 
 {-| -}
+app_registration : Icon msg
+app_registration =
+    icon
+        [ enableBackground "new 0 0 24 24", viewBox "0 0 24 24" ]
+        [ g
+            []
+            [ rect
+                [ fill "none" ]
+                []
+            ]
+        , g
+            []
+            [ g
+                []
+                [ rect
+                    []
+                    []
+                , rect
+                    []
+                    []
+                , rect
+                    []
+                    []
+                , rect
+                    []
+                    []
+                , rect
+                    []
+                    []
+                , polygon
+                    [ points "11,17.86 11,20 13.1,20 19.08,14.03 16.96,11.91" ]
+                    []
+                , polygon
+                    [ points "14,12.03 14,10 10,10 10,14 12.03,14" ]
+                    []
+                , rect
+                    [ t "matrix(0.7071 -0.7071 0.7071 0.7071 -2.481 17.1312)" ]
+                    []
+                ]
+            ]
+        ]
+
+
+{-| -}
 app_settings_alt : Icon msg
 app_settings_alt =
     icon
@@ -1419,6 +2859,29 @@ app_settings_alt =
             , path
                 [ d "M21.81,12.74l-0.82-0.63c0-0.09,0-0.13,0-0.22l0.8-0.63c0.16-0.12,0.2-0.34,0.1-0.51l-0.85-1.48 c-0.07-0.13-0.21-0.2-0.35-0.2c-0.05,0-0.1,0.01-0.15,0.03l-0.95,0.38c-0.08-0.05-0.11-0.07-0.19-0.11l-0.15-1.01 C19.22,8.15,19.05,8,18.85,8h-1.71c-0.2,0-0.37,0.15-0.4,0.34L16.6,9.35c-0.03,0.02-0.07,0.03-0.1,0.05 c-0.03,0.02-0.06,0.04-0.09,0.06l-0.95-0.38c-0.05-0.02-0.1-0.03-0.15-0.03c-0.14,0-0.27,0.07-0.35,0.2l-0.85,1.48 c-0.1,0.17-0.06,0.39,0.1,0.51l0.8,0.63c0,0.09,0,0.13,0,0.23l-0.8,0.63c-0.16,0.12-0.2,0.34-0.1,0.51l0.85,1.48 c0.07,0.13,0.21,0.2,0.35,0.2c0.05,0,0.1-0.01,0.15-0.03l0.95-0.37c0.08,0.05,0.12,0.07,0.2,0.11l0.15,1.01 c0.03,0.2,0.2,0.34,0.4,0.34h1.71c0.2,0,0.37-0.15,0.4-0.34l0.15-1.01c0.03-0.02,0.07-0.03,0.1-0.05c0.03-0.02,0.06-0.04,0.09-0.06 l0.95,0.38c0.05,0.02,0.1,0.03,0.15,0.03c0.14,0,0.27-0.07,0.35-0.2l0.85-1.48C22.01,13.08,21.97,12.86,21.81,12.74z M18,13.5 c-0.83,0-1.5-0.67-1.5-1.5c0-0.83,0.67-1.5,1.5-1.5s1.5,0.67,1.5,1.5C19.5,12.83,18.83,13.5,18,13.5z M5,23V1h14v6h-2V6H7v12h10v-1 h2v6H5z" ]
                 []
+            ]
+        ]
+
+
+{-| -}
+approval : Icon msg
+approval =
+    icon
+        [ enableBackground "new 0 0 24 24", viewBox "0 0 24 24" ]
+        [ g
+            []
+            [ rect
+                [ fill "none" ]
+                []
+            ]
+        , g
+            []
+            [ g
+                []
+                [ path
+                    [ d "M4,14v8h16v-8H4z M18,18H6v-2h12V18z M12,2C9.24,2,7,4.24,7,7l5,7l5-7C17,4.24,14.76,2,12,2z" ]
+                    []
+                ]
             ]
         ]
 
@@ -1505,6 +2968,23 @@ arrow_back_ios =
         , path
             [ d "M17.51 3.87L15.73 2.1 5.84 12l9.9 9.9 1.77-1.77L9.38 12l8.13-8.13z" ]
             []
+        ]
+
+
+{-| -}
+arrow_back_ios_new : Icon msg
+arrow_back_ios_new =
+    icon
+        [ enableBackground "new 0 0 24 24", viewBox "0 0 24 24" ]
+        [ rect
+            [ fill "none" ]
+            []
+        , g
+            []
+            [ polygon
+                [ points "17.77,3.77 16,2 6,12 16,22 17.77,20.23 9.54,12" ]
+                []
+            ]
         ]
 
 
@@ -1840,6 +3320,29 @@ assistant =
 
 
 {-| -}
+assistant_direction : Icon msg
+assistant_direction =
+    icon
+        [ enableBackground "new 0 0 24 24", viewBox "0 0 24 24" ]
+        [ g
+            []
+            [ path
+                [ d "M0,0h24v24H0V0z", fill "none" ]
+                []
+            ]
+        , g
+            []
+            [ g
+                []
+                [ path
+                    [ d "M13.5,10H8v5h2v-3h3.5v2.5L17,11l-3.5-3.5V10z M12,1C5.9,1,1,5.9,1,12s4.9,11,11,11s11-4.9,11-11S18.1,1,12,1z M20.31,12 l-8.34,8.37L3.62,12l8.34-8.37L20.31,12z" ]
+                    []
+                ]
+            ]
+        ]
+
+
+{-| -}
 assistant_photo : Icon msg
 assistant_photo =
     icon
@@ -1930,6 +3433,46 @@ attachment =
 
 
 {-| -}
+attractions : Icon msg
+attractions =
+    icon
+        [ enableBackground "new 0 0 24 24", viewBox "0 0 24 24" ]
+        [ g
+            []
+            [ rect
+                [ fill "none" ]
+                []
+            ]
+        , g
+            []
+            [ g
+                []
+                [ path
+                    [ d "M10.44,18.75c0.37-0.46,0.94-0.75,1.57-0.75s1.19,0.29,1.56,0.75c0.39-0.09,0.76-0.21,1.12-0.36l-1.42-3.18 c-0.39,0.15-0.82,0.23-1.26,0.23c-0.46,0-0.9-0.09-1.3-0.25l-1.43,3.19C9.65,18.54,10.03,18.67,10.44,18.75z M5.16,10 C5,10.59,4.91,11.21,4.91,11.85c0,0.75,0.12,1.47,0.33,2.15c0.63,0.05,1.22,0.4,1.56,0.99c0.33,0.57,0.35,1.23,0.11,1.79 c0.27,0.27,0.56,0.53,0.87,0.76l1.52-3.39l0,0c-0.47-0.58-0.75-1.32-0.75-2.13c0-1.89,1.55-3.41,3.46-3.41s3.46,1.53,3.46,3.41 c0,0.82-0.29,1.57-0.78,2.16l1.5,3.35c0.32-0.24,0.62-0.5,0.9-0.79c-0.22-0.55-0.2-1.2,0.12-1.75c0.33-0.57,0.9-0.92,1.52-0.99 c0.22-0.68,0.34-1.41,0.34-2.16c0-0.64-0.09-1.27-0.25-1.86c-0.64-0.04-1.26-0.39-1.6-1c-0.36-0.62-0.35-1.36-0.03-1.95 c-0.91-0.98-2.1-1.71-3.44-2.05C13.4,5.6,12.74,6,12.01,6s-1.39-0.41-1.74-1.01C8.93,5.33,7.74,6.04,6.83,7.02 C7.16,7.62,7.18,8.37,6.81,9C6.45,9.62,5.82,9.97,5.16,10z M3.86,9.58C3.08,8.98,2.84,7.88,3.35,7s1.58-1.23,2.49-0.85 c1.11-1.17,2.56-2.03,4.18-2.42C10.15,2.75,10.99,2,12.01,2s1.85,0.75,1.98,1.73c1.63,0.39,3.07,1.24,4.18,2.42 c0.91-0.38,1.99-0.03,2.49,0.85c0.51,0.88,0.27,1.98-0.51,2.58c0.23,0.77,0.35,1.58,0.35,2.42s-0.12,1.65-0.35,2.42 c0.78,0.6,1.02,1.7,0.51,2.58s-1.58,1.23-2.49,0.85c-0.4,0.43-0.85,0.81-1.34,1.15l1.34,3h-1.86l-0.97-2.17 c-0.43,0.18-0.88,0.33-1.34,0.44C13.86,21.25,13.02,22,12.01,22s-1.85-0.75-1.98-1.73C9.55,20.15,9.09,20,8.65,19.81L7.66,22H5.79 l1.36-3.03c-0.47-0.33-0.91-0.71-1.3-1.12c-0.92,0.38-1.99,0.03-2.5-0.85s-0.27-1.98,0.51-2.58C3.62,13.65,3.51,12.84,3.51,12 S3.62,10.35,3.86,9.58z" ]
+                    []
+                ]
+            ]
+        ]
+
+
+{-| -}
+attribution : Icon msg
+attribution =
+    icon
+        [ viewBox "0 0 24 24" ]
+        [ path
+            [ d "M0 0h24v24H0V0z", fill "none" ]
+            []
+        , path
+            [ d "M12 2C6.47 2 2 6.47 2 12s4.47 10 10 10 10-4.48 10-10S17.52 2 12 2zm0 18c-4.42 0-8-3.58-8-8s3.58-8 8-8 8 3.58 8 8-3.58 8-8 8zm-2.75-5.5h1.5V19h2.5v-4.5h1.5v-6h-5.5z" ]
+            []
+        , circle
+            [ cx "12", cy "6.5", r "1.5" ]
+            []
+        ]
+
+
+{-| -}
 audiotrack : Icon msg
 audiotrack =
     icon
@@ -1940,6 +3483,75 @@ audiotrack =
         , path
             [ d "M12 3v10.55c-.59-.34-1.27-.55-2-.55-2.21 0-4 1.79-4 4s1.79 4 4 4 4-1.79 4-4V7h4V3h-6z" ]
             []
+        ]
+
+
+{-| -}
+auto_awesome : Icon msg
+auto_awesome =
+    icon
+        [ enableBackground "new 0 0 24 24", viewBox "0 0 24 24" ]
+        [ g
+            []
+            [ rect
+                [ fill "none" ]
+                []
+            ]
+        , g
+            []
+            [ g
+                []
+                [ path
+                    [ d "M19,9l1.25-2.75L23,5l-2.75-1.25L19,1l-1.25,2.75L15,5l2.75,1.25L19,9z M11.5,9.5L9,4L6.5,9.5L1,12l5.5,2.5L9,20l2.5-5.5 L17,12L11.5,9.5z M19,15l-1.25,2.75L15,19l2.75,1.25L19,23l1.25-2.75L23,19l-2.75-1.25L19,15z" ]
+                    []
+                ]
+            ]
+        ]
+
+
+{-| -}
+auto_awesome_mosaic : Icon msg
+auto_awesome_mosaic =
+    icon
+        [ enableBackground "new 0 0 24 24", viewBox "0 0 24 24" ]
+        [ g
+            []
+            [ rect
+                [ fill "none" ]
+                []
+            ]
+        , g
+            []
+            [ g
+                []
+                [ path
+                    [ d "M3,21h8V3L3,3V21z M21,3h-8v8h8V3z M13,21h8v-8h-8V21z" ]
+                    []
+                ]
+            ]
+        ]
+
+
+{-| -}
+auto_awesome_motion : Icon msg
+auto_awesome_motion =
+    icon
+        [ enableBackground "new 0 0 24 24", viewBox "0 0 24 24" ]
+        [ g
+            []
+            [ rect
+                [ fill "none" ]
+                []
+            ]
+        , g
+            []
+            [ g
+                []
+                [ path
+                    [ d "M14,2H2v12h2V4h10V2z M18,6H6v12h2V8h10V6z M22,10H10v12h12V10z" ]
+                    []
+                ]
+            ]
         ]
 
 
@@ -1966,6 +3578,171 @@ auto_delete =
                     []
                 , polygon
                     [ points "16.5,12 15,12 15,17 18.6,19.1 19.4,17.9 16.5,16.2" ]
+                    []
+                ]
+            ]
+        ]
+
+
+{-| -}
+auto_fix_high : Icon msg
+auto_fix_high =
+    icon
+        [ enableBackground "new 0 0 24 24", viewBox "0 0 24 24" ]
+        [ g
+            []
+            [ rect
+                [ fill "none" ]
+                []
+            ]
+        , g
+            []
+            [ g
+                []
+                [ polygon
+                    [ points "20,7 20.94,4.94 23,4 20.94,3.06 20,1 19.06,3.06 17,4 19.06,4.94" ]
+                    []
+                , polygon
+                    [ points "8.5,7 9.44,4.94 11.5,4 9.44,3.06 8.5,1 7.56,3.06 5.5,4 7.56,4.94" ]
+                    []
+                , polygon
+                    [ points "20,12.5 19.06,14.56 17,15.5 19.06,16.44 20,18.5 20.94,16.44 23,15.5 20.94,14.56" ]
+                    []
+                , path
+                    [ d "M18.41,9.83l-4.24-4.24L1.59,18.17l4.24,4.24L18.41,9.83z M14.21,11.21l-1.41-1.41l1.38-1.38l1.41,1.41L14.21,11.21z" ]
+                    []
+                ]
+            ]
+        ]
+
+
+{-| -}
+auto_fix_normal : Icon msg
+auto_fix_normal =
+    icon
+        [ enableBackground "new 0 0 24 24", viewBox "0 0 24 24" ]
+        [ g
+            []
+            [ rect
+                [ fill "none" ]
+                []
+            ]
+        , g
+            []
+            [ g
+                []
+                [ polygon
+                    [ points "20,7 20.94,4.94 23,4 20.94,3.06 20,1 19.06,3.06 17,4 19.06,4.94" ]
+                    []
+                , path
+                    [ d "M18.41,9.83l-4.24-4.24L1.59,18.17l4.24,4.24L18.41,9.83z M14.21,11.21l-1.41-1.41l1.38-1.38l1.41,1.41L14.21,11.21z" ]
+                    []
+                ]
+            ]
+        ]
+
+
+{-| -}
+auto_fix_off : Icon msg
+auto_fix_off =
+    icon
+        [ enableBackground "new 0 0 24 24", viewBox "0 0 24 24" ]
+        [ g
+            []
+            [ rect
+                [ fill "none" ]
+                []
+            ]
+        , g
+            []
+            [ g
+                []
+                [ polygon
+                    [ points "20,7 20.94,4.94 23,4 20.94,3.06 20,1 19.06,3.06 17,4 19.06,4.94" ]
+                    []
+                , polygon
+                    [ points "14.17,8.42 15.58,9.83 14.12,11.29 15.54,12.71 18.41,9.83 14.17,5.59 11.29,8.46 12.71,9.88" ]
+                    []
+                , polygon
+                    [ points "1.39,4.22 8.46,11.29 1.59,18.17 5.83,22.41 12.71,15.54 19.78,22.61 21.19,21.19 2.81,2.81" ]
+                    []
+                ]
+            ]
+        ]
+
+
+{-| -}
+auto_graph : Icon msg
+auto_graph =
+    icon
+        [ enableBackground "new 0 0 24 24", viewBox "0 0 24 24" ]
+        [ rect
+            [ fill "none" ]
+            []
+        , g
+            []
+            [ path
+                [ d "M14.06,9.94L12,9l2.06-0.94L15,6l0.94,2.06L18,9l-2.06,0.94L15,12L14.06,9.94z M4,14l0.94-2.06L7,11l-2.06-0.94L4,8 l-0.94,2.06L1,11l2.06,0.94L4,14z M8.5,9l1.09-2.41L12,5.5L9.59,4.41L8.5,2L7.41,4.41L5,5.5l2.41,1.09L8.5,9z M4.5,20.5l6-6.01l4,4 L23,8.93l-1.41-1.41l-7.09,7.97l-4-4L3,19L4.5,20.5z" ]
+                []
+            ]
+        ]
+
+
+{-| -}
+auto_stories : Icon msg
+auto_stories =
+    icon
+        [ enableBackground "new 0 0 24 24", viewBox "0 0 24 24" ]
+        [ g
+            []
+            [ rect
+                [ fill "none" ]
+                []
+            ]
+        , g
+            []
+            [ path
+                [ d "M21,4.6v2.12v7.24v2.66C19.86,16.21,18.69,16,17.5,16c-1.9,0-3.78,0.54-5.5,1.58v-3.62V7.79V5.48C10.38,4.55,8.51,4,6.5,4 S2.62,4.55,1,5.48V20c1.52-1.18,3.43-2,5.5-2s3.98,0.82,5.5,2c1.52-1.18,3.43-2,5.5-2s3.98,0.82,5.5,2V5.48 C22.37,5.12,21.7,4.84,21,4.6z" ]
+                []
+            , polygon
+                [ points "19,0.5 14,5.5 14,15 19,10.5" ]
+                []
+            ]
+        ]
+
+
+{-| -}
+autofps_select : Icon msg
+autofps_select =
+    icon
+        [ enableBackground "new 0 0 24 24", viewBox "0 0 24 24" ]
+        [ g
+            []
+            [ rect
+                [ fill "none" ]
+                []
+            ]
+        , g
+            []
+            [ g
+                []
+                [ polygon
+                    [ points "12.03,6.3 11.97,6.3 10.95,9.19 13.05,9.19" ]
+                    []
+                , rect
+                    []
+                    []
+                , path
+                    [ d "M12,15c3.31,0,6-2.69,6-6s-2.69-6-6-6S6,5.69,6,9S8.69,15,12,15z M11.37,5h1.25l2.63,7h-1.21l-0.63-1.79h-2.83L9.96,12 H8.74L11.37,5z" ]
+                    []
+                , rect
+                    []
+                    []
+                , rect
+                    []
+                    []
+                , rect
+                    []
                     []
                 ]
             ]
@@ -2095,6 +3872,90 @@ backup_table =
 
 
 {-| -}
+badge : Icon msg
+badge =
+    icon
+        [ enableBackground "new 0 0 24 24", viewBox "0 0 24 24" ]
+        [ g
+            []
+            [ rect
+                [ fill "none" ]
+                []
+            ]
+        , g
+            []
+            [ path
+                [ d "M22,7h-7V2H9v5H2v15h20V7z M9,12c0.83,0,1.5,0.67,1.5,1.5c0,0.83-0.67,1.5-1.5,1.5s-1.5-0.67-1.5-1.5 C7.5,12.67,8.17,12,9,12z M12,18H6v-0.43c0-0.6,0.36-1.15,0.92-1.39C7.56,15.9,8.26,15.75,9,15.75s1.44,0.15,2.08,0.43 c0.55,0.24,0.92,0.78,0.92,1.39V18z M13,9h-2V4h2V9z M18,16.5h-4V15h4V16.5z M18,13.5h-4V12h4V13.5z" ]
+                []
+            ]
+        ]
+
+
+{-| -}
+bakery_dining : Icon msg
+bakery_dining =
+    icon
+        [ enableBackground "new 0 0 24 24", viewBox "0 0 24 24" ]
+        [ g
+            []
+            [ rect
+                [ fill "none" ]
+                []
+            ]
+        , g
+            []
+            [ g
+                []
+                [ g
+                    []
+                    [ polygon
+                        [ points "16.36,7.58 15.5,16.99 17,16.99 20.16,9.1" ]
+                        []
+                    ]
+                , g
+                    []
+                    [ polygon
+                        [ points "3.84,9.1 7,16.99 8.5,16.99 7.64,7.58" ]
+                        []
+                    ]
+                , g
+                    []
+                    [ polygon
+                        [ points "10,16.99 14,16.99 15,6 9,6" ]
+                        []
+                    ]
+                , g
+                    []
+                    [ polygon
+                        [ points "20.32,12.75 18.51,17.25 20.46,18.21 22.52,16.99" ]
+                        []
+                    ]
+                , g
+                    []
+                    [ polygon
+                        [ points "1.48,16.99 3.54,18.21 5.49,17.25 3.68,12.75" ]
+                        []
+                    ]
+                ]
+            ]
+        ]
+
+
+{-| -}
+balcony : Icon msg
+balcony =
+    icon
+        [ enableBackground "new 0 0 24 24", viewBox "0 0 24 24" ]
+        [ rect
+            [ fill "none" ]
+            []
+        , path
+            [ d "M10,10v2H8v-2H10z M16,12v-2h-2v2H16z M21,14v8H3v-8h1v-4c0-4.42,3.58-8,8-8s8,3.58,8,8v4H21z M7,16H5v4h2V16z M11,16H9v4h2 V16z M11,4.08C8.16,4.56,6,7.03,6,10v4h5V4.08z M13,14h5v-4c0-2.97-2.16-5.44-5-5.92V14z M15,16h-2v4h2V16z M19,16h-2v4h2V16z" ]
+            []
+        ]
+
+
+{-| -}
 ballot : Icon msg
 ballot =
     icon
@@ -2131,6 +3992,26 @@ batch_prediction =
                 []
             , path
                 [ d "M19,8H5v14h14V8z M13,20.5h-2V19h2V20.5z M13,18h-2c0-1.5-2.5-3-2.5-5c0-1.93,1.57-3.5,3.5-3.5c1.93,0,3.5,1.57,3.5,3.5 C15.5,15,13,16.5,13,18z M18,6.5H6V5h12V6.5z M17,3.5H7V2h10V3.5z" ]
+                []
+            ]
+        ]
+
+
+{-| -}
+bathroom : Icon msg
+bathroom =
+    icon
+        [ enableBackground "new 0 0 24 24", viewBox "0 0 24 24" ]
+        [ g
+            []
+            [ path
+                [ d "M0,0h24v24H0V0z", fill "none" ]
+                []
+            ]
+        , g
+            []
+            [ path
+                [ d "M22,2H2v20h20V2z M9,18c-0.55,0-1-0.45-1-1s0.45-1,1-1s1,0.45,1,1S9.55,18,9,18z M9,15c-0.55,0-1-0.45-1-1s0.45-1,1-1 s1,0.45,1,1S9.55,15,9,15z M12,18c-0.55,0-1-0.45-1-1s0.45-1,1-1s1,0.45,1,1S12.55,18,12,18z M12,15c-0.55,0-1-0.45-1-1s0.45-1,1-1 s1,0.45,1,1S12.55,15,12,15z M15,18c-0.55,0-1-0.45-1-1s0.45-1,1-1s1,0.45,1,1S15.55,18,15,18z M15,15c-0.55,0-1-0.45-1-1 s0.45-1,1-1s1,0.45,1,1S15.55,15,15,15z M17,12H7v-1c0-2.76,2.24-5,5-5s5,2.24,5,5V12z" ]
                 []
             ]
         ]
@@ -2211,6 +4092,29 @@ battery_full =
 
 
 {-| -}
+battery_saver : Icon msg
+battery_saver =
+    icon
+        [ enableBackground "new 0 0 24 24", viewBox "0 0 24 24" ]
+        [ g
+            []
+            [ path
+                [ d "M0,0h24v24H0V0z", fill "none" ]
+                []
+            ]
+        , g
+            []
+            [ g
+                []
+                [ path
+                    [ d "M17,4h-3V2h-4v2H7v18h10V4z M15,14h-2v2h-2v-2H9v-2h2v-2h2v2h2V14z" ]
+                    []
+                ]
+            ]
+        ]
+
+
+{-| -}
 battery_std : Icon msg
 battery_std =
     icon
@@ -2249,6 +4153,113 @@ beach_access =
         , path
             [ d "M5.95 5.98c-3.94 3.95-3.93 10.35.02 14.3l2.86-2.86C5.7 14.29 4.65 9.91 5.95 5.98zm11.47 2.85l2.86-2.86c-3.95-3.95-10.35-3.96-14.3-.02 3.93-1.3 8.31-.25 11.44 2.88zM5.97 5.96l-.01.01c-.38 3.01 1.17 6.88 4.3 10.02l5.73-5.73c-3.13-3.13-7.01-4.68-10.02-4.3zm7.156 8.6l1.428-1.428 6.442 6.442-1.43 1.428z" ]
             []
+        ]
+
+
+{-| -}
+bed : Icon msg
+bed =
+    icon
+        [ enableBackground "new 0 0 24 24", viewBox "0 0 24 24" ]
+        [ g
+            []
+            [ path
+                [ d "M0,0h24v24H0V0z", fill "none" ]
+                []
+            ]
+        , g
+            []
+            [ path
+                [ d "M21,10V5H3v5H2v9h2v-2h16v2h2v-9H21z M13,7h6v3h-6V7z M5,10V7h6v3H5z M4,15v-3h16v3H4z" ]
+                []
+            ]
+        ]
+
+
+{-| -}
+bedroom_baby : Icon msg
+bedroom_baby =
+    icon
+        [ enableBackground "new 0 0 24 24", viewBox "0 0 24 24" ]
+        [ g
+            []
+            [ path
+                [ d "M0,0h24v24H0V0z", fill "none" ]
+                []
+            ]
+        , g
+            []
+            [ g
+                []
+                [ path
+                    [ d "M22,2H2v20h20V2z M12,18c-2.64,0-5.13-1.03-7-2.9l1.06-1.06c0.34,0.34,0.71,0.65,1.1,0.92L8,13.5V9.51L6.45,10.5l-0.95-1 L7,7.76L6,7h3.65l1.73,3H17v1h-1v2.5l0.84,1.46c0.39-0.28,0.76-0.58,1.1-0.92L19,15.1C17.13,16.97,14.64,18,12,18z" ]
+                    []
+                , path
+                    [ d "M14.69,14.24c-1.74,0.65-3.66,0.65-5.4,0l-0.81,1.41l-0.03,0.06c1.1,0.52,2.28,0.79,3.53,0.79s2.45-0.28,3.55-0.79 l-0.03-0.06L14.69,14.24z" ]
+                    []
+                ]
+            ]
+        ]
+
+
+{-| -}
+bedroom_child : Icon msg
+bedroom_child =
+    icon
+        [ enableBackground "new 0 0 24 24", viewBox "0 0 24 24" ]
+        [ g
+            []
+            [ path
+                [ d "M0,0h24v24H0V0z", fill "none" ]
+                []
+            ]
+        , g
+            []
+            [ g
+                []
+                [ rect
+                    []
+                    []
+                , rect
+                    []
+                    []
+                , path
+                    [ d "M22,2H2v20h20V2z M18,17h-1.5v-1.5h-9V17H6l0-6.32l1.5-0.01V7h9v3.67l1.5,0V17z" ]
+                    []
+                ]
+            ]
+        ]
+
+
+{-| -}
+bedroom_parent : Icon msg
+bedroom_parent =
+    icon
+        [ enableBackground "new 0 0 24 24", viewBox "0 0 24 24" ]
+        [ g
+            []
+            [ path
+                [ d "M0,0h24v24H0V0z", fill "none" ]
+                []
+            ]
+        , g
+            []
+            [ g
+                []
+                [ rect
+                    []
+                    []
+                , rect
+                    []
+                    []
+                , rect
+                    []
+                    []
+                , path
+                    [ d "M22,2H2v20h20V2z M19,17h-1.5v-1.5h-11V17H5v-5l0.65-0.55V7H11c0.37,0,0.72,0.12,1,0.32C12.28,7.12,12.63,7,13,7h5.35 v4.45L19,12V17z" ]
+                    []
+                ]
+            ]
         ]
 
 
@@ -2365,6 +4376,29 @@ biotech =
 
 
 {-| -}
+blender : Icon msg
+blender =
+    icon
+        [ enableBackground "new 0 0 24 24", viewBox "0 0 24 24" ]
+        [ g
+            []
+            [ path
+                [ d "M0,0h24v24H0V0z", fill "none" ]
+                []
+            ]
+        , g
+            []
+            [ g
+                []
+                [ path
+                    [ d "M18,3h-4V2h-4v1H3v8h4.23l0.64,4.13L6,17v5h12v-5l-1.87-1.87L18,3z M5,9V5h1.31l0.62,4H5z M12,19c-0.55,0-1-0.45-1-1 s0.45-1,1-1s1,0.45,1,1S12.55,19,12,19z M14.29,14H9.72L8.33,5h7.34L14.29,14z" ]
+                    []
+                ]
+            ]
+        ]
+
+
+{-| -}
 block : Icon msg
 block =
     icon
@@ -2375,6 +4409,26 @@ block =
         , path
             [ d "M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zM4 12c0-4.42 3.58-8 8-8 1.85 0 3.55.63 4.9 1.69L5.69 16.9C4.63 15.55 4 13.85 4 12zm8 8c-1.85 0-3.55-.63-4.9-1.69L18.31 7.1C19.37 8.45 20 10.15 20 12c0 4.42-3.58 8-8 8z" ]
             []
+        ]
+
+
+{-| -}
+bloodtype : Icon msg
+bloodtype =
+    icon
+        [ enableBackground "new 0 0 24 24", viewBox "0 0 24 24" ]
+        [ g
+            []
+            [ path
+                [ d "M0,0h24v24H0V0z", fill "none" ]
+                []
+            ]
+        , g
+            []
+            [ path
+                [ d "M12,2c-5.33,4.55-8,8.48-8,11.8c0,4.98,3.8,8.2,8,8.2s8-3.22,8-8.2C20,10.48,17.33,6.55,12,2z M15,18H9v-2h6V18z M15,13h-2 v2h-2v-2H9v-2h2V9h2v2h2V13z" ]
+                []
+            ]
         ]
 
 
@@ -2431,6 +4485,32 @@ bluetooth_disabled =
         , path
             [ d "M13 5.83l1.88 1.88-1.6 1.6 1.41 1.41 3.02-3.02L12 2h-1v5.03l2 2v-3.2zM5.41 4L4 5.41 10.59 12 5 17.59 6.41 19 11 14.41V22h1l4.29-4.29 2.3 2.29L20 18.59 5.41 4zM13 18.17v-3.76l1.88 1.88L13 18.17z" ]
             []
+        ]
+
+
+{-| -}
+bluetooth_drive : Icon msg
+bluetooth_drive =
+    icon
+        [ enableBackground "new 0 0 24 24", viewBox "0 0 24 24" ]
+        [ g
+            []
+            [ path
+                [ d "M0,0h24v24H0V0z", fill "none" ]
+                []
+            ]
+        , g
+            []
+            [ g
+                []
+                [ path
+                    [ d "M15,10H4.81l1.04-3H15V5H4.43L2,12v9h3v-2h12v2h3v-9h-3C15.9,12,15,11.1,15,10z M6.5,16C5.67,16,5,15.33,5,14.5 S5.67,13,6.5,13S8,13.67,8,14.5S7.33,16,6.5,16z M15.5,16c-0.83,0-1.5-0.67-1.5-1.5s0.67-1.5,1.5-1.5s1.5,0.67,1.5,1.5 S16.33,16,15.5,16z" ]
+                    []
+                , path
+                    [ d "M22,3.85L19.15,1h-0.5v3.79l-2.3-2.29l-0.7,0.7L18.44,6l-2.79,2.79l0.7,0.71l2.3-2.3V11h0.5L22,8.14L19.85,6L22,3.85z M19.65,2.91l0.94,0.94l-0.94,0.94V2.91z M20.59,8.14l-0.94,0.94V7.2L20.59,8.14z" ]
+                    []
+                ]
+            ]
         ]
 
 
@@ -2541,6 +4621,26 @@ blur_on =
 
 
 {-| -}
+bolt : Icon msg
+bolt =
+    icon
+        [ enableBackground "new 0 0 24 24", viewBox "0 0 24 24" ]
+        [ g
+            []
+            [ rect
+                [ fill "none" ]
+                []
+            ]
+        , g
+            []
+            [ path
+                [ d "M11,21h-1l1-7H6.74c0,0,3.68-6.46,6.26-11h1l-1,7h4.28L11,21z" ]
+                []
+            ]
+        ]
+
+
+{-| -}
 book : Icon msg
 book =
     icon
@@ -2586,6 +4686,34 @@ bookmark =
 
 
 {-| -}
+bookmark_add : Icon msg
+bookmark_add =
+    icon
+        [ enableBackground "new 0 0 24 24", viewBox "0 0 24 24" ]
+        [ rect
+            [ fill "none" ]
+            []
+        , path
+            [ d "M21,7h-2v2h-2V7h-2V5h2V3h2v2h2V7z M19,21l-7-3l-7,3V3l9,0c-0.63,0.84-1,1.87-1,3c0,2.76,2.24,5,5,5c0.34,0,0.68-0.03,1-0.1 V21z" ]
+            []
+        ]
+
+
+{-| -}
+bookmark_added : Icon msg
+bookmark_added =
+    icon
+        [ enableBackground "new 0 0 24 24", viewBox "0 0 24 24" ]
+        [ rect
+            [ fill "none" ]
+            []
+        , path
+            [ d "M19,21l-7-3l-7,3V3h9c-0.63,0.84-1,1.87-1,3c0,2.76,2.24,5,5,5c0.34,0,0.68-0.03,1-0.1V21z M17.83,9L15,6.17l1.41-1.41 l1.41,1.41l3.54-3.54l1.41,1.41L17.83,9z" ]
+            []
+        ]
+
+
+{-| -}
 bookmark_border : Icon msg
 bookmark_border =
     icon
@@ -2595,6 +4723,20 @@ bookmark_border =
             []
         , path
             [ d "M19 3H5v18l7-3 7 3V3zm-2 15l-5-2.18L7 18V5h10v13z" ]
+            []
+        ]
+
+
+{-| -}
+bookmark_remove : Icon msg
+bookmark_remove =
+    icon
+        [ enableBackground "new 0 0 24 24", viewBox "0 0 24 24" ]
+        [ rect
+            [ fill "none" ]
+            []
+        , path
+            [ d "M21,7h-6V5h6V7z M19,10.9c-0.64,0.13-1.32,0.14-2.02,0c-1.91-0.38-3.47-1.92-3.87-3.83C12.79,5.54,13.18,4.1,14,3L5,3v18 l7-3l7,3V10.9z" ]
             []
         ]
 
@@ -2643,6 +4785,26 @@ border_clear =
         [ path
             [ d "M7 5h2V3H7v2zm0 8h2v-2H7v2zm0 8h2v-2H7v2zm4-4h2v-2h-2v2zm0 4h2v-2h-2v2zm-8 0h2v-2H3v2zm0-4h2v-2H3v2zm0-4h2v-2H3v2zm0-4h2V7H3v2zm0-4h2V3H3v2zm8 8h2v-2h-2v2zm8 4h2v-2h-2v2zm0-4h2v-2h-2v2zm0 8h2v-2h-2v2zm0-12h2V7h-2v2zm-8 0h2V7h-2v2zm8-6v2h2V3h-2zm-8 2h2V3h-2v2zm4 16h2v-2h-2v2zm0-8h2v-2h-2v2zm0-8h2V3h-2v2z" ]
             []
+        ]
+
+
+{-| -}
+border_color : Icon msg
+border_color =
+    icon
+        [ enableBackground "new 0 0 24 24", viewBox "0 0 24 24" ]
+        [ g
+            []
+            [ rect
+                [ fill "none" ]
+                []
+            ]
+        , g
+            []
+            [ path
+                [ d "M22,24H2v-4h20V24z M13.06,5.19l3.75,3.75L7.75,18H4v-3.75L13.06,5.19z M17.88,7.87 l-3.75-3.75l2.53-2.54l3.75,3.75L17.88,7.87z", enableBackground "new" ]
+                []
+            ]
         ]
 
 
@@ -2745,6 +4907,26 @@ branding_watermark =
         , path
             [ d "M23 3H1v18h22V3zm-2 16h-9v-6h9v6z" ]
             []
+        ]
+
+
+{-| -}
+breakfast_dining : Icon msg
+breakfast_dining =
+    icon
+        [ enableBackground "new 0 0 24 24", viewBox "0 0 24 24" ]
+        [ g
+            []
+            [ rect
+                [ fill "none" ]
+                []
+            ]
+        , g
+            []
+            [ path
+                [ d "M17.85,3L6.14,3C4.15,3,2.36,4.39,2.05,6.36C1.78,8.11,2.64,9.65,4,10.45V21h16V10.45c1.36-0.79,2.23-2.36,1.95-4.11 C21.63,4.38,19.83,3,17.85,3z M16.41,13L12,17.42L7.59,13L12,8.59L16.41,13z" ]
+                []
+            ]
         ]
 
 
@@ -2943,6 +5125,29 @@ browser_not_supported =
 
 
 {-| -}
+brunch_dining : Icon msg
+brunch_dining =
+    icon
+        [ enableBackground "new 0 0 24 24", viewBox "0 0 24 24" ]
+        [ g
+            []
+            [ rect
+                [ fill "none" ]
+                []
+            ]
+        , g
+            []
+            [ g
+                []
+                [ path
+                    [ d "M18,8h2V4h-2V8z M16,22H2v-2h14V22z M18,15.89l-0.4-0.42c-1.02-1.08-1.6-2.52-1.6-4V2h6v9.51c0,1.46-0.54,2.87-1.53,3.94 L20,15.97V20h2v2h-4V15.89z M7,16v-2h4v2h5v2H2v-2H7z" ]
+                    []
+                ]
+            ]
+        ]
+
+
+{-| -}
 brush : Icon msg
 brush =
     icon
@@ -3025,6 +5230,20 @@ build_circle =
 
 
 {-| -}
+bungalow : Icon msg
+bungalow =
+    icon
+        [ enableBackground "new 0 0 24 24", viewBox "0 0 24 24" ]
+        [ rect
+            [ fill "none" ]
+            []
+        , path
+            [ d "M12,3L4.2,15.5l1.7,1.06L7,14.8V21h4v-5h2v5h4v-6.21l1.1,1.77l1.7-1.06L12,3z M13,14h-2v-2h2V14z" ]
+            []
+        ]
+
+
+{-| -}
 burst_mode : Icon msg
 burst_mode =
     icon
@@ -3035,6 +5254,38 @@ burst_mode =
         , path
             [ d "M1 5h2v14H1V5zm4 0h2v14H5V5zm18 0H9v14h14V5zM11 17l2.5-3.15L15.29 16l2.5-3.22L21 17H11z" ]
             []
+        ]
+
+
+{-| -}
+bus_alert : Icon msg
+bus_alert =
+    icon
+        [ enableBackground "new 0 0 24 24", viewBox "0 0 24 24" ]
+        [ g
+            []
+            [ rect
+                [ fill "none" ]
+                []
+            ]
+        , g
+            []
+            [ g
+                []
+                [ g
+                    []
+                    [ path
+                        [ d "M4,11V8h7.29c-0.77-2.6,0.21-4.61,0.37-4.97C2.97,2.67,2,5.02,2,7v9.5c0,0.95,0.38,1.81,1,2.44V22h3v-2h8v2h3v-3.06 c0.62-0.63,1-1.49,1-2.44V13c-1.91,0-3.63-0.76-4.89-2H4z M6.5,17C5.67,17,5,16.33,5,15.5S5.67,14,6.5,14S8,14.67,8,15.5 S7.33,17,6.5,17z M15,15.5c0,0.83-0.67,1.5-1.5,1.5S12,16.33,12,15.5s0.67-1.5,1.5-1.5S15,14.67,15,15.5z" ]
+                        []
+                    ]
+                , g
+                    []
+                    [ path
+                        [ d "M18,1c-2.76,0-5,2.24-5,5s2.24,5,5,5s5-2.24,5-5S20.76,1,18,1z M18.5,9h-1V8h1V9z M18.5,7h-1V3h1V7z" ]
+                        []
+                    ]
+                ]
+            ]
         ]
 
 
@@ -3063,6 +5314,43 @@ business_center =
         , path
             [ d "M10 16v-1H3.01v6H21v-6h-7v1h-4zm12-9h-6V5l-2-2h-4L8 5v2H2v7h8v-2h4v2h8V7zm-8 0h-4V5h4v2z" ]
             []
+        ]
+
+
+{-| -}
+cabin : Icon msg
+cabin =
+    icon
+        [ enableBackground "new 0 0 24 24", viewBox "0 0 24 24" ]
+        [ rect
+            [ fill "none" ]
+            []
+        , path
+            [ d "M10,1c0,1.66-1.34,3-3,3C6.45,4,6,4.45,6,5H4c0-1.66,1.34-3,3-3c0.55,0,1-0.45,1-1H10z M12,3L6,7.58V6H4v3.11L1,11.4 l1.21,1.59L4,11.62V21h16v-9.38l1.79,1.36L23,11.4L12,3z M13.94,7h-3.89L12,5.52L13.94,7z M7.44,9h9.12L18,10.1V11H6v-0.9L7.44,9z M18,13v2H6v-2H18z M6,19v-2h12v2H6z" ]
+            []
+        ]
+
+
+{-| -}
+cable : Icon msg
+cable =
+    icon
+        [ enableBackground "new 0 0 24 24", viewBox "0 0 24 24" ]
+        [ g
+            []
+            [ path
+                [ d "M0,0h24v24H0V0z", fill "none" ]
+                []
+            ]
+        , g
+            []
+            [ g
+                []
+                [ path
+                    [ d "M20,5V3h-4v2h-1v5h2v9h-4V3H5v11H3v5h1v2h4v-2h1v-5H7V5h4v16h8V10h2V5H20z" ]
+                    []
+                ]
+            ]
         ]
 
 
@@ -3139,6 +5427,46 @@ calendar_view_day =
         , path
             [ d "M3 17h18v2H3v-2zm0-7h18v5H3v-5zm0-4h18v2H3V6z" ]
             []
+        ]
+
+
+{-| -}
+calendar_view_month : Icon msg
+calendar_view_month =
+    icon
+        [ enableBackground "new 0 0 24 24", viewBox "0 0 24 24" ]
+        [ g
+            []
+            [ path
+                [ d "M0,0h24v24H0V0z", fill "none" ]
+                []
+            ]
+        , g
+            []
+            [ path
+                [ d "M22,4H2v16h20V4z M8,11H4V6h4V11z M14,11h-4V6h4V11z M20,11h-4V6h4V11z M8,18H4v-5h4V18z M14,18h-4v-5h4V18z M20,18h-4v-5 h4V18z" ]
+                []
+            ]
+        ]
+
+
+{-| -}
+calendar_view_week : Icon msg
+calendar_view_week =
+    icon
+        [ enableBackground "new 0 0 24 24", viewBox "0 0 24 24" ]
+        [ g
+            []
+            [ path
+                [ d "M0,0h24v24H0V0z", fill "none" ]
+                []
+            ]
+        , g
+            []
+            [ path
+                [ d "M22,4H2v16h20V4z M13,6h2.5v12H13V6z M11,18H8.5V6H11V18z M4,6h2.5v12H4V6z M20,18h-2.5V6H20V18z" ]
+                []
+            ]
         ]
 
 
@@ -3328,6 +5656,46 @@ camera_front =
 
 
 {-| -}
+camera_indoor : Icon msg
+camera_indoor =
+    icon
+        [ enableBackground "new 0 0 24 24", viewBox "0 0 24 24" ]
+        [ g
+            []
+            [ path
+                [ d "M0,0h24v24H0V0z", fill "none" ]
+                []
+            ]
+        , g
+            []
+            [ path
+                [ d "M12,3L4,9v12h16V9L12,3z M16,16.06L14,15v2H8v-6h6v2l2-1.06V16.06z" ]
+                []
+            ]
+        ]
+
+
+{-| -}
+camera_outdoor : Icon msg
+camera_outdoor =
+    icon
+        [ enableBackground "new 0 0 24 24", viewBox "0 0 24 24" ]
+        [ g
+            []
+            [ path
+                [ d "M0,0h24v24H0V0z", fill "none" ]
+                []
+            ]
+        , g
+            []
+            [ path
+                [ d "M18,14v-2h-6v6h6v-2l2,1.06v-4.12L18,14z M12,3L4,9v12h16v-2H6v-9l6-4.5l6,4.5v1h2V9L12,3z" ]
+                []
+            ]
+        ]
+
+
+{-| -}
 camera_rear : Icon msg
 camera_rear =
     icon
@@ -3352,6 +5720,35 @@ camera_roll =
         , path
             [ d "M14 5V3h-3V1H5v2H2v19h12v-2h8V5h-8zm-2 13h-2v-2h2v2zm0-9h-2V7h2v2zm4 9h-2v-2h2v2zm0-9h-2V7h2v2zm4 9h-2v-2h2v2zm0-9h-2V7h2v2z" ]
             []
+        ]
+
+
+{-| -}
+cameraswitch : Icon msg
+cameraswitch =
+    icon
+        [ enableBackground "new 0 0 24 24", viewBox "0 0 24 24" ]
+        [ g
+            []
+            [ path
+                [ d "M0,0h24v24H0V0z", fill "none" ]
+                []
+            ]
+        , g
+            []
+            [ g
+                []
+                [ path
+                    [ d "M14,6h-4L9,7H6v10h12V7h-3L14,6z M12,14c-1.1,0-2-0.9-2-2c0-1.1,0.9-2,2-2s2,0.9,2,2C14,13.1,13.1,14,12,14z" ]
+                    []
+                , path
+                    [ d "M8.57,0.51l4.48,4.48V2.04c4.72,0.47,8.48,4.23,8.95,8.95c0,0,2,0,2,0C23.34,3.02,15.49-1.59,8.57,0.51z" ]
+                    []
+                , path
+                    [ d "M10.95,21.96C6.23,21.49,2.47,17.73,2,13.01c0,0-2,0-2,0c0.66,7.97,8.51,12.58,15.43,10.48l-4.48-4.48V21.96z" ]
+                    []
+                ]
+            ]
         ]
 
 
@@ -3439,6 +5836,46 @@ cancel_schedule_send =
 
 
 {-| -}
+car_rental : Icon msg
+car_rental =
+    icon
+        [ enableBackground "new 0 0 24 24", viewBox "0 0 24 24" ]
+        [ g
+            []
+            [ rect
+                [ fill "none" ]
+                []
+            ]
+        , g
+            []
+            [ path
+                [ d "M10.83,3C10.41,1.83,9.3,1,8,1C6.34,1,5,2.34,5,4c0,1.65,1.34,3,3,3c1.3,0,2.41-0.84,2.83-2H16v2h2V5h1V3H10.83z M8,5 C7.45,5,7,4.55,7,4s0.45-1,1-1s1,0.45,1,1S8.55,5,8,5z M17.11,9H6.89L5,14.69V22h2v-2h10v2h2v-7.31L17.11,9z M9,17.5 c-0.55,0-1-0.45-1-1s0.45-1,1-1s1,0.45,1,1S9.55,17.5,9,17.5z M15,17.5c-0.55,0-1-0.45-1-1s0.45-1,1-1s1,0.45,1,1 S15.55,17.5,15,17.5z M7.67,13l0.66-2h7.34l0.66,2H7.67z" ]
+                []
+            ]
+        ]
+
+
+{-| -}
+car_repair : Icon msg
+car_repair =
+    icon
+        [ enableBackground "new 0 0 24 24", viewBox "0 0 24 24" ]
+        [ g
+            []
+            [ rect
+                [ fill "none" ]
+                []
+            ]
+        , g
+            []
+            [ path
+                [ d "M4,17.01V19h7v3h2v-3h7v-1.99H4z M7,14h10v2h2V8.69L17.11,3H6.89L5,8.69V16h2V14z M9,11.5c-0.55,0-1-0.45-1-1s0.45-1,1-1 s1,0.45,1,1S9.55,11.5,9,11.5z M15,11.5c-0.55,0-1-0.45-1-1s0.45-1,1-1s1,0.45,1,1S15.55,11.5,15,11.5z M8.33,5h7.34l0.66,2H7.67 L8.33,5z" ]
+                []
+            ]
+        ]
+
+
+{-| -}
 card_giftcard : Icon msg
 card_giftcard =
     icon
@@ -3491,6 +5928,26 @@ carpenter =
         , path
             [ d "M7,1.5L3.11,5.39l8.13,11.67l-1.41,1.41l4.24,4.24l7.07-7.07L7,1.5z M12.66,18.47l4.24-4.24l1.41,1.41l-4.24,4.24 L12.66,18.47z" ]
             []
+        ]
+
+
+{-| -}
+cases : Icon msg
+cases =
+    icon
+        [ enableBackground "new 0 0 24 24", viewBox "0 0 24 24" ]
+        [ g
+            []
+            [ rect
+                [ fill "none" ]
+                []
+            ]
+        , g
+            []
+            [ path
+                [ d "M18,5V1h-8v4H5v13h18V5H18z M16,5h-4V3h4V5z M3,9H1v13h18v-2H3V9z" ]
+                []
+            ]
         ]
 
 
@@ -3551,6 +6008,20 @@ cast_for_education =
 
 
 {-| -}
+catching_pokemon : Icon msg
+catching_pokemon =
+    icon
+        [ enableBackground "new 0 0 24 24", viewBox "0 0 24 24" ]
+        [ rect
+            [ fill "none" ]
+            []
+        , path
+            [ d "M14.5,12c0,1.38-1.12,2.5-2.5,2.5c-1.38,0-2.5-1.12-2.5-2.5s1.12-2.5,2.5-2.5C13.38,9.5,14.5,10.62,14.5,12z M22,12 c0,5.52-4.48,10-10,10C6.48,22,2,17.52,2,12S6.48,2,12,2C17.52,2,22,6.48,22,12z M20,12h-4c0-2.21-1.79-4-4-4c-2.21,0-4,1.79-4,4H4 c0,4.41,3.59,8,8,8C16.41,20,20,16.41,20,12z" ]
+            []
+        ]
+
+
+{-| -}
 category : Icon msg
 category =
     icon
@@ -3567,6 +6038,64 @@ category =
         , path
             [ d "M3 13.5h8v8H3z" ]
             []
+        ]
+
+
+{-| -}
+celebration : Icon msg
+celebration =
+    icon
+        [ enableBackground "new 0 0 24 24", viewBox "0 0 24 24" ]
+        [ g
+            []
+            [ rect
+                [ fill "none" ]
+                []
+            ]
+        , g
+            []
+            [ g
+                []
+                [ g
+                    []
+                    [ polygon
+                        [ points "2,22 16,17 7,8" ]
+                        []
+                    , path
+                        [ d "M14.53,12.53L21,6.05l1.48,1.48l1.06-1.06L21,3.93l-7.53,7.53L14.53,12.53z" ]
+                        []
+                    , path
+                        [ d "M10.94,6L9.47,7.47l1.06,1.06l2.54-2.54l-2.54-2.53L9.47,4.53L10.94,6z" ]
+                        []
+                    , path
+                        [ d "M18.97,9.97l-3.5,3.5l1.06,1.06L19,12.06l2.5,2.49l1.06-1.06L18.97,9.97z" ]
+                        []
+                    , path
+                        [ d "M15.97,4.97l-4.5,4.5l1.06,1.06L18.07,5l-3.53-3.53l-1.06,1.06L15.97,4.97z" ]
+                        []
+                    ]
+                ]
+            ]
+        ]
+
+
+{-| -}
+cell_wifi : Icon msg
+cell_wifi =
+    icon
+        [ enableBackground "new 0 0 24 24", viewBox "0 0 24 24" ]
+        [ g
+            []
+            [ rect
+                [ fill "none" ]
+                []
+            ]
+        , g
+            []
+            [ path
+                [ d "M6,22h16V5.97L6,22z M20,20h-2v-7.22l2-2V20z M5.22,7.22L3.93,5.93c3.9-3.91,10.24-3.91,14.15,0l-1.29,1.29 C13.6,4.03,8.41,4.03,5.22,7.22z M12.93,11.07L11,13l-1.93-1.93C10.14,10.01,11.86,10.01,12.93,11.07z M14.22,9.79 c-1.78-1.77-4.66-1.77-6.43,0L6.5,8.5c2.48-2.48,6.52-2.48,9,0L14.22,9.79z" ]
+                []
+            ]
         ]
 
 
@@ -3594,6 +6123,80 @@ center_focus_weak =
             []
         , path
             [ d "M5 15H3v6h6v-2H5v-4zM5 5h4V3H3v6h2V5zm16-2h-6v2h4v4h2V3zm-2 16h-4v2h6v-6h-2v4zM12 8c-2.21 0-4 1.79-4 4s1.79 4 4 4 4-1.79 4-4-1.79-4-4-4zm0 6c-1.1 0-2-.9-2-2s.9-2 2-2 2 .9 2 2-.9 2-2 2z" ]
+            []
+        ]
+
+
+{-| -}
+chair : Icon msg
+chair =
+    icon
+        [ enableBackground "new 0 0 24 24", viewBox "0 0 24 24" ]
+        [ g
+            []
+            [ path
+                [ d "M0,0h24v24H0V0z", fill "none" ]
+                []
+            ]
+        , g
+            []
+            [ g
+                []
+                [ polygon
+                    [ points "7,13 17,13 17,7 20,7 20,3 4,3 4,7 7,7" ]
+                    []
+                , path
+                    [ d "M23,9h-4v6H5V9H1v10h3v1c0,0.55,0.45,1,1,1c0.55,0,1-0.45,1-1v-1h12v1c0,0.55,0.45,1,1,1c0.55,0,1-0.45,1-1v-1h3V9z" ]
+                    []
+                ]
+            ]
+        ]
+
+
+{-| -}
+chair_alt : Icon msg
+chair_alt =
+    icon
+        [ enableBackground "new 0 0 24 24", viewBox "0 0 24 24" ]
+        [ g
+            []
+            [ path
+                [ d "M0,0h24v24H0V0z", fill "none" ]
+                []
+            ]
+        , g
+            []
+            [ path
+                [ d "M16,10h3V3H5v7h3v2H5v9h2v-3h10v3h2v-9h-3V10z M7,8V5h10v3H7z M17,16H7v-2h10V16z M14,12h-4v-2h4V12z" ]
+                []
+            ]
+        ]
+
+
+{-| -}
+chalet : Icon msg
+chalet =
+    icon
+        [ enableBackground "new 0 0 24 24", viewBox "0 0 24 24" ]
+        [ rect
+            [ fill "none" ]
+            []
+        , path
+            [ d "M10,7.5l7.5,7.5l-1.41,1.41L15,15.33V20h-4v-5H9v5H5v-4.67l-1.09,1.09L2.5,15L10,7.5z M22,6.5h-1.19l0.75-0.75l-0.71-0.71 L19.39,6.5H18.5V5.61l1.45-1.45l-0.71-0.71L18.5,4.19V3h-1v1.19l-0.75-0.75l-0.71,0.71l1.45,1.45V6.5h-0.89l-1.45-1.45l-0.71,0.71 l0.75,0.75H14v1h1.19l-0.75,0.75l0.71,0.71l1.45-1.45h0.89v0.89l-1.45,1.45l0.71,0.71l0.75-0.75V11h1V9.81l0.75,0.75l0.71-0.71 L18.5,8.39V7.5h0.89l1.45,1.45l0.71-0.71L20.81,7.5H22V6.5z" ]
+            []
+        ]
+
+
+{-| -}
+change_circle : Icon msg
+change_circle =
+    icon
+        [ enableBackground "new 0 0 24 24", viewBox "0 0 24 24" ]
+        [ rect
+            [ fill "none" ]
+            []
+        , path
+            [ d "M12,2C6.48,2,2,6.48,2,12c0,5.52,4.48,10,10,10s10-4.48,10-10C22,6.48,17.52,2,12,2z M12.06,19v-2.01c-0.02,0-0.04,0-0.06,0 c-1.28,0-2.56-0.49-3.54-1.46c-1.71-1.71-1.92-4.35-0.64-6.29l1.1,1.1c-0.71,1.33-0.53,3.01,0.59,4.13c0.7,0.7,1.62,1.03,2.54,1.01 v-2.14l2.83,2.83L12.06,19z M16.17,14.76l-1.1-1.1c0.71-1.33,0.53-3.01-0.59-4.13C13.79,8.84,12.9,8.5,12,8.5c-0.02,0-0.04,0-0.06,0 v2.15L9.11,7.83L11.94,5v2.02c1.3-0.02,2.61,0.45,3.6,1.45C17.24,10.17,17.45,12.82,16.17,14.76z" ]
             []
         ]
 
@@ -3835,6 +6438,49 @@ chrome_reader_mode =
 
 
 {-| -}
+circle : Icon msg
+circle =
+    icon
+        [ enableBackground "new 0 0 24 24", viewBox "0 0 24 24" ]
+        [ g
+            []
+            [ rect
+                [ fill "none" ]
+                []
+            ]
+        , g
+            []
+            [ g
+                []
+                [ path
+                    [ d "M12,2C6.47,2,2,6.47,2,12s4.47,10,10,10s10-4.47,10-10S17.53,2,12,2z" ]
+                    []
+                ]
+            ]
+        ]
+
+
+{-| -}
+circle_notifications : Icon msg
+circle_notifications =
+    icon
+        [ enableBackground "new 0 0 24 24", viewBox "0 0 24 24" ]
+        [ g
+            []
+            [ path
+                [ d "M0,0h24v24H0V0z", fill "none" ]
+                []
+            ]
+        , g
+            []
+            [ path
+                [ d "M12,2C6.48,2,2,6.48,2,12s4.48,10,10,10s10-4.48,10-10S17.52,2,12,2z M12,18.5L12,18.5c-0.83,0-1.5-0.67-1.5-1.5v0h3v0 C13.5,17.83,12.83,18.5,12,18.5z M17,16H7v-2h1v-3c0-1.86,1.28-3.41,3-3.86V5.5h2v1.64c1.72,0.45,3,2,3,3.86v3h1V16z" ]
+                []
+            ]
+        ]
+
+
+{-| -}
 class : Icon msg
 class =
     icon
@@ -3970,6 +6616,29 @@ closed_caption_disabled =
 
 
 {-| -}
+closed_caption_off : Icon msg
+closed_caption_off =
+    icon
+        [ enableBackground "new 0 0 24 24", viewBox "0 0 24 24" ]
+        [ g
+            []
+            [ rect
+                [ fill "none" ]
+                []
+            ]
+        , g
+            []
+            [ g
+                [ enableBackground "new" ]
+                [ path
+                    [ d "M21,4H3v16h18V4z M11,11H9.5v-0.5h-2v3h2V13H11v2H6V9h5V11z M18,11h-1.5v-0.5h-2v3h2V13H18v2h-5V9h5V11z" ]
+                    []
+                ]
+            ]
+        ]
+
+
+{-| -}
 cloud : Icon msg
 cloud =
     icon
@@ -4078,6 +6747,66 @@ code =
         , path
             [ d "M9.4 16.6L4.8 12l4.6-4.6L8 6l-6 6 6 6 1.4-1.4zm5.2 0l4.6-4.6-4.6-4.6L16 6l6 6-6 6-1.4-1.4z" ]
             []
+        ]
+
+
+{-| -}
+code_off : Icon msg
+code_off =
+    icon
+        [ enableBackground "new 0 0 24 24", viewBox "0 0 24 24" ]
+        [ rect
+            [ fill "none" ]
+            []
+        , path
+            [ d "M19.17,12l-4.58-4.59L16,6l6,6l-3.59,3.59L17,14.17L19.17,12z M1.39,4.22l4.19,4.19L2,12l6,6l1.41-1.41L4.83,12L7,9.83 l12.78,12.78l1.41-1.41L2.81,2.81L1.39,4.22z" ]
+            []
+        ]
+
+
+{-| -}
+coffee : Icon msg
+coffee =
+    icon
+        [ enableBackground "new 0 0 24 24", viewBox "0 0 24 24" ]
+        [ g
+            []
+            [ path
+                [ d "M0,0h24v24H0V0z", fill "none" ]
+                []
+            ]
+        , g
+            []
+            [ path
+                [ d "M18.5,3H4v8c0,3.87,3.13,7,7,7h0c3.87,0,7-3.13,7-7v-1l0.4,0c1.67,0,3.19-1.13,3.52-2.77C22.39,4.98,20.67,3,18.5,3z M16,5 v3H6V5H16z M18.5,8H18V5h0.5C19.33,5,20,5.67,20,6.5S19.33,8,18.5,8z M4,19h16v2H4V19z" ]
+                []
+            ]
+        ]
+
+
+{-| -}
+coffee_maker : Icon msg
+coffee_maker =
+    icon
+        [ enableBackground "new 0 0 24 24", viewBox "0 0 24 24" ]
+        [ g
+            []
+            [ path
+                [ d "M0,0h24v24H0V0z", fill "none" ]
+                []
+            ]
+        , g
+            []
+            [ g
+                []
+                [ path
+                    [ d "M18,7V4h2V2H4v20h16v-2h-4.03C17.2,19.09,18,17.64,18,16v-5H8v5c0,1.64,0.81,3.09,2.03,4H6V4h2v3H18z" ]
+                    []
+                , circle
+                    [ cx "13", cy "9", r "1" ]
+                    []
+                ]
+            ]
         ]
 
 
@@ -4231,6 +6960,38 @@ compass_calibration =
 
 
 {-| -}
+compress : Icon msg
+compress =
+    icon
+        [ enableBackground "new 0 0 24 24", viewBox "0 0 24 24" ]
+        [ g
+            []
+            [ path
+                [ d "M0,0h24v24H0V0z", fill "none" ]
+                []
+            ]
+        , g
+            []
+            [ g
+                []
+                [ rect
+                    []
+                    []
+                , polygon
+                    [ points "16,4 13,4 13,1 11,1 11,4 8,4 12,8" ]
+                    []
+                , polygon
+                    [ points "8,19 11,19 11,22 13,22 13,19 16,19 12,15" ]
+                    []
+                , rect
+                    []
+                    []
+                ]
+            ]
+        ]
+
+
+{-| -}
 computer : Icon msg
 computer =
     icon
@@ -4269,6 +7030,38 @@ connect_without_contact =
         , path
             [ d "M11,14H9c0-4.97,4.03-9,9-9v2C14.13,7,11,10.13,11,14z M18,11V9c-2.76,0-5,2.24-5,5h2C15,12.34,16.34,11,18,11z M7,4 c0-1.11-0.89-2-2-2S3,2.89,3,4s0.89,2,2,2S7,5.11,7,4z M11.45,4.5h-2C9.21,5.92,7.99,7,6.5,7H2v4h6V8.74 C9.86,8.15,11.25,6.51,11.45,4.5z M19,17c1.11,0,2-0.89,2-2s-0.89-2-2-2s-2,0.89-2,2S17.89,17,19,17z M17.5,18 c-1.49,0-2.71-1.08-2.95-2.5h-2c0.2,2.01,1.59,3.65,3.45,4.24V22h6v-4H17.5z" ]
             []
+        ]
+
+
+{-| -}
+connected_tv : Icon msg
+connected_tv =
+    icon
+        [ enableBackground "new 0 0 24 24", viewBox "0 0 24 24" ]
+        [ g
+            []
+            [ rect
+                [ fill "none" ]
+                []
+            ]
+        , g
+            []
+            [ g
+                []
+                [ path
+                    [ d "M8.57,16H10c0-2.76-2.24-5-5-5v1.43C6.97,12.43,8.57,14.03,8.57,16z" ]
+                    []
+                , path
+                    [ d "M11.55,16H13c0-4.42-3.59-8-8-8v1.45C8.61,9.45,11.55,12.38,11.55,16z" ]
+                    []
+                , path
+                    [ d "M5,14v2h2C7,14.89,6.11,14,5,14z" ]
+                    []
+                , path
+                    [ d "M22,3H2v16h6v2h8v-2h6V3z M20,17H4V5h16V17z" ]
+                    []
+                ]
+            ]
         ]
 
 
@@ -4431,6 +7224,20 @@ content_paste =
 
 
 {-| -}
+content_paste_off : Icon msg
+content_paste_off =
+    icon
+        [ enableBackground "new 0 0 24 24", viewBox "0 0 24 24" ]
+        [ rect
+            [ fill "none" ]
+            []
+        , path
+            [ d "M21.19,21.19L2.81,2.81L1.39,4.22L3,5.83V21h15.17l1.61,1.61L21.19,21.19z M5,19V7.83L16.17,19H5z M17,8V5h2v11.17l2,2V3 h-6.18C14.4,1.84,13.3,1,12,1S9.6,1.84,9.18,3H5.83l5,5H17z M12,3c0.55,0,1,0.45,1,1s-0.45,1-1,1s-1-0.45-1-1S11.45,3,12,3z" ]
+            []
+        ]
+
+
+{-| -}
 control_camera : Icon msg
 control_camera =
     icon
@@ -4476,6 +7283,20 @@ control_point_duplicate =
 
 
 {-| -}
+copy_all : Icon msg
+copy_all =
+    icon
+        [ enableBackground "new 0 0 24 24", viewBox "0 0 24 24" ]
+        [ rect
+            [ fill "none" ]
+            []
+        , path
+            [ d "M20,2H7v16h13V2z M18,16H9V4h9V16z M3,15v-2h2v2H3z M3,9.5h2v2H3V9.5z M10,20h2v2h-2V20z M3,18.5v-2h2v2H3z M5,22H3v-2h2V22 z M8.5,22h-2v-2h2V22z M15.5,22h-2v-2h2V22z M3,6h2v2H3V6z" ]
+            []
+        ]
+
+
+{-| -}
 copyright : Icon msg
 copyright =
     icon
@@ -4513,6 +7334,20 @@ corporate_fare =
             []
         , path
             [ d "M12,7V3H2v18h20V7H12z M10,19H4v-2h6V19z M10,15H4v-2h6V15z M10,11H4V9h6V11z M10,7H4V5h6V7z M20,19h-8V9h8V19z M18,11h-4v2 h4V11z M18,15h-4v2h4V15z" ]
+            []
+        ]
+
+
+{-| -}
+cottage : Icon msg
+cottage =
+    icon
+        [ enableBackground "new 0 0 24 24", viewBox "0 0 24 24" ]
+        [ rect
+            [ fill "none" ]
+            []
+        , path
+            [ d "M12,3L6,7.58V6H4v3.11L1,11.4l1.21,1.59L4,11.62V21h7v-6h2v6h7v-9.38l1.79,1.36L23,11.4L12,3z M10,1c0,1.66-1.34,3-3,3 C6.45,4,6,4.45,6,5H4c0-1.66,1.34-3,3-3c0.55,0,1-0.45,1-1H10z" ]
             []
         ]
 
@@ -4569,6 +7404,54 @@ credit_card =
             []
         , path
             [ d "M22 4H2.01L2 20h20V4zm-2 14H4v-6h16v6zm0-10H4V6h16v2z" ]
+            []
+        ]
+
+
+{-| -}
+credit_card_off : Icon msg
+credit_card_off =
+    icon
+        [ enableBackground "new 0 0 24 24", viewBox "0 0 24 24" ]
+        [ rect
+            [ fill "none" ]
+            []
+        , path
+            [ d "M6.83,4H22v15.17L14.83,12H20V8h-9.17L6.83,4z M20.49,23.31L17.17,20H2V4.83L0.69,3.51L2.1,2.1l19.8,19.8L20.49,23.31z M9.17,12l-4-4H4v4H9.17z" ]
+            []
+        ]
+
+
+{-| -}
+credit_score : Icon msg
+credit_score =
+    icon
+        [ enableBackground "new 0 0 24 24", viewBox "0 0 24 24" ]
+        [ g
+            []
+            [ path
+                [ d "M0,0h24v24H0V0z", fill "none" ]
+                []
+            ]
+        , g
+            []
+            [ path
+                [ d "M2,4v16h7v-2H4v-6h18V4H2z M20,8H4V6h16V8z M14.93,19.17l-2.83-2.83l-1.41,1.41L14.93,22L22,14.93l-1.41-1.41L14.93,19.17z" ]
+                []
+            ]
+        ]
+
+
+{-| -}
+crib : Icon msg
+crib =
+    icon
+        [ enableBackground "new 0 0 24 24", viewBox "0 0 24 24" ]
+        [ rect
+            [ fill "none" ]
+            []
+        , path
+            [ d "M20,9h-8V4H8C5.79,4,4,5.79,4,8v8h4v2.93c-0.61-0.35-1.16-0.78-1.65-1.27l-1.42,1.42C6.74,20.88,9.24,22,12,22 c2.76,0,5.26-1.12,7.07-2.93l-1.42-1.42c-0.49,0.49-1.05,0.92-1.65,1.27V16h4V9z M14,19.75C13.36,19.91,12.69,20,12,20 c-0.69,0-1.36-0.09-2-0.25V16h4V19.75z" ]
             []
         ]
 
@@ -4742,6 +7625,40 @@ crop_square =
 
 
 {-| -}
+dangerous : Icon msg
+dangerous =
+    icon
+        [ enableBackground "new 0 0 24 24", viewBox "0 0 24 24" ]
+        [ g
+            []
+            [ path
+                [ d "M0,0h24v24H0V0z", fill "none" ]
+                []
+            ]
+        , g
+            []
+            [ path
+                [ d "M15.73,3H8.27L3,8.27v7.46L8.27,21h7.46L21,15.73V8.27L15.73,3z M16.24,14.83l-1.41,1.41L12,13.41l-2.83,2.83l-1.41-1.41 L10.59,12L7.76,9.17l1.41-1.41L12,10.59l2.83-2.83l1.41,1.41L13.41,12L16.24,14.83z" ]
+                []
+            ]
+        ]
+
+
+{-| -}
+dark_mode : Icon msg
+dark_mode =
+    icon
+        [ enableBackground "new 0 0 24 24", viewBox "0 0 24 24" ]
+        [ rect
+            [ fill "none" ]
+            []
+        , path
+            [ d "M12,3c-4.97,0-9,4.03-9,9s4.03,9,9,9s9-4.03,9-9c0-0.46-0.04-0.92-0.1-1.36c-0.98,1.37-2.58,2.26-4.4,2.26 c-2.98,0-5.4-2.42-5.4-5.4c0-1.81,0.89-3.42,2.26-4.4C12.92,3.04,12.46,3,12,3L12,3z" ]
+            []
+        ]
+
+
+{-| -}
 dashboard : Icon msg
 dashboard =
     icon
@@ -4752,6 +7669,72 @@ dashboard =
         , path
             [ d "M3 13h8V3H3v10zm0 8h8v-6H3v6zm10 0h8V11h-8v10zm0-18v6h8V3h-8z" ]
             []
+        ]
+
+
+{-| -}
+dashboard_customize : Icon msg
+dashboard_customize =
+    icon
+        [ enableBackground "new 0 0 24 24", viewBox "0 0 24 24" ]
+        [ g
+            []
+            [ path
+                [ d "M0,0h24v24H0V0z", fill "none" ]
+                []
+            ]
+        , g
+            []
+            [ path
+                [ d "M3,3h8v8H3V3z M13,3h8v8h-8V3z M3,13h8v8H3V13z M18,13h-2v3h-3v2h3v3h2v-3h3v-2h-3V13z" ]
+                []
+            ]
+        ]
+
+
+{-| -}
+data_saver_off : Icon msg
+data_saver_off =
+    icon
+        [ enableBackground "new 0 0 24 24", viewBox "0 0 24 24" ]
+        [ g
+            []
+            [ path
+                [ d "M0,0h24v24H0V0z", fill "none" ]
+                []
+            ]
+        , g
+            []
+            [ g
+                []
+                [ path
+                    [ d "M13,2.05v3.03c3.39,0.49,6,3.39,6,6.92c0,0.9-0.18,1.75-0.48,2.54l2.6,1.53C21.68,14.83,22,13.45,22,12 C22,6.82,18.05,2.55,13,2.05z M12,19c-3.87,0-7-3.13-7-7c0-3.53,2.61-6.43,6-6.92V2.05C5.94,2.55,2,6.81,2,12 c0,5.52,4.47,10,9.99,10c3.31,0,6.24-1.61,8.06-4.09l-2.6-1.53C16.17,17.98,14.21,19,12,19z" ]
+                    []
+                ]
+            ]
+        ]
+
+
+{-| -}
+data_saver_on : Icon msg
+data_saver_on =
+    icon
+        [ enableBackground "new 0 0 24 24", viewBox "0 0 24 24" ]
+        [ g
+            []
+            [ path
+                [ d "M0,0h24v24H0V0z", fill "none" ]
+                []
+            ]
+        , g
+            []
+            [ g
+                []
+                [ path
+                    [ d "M11,8v3H8v2h3v3h2v-3h3v-2h-3V8H11z M13,2.05v3.03c3.39,0.49,6,3.39,6,6.92c0,0.9-0.18,1.75-0.48,2.54l2.6,1.53 C21.68,14.83,22,13.45,22,12C22,6.82,18.05,2.55,13,2.05z M12,19c-3.87,0-7-3.13-7-7c0-3.53,2.61-6.43,6-6.92V2.05 C5.94,2.55,2,6.81,2,12c0,5.52,4.47,10,9.99,10c3.31,0,6.24-1.61,8.06-4.09l-2.6-1.53C16.17,17.98,14.21,19,12,19z" ]
+                    []
+                ]
+            ]
         ]
 
 
@@ -4883,6 +7866,38 @@ delete_sweep =
 
 
 {-| -}
+delivery_dining : Icon msg
+delivery_dining =
+    icon
+        [ enableBackground "new 0 0 24 24", viewBox "0 0 24 24" ]
+        [ g
+            []
+            [ rect
+                [ fill "none" ]
+                []
+            ]
+        , g
+            []
+            [ g
+                []
+                [ g
+                    []
+                    [ path
+                        [ d "M19,10.35V5h-5v2h3v2.65L13.52,14H10V9H2v7h2c0,1.66,1.34,3,3,3s3-1.34,3-3h4.48L19,10.35z M7,17c-0.55,0-1-0.45-1-1h2 C8,16.55,7.55,17,7,17z" ]
+                        []
+                    , rect
+                        []
+                        []
+                    , path
+                        [ d "M19,13c-1.66,0-3,1.34-3,3s1.34,3,3,3s3-1.34,3-3S20.66,13,19,13z M19,17c-0.55,0-1-0.45-1-1s0.45-1,1-1s1,0.45,1,1 C20,16.55,19.55,17,19,17z" ]
+                        []
+                    ]
+                ]
+            ]
+        ]
+
+
+{-| -}
 departure_board : Icon msg
 departure_board =
     icon
@@ -5010,6 +8025,20 @@ developer_board =
 
 
 {-| -}
+developer_board_off : Icon msg
+developer_board_off =
+    icon
+        [ enableBackground "new 0 0 24 24", viewBox "0 0 24 24" ]
+        [ rect
+            [ fill "none" ]
+            []
+        , path
+            [ d "M7.83,5H18v10.17L19.83,17H22v-2h-2v-2h2v-2h-2V9h2V7h-2V3H5.83L7.83,5z M12,9.17V7h4v3h-3.17L12,9.17z M9.83,7H11v1.17 L9.83,7z M13.83,11H16v2.17L13.83,11z M18.17,21l2.31,2.31l1.41-1.41L2.1,2.1L0.69,3.51L2,4.83V21H18.17z M4,19V6.83l2,2V12h3.17 l1,1H6v4h5v-3.17l1,1V17h2.17l2,2H4z" ]
+            []
+        ]
+
+
+{-| -}
 developer_mode : Icon msg
 developer_mode =
     icon
@@ -5034,6 +8063,29 @@ device_hub =
         , path
             [ d "M17 16l-4-4V8.82C14.16 8.4 15 7.3 15 6c0-1.66-1.34-3-3-3S9 4.34 9 6c0 1.3.84 2.4 2 2.82V12l-4 4H3v5h5v-3.05l4-4.2 4 4.2V21h5v-5h-4z" ]
             []
+        ]
+
+
+{-| -}
+device_thermostat : Icon msg
+device_thermostat =
+    icon
+        [ enableBackground "new 0 0 24 24", viewBox "0 0 24 24" ]
+        [ g
+            []
+            [ path
+                [ d "M0,0h24v24H0V0z", fill "none" ]
+                []
+            ]
+        , g
+            []
+            [ g
+                []
+                [ path
+                    [ d "M15,13V5c0-1.66-1.34-3-3-3S9,3.34,9,5v8c-1.21,0.91-2,2.37-2,4c0,2.76,2.24,5,5,5s5-2.24,5-5C17,15.37,16.21,13.91,15,13 z M11,11V5c0-0.55,0.45-1,1-1s1,0.45,1,1v1h-1v1h1v1v1h-1v1h1v1H11z" ]
+                    []
+                ]
+            ]
         ]
 
 
@@ -5108,6 +8160,52 @@ dialpad =
 
 
 {-| -}
+dining : Icon msg
+dining =
+    icon
+        [ enableBackground "new 0 0 24 24", viewBox "0 0 24 24" ]
+        [ g
+            []
+            [ path
+                [ d "M0,0h24v24H0V0z", fill "none" ]
+                []
+            ]
+        , g
+            []
+            [ path
+                [ d "M22,2H2v20h20V2z M11,10.3c0,0.93-0.64,1.71-1.5,1.93V19H8v-6.77c-0.86-0.22-1.5-1-1.5-1.93V6H7h0.5v3h0.75V6h0.5h0.5v3H10 V6h0.5H11V10.3z M15.58,12.59l-0.08,0.03V19H14v-6.38l-0.08-0.04c-0.97-0.47-1.67-1.7-1.67-3.18c0-1.88,1.13-3.4,2.5-3.4 c1.38,0,2.5,1.53,2.5,3.41C17.25,10.89,16.55,12.12,15.58,12.59z" ]
+                []
+            ]
+        ]
+
+
+{-| -}
+dinner_dining : Icon msg
+dinner_dining =
+    icon
+        [ enableBackground "new 0 0 24 24", viewBox "0 0 24 24" ]
+        [ g
+            []
+            [ rect
+                [ fill "none" ]
+                []
+            ]
+        , g
+            []
+            [ g
+                []
+                [ polygon
+                    [ points "2,19 4,21 20,21 22,19" ]
+                    []
+                , path
+                    [ d "M3,18l16.97,0c0,0,0,0,0,0c0.29-3.26-2.28-6-5.48-6c-2.35,0-4.35,1.48-5.14,3.55C8.94,15.32,8.48,15.17,8,15.08V9h4V6.75 h9v-1.5h-9V3H3v1.5h1v0.75H3v1.5h1V7.5H3V9h1v7.39C3.56,16.85,3.22,17.39,3,18z M8,7.5V6.75h2V7.5H8z M10,5.25H8V4.5h2V5.25z M5.5,4.5h1v0.75h-1V4.5z M5.5,6.75h1V7.5h-1V6.75z M6.5,9v6.06c-0.35,0.06-0.68,0.17-1,0.3V9H6.5z" ]
+                    []
+                ]
+            ]
+        ]
+
+
+{-| -}
 directions : Icon msg
 directions =
     icon
@@ -5150,6 +8248,29 @@ directions_boat =
 
 
 {-| -}
+directions_boat_filled : Icon msg
+directions_boat_filled =
+    icon
+        [ enableBackground "new 0 0 24 24", viewBox "0 0 24 24" ]
+        [ g
+            []
+            [ rect
+                [ fill "none" ]
+                []
+            ]
+        , g
+            []
+            [ g
+                []
+                [ path
+                    [ d "M20,21c-1.39,0-2.78-0.47-4-1.32c-2.44,1.71-5.56,1.71-8,0C6.78,20.53,5.39,21,4,21H2v2h2c1.38,0,2.74-0.35,4-0.99 c2.52,1.29,5.48,1.29,8,0c1.26,0.65,2.62,0.99,4,0.99h2v-2H20z M3.95,19H4c1.6,0,3.02-0.88,4-2c0.98,1.12,2.4,2,4,2s3.02-0.88,4-2 c0.98,1.12,2.4,2,4,2h0.05l2.18-7.65L20,10.62V4h-5V1H9v3H4v6.62l-2.23,0.73L3.95,19z M6,6h12v3.97L12,8L6,9.97V6z" ]
+                    []
+                ]
+            ]
+        ]
+
+
+{-| -}
 directions_bus : Icon msg
 directions_bus =
     icon
@@ -5164,6 +8285,26 @@ directions_bus =
 
 
 {-| -}
+directions_bus_filled : Icon msg
+directions_bus_filled =
+    icon
+        [ enableBackground "new 0 0 24 24", viewBox "0 0 24 24" ]
+        [ g
+            []
+            [ rect
+                [ fill "none" ]
+                []
+            ]
+        , g
+            []
+            [ path
+                [ d "M12,2C8,2,4,2.5,4,6v9.5c0,0.95,0.38,1.81,1,2.44V21h3v-2h8v2h3v-3.06 c0.62-0.63,1-1.49,1-2.44V6C20,2.5,16.42,2,12,2z M8.5,16C7.67,16,7,15.33,7,14.5S7.67,13,8.5,13s1.5,0.67,1.5,1.5S9.33,16,8.5,16z M15.5,16c-0.83,0-1.5-0.67-1.5-1.5s0.67-1.5,1.5-1.5s1.5,0.67,1.5,1.5S16.33,16,15.5,16z M18,10H6V7h12V10z", enableBackground "new" ]
+                []
+            ]
+        ]
+
+
+{-| -}
 directions_car : Icon msg
 directions_car =
     icon
@@ -5174,6 +8315,26 @@ directions_car =
         , path
             [ d "M18.58 5H5.43L3 12v9h3v-2h12v2h3v-9l-2.42-7zM6.5 16c-.83 0-1.5-.67-1.5-1.5S5.67 13 6.5 13s1.5.67 1.5 1.5S7.33 16 6.5 16zm11 0c-.83 0-1.5-.67-1.5-1.5s.67-1.5 1.5-1.5 1.5.67 1.5 1.5-.67 1.5-1.5 1.5zM5 11l1.5-4.5h11L19 11H5z" ]
             []
+        ]
+
+
+{-| -}
+directions_car_filled : Icon msg
+directions_car_filled =
+    icon
+        [ enableBackground "new 0 0 24 24", viewBox "0 0 24 24" ]
+        [ g
+            []
+            [ rect
+                [ fill "none" ]
+                []
+            ]
+        , g
+            []
+            [ path
+                [ d "M18.57,5H5.43L3,12v9h3v-2h12v2h3v-9L18.57,5z M7.5,16C6.67,16,6,15.33,6,14.5S6.67,13,7.5,13S9,13.67,9,14.5 S8.33,16,7.5,16z M16.5,16c-0.83,0-1.5-0.67-1.5-1.5s0.67-1.5,1.5-1.5s1.5,0.67,1.5,1.5S17.33,16,16.5,16z M5.81,10l1.04-3h10.29 l1.04,3H5.81z" ]
+                []
+            ]
         ]
 
 
@@ -5218,6 +8379,26 @@ directions_railway =
 
 
 {-| -}
+directions_railway_filled : Icon msg
+directions_railway_filled =
+    icon
+        [ enableBackground "new 0 0 24 24", viewBox "0 0 24 24" ]
+        [ g
+            []
+            [ rect
+                [ fill "none" ]
+                []
+            ]
+        , g
+            []
+            [ path
+                [ d "M12,2C8,2,4,2.5,4,6v9.5C4,17.43,5.57,19,7.5,19L6,20v1h12v-1l-1.5-1c1.93,0,3.5-1.57,3.5-3.5 V6C20,2.5,16.42,2,12,2z M12,16c-0.83,0-1.5-0.67-1.5-1.5S11.17,13,12,13s1.5,0.67,1.5,1.5S12.83,16,12,16z M18,10H6V7h12V10z", enableBackground "new" ]
+                []
+            ]
+        ]
+
+
+{-| -}
 directions_run : Icon msg
 directions_run =
     icon
@@ -5246,6 +8427,26 @@ directions_subway =
 
 
 {-| -}
+directions_subway_filled : Icon msg
+directions_subway_filled =
+    icon
+        [ enableBackground "new 0 0 24 24", viewBox "0 0 24 24" ]
+        [ g
+            []
+            [ rect
+                [ fill "none" ]
+                []
+            ]
+        , g
+            []
+            [ path
+                [ d "M12,2C8,2,4,2.5,4,6v9.5C4,17.43,5.57,19,7.5,19L6,20v1h12v-1l-1.5-1c1.93,0,3.5-1.57,3.5-3.5V6C20,2.5,16.42,2,12,2z M8.5,16C7.67,16,7,15.33,7,14.5S7.67,13,8.5,13s1.5,0.67,1.5,1.5S9.33,16,8.5,16z M11,10H6V7h5V10z M15.5,16 c-0.83,0-1.5-0.67-1.5-1.5s0.67-1.5,1.5-1.5s1.5,0.67,1.5,1.5S16.33,16,15.5,16z M18,10h-5V7h5V10z" ]
+                []
+            ]
+        ]
+
+
+{-| -}
 directions_transit : Icon msg
 directions_transit =
     icon
@@ -5260,6 +8461,26 @@ directions_transit =
 
 
 {-| -}
+directions_transit_filled : Icon msg
+directions_transit_filled =
+    icon
+        [ enableBackground "new 0 0 24 24", viewBox "0 0 24 24" ]
+        [ g
+            []
+            [ rect
+                [ fill "none" ]
+                []
+            ]
+        , g
+            []
+            [ path
+                [ d "M12,2C8,2,4,2.5,4,6v9.5C4,17.43,5.57,19,7.5,19L6,20v1h12v-1l-1.5-1c1.93,0,3.5-1.57,3.5-3.5V6C20,2.5,16.42,2,12,2z M8.5,16C7.67,16,7,15.33,7,14.5S7.67,13,8.5,13s1.5,0.67,1.5,1.5S9.33,16,8.5,16z M11,10H6V7h5V10z M15.5,16 c-0.83,0-1.5-0.67-1.5-1.5s0.67-1.5,1.5-1.5s1.5,0.67,1.5,1.5S16.33,16,15.5,16z M18,10h-5V7h5V10z" ]
+                []
+            ]
+        ]
+
+
+{-| -}
 directions_walk : Icon msg
 directions_walk =
     icon
@@ -5270,6 +8491,26 @@ directions_walk =
         , path
             [ d "M13.5 5.5c1.1 0 2-.9 2-2s-.9-2-2-2-2 .9-2 2 .9 2 2 2zM9.8 8.9L7 23h2.1l1.8-8 2.1 2v6h2v-7.5l-2.1-2 .6-3C14.8 12 16.8 13 19 13v-2c-1.9 0-3.5-1-4.3-2.4l-1-1.6c-.56-.89-1.68-1.25-2.65-.84L6 8.3V13h2V9.6l1.8-.7" ]
             []
+        ]
+
+
+{-| -}
+dirty_lens : Icon msg
+dirty_lens =
+    icon
+        [ enableBackground "new 0 0 24 24", viewBox "0 0 24 24" ]
+        [ g
+            []
+            [ rect
+                [ fill "none" ]
+                []
+            ]
+        , g
+            []
+            [ path
+                [ d "M22,5h-5.17L15,3H9L7.17,5H2v16h20V5z M16.66,16.58c-1.14,1.86-3-1.03-3.81,0.09c-0.39,0.57-0.09,1.49,0.13,2.33 c0,0.47-0.38,0.85-0.85,0.85c-0.47,0-0.86-0.38-0.86-0.85c0.14-0.98,0.42-2.05-0.16-2.43c-0.89-0.59-1.27,2.06-2.8,1.35 c-1.39-1.12,1.05-1.29,0.5-3.27c-0.22-0.79-2.28,0.36-2.4-1.24c-0.08-1,1.49-0.74,1.51-1.49c0.03-0.75-1.03-1.05-0.25-1.91 c0.22-0.24,0.71-0.26,0.91-0.19c0.79,0.27,1.55,1.82,2.51,1.19c1.03-0.66-1.88-2.35,0-2.86c1.64-0.44,1.31,2.08,2.65,2.44 c1.94,0.52,2.65-4.55,4.41-2.33c1.85,2.33-3.43,2.27-2.85,4.01c0.34,1.01,2.15-1.2,2.76,0.53c0.64,1.83-3.09,0.82-3.04,1.66 C15.08,15.29,17.43,15.01,16.66,16.58z M18.14,18.01c-0.47,0-0.86-0.38-0.86-0.86s0.38-0.86,0.86-0.86c0.47,0,0.86,0.38,0.86,0.86 S18.62,18.01,18.14,18.01z" ]
+                []
+            ]
         ]
 
 
@@ -5312,6 +8553,180 @@ dns =
         , path
             [ d "M21 13H3v8h18v-8zM7 19c-1.1 0-2-.9-2-2s.9-2 2-2 2 .9 2 2-.9 2-2 2zM21 3H3v8h18V3zM7 9c-1.1 0-2-.9-2-2s.9-2 2-2 2 .9 2 2-.9 2-2 2z" ]
             []
+        ]
+
+
+{-| -}
+do_disturb : Icon msg
+do_disturb =
+    icon
+        [ viewBox "0 0 24 24" ]
+        [ path
+            [ d "M0 0h24v24H0V0z", fill "none" ]
+            []
+        , path
+            [ d "M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm0 18c-4.42 0-8-3.58-8-8 0-1.85.63-3.55 1.69-4.9L16.9 18.31C15.55 19.37 13.85 20 12 20zm6.31-3.1L7.1 5.69C8.45 4.63 10.15 4 12 4c4.42 0 8 3.58 8 8 0 1.85-.63 3.55-1.69 4.9z" ]
+            []
+        ]
+
+
+{-| -}
+do_disturb_alt : Icon msg
+do_disturb_alt =
+    icon
+        [ viewBox "0 0 24 24" ]
+        [ path
+            [ d "M0 0h24v24H0z", fill "none" ]
+            []
+        , path
+            [ d "M12 2C6.5 2 2 6.5 2 12s4.5 10 10 10 10-4.5 10-10S17.5 2 12 2zM4 12c0-4.4 3.6-8 8-8 1.8 0 3.5.6 4.9 1.7L5.7 16.9C4.6 15.5 4 13.8 4 12zm8 8c-1.8 0-3.5-.6-4.9-1.7L18.3 7.1C19.4 8.5 20 10.2 20 12c0 4.4-3.6 8-8 8z" ]
+            []
+        ]
+
+
+{-| -}
+do_disturb_off : Icon msg
+do_disturb_off =
+    icon
+        [ viewBox "0 0 24 24" ]
+        [ path
+            [ d "M0 0h24v24H0V0z", fill "none" ]
+            []
+        , path
+            [ d "M17 11v2h-.88l4.33 4.33C21.43 15.79 22 13.96 22 12c0-5.52-4.48-10-10-10-1.96 0-3.79.57-5.33 1.55L14.12 11H17zM2.41 2.13L1 3.54l2.78 2.78C2.66 7.93 2 9.89 2 12c0 5.52 4.48 10 10 10 2.11 0 4.07-.66 5.68-1.78L20.46 23l1.41-1.41L2.41 2.13zM7 13v-2h1.46l2 2H7z" ]
+            []
+        ]
+
+
+{-| -}
+do_disturb_on : Icon msg
+do_disturb_on =
+    icon
+        [ viewBox "0 0 24 24" ]
+        [ path
+            [ d "M0 0h24v24H0V0z", fill "none" ]
+            []
+        , path
+            [ d "M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm5 11H7v-2h10v2z" ]
+            []
+        ]
+
+
+{-| -}
+do_not_disturb : Icon msg
+do_not_disturb =
+    icon
+        [ enableBackground "new 0 0 24 24", viewBox "0 0 24 24" ]
+        [ g
+            []
+            [ rect
+                [ fill "none" ]
+                []
+            ]
+        , g
+            []
+            [ g
+                []
+                [ g
+                    []
+                    [ path
+                        [ d "M12,2C6.48,2,2,6.48,2,12s4.48,10,10,10s10-4.48,10-10S17.52,2,12,2z M12,20c-4.42,0-8-3.58-8-8 c0-1.85,0.63-3.55,1.69-4.9L16.9,18.31C15.55,19.37,13.85,20,12,20z M18.31,16.9L7.1,5.69C8.45,4.63,10.15,4,12,4 c4.42,0,8,3.58,8,8C20,13.85,19.37,15.55,18.31,16.9z" ]
+                        []
+                    ]
+                ]
+            ]
+        ]
+
+
+{-| -}
+do_not_disturb_alt : Icon msg
+do_not_disturb_alt =
+    icon
+        [ enableBackground "new 0 0 24 24", viewBox "0 0 24 24" ]
+        [ g
+            []
+            [ rect
+                [ fill "none" ]
+                []
+            ]
+        , g
+            []
+            [ g
+                []
+                [ g
+                    []
+                    [ path
+                        [ d "M12,2C6.5,2,2,6.5,2,12s4.5,10,10,10s10-4.5,10-10S17.5,2,12,2z M4,12c0-4.4,3.6-8,8-8c1.8,0,3.5,0.6,4.9,1.7L5.7,16.9 C4.6,15.5,4,13.8,4,12z M12,20c-1.8,0-3.5-0.6-4.9-1.7L18.3,7.1C19.4,8.5,20,10.2,20,12C20,16.4,16.4,20,12,20z" ]
+                        []
+                    ]
+                ]
+            ]
+        ]
+
+
+{-| -}
+do_not_disturb_off : Icon msg
+do_not_disturb_off =
+    icon
+        [ enableBackground "new 0 0 24 24", viewBox "0 0 24 24" ]
+        [ g
+            []
+            [ rect
+                [ fill "none" ]
+                []
+            ]
+        , g
+            []
+            [ path
+                [ d "M17,11v2h-1.17l4.51,4.51C21.39,15.93,22,14.04,22,12c0-5.52-4.48-10-10-10C9.96,2,8.07,2.61,6.49,3.66L13.83,11H17z M1.39,4.22l2.27,2.27C2.61,8.07,2,9.96,2,12c0,5.52,4.48,10,10,10c2.04,0,3.93-0.61,5.51-1.66l2.27,2.27l1.41-1.41L2.81,2.81 L1.39,4.22z M7,11h1.17l2,2H7V11z" ]
+                []
+            ]
+        ]
+
+
+{-| -}
+do_not_disturb_on : Icon msg
+do_not_disturb_on =
+    icon
+        [ enableBackground "new 0 0 24 24", viewBox "0 0 24 24" ]
+        [ g
+            []
+            [ rect
+                [ fill "none" ]
+                []
+            ]
+        , g
+            []
+            [ g
+                []
+                [ path
+                    [ d "M12,2C6.48,2,2,6.48,2,12s4.48,10,10,10s10-4.48,10-10S17.52,2,12,2z M17,13H7v-2h10V13z" ]
+                    []
+                ]
+            ]
+        ]
+
+
+{-| -}
+do_not_disturb_on_total_silence : Icon msg
+do_not_disturb_on_total_silence =
+    icon
+        [ enableBackground "new 0 0 24 24", viewBox "0 0 24 24" ]
+        [ g
+            []
+            [ path
+                [ d "M0,0h24v24H0V0z", fill "none" ]
+                []
+            ]
+        , g
+            []
+            [ g
+                []
+                [ path
+                    [ d "M12,2C6.48,2,2,6.48,2,12s4.48,10,10,10s10-4.48,10-10S17.52,2,12,2z M12,20c-4.41,0-8-3.59-8-8s3.59-8,8-8s8,3.59,8,8 S16.41,20,12,20z M12,6c-3.3,0-6,2.7-6,6s2.7,6,6,6s6-2.7,6-6S15.4,6,12,6z M15,13H9v-2h6V13z" ]
+                    []
+                ]
+            ]
         ]
 
 
@@ -5488,6 +8903,86 @@ donut_small =
 
 
 {-| -}
+door_back : Icon msg
+door_back =
+    icon
+        [ enableBackground "new 0 0 24 24", viewBox "0 0 24 24" ]
+        [ g
+            []
+            [ path
+                [ d "M0,0h24v24H0V0z", fill "none" ]
+                []
+            ]
+        , g
+            []
+            [ path
+                [ d "M19,19V3H5v16H3v2h18v-2H19z M11,13H9v-2h2V13z" ]
+                []
+            ]
+        ]
+
+
+{-| -}
+door_front : Icon msg
+door_front =
+    icon
+        [ enableBackground "new 0 0 24 24", viewBox "0 0 24 24" ]
+        [ g
+            []
+            [ path
+                [ d "M0,0h24v24H0V0z", fill "none" ]
+                []
+            ]
+        , g
+            []
+            [ path
+                [ d "M19,19V3H5v16H3v2h18v-2H19z M15,13h-2v-2h2V13z" ]
+                []
+            ]
+        ]
+
+
+{-| -}
+door_sliding : Icon msg
+door_sliding =
+    icon
+        [ enableBackground "new 0 0 24 24", viewBox "0 0 24 24" ]
+        [ g
+            []
+            [ path
+                [ d "M0,0h24v24H0V0z", fill "none" ]
+                []
+            ]
+        , g
+            []
+            [ path
+                [ d "M20,19V3h-7.25v16h-1.5V3H4v16H3v2h18v-2H20z M10,13H8v-2h2V13z M16,13h-2v-2h2V13z" ]
+                []
+            ]
+        ]
+
+
+{-| -}
+doorbell : Icon msg
+doorbell =
+    icon
+        [ enableBackground "new 0 0 24 24", viewBox "0 0 24 24" ]
+        [ g
+            []
+            [ path
+                [ d "M0,0h24v24H0V0z", fill "none" ]
+                []
+            ]
+        , g
+            []
+            [ path
+                [ d "M12,3L4,9v12h16V9L12,3z M12,17.5c-0.55,0-1-0.45-1-1h2C13,17.05,12.55,17.5,12,17.5z M16,16H8v-1h1v-2.34 c0-1.54,0.82-2.82,2.25-3.16v-1h1.5v1C14.19,9.84,15,11.12,15,12.66V15h1V16z" ]
+                []
+            ]
+        ]
+
+
+{-| -}
 double_arrow : Icon msg
 double_arrow =
     icon
@@ -5507,6 +9002,91 @@ double_arrow =
                     []
                 , polygon
                     [ points "8.5,5 4,5 9,12 4,19 8.5,19 13.5,12" ]
+                    []
+                ]
+            ]
+        ]
+
+
+{-| -}
+downhill_skiing : Icon msg
+downhill_skiing =
+    icon
+        [ enableBackground "new 0 0 24 24", viewBox "0 0 24 24" ]
+        [ rect
+            [ fill "none" ]
+            []
+        , path
+            [ d "M18.5,4.5c0,1.1-0.9,2-2,2s-2-0.9-2-2s0.9-2,2-2S18.5,3.4,18.5,4.5z M15.78,20.9l0.76,0.27c0.62,0.21,1.27,0.33,1.96,0.33 c0.84,0,1.65-0.18,2.38-0.5L22,22.13C20.95,22.68,19.76,23,18.5,23c-0.86,0-1.68-0.14-2.45-0.41L2,17.47l0.5-1.41l6.9,2.51 l1.72-4.44L7.55,10.4C6.66,9.46,6.88,7.93,8,7.28l3.48-2.01c1.1-0.64,2.52-0.1,2.91,1.11l0.33,1.08c0.44,1.42,1.48,2.57,2.83,3.14 L18.07,9l1.43,0.46l-1.12,3.45c-2.45-0.4-4.48-2.07-5.38-4.32l-2.53,1.45l3.03,3.46l-2.22,5.76l3.09,1.12l2.1-6.44h0l0,0 c0.46,0.18,0.94,0.31,1.44,0.41L15.78,20.9z" ]
+            []
+        ]
+
+
+{-| -}
+download : Icon msg
+download =
+    icon
+        [ viewBox "0 0 24 24" ]
+        [ path
+            [ d "M0 0h24v24H0V0z", fill "none" ]
+            []
+        , path
+            [ d "M19 9h-4V3H9v6H5l7 7 7-7zM5 18v2h14v-2H5z" ]
+            []
+        ]
+
+
+{-| -}
+download_done : Icon msg
+download_done =
+    icon
+        [ viewBox "0 0 24 24" ]
+        [ path
+            [ d "M0 0h24v24H0V0z", fill "none" ]
+            []
+        , path
+            [ d "M5 18h14v2H5v-2zm4.6-2.7L5 10.7l2-1.9 2.6 2.6L17 4l2 2-9.4 9.3z" ]
+            []
+        ]
+
+
+{-| -}
+download_for_offline : Icon msg
+download_for_offline =
+    icon
+        [ enableBackground "new 0 0 24 24", viewBox "0 0 24 24" ]
+        [ g
+            []
+            [ rect
+                [ fill "none" ]
+                []
+            ]
+        , g
+            []
+            [ path
+                [ d "M12,2C6.49,2,2,6.49,2,12s4.49,10,10,10s10-4.49,10-10S17.51,2,12,2z M11,10V6h2v4h3l-4,4l-4-4H11z M17,17H7v-2h10V17z" ]
+                []
+            ]
+        ]
+
+
+{-| -}
+downloading : Icon msg
+downloading =
+    icon
+        [ enableBackground "new 0 0 24 24", viewBox "0 0 24 24" ]
+        [ g
+            []
+            [ rect
+                [ fill "none" ]
+                []
+            ]
+        , g
+            []
+            [ g
+                []
+                [ path
+                    [ d "M18.32,4.26C16.84,3.05,15.01,2.25,13,2.05v2.02c1.46,0.18,2.79,0.76,3.9,1.62L18.32,4.26z M19.93,11h2.02 c-0.2-2.01-1-3.84-2.21-5.32L18.31,7.1C19.17,8.21,19.75,9.54,19.93,11z M18.31,16.9l1.43,1.43c1.21-1.48,2.01-3.32,2.21-5.32 h-2.02C19.75,14.46,19.17,15.79,18.31,16.9z M13,19.93v2.02c2.01-0.2,3.84-1,5.32-2.21l-1.43-1.43 C15.79,19.17,14.46,19.75,13,19.93z M13,12V7h-2v5H7l5,5l5-5H13z M11,19.93v2.02c-5.05-0.5-9-4.76-9-9.95s3.95-9.45,9-9.95v2.02 C7.05,4.56,4,7.92,4,12S7.05,19.44,11,19.93z" ]
                     []
                 ]
             ]
@@ -5567,6 +9147,75 @@ drive_eta =
 
 
 {-| -}
+drive_file_move : Icon msg
+drive_file_move =
+    icon
+        [ enableBackground "new 0 0 24 24", viewBox "0 0 24 24" ]
+        [ g
+            []
+            [ rect
+                [ fill "none" ]
+                []
+            ]
+        , g
+            []
+            [ path
+                [ d "M22,6H12l-2-2H2v16h20V6z M12,17v-3H8v-2h4V9l4,4L12,17z" ]
+                []
+            ]
+        ]
+
+
+{-| -}
+drive_file_rename_outline : Icon msg
+drive_file_rename_outline =
+    icon
+        [ enableBackground "new 0 0 24 24", viewBox "0 0 24 24" ]
+        [ g
+            []
+            [ rect
+                [ fill "none" ]
+                []
+            ]
+        , g
+            []
+            [ g
+                []
+                [ polygon
+                    [ points "15,16 11,20 21,20 21,16" ]
+                    []
+                , polygon
+                    [ points "12.06,7.19 3,16.25 3,20 6.75,20 15.81,10.94" ]
+                    []
+                , rect
+                    [ t "matrix(0.7071 -0.7071 0.7071 0.7071 8.257289e-03 13.4765)" ]
+                    []
+                ]
+            ]
+        ]
+
+
+{-| -}
+drive_folder_upload : Icon msg
+drive_folder_upload =
+    icon
+        [ enableBackground "new 0 0 24 24", viewBox "0 0 24 24" ]
+        [ g
+            []
+            [ rect
+                [ fill "none" ]
+                []
+            ]
+        , g
+            []
+            [ path
+                [ d "M22,6H12l-2-2H2v16h20V6z M13,13v4h-2v-4H8l4.01-4L16,13H13z" ]
+                []
+            ]
+        ]
+
+
+{-| -}
 dry : Icon msg
 dry =
     icon
@@ -5579,6 +9228,29 @@ dry =
             , path
                 [ d "M1,12.68V23h18v-2.5h-7v-1h9V17h-9v-1h10v-2.5H12v-1h8V10H8.86l1.88-3.3L9.12,5L1,12.68z M15.65,4.86l-0.07-0.07 c-0.57-0.62-0.82-1.41-0.67-2.2L15,2h-1.89l-0.06,0.43c-0.2,1.36,0.27,2.71,1.3,3.72l0.07,0.06c0.57,0.62,0.82,1.41,0.67,2.2 L14.98,9h1.91l0.06-0.43C17.16,7.21,16.68,5.86,15.65,4.86z M19.65,4.86l-0.07-0.07c-0.57-0.62-0.82-1.41-0.67-2.2L19,2h-1.89 l-0.06,0.43c-0.2,1.36,0.27,2.71,1.3,3.72l0.07,0.06c0.57,0.62,0.82,1.41,0.67,2.2L18.98,9h1.91l0.06-0.43 C21.16,7.21,20.68,5.86,19.65,4.86z" ]
                 []
+            ]
+        ]
+
+
+{-| -}
+dry_cleaning : Icon msg
+dry_cleaning =
+    icon
+        [ enableBackground "new 0 0 24 24", viewBox "0 0 24 24" ]
+        [ g
+            []
+            [ rect
+                [ fill "none" ]
+                []
+            ]
+        , g
+            []
+            [ g
+                []
+                [ path
+                    [ d "M21,12l-8-3.56V6h-1c-0.55,0-1-0.45-1-1s0.45-1,1-1s1,0.45,1,1h2c0-1.84-1.66-3.3-3.56-2.95 C10.26,2.27,9.29,3.22,9.06,4.4C8.76,5.96,9.66,7.34,11,7.82v0.63l-8,3.56L3,16h4v6h10v-6h4V12z M19,14h-2v-1H7v1H5v-0.7l7-3.11 l7,3.11V14z" ]
+                    []
+                ]
             ]
         ]
 
@@ -5679,6 +9351,84 @@ dynamic_form =
 
 
 {-| -}
+e_mobiledata : Icon msg
+e_mobiledata =
+    icon
+        [ enableBackground "new 0 0 24 24", viewBox "0 0 24 24" ]
+        [ g
+            []
+            [ path
+                [ d "M0,0h24v24H0V0z", fill "none" ]
+                []
+            ]
+        , g
+            []
+            [ g
+                []
+                [ path
+                    [ d "M16,9V7H8v10h8v-2h-6v-2h6v-2h-6V9H16z" ]
+                    []
+                ]
+            ]
+        ]
+
+
+{-| -}
+earbuds : Icon msg
+earbuds =
+    icon
+        [ enableBackground "new 0 0 24 24", viewBox "0 0 24 24" ]
+        [ g
+            []
+            [ rect
+                [ fill "none" ]
+                []
+            ]
+        , g
+            []
+            [ g
+                []
+                [ path
+                    [ d "M6.2,3.01C4.44,2.89,3,4.42,3,6.19L3,16c0,2.76,2.24,5,5,5h0c2.76,0,5-2.24,5-5V8c0-1.66,1.34-3,3-3h0c1.66,0,3,1.34,3,3 v7l-0.83,0c-1.61,0-3.06,1.18-3.17,2.79c-0.12,1.69,1.16,3.1,2.8,3.21c1.76,0.12,3.2-1.42,3.2-3.18L21,8c0-2.76-2.24-5-5-5h0 c-2.76,0-5,2.24-5,5v8c0,1.66-1.34,3-3,3l0,0c-1.66,0-3-1.34-3-3V9l0.83,0C7.44,9,8.89,7.82,9,6.21C9.11,4.53,7.83,3.11,6.2,3.01z" ]
+                    []
+                ]
+            , rect
+                []
+                []
+            , rect
+                []
+                []
+            ]
+        ]
+
+
+{-| -}
+earbuds_battery : Icon msg
+earbuds_battery =
+    icon
+        [ enableBackground "new 0 0 24 24", viewBox "0 0 24 24" ]
+        [ g
+            []
+            [ rect
+                [ fill "none" ]
+                []
+            ]
+        , g
+            []
+            [ g
+                []
+                [ polygon
+                    [ points "20,7 20,6 18,6 18,7 16,7 16,18 22,18 22,7" ]
+                    []
+                , path
+                    [ d "M5.38,16.5L5.38,16.5c-1.04,0-1.88-0.84-1.88-1.87V10H6V6H4C2.9,6,2,6.9,2,8v6.63C2,16.49,3.51,18,5.37,18h0 c1.86,0,3.37-1.51,3.37-3.37V9.37c0-1.04,0.84-1.87,1.87-1.87h0c1.04,0,1.87,0.84,1.87,1.87V14H10v4h2c1.1,0,2-0.9,2-2V9.37 C14,7.51,12.49,6,10.63,6h0C8.76,6,7.25,7.51,7.25,9.37v5.25C7.25,15.66,6.41,16.5,5.38,16.5z" ]
+                    []
+                ]
+            ]
+        ]
+
+
+{-| -}
 east : Icon msg
 east =
     icon
@@ -5709,6 +9459,52 @@ eco =
                 []
                 [ path
                     [ d "M6.05,8.05c-2.73,2.73-2.73,7.15-0.02,9.88c1.47-3.4,4.09-6.24,7.36-7.93c-2.77,2.34-4.71,5.61-5.39,9.32 c2.6,1.23,5.8,0.78,7.95-1.37C19.43,14.47,20,4,20,4S9.53,4.57,6.05,8.05z" ]
+                    []
+                ]
+            ]
+        ]
+
+
+{-| -}
+edgesensor_high : Icon msg
+edgesensor_high =
+    icon
+        [ enableBackground "new 0 0 24 24", viewBox "0 0 24 24" ]
+        [ g
+            []
+            [ path
+                [ d "M0,0h24v24H0V0z", fill "none" ]
+                []
+            ]
+        , g
+            []
+            [ g
+                []
+                [ path
+                    [ d "M3,7h2v7H3V7z M0,10h2v7H0V10z M22,7h2v7h-2V7z M19,10h2v7h-2V10z M18,2H6v20h12V2z M16,17H8V7h8V17z" ]
+                    []
+                ]
+            ]
+        ]
+
+
+{-| -}
+edgesensor_low : Icon msg
+edgesensor_low =
+    icon
+        [ enableBackground "new 0 0 24 24", viewBox "0 0 24 24" ]
+        [ g
+            []
+            [ path
+                [ d "M0,0h24v24H0V0z", fill "none" ]
+                []
+            ]
+        , g
+            []
+            [ g
+                []
+                [ path
+                    [ d "M2,7h2v7H2V7z M20,10h2v7h-2V10z M6,2v20h12V2H6z M16,17H8V7h8V17z" ]
                     []
                 ]
             ]
@@ -5754,6 +9550,66 @@ edit_location =
         , path
             [ d "M18.11 1.77L19.78.1l2.12 2.12-1.67 1.67-2.12-2.12zm-1 1l2.12 2.12L13.12 11H11V8.89l6.11-6.12zm-1.98-.13L9.5 8.27v4.24h4.24l5.62-5.62c.41.99.64 2.1.64 3.32 0 3.32-2.67 7.25-8 11.8-5.33-4.55-8-8.48-8-11.8 0-4.98 3.8-8.2 8-8.2 1.09 0 2.16.22 3.13.63z" ]
             []
+        ]
+
+
+{-| -}
+edit_location_alt : Icon msg
+edit_location_alt =
+    icon
+        [ enableBackground "new 0 0 24 24", viewBox "0 0 24 24" ]
+        [ g
+            []
+            [ rect
+                [ fill "none" ]
+                []
+            ]
+        , g
+            []
+            [ path
+                [ d "M13.95,13H9V8.05l5.61-5.61C13.78,2.16,12.9,2,12,2c-4.2,0-8,3.22-8,8.2c0,3.32,2.67,7.25,8,11.8c5.33-4.55,8-8.48,8-11.8 c0-1.01-0.16-1.94-0.45-2.8L13.95,13z M11,11h2.12l6.16-6.16l-2.12-2.12L11,8.88V11z M19.29,0.59l-1.42,1.42l2.12,2.12l1.42-1.42 L19.29,0.59z" ]
+                []
+            ]
+        ]
+
+
+{-| -}
+edit_notifications : Icon msg
+edit_notifications =
+    icon
+        [ enableBackground "new 0 0 24 24", viewBox "0 0 24 24" ]
+        [ rect
+            [ fill "none" ]
+            []
+        , g
+            []
+            [ path
+                [ d "M17.58,6.25l1.77,1.77L14.37,13H12.6v-1.77L17.58,6.25z M20.85,5.81l-1.06-1.06c-0.2-0.2-0.51-0.2-0.71,0l-0.85,0.85 l1.77,1.77l0.85-0.85C21.05,6.32,21.05,6,20.85,5.81z M18,12.2V17h2v2H4v-2h2v-7c0-2.79,1.91-5.14,4.5-5.8V2h3v2.2 c0.82,0.21,1.57,0.59,2.21,1.09L10.6,10.4V15h4.6L18,12.2z M10,20h4c0,1.1-0.9,2-2,2S10,21.1,10,20z" ]
+                []
+            ]
+        ]
+
+
+{-| -}
+edit_off : Icon msg
+edit_off =
+    icon
+        [ enableBackground "new 0 0 24 24", viewBox "0 0 24 24" ]
+        [ g
+            []
+            [ path
+                [ d "M0,0h24v24H0V0z", fill "none" ]
+                []
+            ]
+        , g
+            []
+            [ g
+                []
+                [ path
+                    [ d "M21.41,6.33l-3.75-3.75l-2.53,2.54l3.75,3.75L21.41,6.33z M1.39,4.22l7.32,7.32L3,17.25V21h3.75l5.71-5.71l7.32,7.32 l1.41-1.41L2.81,2.81L1.39,4.22z M17.81,9.94l-3.75-3.75l-2.52,2.52l3.75,3.75L17.81,9.94z" ]
+                    []
+                ]
+            ]
         ]
 
 
@@ -5900,6 +9756,32 @@ electric_moped =
             , polygon
                 [ points "7,20 11,20 11,18 17,21 13,21 13,23" ]
                 []
+            ]
+        ]
+
+
+{-| -}
+electric_rickshaw : Icon msg
+electric_rickshaw =
+    icon
+        [ enableBackground "new 0 0 24 24", viewBox "0 0 24 24" ]
+        [ g
+            []
+            [ rect
+                [ fill "none" ]
+                []
+            ]
+        , g
+            []
+            [ g
+                []
+                [ path
+                    [ d "M21,11.18V9l-5-6H1v12h2.18C3.6,16.16,4.7,17,6,17s2.4-0.84,2.82-2h8.37c0.48,1.34,1.86,2.25,3.42,1.94 c1.16-0.23,2.11-1.17,2.33-2.33C23.25,13.05,22.34,11.66,21,11.18z M18.4,9H16V6.12L18.4,9z M3,5h4v4H3V5z M6,15 c-0.55,0-1-0.45-1-1s0.45-1,1-1s1,0.45,1,1S6.55,15,6,15z M9,13v-2h3V9H9V5h5v8H9z M20,15c-0.55,0-1-0.45-1-1s0.45-1,1-1 s1,0.45,1,1S20.55,15,20,15z" ]
+                    []
+                , polygon
+                    [ points "7,20 11,20 11,18 17,21 13,21 13,23" ]
+                    []
+                ]
             ]
         ]
 
@@ -6512,6 +10394,26 @@ exit_to_app =
 
 
 {-| -}
+expand : Icon msg
+expand =
+    icon
+        [ enableBackground "new 0 0 24 24", viewBox "0 0 24 24" ]
+        [ g
+            []
+            [ path
+                [ d "M0,0h24v24H0V0z", fill "none" ]
+                []
+            ]
+        , g
+            []
+            [ path
+                [ d "M4,20h16v2H4V20z M4,2h16v2H4V2z M13,9h3l-4-4L8,9h3v6H8l4,4l4-4h-3V9z" ]
+                []
+            ]
+        ]
+
+
+{-| -}
 expand_less : Icon msg
 expand_less =
     icon
@@ -6680,6 +10582,20 @@ extension =
 
 
 {-| -}
+extension_off : Icon msg
+extension_off =
+    icon
+        [ enableBackground "new 0 0 24 24", viewBox "0 0 24 24" ]
+        [ rect
+            [ fill "none" ]
+            []
+        , path
+            [ d "M19.78,22.61l-1.63-1.63C18.1,20.98,18.05,21,18,21h-3.8c0-2.71-2.16-3-2.7-3s-2.7,0.29-2.7,3H3v-5.8c2.71,0,3-2.16,3-2.7 c0-0.54-0.3-2.7-2.99-2.7V6c0-0.05,0.02-0.09,0.02-0.14L1.39,4.22l1.41-1.41l18.38,18.38L19.78,22.61z M20,17.17V15 c1.38,0,2.5-1.12,2.5-2.5S21.38,10,20,10V4h-6c0-1.38-1.12-2.5-2.5-2.5S9,2.62,9,4H6.83L20,17.17z" ]
+            []
+        ]
+
+
+{-| -}
 face : Icon msg
 face =
     icon
@@ -6690,6 +10606,67 @@ face =
         , path
             [ d "M9 11.75c-.69 0-1.25.56-1.25 1.25s.56 1.25 1.25 1.25 1.25-.56 1.25-1.25-.56-1.25-1.25-1.25zm6 0c-.69 0-1.25.56-1.25 1.25s.56 1.25 1.25 1.25 1.25-.56 1.25-1.25-.56-1.25-1.25-1.25zM12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm0 18c-4.41 0-8-3.59-8-8 0-.29.02-.58.05-.86 2.36-1.05 4.23-2.98 5.21-5.37C11.07 8.33 14.05 10 17.42 10c.78 0 1.53-.09 2.25-.26.21.71.33 1.47.33 2.26 0 4.41-3.59 8-8 8z" ]
             []
+        ]
+
+
+{-| -}
+face_retouching_natural : Icon msg
+face_retouching_natural =
+    icon
+        [ enableBackground "new 0 0 24 24", viewBox "0 0 24 24" ]
+        [ g
+            []
+            [ rect
+                [ fill "none" ]
+                []
+            ]
+        , g
+            []
+            [ g
+                []
+                [ circle
+                    [ cx "9", cy "13", r "1.25" ]
+                    []
+                , path
+                    [ d "M19.85,10.59C20.79,15.4,17.01,20,12,20c-4.41,0-8-3.59-8-8c0-0.39,3.87-1.12,5.74-5.69c3.42,4.19,8.07,3.73,9.09,3.59 l-1.48-3.25L12.63,4.5l3.5-1.59C9.51-0.14,2,4.77,2,12c0,5.52,4.48,10,10,10c7.21,0,12.12-7.45,9.1-14.13L19.85,10.59z" ]
+                    []
+                , circle
+                    [ cx "15", cy "13", r "1.25" ]
+                    []
+                , path
+                    [ d "M20.6,5.6L19.5,8l-1.1-2.4L16,4.5l2.4-1.1L19.5,1l1.1,2.4L23,4.5L20.6,5.6z" ]
+                    []
+                ]
+            ]
+        ]
+
+
+{-| -}
+face_retouching_off : Icon msg
+face_retouching_off =
+    icon
+        [ enableBackground "new 0 0 24 24", viewBox "0 0 24 24" ]
+        [ g
+            []
+            [ rect
+                [ fill "none" ]
+                []
+            ]
+        , g
+            []
+            [ g
+                []
+                [ circle
+                    [ cx "9", cy "13", r "1.25" ]
+                    []
+                , path
+                    [ d "M17.5,10c0.75,0,1.47-0.09,2.17-0.24C19.88,10.47,20,11.22,20,12c0,1.22-0.28,2.37-0.77,3.4l1.49,1.49 C21.53,15.44,22,13.78,22,12c0-5.52-4.48-10-10-10c-1.78,0-3.44,0.47-4.89,1.28l5.33,5.33C13.93,9.49,15.65,10,17.5,10z" ]
+                    []
+                , path
+                    [ d "M1.89,3.72l2.19,2.19C2.78,7.6,2,9.71,2,12c0,5.52,4.48,10,10,10c2.29,0,4.4-0.78,6.09-2.08l2.19,2.19l1.41-1.41 L3.31,2.31L1.89,3.72z M16.66,18.49C15.35,19.44,13.74,20,12,20c-4.41,0-8-3.59-8-8c0-0.05,0.01-0.1,0-0.14 c1.39-0.52,2.63-1.35,3.64-2.39L16.66,18.49z" ]
+                    []
+                ]
+            ]
         ]
 
 
@@ -6858,6 +10835,26 @@ featured_video =
 
 
 {-| -}
+feed : Icon msg
+feed =
+    icon
+        [ enableBackground "new 0 0 24 24", viewBox "0 0 24 24" ]
+        [ g
+            []
+            [ path
+                [ d "M0,0h24v24H0V0z", fill "none" ]
+                []
+            ]
+        , g
+            []
+            [ path
+                [ d "M16,3H3v18h18V8L16,3z M7,7h5v2H7V7z M17,17H7v-2h10V17z M17,13H7v-2h10V13z M15,9V5l4,4H15z" ]
+                []
+            ]
+        ]
+
+
+{-| -}
 feedback : Icon msg
 feedback =
     icon
@@ -6868,6 +10865,26 @@ feedback =
         , path
             [ d "M22 2H2.01L2 22l4-4h16V2zm-9 12h-2v-2h2v2zm0-4h-2V6h2v4z" ]
             []
+        ]
+
+
+{-| -}
+female : Icon msg
+female =
+    icon
+        [ enableBackground "new 0 0 24 24", viewBox "0 0 24 24" ]
+        [ g
+            []
+            [ rect
+                [ fill "none" ]
+                []
+            ]
+        , g
+            []
+            [ path
+                [ d "M17.5,9.5C17.5,6.46,15.04,4,12,4S6.5,6.46,6.5,9.5c0,2.7,1.94,4.93,4.5,5.4V17H9v2h2v2h2v-2h2v-2h-2v-2.1 C15.56,14.43,17.5,12.2,17.5,9.5z M8.5,9.5C8.5,7.57,10.07,6,12,6s3.5,1.57,3.5,3.5S13.93,13,12,13S8.5,11.43,8.5,9.5z" ]
+                []
+            ]
         ]
 
 
@@ -6886,6 +10903,26 @@ fence =
             []
             [ path
                 [ d "M21,12v-2h-2V7l-3-3l-2,2l-2-2l-2,2L8,4L5,7v3H3v2h2v2H3v2h2v4h14v-4h2v-2h-2v-2H21z M16,6.83l1,1V10h-2V7.83l0.41-0.41 L16,6.83z M12,6.83l0.59,0.59L13,7.83V10h-2V7.83l0.41-0.41L12,6.83z M11,14v-2h2v2H11z M13,16v2h-2v-2H13z M7,7.83l1-1l0.59,0.59 L9,7.83V10H7V7.83z M7,12h2v2H7V12z M7,16h2v2H7V16z M17,18h-2v-2h2V18z M17,14h-2v-2h2V14z" ]
+                []
+            ]
+        ]
+
+
+{-| -}
+festival : Icon msg
+festival =
+    icon
+        [ enableBackground "new 0 0 24 24", viewBox "0 0 24 24" ]
+        [ g
+            []
+            [ rect
+                [ fill "none" ]
+                []
+            ]
+        , g
+            []
+            [ path
+                [ d "M23,11V9c-6-2-11-7-11-7S7,7,1,9v2c0,1.49,0.93,2.75,2.24,3.26C3.2,16.76,2.92,19.69,2,22h5h10h5 c-0.92-2.31-1.2-5.24-1.24-7.74C22.07,13.75,23,12.49,23,11z M12,4.71c1.33,1.14,3.49,2.84,6.11,4.29H5.89 C8.51,7.55,10.67,5.85,12,4.71z M13,11h3c0,0.83-0.67,1.5-1.5,1.5S13,11.83,13,11z M9.5,12.5C8.67,12.5,8,11.83,8,11h3 C11,11.83,10.33,12.5,9.5,12.5z M6,11c0,0.83-0.67,1.5-1.5,1.5S3,11.83,3,11H6z M4.66,20c0.39-1.86,0.54-3.82,0.57-5.58 c0.68-0.15,1.29-0.49,1.76-0.98c0.25,0.25,0.54,0.45,0.85,0.62c-0.1,1.87-0.26,4-0.52,5.93H4.66z M9.35,20 c0.24-1.83,0.39-3.78,0.48-5.53c0.84-0.08,1.61-0.45,2.17-1.02c0.56,0.57,1.32,0.94,2.17,1.02c0.1,1.75,0.24,3.7,0.48,5.53H9.35z M16.67,20c-0.27-1.94-0.43-4.07-0.52-5.93c0.31-0.17,0.61-0.37,0.85-0.62c0.47,0.48,1.08,0.83,1.76,0.98 c0.03,1.76,0.18,3.72,0.57,5.58H16.67z M19.5,12.5c-0.83,0-1.5-0.67-1.5-1.5h3C21,11.83,20.33,12.5,19.5,12.5z" ]
                 []
             ]
         ]
@@ -6975,6 +11012,106 @@ file_copy =
         , path
             [ d "M16 1H2v16h2V3h12V1zm-1 4l6 6v12H6V5h9zm-1 7h5.5L14 6.5V12z" ]
             []
+        ]
+
+
+{-| -}
+file_download : Icon msg
+file_download =
+    icon
+        [ enableBackground "new 0 0 24 24", viewBox "0 0 24 24" ]
+        [ g
+            []
+            [ rect
+                [ fill "none" ]
+                []
+            ]
+        , g
+            []
+            [ path
+                [ d "M19,9h-4V3H9v6H5l7,7L19,9z M5,18v2h14v-2H5z" ]
+                []
+            ]
+        ]
+
+
+{-| -}
+file_download_done : Icon msg
+file_download_done =
+    icon
+        [ enableBackground "new 0 0 24 24", viewBox "0 0 24 24" ]
+        [ g
+            []
+            [ rect
+                [ fill "none" ]
+                []
+            ]
+        , g
+            []
+            [ g
+                []
+                [ polygon
+                    [ points "20.13,5.41 18.72,4 9.53,13.19 5.28,8.95 3.87,10.36 9.53,16.02" ]
+                    []
+                , rect
+                    []
+                    []
+                ]
+            ]
+        ]
+
+
+{-| -}
+file_download_off : Icon msg
+file_download_off =
+    icon
+        [ enableBackground "new 0 0 24 24", viewBox "0 0 24 24" ]
+        [ rect
+            [ fill "none" ]
+            []
+        , path
+            [ d "M9,6.17V3h6v6h4l-3.59,3.59L9,6.17z M21.19,21.19L2.81,2.81L1.39,4.22L6.17,9H5l7,7l0.59-0.59L15.17,18H5v2h12.17l2.61,2.61 L21.19,21.19z" ]
+            []
+        ]
+
+
+{-| -}
+file_present : Icon msg
+file_present =
+    icon
+        [ enableBackground "new 0 0 24 24", viewBox "0 0 24 24" ]
+        [ g
+            []
+            [ path
+                [ d "M0,0h24v24H0V0z", fill "none" ]
+                []
+            ]
+        , g
+            []
+            [ path
+                [ d "M14,2H4v20h16V8L14,2z M16,15c0,2.21-1.79,4-4,4s-4-1.79-4-4V9.5C8,8.12,9.12,7,10.5,7S13,8.12,13,9.5V15h-2V9.5 C11,9.22,10.78,9,10.5,9S10,9.22,10,9.5V15c0,1.1,0.9,2,2,2s2-0.9,2-2v-4h2V15z M14,8V4l4,4H14z" ]
+                []
+            ]
+        ]
+
+
+{-| -}
+file_upload : Icon msg
+file_upload =
+    icon
+        [ enableBackground "new 0 0 24 24", viewBox "0 0 24 24" ]
+        [ g
+            []
+            [ rect
+                [ fill "none" ]
+                []
+            ]
+        , g
+            []
+            [ path
+                [ d "M5,10h4v6h6v-6h4l-7-7L5,10z M5,18v2h14v-2H5z" ]
+                []
+            ]
         ]
 
 
@@ -7372,6 +11509,26 @@ first_page =
 
 
 {-| -}
+fit_screen : Icon msg
+fit_screen =
+    icon
+        [ enableBackground "new 0 0 24 24", viewBox "0 0 24 24" ]
+        [ g
+            []
+            [ path
+                [ d "M0,0h24v24H0V0z", fill "none" ]
+                []
+            ]
+        , g
+            []
+            [ path
+                [ d "M17,4h5v5h-2V6h-3V4z M4,9V6h3V4H2v5H4z M20,15v3h-3v2h5v-5H20z M7,18H4v-3H2v5h5V18z M18,8H6v8h12V8z" ]
+                []
+            ]
+        ]
+
+
+{-| -}
 fitness_center : Icon msg
 fitness_center =
     icon
@@ -7472,6 +11629,81 @@ flash_on =
         , path
             [ d "M7 2v11h3v9l7-12h-4l3-8z" ]
             []
+        ]
+
+
+{-| -}
+flashlight_off : Icon msg
+flashlight_off =
+    icon
+        [ enableBackground "new 0 0 24 24", viewBox "0 0 24 24" ]
+        [ g
+            []
+            [ path
+                [ d "M0,0h24v24H0V0z", fill "none" ]
+                []
+            ]
+        , g
+            []
+            [ g
+                []
+                [ polygon
+                    [ points "18,5 18,2 6,2 6,3.17 7.83,5" ]
+                    []
+                , polygon
+                    [ points "16,11 18,8 18,7 9.83,7 16,13.17" ]
+                    []
+                , path
+                    [ d "M2.81,2.81L1.39,4.22L8,10.83V22h8v-3.17l3.78,3.78l1.41-1.41L2.81,2.81z" ]
+                    []
+                ]
+            ]
+        ]
+
+
+{-| -}
+flashlight_on : Icon msg
+flashlight_on =
+    icon
+        [ enableBackground "new 0 0 24 24", viewBox "0 0 24 24" ]
+        [ g
+            []
+            [ path
+                [ d "M0,0h24v24H0V0z", fill "none" ]
+                []
+            ]
+        , g
+            []
+            [ g
+                []
+                [ rect
+                    []
+                    []
+                , path
+                    [ d "M6,7v1l2,3v11h8V11l2-3V7H6z M12,15.5c-0.83,0-1.5-0.67-1.5-1.5s0.67-1.5,1.5-1.5s1.5,0.67,1.5,1.5S12.83,15.5,12,15.5z" ]
+                    []
+                ]
+            ]
+        ]
+
+
+{-| -}
+flatware : Icon msg
+flatware =
+    icon
+        [ enableBackground "new 0 0 24 24", viewBox "0 0 24 24" ]
+        [ g
+            []
+            [ path
+                [ d "M0,0h24v24H0V0z", fill "none" ]
+                []
+            ]
+        , g
+            []
+            [ path
+                [ d "M16,7.08c0,1.77-0.84,3.25-2,3.82V21h-2V10.9c-1.16-0.57-2-2.05-2-3.82C10.01,4.83,11.35,3,13,3C14.66,3,16,4.83,16,7.08z M17,3v18h2v-8h2V7C21,5.24,19.76,3,17,3z M8.28,3H7.56v4H6.72V3L6,3L5.28,3v4H4.44V3L3.72,3H3v8c0,0,0.9,0,2,0v10h2V11 c1.1,0,2,0,2,0V3L8.28,3z" ]
+                []
+            ]
         ]
 
 
@@ -7612,6 +11844,104 @@ flip_to_front =
 
 
 {-| -}
+flourescent : Icon msg
+flourescent =
+    icon
+        [ enableBackground "new 0 0 24 24", viewBox "0 0 24 24" ]
+        [ g
+            []
+            [ path
+                [ d "M0,0h24v24H0V0z", fill "none" ]
+                []
+            ]
+        , g
+            []
+            [ g
+                []
+                [ rect
+                    []
+                    []
+                , rect
+                    []
+                    []
+                , rect
+                    [ t "matrix(0.7046 -0.7096 0.7096 0.7046 1.1814 15.2381)" ]
+                    []
+                , rect
+                    []
+                    []
+                , polygon
+                    [ points "17.29,17.71 19.08,19.51 20.5,18.09 18.7,16.3" ]
+                    []
+                , rect
+                    [ t "matrix(0.7071 -0.7071 0.7071 0.7071 -2.8904 5.4222)" ]
+                    []
+                , rect
+                    [ t "matrix(0.7096 -0.7046 0.7046 0.7096 -11.1263 8.7897)" ]
+                    []
+                ]
+            ]
+        ]
+
+
+{-| -}
+flutter_dash : Icon msg
+flutter_dash =
+    icon
+        [ enableBackground "new 0 0 24 24", viewBox "0 0 24 24" ]
+        [ rect
+            [ fill "none" ]
+            []
+        , g
+            []
+            [ path
+                [ d "M11.07,11.7c0.29-0.39,0.81-0.56,1.27-0.37c0.17,0.07,0.32,0.18,0.43,0.33c0.22,0.28,0.25,0.59,0.22,0.85 c-0.05,0.33-0.25,0.63-0.54,0.79c0,0-4.87,2.95-5.07,2.69S11.07,11.7,11.07,11.7z M22,10c0,2.5-1,3-1.5,3 c-0.23,0-0.44-0.1-0.62-0.26c-0.48,3.32-2.36,5.31-5.33,5.99c0.11,0.44,0.48,0.77,0.95,0.77l0,0h0.58c0.22,0,0.41,0.15,0.48,0.36 c0.17,0.52,0.66,1.02,1.02,1.32c0.25,0.21,0.24,0.59-0.03,0.78c-0.34,0.24-0.9,0.49-1.79,0.53c-0.18,0.01-0.35-0.07-0.45-0.22 C15.18,22.07,15,21.71,15,21.26c0-0.3,0.04-0.57,0.09-0.8c-0.78-0.16-1.39-0.78-1.55-1.56c-0.49,0.06-1,0.1-1.54,0.1 c-0.88,0-1.7-0.09-2.45-0.25C9.53,18.83,9.5,18.91,9.5,19c0,0.55,0.45,1,1,1l0,0h0.58c0.22,0,0.41,0.15,0.48,0.36 c0.17,0.52,0.66,1.02,1.02,1.32c0.25,0.21,0.24,0.59-0.03,0.78c-0.34,0.24-0.9,0.49-1.79,0.53c-0.18,0.01-0.35-0.07-0.45-0.22 C10.18,22.57,10,22.21,10,21.76c0-0.3,0.04-0.57,0.09-0.8C9.19,20.77,8.5,19.96,8.5,19c0-0.18,0.03-0.36,0.08-0.53 c-2.46-0.86-4.03-2.78-4.46-5.74C3.94,12.9,3.74,13,3.5,13C3,13,2,12.5,2,10c0-2.27,1.7-4.5,3-4.5c0.43,0,0.49,0.49,0.5,0.85 c1.28-1.78,3.26-3.02,5.55-3.29C11.25,2.1,12.13,1.5,13,1.5v1c0,0,0.33-0.5,1-0.5c0.67,0,1,0.5,1,0.5c-0.49,0-0.85,0.35-0.96,0.77 c1.82,0.48,3.39,1.59,4.46,3.08C18.51,5.99,18.57,5.5,19,5.5C20.3,5.5,22,7.73,22,10z M5,11c0,0.81,0.1,1.53,0.25,2.21 c0.18-0.69,0.46-1.33,0.83-1.92c-0.21-0.47-0.34-0.99-0.34-1.54C5.75,7.68,7.43,6,9.5,6c0.96,0,1.84,0.37,2.5,0.97 C12.66,6.37,13.54,6,14.5,6c2.07,0,3.75,1.68,3.75,3.75c0,0.55-0.12,1.07-0.34,1.54c0.37,0.59,0.66,1.24,0.84,1.94 C18.9,12.55,19,11.82,19,11c0-3.86-3.14-7-7-7C8.14,4,5,7.14,5,11z M17.98,15.29c0-0.1,0.02-0.19,0.02-0.29 c0-1.01-0.26-1.95-0.7-2.78c-0.69,0.78-1.68,1.28-2.8,1.28c-0.27,0-0.54-0.03-0.79-0.09c0.14-0.23,0.23-0.49,0.27-0.77 c0.01-0.07,0.01-0.13,0.02-0.19c0.17,0.03,0.33,0.05,0.5,0.05c1.52,0,2.75-1.23,2.75-2.75S16.02,7,14.5,7 c-0.67,0-1.32,0.25-1.83,0.72L12,8.32l-0.67-0.6C10.82,7.25,10.17,7,9.5,7C7.98,7,6.75,8.23,6.75,9.75c0,1.34,0.96,2.46,2.23,2.7 l-0.76,0.83c-0.6-0.22-1.12-0.59-1.53-1.05C6.26,13.06,6,14,6,15c0,0.08,0.01,0.15,0.01,0.24C7.13,17.06,9.14,18,12,18 C14.88,18,16.88,17.09,17.98,15.29z M16,9.75c0,0.97-0.67,1.75-1.5,1.75S13,10.72,13,9.75S13.67,8,14.5,8S16,8.78,16,9.75z M15.25,8.88c0-0.21-0.17-0.38-0.38-0.38S14.5,8.67,14.5,8.88s0.17,0.38,0.38,0.38S15.25,9.08,15.25,8.88z M11,9.75 c0,0.97-0.67,1.75-1.5,1.75S8,10.72,8,9.75S8.67,8,9.5,8S11,8.78,11,9.75z M10.25,8.88c0-0.21-0.17-0.38-0.38-0.38 S9.5,8.67,9.5,8.88s0.17,0.38,0.38,0.38S10.25,9.08,10.25,8.88z" ]
+                []
+            ]
+        ]
+
+
+{-| -}
+fmd_bad : Icon msg
+fmd_bad =
+    icon
+        [ enableBackground "new 0 0 24 24", viewBox "0 0 24 24" ]
+        [ g
+            []
+            [ path
+                [ d "M0,0h24v24H0V0z", fill "none" ]
+                []
+            ]
+        , g
+            []
+            [ path
+                [ d "M12,2c-4.2,0-8,3.22-8,8.2c0,3.32,2.67,7.25,8,11.8c5.33-4.55,8-8.48,8-11.8C20,5.22,16.2,2,12,2z M13,15h-2v-2h2V15z M13,11h-2V6h2V11z" ]
+                []
+            ]
+        ]
+
+
+{-| -}
+fmd_good : Icon msg
+fmd_good =
+    icon
+        [ enableBackground "new 0 0 24 24", viewBox "0 0 24 24" ]
+        [ g
+            []
+            [ path
+                [ d "M0,0h24v24H0V0z", fill "none" ]
+                []
+            ]
+        , g
+            []
+            [ path
+                [ d "M12,2c-4.2,0-8,3.22-8,8.2c0,3.32,2.67,7.25,8,11.8c5.33-4.55,8-8.48,8-11.8C20,5.22,16.2,2,12,2z M12,12c-1.1,0-2-0.9-2-2 c0-1.1,0.9-2,2-2c1.1,0,2,0.9,2,2C14,11.1,13.1,12,12,12z" ]
+                []
+            ]
+        ]
+
+
+{-| -}
 folder : Icon msg
 folder =
     icon
@@ -7691,6 +12021,20 @@ font_download =
             []
         , path
             [ d "M9.93 13.5h4.14L12 7.98 9.93 13.5zM22 2H2v20h20V2zm-6.05 16.5l-1.14-3H9.17l-1.12 3H5.96l5.11-13h1.86l5.11 13h-2.09z" ]
+            []
+        ]
+
+
+{-| -}
+font_download_off : Icon msg
+font_download_off =
+    icon
+        [ enableBackground "new 0 0 24 24", viewBox "0 0 24 24" ]
+        [ rect
+            [ fill "none" ]
+            []
+        , path
+            [ d "M12.58,9.75l-0.87-0.87l0.23-0.66h0.1L12.58,9.75z M20.49,23.31L19.17,22H2V4.83L0.69,3.51L2.1,2.1l19.8,19.8L20.49,23.31z M12.1,14.93l-3.3-3.3L6.41,18h2.08l1.09-3.07H12.1z M10.35,7.52L10.92,6h2.14l2.55,6.79L22,19.17V2H4.83L10.35,7.52z" ]
             []
         ]
 
@@ -7776,6 +12120,35 @@ format_clear =
 
 
 {-| -}
+format_color_fill : Icon msg
+format_color_fill =
+    icon
+        [ enableBackground "new 0 0 24 24", viewBox "0 0 24 24" ]
+        [ g
+            []
+            [ rect
+                [ fill "none" ]
+                []
+            ]
+        , g
+            []
+            [ g
+                []
+                [ path
+                    [ d "M10,17.62L17.62,10l-10-10L6.21,1.41l2.38,2.38L2.38,10L10,17.62z M10,5.21L14.79,10H5.21 L10,5.21z", enableBackground "new" ]
+                    []
+                , path
+                    [ d "M19,17c1.1,0,2-0.9,2-2c0-1.33-2-3.5-2-3.5s-2,2.17-2,3.5C17,16.1,17.9,17,19,17z", enableBackground "new" ]
+                    []
+                , rect
+                    [ enableBackground "new" ]
+                    []
+                ]
+            ]
+        ]
+
+
+{-| -}
 format_color_reset : Icon msg
 format_color_reset =
     icon
@@ -7783,6 +12156,26 @@ format_color_reset =
         [ path
             [ d "M18 14c0-3.98-6-10.8-6-10.8s-1.18 1.35-2.5 3.19l8.44 8.44c.03-.27.06-.55.06-.83zM5.41 5.14L4 6.55l3.32 3.32C6.55 11.33 6 12.79 6 14c0 3.31 2.69 6 6 6 1.52 0 2.9-.57 3.95-1.5l2.63 2.63L20 19.72 5.41 5.14z" ]
             []
+        ]
+
+
+{-| -}
+format_color_text : Icon msg
+format_color_text =
+    icon
+        [ enableBackground "new 0 0 24 24", viewBox "0 0 24 24" ]
+        [ g
+            []
+            [ rect
+                [ fill "none" ]
+                []
+            ]
+        , g
+            []
+            [ path
+                [ d "M2,20h20v4H2V20z M5.49,17h2.42l1.27-3.58h5.65L16.09,17h2.42L13.25,3h-2.5L5.49,17z M9.91,11.39l2.03-5.79h0.12l2.03,5.79 H9.91z" ]
+                []
+            ]
         ]
 
 
@@ -8127,6 +12520,29 @@ functions =
 
 
 {-| -}
+g_mobiledata : Icon msg
+g_mobiledata =
+    icon
+        [ enableBackground "new 0 0 24 24", viewBox "0 0 24 24" ]
+        [ g
+            []
+            [ path
+                [ d "M0,0h24v24H0V0z", fill "none" ]
+                []
+            ]
+        , g
+            []
+            [ g
+                []
+                [ path
+                    [ d "M12,11v2h2v2H9V9h7V7H7v10h9v-6H12z" ]
+                    []
+                ]
+            ]
+        ]
+
+
+{-| -}
 g_translate : Icon msg
 g_translate =
     icon
@@ -8165,6 +12581,38 @@ games =
         , path
             [ d "M15 7.5V2H9v5.5l3 3 3-3zM7.5 9H2v6h5.5l3-3-3-3zM9 16.5V22h6v-5.5l-3-3-3 3zM16.5 9l-3 3 3 3H22V9h-5.5z" ]
             []
+        ]
+
+
+{-| -}
+garage : Icon msg
+garage =
+    icon
+        [ enableBackground "new 0 0 24 24", viewBox "0 0 24 24" ]
+        [ g
+            []
+            [ path
+                [ d "M0,0h24v24H0V0z", fill "none" ]
+                []
+            ]
+        , g
+            []
+            [ g
+                []
+                [ circle
+                    [ cx "15", cy "13", r "1" ]
+                    []
+                , circle
+                    [ cx "9", cy "13", r "1" ]
+                    []
+                , polygon
+                    [ points "8.33,7.5 7.67,9.5 16.33,9.5 15.67,7.5" ]
+                    []
+                , path
+                    [ d "M22,2H2v20h20V2z M19,18.5h-2v-2H7v2H5v-7.31L6.89,5.5h10.21L19,11.19V18.5z" ]
+                    []
+                ]
+            ]
         ]
 
 
@@ -8225,6 +12673,20 @@ gif =
 
 
 {-| -}
+gite : Icon msg
+gite =
+    icon
+        [ enableBackground "new 0 0 24 24", viewBox "0 0 24 24" ]
+        [ rect
+            [ fill "none" ]
+            []
+        , path
+            [ d "M18,6H9V4H7v2H6l-4,4v9h20v-9L18,6z M4,12h10v5H4V12z M20,17h-4v-6.17l2-2v0l2,2V17z" ]
+            []
+        ]
+
+
+{-| -}
 golf_course : Icon msg
 golf_course =
     icon
@@ -8238,6 +12700,66 @@ golf_course =
         , path
             [ d "M17 5.92L9 2v18H7v-1.73c-1.79.35-3 .99-3 1.73 0 1.1 2.69 2 6 2s6-.9 6-2c0-.99-2.16-1.81-5-1.97V8.98l6-3.06z" ]
             []
+        ]
+
+
+{-| -}
+gpp_bad : Icon msg
+gpp_bad =
+    icon
+        [ enableBackground "new 0 0 24 24", viewBox "0 0 24 24" ]
+        [ g
+            []
+            [ path
+                [ d "M0,0h24v24H0V0z", fill "none" ]
+                []
+            ]
+        , g
+            []
+            [ path
+                [ d "M12,2L4,5v6.09c0,5.05,3.41,9.76,8,10.91c4.59-1.15,8-5.86,8-10.91V5L12,2z M15.5,14.09l-1.41,1.41L12,13.42L9.91,15.5 L8.5,14.09L10.59,12L8.5,9.91L9.91,8.5L12,10.59l2.09-2.09l1.41,1.41L13.42,12L15.5,14.09z" ]
+                []
+            ]
+        ]
+
+
+{-| -}
+gpp_good : Icon msg
+gpp_good =
+    icon
+        [ enableBackground "new 0 0 24 24", viewBox "0 0 24 24" ]
+        [ g
+            []
+            [ path
+                [ d "M0,0h24v24H0V0z", fill "none" ]
+                []
+            ]
+        , g
+            []
+            [ path
+                [ d "M12,2L4,5v6.09c0,5.05,3.41,9.76,8,10.91c4.59-1.15,8-5.86,8-10.91V5L12,2z M10.94,15.54L7.4,12l1.41-1.41l2.12,2.12 l4.24-4.24l1.41,1.41L10.94,15.54z" ]
+                []
+            ]
+        ]
+
+
+{-| -}
+gpp_maybe : Icon msg
+gpp_maybe =
+    icon
+        [ enableBackground "new 0 0 24 24", viewBox "0 0 24 24" ]
+        [ g
+            []
+            [ path
+                [ d "M0,0h24v24H0V0z", fill "none" ]
+                []
+            ]
+        , g
+            []
+            [ path
+                [ d "M12,2L4,5v6.09c0,5.05,3.41,9.76,8,10.91c4.59-1.15,8-5.86,8-10.91V5L12,2z M13,16h-2v-2h2V16z M13,12h-2V7h2V12z" ]
+                []
+            ]
         ]
 
 
@@ -8374,6 +12896,72 @@ grass =
 
 
 {-| -}
+grid_3x3 : Icon msg
+grid_3x3 =
+    icon
+        [ enableBackground "new 0 0 24 24", viewBox "0 0 24 24" ]
+        [ g
+            []
+            [ path
+                [ d "M0,0h24v24H0V0z", fill "none" ]
+                []
+            ]
+        , g
+            []
+            [ path
+                [ d "M20,10V8h-4V4h-2v4h-4V4H8v4H4v2h4v4H4v2h4v4h2v-4h4v4h2v-4h4v-2h-4v-4H20z M14,14h-4v-4h4V14z" ]
+                []
+            ]
+        ]
+
+
+{-| -}
+grid_4x4 : Icon msg
+grid_4x4 =
+    icon
+        [ enableBackground "new 0 0 24 24", viewBox "0 0 24 24" ]
+        [ g
+            []
+            [ path
+                [ d "M0,0h24v24H0V0z", fill "none" ]
+                []
+            ]
+        , g
+            []
+            [ g
+                []
+                [ path
+                    [ d "M22,7V5h-3V2h-2v3h-4V2h-2v3H7V2H5v3H2v2h3v4H2v2h3v4H2v2h3v3h2v-3h4v3h2v-3h4v3h2v-3h3v-2h-3v-4h3v-2h-3V7H22z M7,7h4v4 H7V7z M7,17v-4h4v4H7z M17,17h-4v-4h4V17z M17,11h-4V7h4V11z" ]
+                    []
+                ]
+            ]
+        ]
+
+
+{-| -}
+grid_goldenratio : Icon msg
+grid_goldenratio =
+    icon
+        [ enableBackground "new 0 0 24 24", viewBox "0 0 24 24" ]
+        [ g
+            []
+            [ path
+                [ d "M0,0h24v24H0V0z", fill "none" ]
+                []
+            ]
+        , g
+            []
+            [ g
+                []
+                [ path
+                    [ d "M22,11V9h-7V2h-2v7h-2V2H9v7H2v2h7v2H2v2h7v7h2v-7h2v7h2v-7h7v-2h-7v-2H22z M13,13h-2v-2h2V13z" ]
+                    []
+                ]
+            ]
+        ]
+
+
+{-| -}
 grid_off : Icon msg
 grid_off =
     icon
@@ -8398,6 +12986,38 @@ grid_on =
         , path
             [ d "M22 2H2v20h20V2zM8 20H4v-4h4v4zm0-6H4v-4h4v4zm0-6H4V4h4v4zm6 12h-4v-4h4v4zm0-6h-4v-4h4v4zm0-6h-4V4h4v4zm6 12h-4v-4h4v4zm0-6h-4v-4h4v4zm0-6h-4V4h4v4z" ]
             []
+        ]
+
+
+{-| -}
+grid_view : Icon msg
+grid_view =
+    icon
+        [ enableBackground "new 0 0 24 24", viewBox "0 0 24 24" ]
+        [ g
+            []
+            [ rect
+                [ fill "none" ]
+                []
+            ]
+        , g
+            []
+            [ g
+                []
+                [ rect
+                    []
+                    []
+                , rect
+                    []
+                    []
+                , rect
+                    []
+                    []
+                , rect
+                    []
+                    []
+                ]
+            ]
         ]
 
 
@@ -8461,6 +13081,72 @@ groups =
 
 
 {-| -}
+h_mobiledata : Icon msg
+h_mobiledata =
+    icon
+        [ enableBackground "new 0 0 24 24", viewBox "0 0 24 24" ]
+        [ g
+            []
+            [ path
+                [ d "M0,0h24v24H0V0z", fill "none" ]
+                []
+            ]
+        , g
+            []
+            [ g
+                []
+                [ path
+                    [ d "M15,11H9V7H7v10h2v-4h6v4h2V7h-2V11z" ]
+                    []
+                ]
+            ]
+        ]
+
+
+{-| -}
+h_plus_mobiledata : Icon msg
+h_plus_mobiledata =
+    icon
+        [ enableBackground "new 0 0 24 24", viewBox "0 0 24 24" ]
+        [ g
+            []
+            [ path
+                [ d "M0,0h24v24H0V0z", fill "none" ]
+                []
+            ]
+        , g
+            []
+            [ g
+                []
+                [ path
+                    [ d "M12,11H6V7H4v10h2v-4h6v4h2V7h-2V11z M22,11h-2V9h-2v2h-2v2h2v2h2v-2h2V11z" ]
+                    []
+                ]
+            ]
+        ]
+
+
+{-| -}
+hail : Icon msg
+hail =
+    icon
+        [ enableBackground "new 0 0 24 24", viewBox "0 0 24 24" ]
+        [ g
+            []
+            [ rect
+                [ fill "none" ]
+                []
+            ]
+        , g
+            []
+            [ path
+                [ d "M12,6c-1.1,0-2-0.9-2-2s0.9-2,2-2s2,0.9,2,2S13.1,6,12,6z M17,2h2c0,2.7-0.93,4.41-2.3,5.5c-0.5,0.4-1.1,0.7-1.7,0.9V22h-2 v-6h-2v6H9V10.1c-0.3,0.1-0.5,0.2-0.6,0.3C7.87,10.81,7,11.43,7,14H5c0-2.06,0.35-3.78,2.11-5.29C8.21,7.81,10,7,12,7 s2.68-0.46,3.48-1.06C15.96,5.55,17,4.76,17,2z M4,16h3v6H4V16z" ]
+                []
+            ]
+        ]
+
+
+{-| -}
 handyman : Icon msg
 handyman =
     icon
@@ -8493,6 +13179,41 @@ handyman =
 
 
 {-| -}
+hardware : Icon msg
+hardware =
+    icon
+        [ enableBackground "new 0 0 24 24", viewBox "0 0 24 24" ]
+        [ g
+            []
+            [ rect
+                [ fill "none" ]
+                []
+            ]
+        , g
+            []
+            [ g
+                []
+                [ g
+                    []
+                    [ g
+                        []
+                        [ path
+                            [ d "M18,3l-3,3V3H9C6.24,3,4,5.24,4,8h5v3h6V8l3,3h2V3H18z" ]
+                            []
+                        ]
+                    , g
+                        []
+                        [ path
+                            [ d "M9,13v8h6v-8H9z" ]
+                            []
+                        ]
+                    ]
+                ]
+            ]
+        ]
+
+
+{-| -}
 hd : Icon msg
 hd =
     icon
@@ -8503,6 +13224,105 @@ hd =
         , path
             [ d "M21 3H3v18h18V3zM11 15H9.5v-2h-2v2H6V9h1.5v2.5h2V9H11v6zm2-6h4c.55 0 1 .45 1 1v4c0 .55-.45 1-1 1h-4V9zm1.5 4.5h2v-3h-2v3z" ]
             []
+        ]
+
+
+{-| -}
+hdr_auto : Icon msg
+hdr_auto =
+    icon
+        [ enableBackground "new 0 0 24 24", viewBox "0 0 24 24" ]
+        [ g
+            []
+            [ path
+                [ d "M0,0h24v24H0V0z", fill "none" ]
+                []
+            ]
+        , g
+            []
+            [ g
+                []
+                [ polygon
+                    [ points "12.04,8.04 11.95,8.04 10.35,12.59 13.64,12.59" ]
+                    []
+                , path
+                    [ d "M12,2C6.48,2,2,6.48,2,12s4.48,10,10,10s10-4.48,10-10S17.52,2,12,2z M15.21,17l-0.98-2.81H9.78l-1,2.81h-1.9l4.13-11 h1.97l4.13,11H15.21z" ]
+                    []
+                ]
+            ]
+        ]
+
+
+{-| -}
+hdr_auto_select : Icon msg
+hdr_auto_select =
+    icon
+        [ enableBackground "new 0 0 24 24", viewBox "0 0 24 24" ]
+        [ g
+            []
+            [ path
+                [ d "M0,0h24v24H0V0z", fill "none" ]
+                []
+            ]
+        , g
+            []
+            [ g
+                []
+                [ polygon
+                    [ points "3.5,18 1.5,18 1.5,16 0,16 0,22 1.5,22 1.5,19.5 3.5,19.5 3.5,22 5,22 5,16 3.5,16" ]
+                    []
+                , path
+                    [ d "M10,16H6.5v6H10c0.8,0,1.5-0.7,1.5-1.5v-3C11.5,16.7,10.8,16,10,16z M10,20.5H8v-3h2V20.5z" ]
+                    []
+                , polygon
+                    [ points "22,18.5 22,16.5 20.5,16.5 20.5,18.5 18.5,18.5 18.5,20 20.5,20 20.5,22 22,22 22,20 24,20 24,18.5" ]
+                    []
+                , path
+                    [ d "M13,22h1.5v-2h1.1l0.9,2H18l-0.86-2H18v-4h-5V22z M14.5,17.5h2v1h-2V17.5z" ]
+                    []
+                , polygon
+                    [ points "11.97,5.3 10.95,8.19 13.05,8.19 12.03,5.3" ]
+                    []
+                , path
+                    [ d "M12,2C8.69,2,6,4.69,6,8s2.69,6,6,6s6-2.69,6-6S15.31,2,12,2z M14.04,11l-0.63-1.79h-2.83L9.96,11H8.74l2.63-7h1.25 l2.63,7H14.04z" ]
+                    []
+                ]
+            ]
+        ]
+
+
+{-| -}
+hdr_enhanced_select : Icon msg
+hdr_enhanced_select =
+    icon
+        [ enableBackground "new 0 0 24 24", viewBox "0 0 24 24" ]
+        [ g
+            []
+            [ rect
+                [ fill "none" ]
+                []
+            ]
+        , g
+            []
+            [ g
+                []
+                [ path
+                    [ d "M12,2C8.69,2,6,4.69,6,8s2.69,6,6,6s6-2.69,6-6S15.31,2,12,2z M15,9h-2v2h-2V9H9V7h2V5h2v2h2V9z" ]
+                    []
+                , path
+                    [ d "M10,16H6.5v6H10c0.8,0,1.5-0.7,1.5-1.5v-3C11.5,16.7,10.8,16,10,16z M10,20.5H8v-3h2V20.5z" ]
+                    []
+                , path
+                    [ d "M18,16h-5v6h1.5v-2h1.1l0.9,2H18l-0.86-2H18V16z M16.5,18.5h-2v-1h2V18.5z" ]
+                    []
+                , polygon
+                    [ points "3.5,18 1.5,18 1.5,16 0,16 0,22 1.5,22 1.5,19.5 3.5,19.5 3.5,22 5,22 5,16 3.5,16" ]
+                    []
+                , polygon
+                    [ points "22,18.5 22,16.5 20.5,16.5 20.5,18.5 18.5,18.5 18.5,20 20.5,20 20.5,22 22,22 22,20 24,20 24,18.5" ]
+                    []
+                ]
+            ]
         ]
 
 
@@ -8521,6 +13341,29 @@ hdr_off =
 
 
 {-| -}
+hdr_off_select : Icon msg
+hdr_off_select =
+    icon
+        [ enableBackground "new 0 0 24 24", viewBox "0 0 24 24" ]
+        [ g
+            []
+            [ path
+                [ d "M0,0h24v24H0V0z", fill "none" ]
+                []
+            ]
+        , g
+            []
+            [ g
+                []
+                [ path
+                    [ d "M18,20v-4h-5v6h1.5v-2h1.1l0.9,2H18l-0.86-2L18,20z M16.5,18.5h-2v-1h2V18.5z M3.5,18h-2v-2H0v6h1.5v-2.5h2V22H5v-6H3.5 V18z M10,16H6.5v6H10c0.8,0,1.5-0.7,1.5-1.5v-3C11.5,16.7,10.8,16,10,16z M10,20.5H8v-3h2V20.5z M24,20h-2v2h-1.5v-2h-2v-1.5h2v-2 H22v2h2V20z M10.98,4.15L9.42,2.59c5.1-2.42,10.41,2.89,7.99,7.99l-1.56-1.56C16.66,6.06,13.94,3.34,10.98,4.15z M6.34,2.34 L4.93,3.76l1.66,1.66c-2.42,5.1,2.89,10.41,7.99,7.99l1.66,1.66l1.41-1.41L6.34,2.34z M8.15,6.98l4.87,4.87 C10.06,12.66,7.34,9.94,8.15,6.98z" ]
+                    []
+                ]
+            ]
+        ]
+
+
+{-| -}
 hdr_on : Icon msg
 hdr_on =
     icon
@@ -8531,6 +13374,58 @@ hdr_on =
         , path
             [ d "M21 12.9V9h-5v6h1.5v-2h1.1l.9 2H21l-.9-2.1h.9zm-1.5-1.4h-2v-1h2v1zm-13-.5h-2V9H3v6h1.5v-2.5h2V15H8V9H6.5v2zM13 9H9.5v6H13c.8 0 1.5-.7 1.5-1.5v-3c0-.8-.7-1.5-1.5-1.5zm0 4.5h-2v-3h2v3z" ]
             []
+        ]
+
+
+{-| -}
+hdr_on_select : Icon msg
+hdr_on_select =
+    icon
+        [ enableBackground "new 0 0 24 24", viewBox "0 0 24 24" ]
+        [ g
+            []
+            [ path
+                [ d "M0,0h24v24H0V0z", fill "none" ]
+                []
+            ]
+        , g
+            []
+            [ g
+                []
+                [ path
+                    [ d "M18,19.9V16h-5v6h1.5v-2h1.1l0.9,2H18l-0.9-2.1H18z M16.5,18.5h-2v-1h2V18.5z M3.5,18h-2v-2H0v6h1.5v-2.5h2V22H5v-6H3.5 V18z M10,16H6.5v6H10c0.8,0,1.5-0.7,1.5-1.5v-3C11.5,16.7,10.8,16,10,16z M10,20.5H8v-3h2V20.5z M24,20h-2v2h-1.5v-2h-2v-1.5h2v-2 H22v2h2V20z M12,4c2.21,0,4,1.79,4,4s-1.79,4-4,4s-4-1.79-4-4S9.79,4,12,4 M12,2C8.69,2,6,4.69,6,8s2.69,6,6,6s6-2.69,6-6 S15.31,2,12,2z" ]
+                    []
+                ]
+            ]
+        ]
+
+
+{-| -}
+hdr_plus : Icon msg
+hdr_plus =
+    icon
+        [ enableBackground "new 0 0 24 24", viewBox "0 0 24 24" ]
+        [ g
+            []
+            [ rect
+                [ fill "none" ]
+                []
+            ]
+        , g
+            []
+            [ g
+                []
+                [ rect
+                    []
+                    []
+                , rect
+                    []
+                    []
+                , path
+                    [ d "M12,2C6.48,2,2,6.48,2,12s4.48,10,10,10s10-4.48,10-10S17.52,2,12,2z M12,17l-0.86-0.01L12,19h-1.5l-0.9-2H8.5v2H7v-6h5 c0,0,0,0.7,0,1.5V17z M12,12h-1.5V9.5h-2V12H7V6h1.5v2h2V6H12V12z M17.5,16H16v1.5h-1.5V16H13v-1.5h1.5V13H16v1.49h1.5V16z M17.5,10.5c0,0.8-0.7,1.5-1.5,1.5h-3V6h3c0.8,0,1.5,0.7,1.5,1.5V10.5z" ]
+                    []
+                ]
+            ]
         ]
 
 
@@ -8563,6 +13458,52 @@ hdr_weak =
 
 
 {-| -}
+headphones : Icon msg
+headphones =
+    icon
+        [ enableBackground "new 0 0 24 24", viewBox "0 0 24 24" ]
+        [ g
+            []
+            [ rect
+                [ fill "none" ]
+                []
+            ]
+        , g
+            []
+            [ path
+                [ d "M12,3c-4.97,0-9,4.03-9,9v9h6v-8H5v-1c0-3.87,3.13-7,7-7s7,3.13,7,7v1h-4v8h6v-9C21,7.03,16.97,3,12,3z" ]
+                []
+            ]
+        ]
+
+
+{-| -}
+headphones_battery : Icon msg
+headphones_battery =
+    icon
+        [ enableBackground "new 0 0 24 24", viewBox "0 0 24 24" ]
+        [ g
+            []
+            [ rect
+                [ fill "none" ]
+                []
+            ]
+        , g
+            []
+            [ g
+                []
+                [ polygon
+                    [ points "20,7 20,6 18,6 18,7 16,7 16,18 22,18 22,7" ]
+                    []
+                , path
+                    [ d "M8,6c-3.31,0-6,2.69-6,6v6h4v-5H3.5v-1c0-2.48,2.02-4.5,4.5-4.5s4.5,2.02,4.5,4.5v1H10v5h4v-6C14,8.69,11.31,6,8,6z" ]
+                    []
+                ]
+            ]
+        ]
+
+
+{-| -}
 headset : Icon msg
 headset =
     icon
@@ -8591,6 +13532,32 @@ headset_mic =
 
 
 {-| -}
+headset_off : Icon msg
+headset_off =
+    icon
+        [ enableBackground "new 0 0 24 24", viewBox "0 0 24 24" ]
+        [ g
+            []
+            [ rect
+                [ fill "none" ]
+                []
+            ]
+        , g
+            []
+            [ g
+                []
+                [ path
+                    [ d "M12,4c3.87,0,7,3.13,7,7v1h-4v0.17l6,6V11c0-4.97-4.03-9-9-9C9.98,2,8.12,2.67,6.62,3.8l1.43,1.43C9.17,4.45,10.53,4,12,4 z" ]
+                    []
+                , path
+                    [ d "M2.1,2.1L0.69,3.51l3.33,3.33C3.37,8.09,3,9.5,3,11v9h6v-8H5v-1c0-0.94,0.19-1.83,0.52-2.65L15,17.83V20h2.17l1,1H12v2 h8.17l0.31,0.31l1.41-1.41L2.1,2.1z" ]
+                    []
+                ]
+            ]
+        ]
+
+
+{-| -}
 healing : Icon msg
 healing =
     icon
@@ -8600,6 +13567,20 @@ healing =
             []
         , path
             [ d "M17.74 12.01l4.68-4.68-5.75-5.75-4.68 4.68L7.3 1.58 1.55 7.34l4.68 4.69-4.68 4.68 5.75 5.75 4.68-4.68 4.69 4.69 5.76-5.76-4.69-4.7zM12 9c.55 0 1 .45 1 1s-.45 1-1 1-1-.45-1-1 .45-1 1-1zm-4.71 1.96L3.66 7.34l3.63-3.63 3.62 3.62-3.62 3.63zM10 13c-.55 0-1-.45-1-1s.45-1 1-1 1 .45 1 1-.45 1-1 1zm2 2c-.55 0-1-.45-1-1s.45-1 1-1 1 .45 1 1-.45 1-1 1zm2-4c.55 0 1 .45 1 1s-.45 1-1 1-1-.45-1-1 .45-1 1-1zm2.66 9.34l-3.63-3.62 3.63-3.63 3.62 3.62-3.62 3.63z" ]
+            []
+        ]
+
+
+{-| -}
+health_and_safety : Icon msg
+health_and_safety =
+    icon
+        [ enableBackground "new 0 0 24 24", viewBox "0 0 24 24" ]
+        [ rect
+            [ fill "none" ]
+            []
+        , path
+            [ d "M10.5,13H8v-3h2.5V7.5h3V10H16v3h-2.5v2.5h-3V13z M12,2L4,5v6.09c0,5.05,3.41,9.76,8,10.91c4.59-1.15,8-5.86,8-10.91V5L12,2 z" ]
             []
         ]
 
@@ -8704,6 +13685,84 @@ help_outline =
 
 
 {-| -}
+hevc : Icon msg
+hevc =
+    icon
+        [ enableBackground "new 0 0 24 24", viewBox "0 0 24 24" ]
+        [ g
+            []
+            [ rect
+                [ fill "none" ]
+                []
+            ]
+        , g
+            []
+            [ g
+                []
+                [ polygon
+                    [ points "5.5,11 4.5,11 4.5,9 3,9 3,15 4.5,15 4.5,12.5 5.5,12.5 5.5,15 7,15 7,9 5.5,9" ]
+                    []
+                , polygon
+                    [ points "21,11 21,9 17,9 17,15 21,15 21,13 19.5,13 19.5,13.5 18.5,13.5 18.5,10.5 19.5,10.5 19.5,11" ]
+                    []
+                , polygon
+                    [ points "14.25,13.5 13.5,9 12,9 13,15 15.5,15 16.5,9 15,9" ]
+                    []
+                , polygon
+                    [ points "8,9 8,15 11.5,15 11.5,13.5 9.5,13.5 9.5,12.5 11.5,12.5 11.5,11 9.5,11 9.5,10.5 11.5,10.5 11.5,9" ]
+                    []
+                ]
+            ]
+        ]
+
+
+{-| -}
+hide_image : Icon msg
+hide_image =
+    icon
+        [ enableBackground "new 0 0 24 24", viewBox "0 0 24 24" ]
+        [ g
+            []
+            [ rect
+                [ fill "none" ]
+                []
+            ]
+        , g
+            []
+            [ g
+                []
+                [ polygon
+                    [ points "21,3 5.83,3 21,18.17" ]
+                    []
+                , path
+                    [ d "M2.81,2.81L1.39,4.22L3,5.83V21h15.17l1.61,1.61l1.41-1.41L2.81,2.81z M6,17l3-4l2.25,3l0.82-1.1l2.1,2.1H6z" ]
+                    []
+                ]
+            ]
+        ]
+
+
+{-| -}
+hide_source : Icon msg
+hide_source =
+    icon
+        [ enableBackground "new 0 0 24 24", viewBox "0 0 24 24" ]
+        [ g
+            []
+            [ path
+                [ d "M0,0h24v24H0V0z", fill "none" ]
+                []
+            ]
+        , g
+            []
+            [ path
+                [ d "M2.81,2.81L1.39,4.22l2.27,2.27C2.61,8.07,2,9.96,2,12c0,5.52,4.48,10,10,10c2.04,0,3.93-0.61,5.51-1.66l2.27,2.27 l1.41-1.41L2.81,2.81z M12,20c-4.41,0-8-3.59-8-8c0-1.48,0.41-2.86,1.12-4.06l10.94,10.94C14.86,19.59,13.48,20,12,20z M7.94,5.12 L6.49,3.66C8.07,2.61,9.96,2,12,2c5.52,0,10,4.48,10,10c0,2.04-0.61,3.93-1.66,5.51l-1.46-1.46C19.59,14.86,20,13.48,20,12 c0-4.41-3.59-8-8-8C10.52,4,9.14,4.41,7.94,5.12z" ]
+                []
+            ]
+        ]
+
+
+{-| -}
 high_quality : Icon msg
 high_quality =
     icon
@@ -8755,6 +13814,20 @@ highlight_off =
             []
         , path
             [ d "M14.59 8L12 10.59 9.41 8 8 9.41 10.59 12 8 14.59 9.41 16 12 13.41 14.59 16 16 14.59 13.41 12 16 9.41 14.59 8zM12 2C6.47 2 2 6.47 2 12s4.47 10 10 10 10-4.47 10-10S17.53 2 12 2zm0 18c-4.41 0-8-3.59-8-8s3.59-8 8-8 8 3.59 8 8-3.59 8-8 8z" ]
+            []
+        ]
+
+
+{-| -}
+hiking : Icon msg
+hiking =
+    icon
+        [ enableBackground "new 0 0 24 24", viewBox "0 0 24 24" ]
+        [ rect
+            [ fill "none" ]
+            []
+        , path
+            [ d "M13.5,5.5c1.1,0,2-0.9,2-2s-0.9-2-2-2s-2,0.9-2,2S12.4,5.5,13.5,5.5z M17.5,10.78c-1.23-0.37-2.22-1.17-2.8-2.18l-1-1.6 c-0.41-0.65-1.11-1-1.84-1c-0.78,0-1.59,0.5-1.78,1.44S7,23,7,23h2.1l1.8-8l2.1,2v6h2v-7.5l-2.1-2l0.6-3c1,1.15,2.41,2.01,4,2.34V23 H19V9h-1.5L17.5,10.78z M7.43,13.13l-3.1-0.6l1.34-6.87l3.13,0.61L7.43,13.13z" ]
             []
         ]
 
@@ -8814,6 +13887,20 @@ history_toggle_off =
 
 
 {-| -}
+holiday_village : Icon msg
+holiday_village =
+    icon
+        [ enableBackground "new 0 0 24 24", viewBox "0 0 24 24" ]
+        [ rect
+            [ fill "none" ]
+            []
+        , path
+            [ d "M18,20V8.35L13.65,4h-2.83L16,9.18V20H18z M22,20V6.69L19.31,4h-2.83L20,7.52V20H22z M8,4l-6,6v10h5v-5h2v5h5V10L8,4z M9,13 H7v-2h2V13z" ]
+            []
+        ]
+
+
+{-| -}
 home : Icon msg
 home =
     icon
@@ -8824,6 +13911,46 @@ home =
         , path
             [ d "M10 20v-6h4v6h5v-8h3L12 3 2 12h3v8h5z" ]
             []
+        ]
+
+
+{-| -}
+home_max : Icon msg
+home_max =
+    icon
+        [ enableBackground "new 0 0 24 24", viewBox "0 0 24 24" ]
+        [ g
+            []
+            [ rect
+                [ fill "none" ]
+                []
+            ]
+        , g
+            []
+            [ path
+                [ d "M19,5H5C2.79,5,1,6.79,1,9v5c0,2.21,1.79,4,4,4h2v1h10v-1h2c2.21,0,4-1.79,4-4V9C23,6.79,21.21,5,19,5z M21,14 c0,1.1-0.9,2-2,2H5c-1.1,0-2-0.9-2-2V9c0-1.1,0.9-2,2-2h14c1.1,0,2,0.9,2,2V14z" ]
+                []
+            ]
+        ]
+
+
+{-| -}
+home_mini : Icon msg
+home_mini =
+    icon
+        [ enableBackground "new 0 0 24 24", viewBox "0 0 24 24" ]
+        [ g
+            []
+            [ rect
+                [ fill "none" ]
+                []
+            ]
+        , g
+            []
+            [ path
+                [ d "M12,5C4.19,5,2,9.48,2,12c0,3.86,3.13,7,6.99,7h6.02c2.69,0,6.99-2.08,6.99-7C22,12,22,5,12,5z M12,7c7.64,0,7.99,4.51,8,5 H4C4,11.8,4.09,7,12,7z M14.86,17H9.14c-2.1,0-3.92-1.24-4.71-3h15.15C18.78,15.76,16.96,17,14.86,17z" ]
+                []
+            ]
         ]
 
 
@@ -9084,6 +14211,20 @@ house_siding =
 
 
 {-| -}
+houseboat : Icon msg
+houseboat =
+    icon
+        [ enableBackground "new 0 0 24 24", viewBox "0 0 24 24" ]
+        [ rect
+            [ fill "none" ]
+            []
+        , path
+            [ d "M12,16c-1.95,0-2.1,1-3.34,1c-1.19,0-1.42-1-3.33-1C3.38,16,3.24,17,2,17v2c1.9,0,2.17-1,3.35-1c1.19,0,1.42,1,3.33,1 c1.95,0,2.08-1,3.32-1s1.37,1,3.32,1c1.91,0,2.14-1,3.33-1c1.18,0,1.45,1,3.35,1v-2c-1.24,0-1.38-1-3.33-1c-1.91,0-2.14,1-3.33,1 C14.1,17,13.95,16,12,16z M20.34,11.34L18.67,13H17V9.65l1.32,0.97L19.5,9L12,3.5L4.5,9l1.18,1.61L7,9.65V13H5.33l-1.66-1.66 l-1.41,1.41L4.5,15h15l2.25-2.25L20.34,11.34z M13,13h-2v-2h2V13z" ]
+            []
+        ]
+
+
+{-| -}
 how_to_reg : Icon msg
 how_to_reg =
     icon
@@ -9193,6 +14334,46 @@ hvac =
 
 
 {-| -}
+ice_skating : Icon msg
+ice_skating =
+    icon
+        [ enableBackground "new 0 0 24 24", viewBox "0 0 24 24" ]
+        [ rect
+            [ fill "none" ]
+            []
+        , g
+            []
+            [ path
+                [ d "M21,17c0,1.66-1.34,3-3,3h-2v-2h3l-0.01-6l-5.71-1.43C12.4,10.35,11.7,9.76,11.32,9H8V8h3.02L11,7H8V6h3V3H3v15h3v2H2v2h16 c2.76,0,5-2.24,5-5H21z M14,20H8v-2h6V20z" ]
+                []
+            ]
+        ]
+
+
+{-| -}
+icecream : Icon msg
+icecream =
+    icon
+        [ enableBackground "new 0 0 24 24", viewBox "0 0 24 24" ]
+        [ g
+            []
+            [ rect
+                [ fill "none" ]
+                []
+            ]
+        , g
+            []
+            [ g
+                []
+                [ path
+                    [ d "M18.38,6.24C17.79,3.24,15.14,1,12,1S6.21,3.24,5.62,6.24C4.08,6.81,3,8.29,3,10c0,2.21,1.79,4,4,4 c0.12,0,0.23-0.02,0.34-0.02L12.07,23l4.61-9.03C16.79,13.98,16.89,14,17,14c2.21,0,4-1.79,4-4C21,8.29,19.92,6.81,18.38,6.24z M12.05,18.63l-2.73-5.21C10.15,13.79,11.06,14,12,14c0.95,0,1.88-0.21,2.72-0.6L12.05,18.63z" ]
+                    []
+                ]
+            ]
+        ]
+
+
+{-| -}
 image : Icon msg
 image =
     icon
@@ -9248,6 +14429,29 @@ image_search =
         , path
             [ d "M18 13v7H4V6h5.02c.05-.71.22-1.38.48-2H2v18h18v-7l-2-2zm-1.5 5h-11l2.75-3.53 1.96 2.36 2.75-3.54L16.5 18zm2.8-9.11c.44-.7.7-1.51.7-2.39C20 4.01 17.99 2 15.5 2S11 4.01 11 6.5s2.01 4.5 4.49 4.5c.88 0 1.7-.26 2.39-.7L21 13.42 22.42 12 19.3 8.89zM15.5 9C14.12 9 13 7.88 13 6.5S14.12 4 15.5 4 18 5.12 18 6.5 16.88 9 15.5 9z" ]
             []
+        ]
+
+
+{-| -}
+imagesearch_roller : Icon msg
+imagesearch_roller =
+    icon
+        [ enableBackground "new 0 0 24 24", viewBox "0 0 24 24" ]
+        [ g
+            []
+            [ rect
+                [ fill "none" ]
+                []
+            ]
+        , g
+            []
+            [ g
+                []
+                [ path
+                    [ d "M20,2v6H6V6H4v4h10v5h2v8h-6v-8h2v-3H2V4h4V2H20z" ]
+                    []
+                ]
+            ]
         ]
 
 
@@ -9499,16 +14703,68 @@ integration_instructions =
 
 
 {-| -}
+inventory : Icon msg
+inventory =
+    icon
+        [ enableBackground "new 0 0 24 24", viewBox "0 0 24 24" ]
+        [ g
+            []
+            [ rect
+                [ fill "none" ]
+                []
+            ]
+        , g
+            []
+            [ g
+                []
+                [ path
+                    [ d "M5,5h2v3h10V5h2v5h2V3h-6.18C14.4,1.84,13.3,1,12,1S9.6,1.84,9.18,3H3v18h8v-2H5V5z M12,3c0.55,0,1,0.45,1,1s-0.45,1-1,1 s-1-0.45-1-1S11.45,3,12,3z" ]
+                    []
+                , polygon
+                    [ points "21,11.5 15.51,17 12.5,14 11,15.5 15.51,20 22.5,13" ]
+                    []
+                ]
+            ]
+        ]
+
+
+{-| -}
+inventory_2 : Icon msg
+inventory_2 =
+    icon
+        [ enableBackground "new 0 0 24 24", viewBox "0 0 24 24" ]
+        [ g
+            []
+            [ rect
+                [ fill "none" ]
+                []
+            ]
+        , g
+            []
+            [ path
+                [ d "M2,2v6.7h1V22h18V8.7h1V2H2z M15,14H9v-2h6V14z M20,7H4V4h16V7z" ]
+                []
+            ]
+        ]
+
+
+{-| -}
 invert_colors : Icon msg
 invert_colors =
     icon
-        [ viewBox "0 0 24 24" ]
-        [ path
-            [ d "M24 0H0v24h24V0z", fill "none" ]
+        [ enableBackground "new 0 0 24 24", viewBox "0 0 24 24" ]
+        [ g
             []
-        , path
-            [ d "M17.66 7.93L12 2.27 6.34 7.93c-3.12 3.12-3.12 8.19 0 11.31C7.9 20.8 9.95 21.58 12 21.58s4.1-.78 5.66-2.34c3.12-3.12 3.12-8.19 0-11.31zM12 19.59c-1.6 0-3.11-.62-4.24-1.76C6.62 16.69 6 15.19 6 13.59s.62-3.11 1.76-4.24L12 5.1v14.49z" ]
+            [ path
+                [ d "M0,0h24v24H0V0z", fill "none" ]
+                []
+            ]
+        , g
             []
+            [ path
+                [ d "M12,4.81L12,19c-3.31,0-6-2.63-6-5.87c0-1.56,0.62-3.03,1.75-4.14L12,4.81 M6.35,7.56L6.35,7.56C4.9,8.99,4,10.96,4,13.13 C4,17.48,7.58,21,12,21c4.42,0,8-3.52,8-7.87c0-2.17-0.9-4.14-2.35-5.57l0,0L12,2L6.35,7.56z" ]
+                []
+            ]
         ]
 
 
@@ -9516,12 +14772,52 @@ invert_colors =
 invert_colors_off : Icon msg
 invert_colors_off =
     icon
-        [ viewBox "0 0 24 24" ]
-        [ path
-            [ d "M0 0h24v24H0V0z", fill "none" ]
+        [ enableBackground "new 0 0 24 24", viewBox "0 0 24 24" ]
+        [ rect
+            [ fill "none" ]
             []
         , path
-            [ d "M12 5.1v4.05l7.4 7.4c1.15-2.88.59-6.28-1.75-8.61L12 2.27 8.56 5.71l1.41 1.41L12 5.1zm-7.6-.73L2.99 5.78l2.78 2.78c-2.54 3.14-2.35 7.75.57 10.68C7.9 20.8 9.95 21.58 12 21.58c1.78 0 3.56-.59 5.02-1.77l2.7 2.7 1.41-1.41L4.4 4.37zM12 19.59c-1.6 0-3.11-.62-4.24-1.76C6.62 16.69 6 15.19 6 13.59c0-1.32.43-2.56 1.21-3.59L12 14.79v4.8z" ]
+            [ d "M21.19,21.19L2.81,2.81L1.39,4.22l4.2,4.2c-1,1.31-1.6,2.94-1.6,4.7C4,17.48,7.58,21,12,21c1.75,0,3.36-0.56,4.67-1.5 l3.1,3.1L21.19,21.19z M12,19c-3.31,0-6-2.63-6-5.87c0-1.19,0.36-2.32,1.02-3.28L12,14.83V19z M8.38,5.56L12,2l5.65,5.56l0,0 C19.1,8.99,20,10.96,20,13.13c0,1.18-0.27,2.29-0.74,3.3L12,9.17V4.81L9.8,6.97L8.38,5.56z" ]
+            []
+        ]
+
+
+{-| -}
+ios_share : Icon msg
+ios_share =
+    icon
+        [ enableBackground "new 0 0 24 24", viewBox "0 0 24 24" ]
+        [ g
+            []
+            [ rect
+                [ fill "none" ]
+                []
+            ]
+        , g
+            []
+            [ g
+                []
+                [ polygon
+                    [ points "20,8 15,8 15,10 18,10 18,21 6,21 6,10 9,10 9,8 4,8 4,23 20,23" ]
+                    []
+                , polygon
+                    [ points "11,16 13,16 13,5 16,5 12,1 8,5 11,5" ]
+                    []
+                ]
+            ]
+        ]
+
+
+{-| -}
+iron : Icon msg
+iron =
+    icon
+        [ enableBackground "new 0 0 24 24", viewBox "0 0 24 24" ]
+        [ rect
+            [ fill "none" ]
+            []
+        , path
+            [ d "M18,6v8h-1V7H7v3h2V9h6v2H6c-2.21,0-4,1.79-4,4v3h15v-2h3V8h2V6H18z" ]
             []
         ]
 
@@ -9541,6 +14837,20 @@ iso =
 
 
 {-| -}
+kayaking : Icon msg
+kayaking =
+    icon
+        [ enableBackground "new 0 0 24 24", viewBox "0 0 24 24" ]
+        [ rect
+            [ fill "none" ]
+            []
+        , path
+            [ d "M21,23c-1.03,0-2.06-0.25-3-0.75h0c-1.89,1-4.11,1-6,0c-1.89,1-4.11,1-6,0C5.05,22.75,4.03,23,3,23H2l0-2h1 c1.04,0,2.08-0.35,3-1c1.83,1.3,4.17,1.3,6,0c1.83,1.3,4.17,1.3,6,0c0.91,0.65,1.96,1,3,1h1v2H21z M12,5.5c-1.1,0-2,0.9-2,2 s0.9,2,2,2s2-0.9,2-2S13.1,5.5,12,5.5z M24,17.5c0,0-1.52,0.71-3.93,1.37c-0.82-0.23-1.53-0.75-2.07-1.37c-0.73,0.84-1.8,1.5-3,1.5 s-2.27-0.66-3-1.5c-0.73,0.84-1.8,1.5-3,1.5s-2.27-0.66-3-1.5c-0.54,0.61-1.25,1.13-2.07,1.37C1.52,18.21,0,17.5,0,17.5 s2.93-1.36,7.13-2.08l1.35-4.17c0.31-0.95,1.32-1.47,2.27-1.16c0.09,0.03,0.19,0.07,0.27,0.11l0,0l2.47,1.3l2.84-1.5l1.65-3.71 l-0.51-1.32L18.8,2L22,3.43L20.67,6.4l-1.31,0.5l-3.72,8.34C20.49,15.87,24,17.5,24,17.5z M15.02,12.96l-1.52,0.8l-1.75-0.92 l-0.71,2.17C11.36,15.01,11.68,15,12,15c0.71,0,1.4,0.03,2.07,0.08L15.02,12.96z" ]
+            []
+        ]
+
+
+{-| -}
 keyboard : Icon msg
 keyboard =
     icon
@@ -9551,6 +14861,29 @@ keyboard =
         , path
             [ d "M22 5H2.01L2 19h20V5zM11 8h2v2h-2V8zm0 3h2v2h-2v-2zM8 8h2v2H8V8zm0 3h2v2H8v-2zm-1 2H5v-2h2v2zm0-3H5V8h2v2zm9 7H8v-2h8v2zm0-4h-2v-2h2v2zm0-3h-2V8h2v2zm3 3h-2v-2h2v2zm0-3h-2V8h2v2z" ]
             []
+        ]
+
+
+{-| -}
+keyboard_alt : Icon msg
+keyboard_alt =
+    icon
+        [ enableBackground "new 0 0 24 24", viewBox "0 0 24 24" ]
+        [ g
+            []
+            [ rect
+                [ fill "none" ]
+                []
+            ]
+        , g
+            []
+            [ g
+                []
+                [ path
+                    [ d "M23,4H1v17h22V4z M7,12v2H5v-2H7z M5,10V8h2v2H5z M11,12v2H9v-2H11z M9,10V8h2v2H9z M16,16v1H8v-1H16z M15,12v2h-2v-2H15z M13,10V8h2v2H13z M17,14v-2h2v2H17z M19,10h-2V8h2V10z" ]
+                    []
+                ]
+            ]
         ]
 
 
@@ -9734,6 +15067,23 @@ kitchen =
         , path
             [ d "M20 2.01L4 2v20h16V2.01zM18 20H6v-9.02h12V20zm0-11H6V4h12v5zM8 5h2v3H8V5zm0 7h2v5H8v-5z" ]
             []
+        ]
+
+
+{-| -}
+kitesurfing : Icon msg
+kitesurfing =
+    icon
+        [ enableBackground "new 0 0 24 24", viewBox "0 0 24 24" ]
+        [ rect
+            [ fill "none" ]
+            []
+        , g
+            []
+            [ path
+                [ d "M6,3c0-1.1,0.9-2,2-2s2,0.9,2,2c0,1.1-0.9,2-2,2S6,4.1,6,3z M20.06,1h-2.12L15.5,3.44l1.06,1.06L20.06,1z M22,23v-2h-1 c-1.04,0-2.08-0.35-3-1c-1.83,1.3-4.17,1.3-6,0c-1.83,1.3-4.17,1.3-6,0c-0.91,0.65-1.96,1-3,1H2l0,2h1c1.03,0,2.05-0.25,3-0.75 c1.89,1,4.11,1,6,0c1.89,1,4.11,1,6,0h0c0.95,0.5,1.97,0.75,3,0.75H22z M21,13.28c0,1.44-2.19,3.62-5.04,5.58 C15.65,18.95,15.33,19,15,19c-1.2,0-2.27-0.66-3-1.5c-0.73,0.84-1.8,1.5-3,1.5c-0.94,0-1.81-0.41-2.49-0.99 c0.46-0.39,0.96-0.78,1.49-1.17L6,13V8c0-1.1,0.9-2,2-2h3c1.38,0,2.63-0.56,3.54-1.46l1.41,1.41C14.68,7.21,12.93,8,11,8H9.6l0,3.5 h2.8l1.69,1.88c1.95-0.84,3.77-1.38,5.06-1.38C19.99,12,21,12.25,21,13.28z M12.2,14.27l-0.7-0.77L9,13.6l0.83,2.01 C10.42,15.23,11.64,14.55,12.2,14.27z" ]
+                []
+            ]
         ]
 
 
@@ -10005,6 +15355,29 @@ lens =
 
 
 {-| -}
+lens_blur : Icon msg
+lens_blur =
+    icon
+        [ enableBackground "new 0 0 24 24", viewBox "0 0 24 24" ]
+        [ g
+            []
+            [ path
+                [ d "M0,0h24v24H0V0z", fill "none" ]
+                []
+            ]
+        , g
+            []
+            [ g
+                []
+                [ path
+                    [ d "M6,13c-0.55,0-1,0.45-1,1s0.45,1,1,1s1-0.45,1-1S6.55,13,6,13z M6,17c-0.55,0-1,0.45-1,1s0.45,1,1,1s1-0.45,1-1 S6.55,17,6,17z M6,9c-0.55,0-1,0.45-1,1s0.45,1,1,1s1-0.45,1-1S6.55,9,6,9z M3,9.5c-0.28,0-0.5,0.22-0.5,0.5s0.22,0.5,0.5,0.5 s0.5-0.22,0.5-0.5S3.28,9.5,3,9.5z M6,5C5.45,5,5,5.45,5,6s0.45,1,1,1s1-0.45,1-1S6.55,5,6,5z M21,10.5c0.28,0,0.5-0.22,0.5-0.5 S21.28,9.5,21,9.5s-0.5,0.22-0.5,0.5S20.72,10.5,21,10.5z M14,7c0.55,0,1-0.45,1-1s-0.45-1-1-1s-1,0.45-1,1S13.45,7,14,7z M14,3.5 c0.28,0,0.5-0.22,0.5-0.5S14.28,2.5,14,2.5S13.5,2.72,13.5,3S13.72,3.5,14,3.5z M3,13.5c-0.28,0-0.5,0.22-0.5,0.5 s0.22,0.5,0.5,0.5s0.5-0.22,0.5-0.5S3.28,13.5,3,13.5z M10,20.5c-0.28,0-0.5,0.22-0.5,0.5s0.22,0.5,0.5,0.5s0.5-0.22,0.5-0.5 S10.28,20.5,10,20.5z M10,3.5c0.28,0,0.5-0.22,0.5-0.5S10.28,2.5,10,2.5S9.5,2.72,9.5,3S9.72,3.5,10,3.5z M10,7c0.55,0,1-0.45,1-1 s-0.45-1-1-1S9,5.45,9,6S9.45,7,10,7z M10,12.5c-0.83,0-1.5,0.67-1.5,1.5s0.67,1.5,1.5,1.5s1.5-0.67,1.5-1.5S10.83,12.5,10,12.5z M18,13c-0.55,0-1,0.45-1,1s0.45,1,1,1s1-0.45,1-1S18.55,13,18,13z M18,17c-0.55,0-1,0.45-1,1s0.45,1,1,1s1-0.45,1-1 S18.55,17,18,17z M18,9c-0.55,0-1,0.45-1,1s0.45,1,1,1s1-0.45,1-1S18.55,9,18,9z M18,5c-0.55,0-1,0.45-1,1s0.45,1,1,1s1-0.45,1-1 S18.55,5,18,5z M21,13.5c-0.28,0-0.5,0.22-0.5,0.5s0.22,0.5,0.5,0.5s0.5-0.22,0.5-0.5S21.28,13.5,21,13.5z M14,17 c-0.55,0-1,0.45-1,1s0.45,1,1,1s1-0.45,1-1S14.55,17,14,17z M14,20.5c-0.28,0-0.5,0.22-0.5,0.5s0.22,0.5,0.5,0.5s0.5-0.22,0.5-0.5 S14.28,20.5,14,20.5z M10,8.5c-0.83,0-1.5,0.67-1.5,1.5s0.67,1.5,1.5,1.5s1.5-0.67,1.5-1.5S10.83,8.5,10,8.5z M10,17 c-0.55,0-1,0.45-1,1s0.45,1,1,1s1-0.45,1-1S10.55,17,10,17z M14,12.5c-0.83,0-1.5,0.67-1.5,1.5s0.67,1.5,1.5,1.5s1.5-0.67,1.5-1.5 S14.83,12.5,14,12.5z M14,8.5c-0.83,0-1.5,0.67-1.5,1.5s0.67,1.5,1.5,1.5s1.5-0.67,1.5-1.5S14.83,8.5,14,8.5z" ]
+                    []
+                ]
+            ]
+        ]
+
+
+{-| -}
 library_add : Icon msg
 library_add =
     icon
@@ -10060,6 +15433,78 @@ library_music =
         , path
             [ d "M22 2H6v16h16V2zm-4 5h-3v5.5c0 1.38-1.12 2.5-2.5 2.5S10 13.88 10 12.5s1.12-2.5 2.5-2.5c.57 0 1.08.19 1.5.51V5h4v2zM4 6H2v16h16v-2H4V6z" ]
             []
+        ]
+
+
+{-| -}
+light : Icon msg
+light =
+    icon
+        [ enableBackground "new 0 0 24 24", viewBox "0 0 24 24" ]
+        [ g
+            []
+            [ path
+                [ d "M0,0h24v24H0V0z", fill "none" ]
+                []
+            ]
+        , g
+            []
+            [ path
+                [ d "M13,6.06V3h-2v3.06C5.87,6.63,2.03,11.51,3.22,17L8,17c0,2.21,1.79,4,4,4s4-1.79,4-4l4.78,0 C21.97,11.51,18.13,6.63,13,6.06z M12,15H5c0-3.86,3.14-7,7-7s7,3.14,7,7H12z" ]
+                []
+            ]
+        ]
+
+
+{-| -}
+light_mode : Icon msg
+light_mode =
+    icon
+        [ enableBackground "new 0 0 24 24", viewBox "0 0 24 24" ]
+        [ rect
+            [ fill "none" ]
+            []
+        , path
+            [ d "M12,7c-2.76,0-5,2.24-5,5s2.24,5,5,5s5-2.24,5-5S14.76,7,12,7L12,7z M11,1v4h2V1L11,1z M11,19v4h2v-4L11,19z M23,11l-4,0v2 l4,0V11z M5,11l-4,0l0,2l4,0L5,11z M16.24,17.66l2.47,2.47l1.41-1.41l-2.47-2.47L16.24,17.66z M3.87,5.28l2.47,2.47l1.41-1.41 L5.28,3.87L3.87,5.28z M6.34,16.24l-2.47,2.47l1.41,1.41l2.47-2.47L6.34,16.24z M18.72,3.87l-2.47,2.47l1.41,1.41l2.47-2.47 L18.72,3.87z" ]
+            []
+        ]
+
+
+{-| -}
+lightbulb : Icon msg
+lightbulb =
+    icon
+        [ enableBackground "new 0 0 24 24", viewBox "0 0 24 24" ]
+        [ g
+            []
+            [ path
+                [ d "M0,0h24v24H0V0z", fill "none" ]
+                []
+            ]
+        , g
+            []
+            [ g
+                []
+                [ g
+                    []
+                    [ path
+                        [ d "M12,22c1.1,0,2-0.9,2-2h-4C10,21.1,10.9,22,12,22z" ]
+                        []
+                    ]
+                , g
+                    []
+                    [ rect
+                        []
+                        []
+                    ]
+                , g
+                    []
+                    [ path
+                        [ d "M12,2C7.86,2,4.5,5.36,4.5,9.5c0,3.82,2.66,5.86,3.77,6.5h7.46c1.11-0.64,3.77-2.68,3.77-6.5C19.5,5.36,16.14,2,12,2z" ]
+                        []
+                    ]
+                ]
+            ]
         ]
 
 
@@ -10148,6 +15593,41 @@ linked_camera =
 
 
 {-| -}
+liquor : Icon msg
+liquor =
+    icon
+        [ enableBackground "new 0 0 24 24", viewBox "0 0 24 24" ]
+        [ g
+            []
+            [ rect
+                [ fill "none" ]
+                []
+            ]
+        , g
+            []
+            [ g
+                []
+                [ g
+                    []
+                    [ g
+                        []
+                        [ path
+                            [ d "M3,14c0,1.3,0.84,2.4,2,2.82V20H3v2h6v-2H7v-3.18C8.16,16.4,9,15.3,9,14V6H3V14z M5,8h2v3H5V8z" ]
+                            []
+                        ]
+                    , g
+                        []
+                        [ path
+                            [ d "M22,9l-3-1.01V2h-5v6l-3,1.01V22h11V9z M16,4h1v1h-1V4z M13,10.44l3-0.98V7h1v2.46l3,0.98V12h-7V10.44z M20,20h-7v-2h7 V20z" ]
+                            []
+                        ]
+                    ]
+                ]
+            ]
+        ]
+
+
+{-| -}
 list : Icon msg
 list =
     icon
@@ -10206,6 +15686,35 @@ live_tv =
         , path
             [ d "M23 6h-9.59l3.29-3.29L16 2l-4 4-4-4-.71.71L10.59 6H1v16h22V6zm-2 14H3V8h18v12zM9 10v8l7-4-7-4z" ]
             []
+        ]
+
+
+{-| -}
+living : Icon msg
+living =
+    icon
+        [ enableBackground "new 0 0 24 24", viewBox "0 0 24 24" ]
+        [ g
+            []
+            [ path
+                [ d "M0,0h24v24H0V0z", fill "none" ]
+                []
+            ]
+        , g
+            []
+            [ g
+                []
+                [ polygon
+                    [ points "15.5,12 15.5,14.5 8.5,14.5 8.5,12 7.52,12 6.5,12 6.5,16.5 17.5,16.5 17.5,12" ]
+                    []
+                , polygon
+                    [ points "10,10 10,13 14,13 14,10 16.25,9.99 16.25,7.5 7.75,7.5 7.75,9.99" ]
+                    []
+                , path
+                    [ d "M22,2H2v20h20V2z M19,9.99V18H5v-8l1.25-0.01V6h11.5v3.99H19z" ]
+                    []
+                ]
+            ]
         ]
 
 
@@ -10746,6 +16255,26 @@ lock =
 
 
 {-| -}
+lock_clock : Icon msg
+lock_clock =
+    icon
+        [ enableBackground "new 0 0 24 24", viewBox "0 0 24 24" ]
+        [ g
+            []
+            [ path
+                [ d "M0,0h24v24H0V0z", fill "none" ]
+                []
+            ]
+        , g
+            []
+            [ path
+                [ d "M18,11c0.7,0,1.37,0.1,2,0.29V8h-3V6.21c0-2.61-1.91-4.94-4.51-5.19C9.51,0.74,7,3.08,7,6v2H4v14h8.26 C11.47,20.87,11,19.49,11,18C11,14.13,14.13,11,18,11z M9,6c0-1.66,1.34-3,3-3s3,1.34,3,3v2H9V6z M18,13c-2.76,0-5,2.24-5,5 s2.24,5,5,5s5-2.24,5-5S20.76,13,18,13z M19.65,20.35l-2.15-2.15V15h1v2.79l1.85,1.85L19.65,20.35z" ]
+                []
+            ]
+        ]
+
+
+{-| -}
 lock_open : Icon msg
 lock_open =
     icon
@@ -10775,6 +16304,32 @@ login =
             [ path
                 [ d "M11,7L9.6,8.4l2.6,2.6H2v2h10.2l-2.6,2.6L11,17l5-5L11,7z M20,19h-8v2h10V3H12v2h8V19z" ]
                 []
+            ]
+        ]
+
+
+{-| -}
+logout : Icon msg
+logout =
+    icon
+        [ enableBackground "new 0 0 24 24", viewBox "0 0 24 24" ]
+        [ g
+            []
+            [ path
+                [ d "M0,0h24v24H0V0z", fill "none" ]
+                []
+            ]
+        , g
+            []
+            [ g
+                []
+                [ polygon
+                    [ points "5,5 12,5 12,3 3,3 3,21 12,21 12,19 5,19" ]
+                    []
+                , polygon
+                    [ points "21,12 17,8 17,11 9,11 9,13 17,13 17,16" ]
+                    []
+                ]
             ]
         ]
 
@@ -10934,6 +16489,52 @@ loyalty =
 
 
 {-| -}
+lte_mobiledata : Icon msg
+lte_mobiledata =
+    icon
+        [ enableBackground "new 0 0 24 24", viewBox "0 0 24 24" ]
+        [ g
+            []
+            [ path
+                [ d "M0,0h24v24H0V0z", fill "none" ]
+                []
+            ]
+        , g
+            []
+            [ g
+                []
+                [ path
+                    [ d "M6,14h3v2H4V8h2V14z M9,10h2v6h2v-6h2V8H9V10z M21,10V8h-5v8h5v-2h-3v-1h3v-2h-3v-1H21z" ]
+                    []
+                ]
+            ]
+        ]
+
+
+{-| -}
+lte_plus_mobiledata : Icon msg
+lte_plus_mobiledata =
+    icon
+        [ enableBackground "new 0 0 24 24", viewBox "0 0 24 24" ]
+        [ g
+            []
+            [ path
+                [ d "M0,0h24v24H0V0z", fill "none" ]
+                []
+            ]
+        , g
+            []
+            [ g
+                []
+                [ path
+                    [ d "M3,14h3v2H1V8h2V14z M5,10h2v6h2v-6h2V8H5V10z M12,16h5v-2h-3v-1h3v-2h-3v-1h3V8h-5V16z M24,11h-2V9h-2v2h-2v2h2v2h2v-2h2 V11z" ]
+                    []
+                ]
+            ]
+        ]
+
+
+{-| -}
 luggage : Icon msg
 luggage =
     icon
@@ -10946,6 +16547,35 @@ luggage =
             [ path
                 [ d "M19,6h-4V2H9v4H5v15h2c0,0.55,0.45,1,1,1c0.55,0,1-0.45,1-1h6c0,0.55,0.45,1,1,1c0.55,0,1-0.45,1-1h2V6z M9.5,18H8V9h1.5 V18z M12.75,18h-1.5V9h1.5V18z M13.5,6h-3V3.5h3V6z M16,18h-1.5V9H16V18z" ]
                 []
+            ]
+        ]
+
+
+{-| -}
+lunch_dining : Icon msg
+lunch_dining =
+    icon
+        [ enableBackground "new 0 0 24 24", viewBox "0 0 24 24" ]
+        [ g
+            []
+            [ rect
+                [ fill "none" ]
+                []
+            ]
+        , g
+            []
+            [ g
+                []
+                [ rect
+                    []
+                    []
+                , path
+                    [ d "M18.66,11.5c-1.95,0-2.09,1-3.33,1c-1.19,0-1.42-1-3.33-1c-1.95,0-2.09,1-3.33,1c-1.19,0-1.42-1-3.33-1 c-1.95,0-2.09,1-3.33,1v2c1.9,0,2.17-1,3.35-1c1.19,0,1.42,1,3.33,1c1.95,0,2.09-1,3.33-1c1.19,0,1.42,1,3.33,1 c1.95,0,2.09-1,3.33-1c1.19,0,1.4,0.98,3.32,1l-0.01-1.98C20.38,12.19,20.37,11.5,18.66,11.5z" ]
+                    []
+                , path
+                    [ d "M22,9c0.02-4-4.28-6-10-6C6.29,3,2,5,2,9v1h20L22,9L22,9z" ]
+                    []
+                ]
             ]
         ]
 
@@ -10979,6 +16609,69 @@ mail_outline =
 
 
 {-| -}
+male : Icon msg
+male =
+    icon
+        [ enableBackground "new 0 0 24 24", viewBox "0 0 24 24" ]
+        [ rect
+            [ fill "none" ]
+            []
+        , path
+            [ d "M9.5,11c1.93,0,3.5,1.57,3.5,3.5S11.43,18,9.5,18S6,16.43,6,14.5S7.57,11,9.5,11z M9.5,9C6.46,9,4,11.46,4,14.5 S6.46,20,9.5,20s5.5-2.46,5.5-5.5c0-1.16-0.36-2.23-0.97-3.12L18,7.42V10h2V4h-6v2h2.58l-3.97,3.97C11.73,9.36,10.66,9,9.5,9z" ]
+            []
+        ]
+
+
+{-| -}
+manage_accounts : Icon msg
+manage_accounts =
+    icon
+        [ enableBackground "new 0 0 24 24", viewBox "0 0 24 24" ]
+        [ g
+            []
+            [ path
+                [ d "M0,0h24v24H0V0z", fill "none" ]
+                []
+            ]
+        , g
+            []
+            [ g
+                []
+                [ path
+                    [ d "M10.67,13.02C10.45,13.01,10.23,13,10,13c-2.42,0-4.68,0.67-6.61,1.82C2.51,15.34,2,16.32,2,17.35V20h9.26 C10.47,18.87,10,17.49,10,16C10,14.93,10.25,13.93,10.67,13.02z" ]
+                    []
+                , circle
+                    [ cx "10", cy "8", r "4" ]
+                    []
+                , path
+                    [ d "M20.75,16c0-0.22-0.03-0.42-0.06-0.63l1.14-1.01l-1-1.73l-1.45,0.49c-0.32-0.27-0.68-0.48-1.08-0.63L18,11h-2l-0.3,1.49 c-0.4,0.15-0.76,0.36-1.08,0.63l-1.45-0.49l-1,1.73l1.14,1.01c-0.03,0.21-0.06,0.41-0.06,0.63s0.03,0.42,0.06,0.63l-1.14,1.01 l1,1.73l1.45-0.49c0.32,0.27,0.68,0.48,1.08,0.63L16,21h2l0.3-1.49c0.4-0.15,0.76-0.36,1.08-0.63l1.45,0.49l1-1.73l-1.14-1.01 C20.72,16.42,20.75,16.22,20.75,16z M17,18c-1.1,0-2-0.9-2-2s0.9-2,2-2s2,0.9,2,2S18.1,18,17,18z" ]
+                    []
+                ]
+            ]
+        ]
+
+
+{-| -}
+manage_search : Icon msg
+manage_search =
+    icon
+        [ enableBackground "new 0 0 24 24", viewBox "0 0 24 24" ]
+        [ g
+            []
+            [ path
+                [ d "M0,0h24v24H0V0z", fill "none" ]
+                []
+            ]
+        , g
+            []
+            [ path
+                [ d "M7,9H2V7h5V9z M7,12H2v2h5V12z M20.59,19l-3.83-3.83C15.96,15.69,15.02,16,14,16c-2.76,0-5-2.24-5-5s2.24-5,5-5s5,2.24,5,5 c0,1.02-0.31,1.96-0.83,2.75L22,17.59L20.59,19z M17,11c0-1.65-1.35-3-3-3s-3,1.35-3,3s1.35,3,3,3S17,12.65,17,11z M2,19h10v-2H2 V19z" ]
+                []
+            ]
+        ]
+
+
+{-| -}
 map : Icon msg
 map =
     icon
@@ -10989,6 +16682,32 @@ map =
         , path
             [ d "M15 5.1L9 3 3 5.02v16.2l6-2.33 6 2.1 6-2.02V2.77L15 5.1zm0 13.79l-6-2.11V5.11l6 2.11v11.67z" ]
             []
+        ]
+
+
+{-| -}
+maps_home_work : Icon msg
+maps_home_work =
+    icon
+        [ enableBackground "new 0 0 24 24", viewBox "0 0 24 24" ]
+        [ g
+            []
+            [ path
+                [ d "M0,0h24v24H0V0z", fill "none" ]
+                []
+            ]
+        , g
+            []
+            [ g
+                []
+                [ polygon
+                    [ points "1,11 1,21 6,21 6,15 10,15 10,21 15,21 15,11 8,6" ]
+                    []
+                , path
+                    [ d "M10,3v1.97l7,5V11h2v2h-2v2h2v2h-2v4h6V3H10z M19,9h-2V7h2V9z" ]
+                    []
+                ]
+            ]
         ]
 
 
@@ -11009,6 +16728,52 @@ maps_ugc =
         , polygon
             [ fillRule "evenodd", points "13,8 11,8 11,11 8,11 8,13 11,13 11,16 13,16 13,13 16,13 16,11 13,11" ]
             []
+        ]
+
+
+{-| -}
+margin : Icon msg
+margin =
+    icon
+        [ enableBackground "new 0 0 24 24", viewBox "0 0 24 24" ]
+        [ g
+            []
+            [ rect
+                [ fill "none" ]
+                []
+            ]
+        , g
+            []
+            [ path
+                [ d "M3,3v18h18V3H3z M9,13H7v-2h2V13z M9,9H7V7h2V9z M13,13h-2v-2h2V13z M13,9h-2V7h2V9z M17,13h-2v-2h2V13z M17,9h-2V7h2V9z" ]
+                []
+            ]
+        ]
+
+
+{-| -}
+mark_as_unread : Icon msg
+mark_as_unread =
+    icon
+        [ enableBackground "new 0 0 24 24", viewBox "0 0 24 24" ]
+        [ g
+            []
+            [ path
+                [ d "M0,0h24v24H0V0z", fill "none" ]
+                []
+            ]
+        , g
+            []
+            [ g
+                []
+                [ polygon
+                    [ points "16.23,7 20.35,7 10.5,2 2,6.21 2,17 4,17 4,7.4 10.5,4" ]
+                    []
+                , path
+                    [ d "M5,8v13h17V8H5z M20,12l-6.5,3.33L7,12v-2l6.5,3.33L20,10V12z" ]
+                    []
+                ]
+            ]
         ]
 
 
@@ -11137,6 +16902,52 @@ maximize =
 
 
 {-| -}
+media_bluetooth_off : Icon msg
+media_bluetooth_off =
+    icon
+        [ enableBackground "new 0 0 24 24", viewBox "0 0 24 24" ]
+        [ g
+            []
+            [ path
+                [ d "M0,0h24v24H0V0z", fill "none" ]
+                []
+            ]
+        , g
+            []
+            [ g
+                []
+                [ path
+                    [ d "M9,6.17V3h6v4h-4v1.17L9,6.17z M19.42,15L22,17.57l-0.8,0.8l-6.78-6.78l0.8-0.8l2.75,2.75V9h0.6L22,12.43L19.42,15z M19.17,13.55l1.13-1.13l-1.13-1.13V13.55z M17.21,17.21l3.98,3.98l-1.41,1.41l-3.98-3.98l-0.58,0.58l-0.85-0.85l0.58-0.58 L11,13.83V17c0,2.21-1.78,4-3.99,4S3,19.21,3,17s1.79-4,4.01-4c0.73,0,1.41,0.21,2,0.55v-1.72L1.39,4.22L2.8,2.81l13.56,13.56 L17.21,17.21z" ]
+                    []
+                ]
+            ]
+        ]
+
+
+{-| -}
+media_bluetooth_on : Icon msg
+media_bluetooth_on =
+    icon
+        [ enableBackground "new 0 0 24 24", viewBox "0 0 24 24" ]
+        [ g
+            []
+            [ path
+                [ d "M0,0h24v24H0V0z", fill "none" ]
+                []
+            ]
+        , g
+            []
+            [ g
+                []
+                [ path
+                    [ d "M9,3l0.01,10.55c-0.6-0.34-1.28-0.55-2-0.55C4.79,13,3,14.79,3,17s1.79,4,4.01,4S11,19.21,11,17V7h4V3H9z M21,12.43 L17.57,9h-0.6v4.55l-2.75-2.75l-0.85,0.85L16.73,15l-3.35,3.35l0.85,0.85l2.75-2.75V21h0.6L21,17.57L18.42,15L21,12.43z M18.17,11.3l1.13,1.13l-1.13,1.13V11.3z M19.3,17.57l-1.13,1.13v-2.26L19.3,17.57z" ]
+                    []
+                ]
+            ]
+        ]
+
+
+{-| -}
 mediation : Icon msg
 mediation =
     icon
@@ -11173,6 +16984,32 @@ medical_services =
                 []
                 [ path
                     [ d "M16,6V2H8v4H2v16h20V6H16z M10,4h4v2h-4V4z M16,15h-3v3h-2v-3H8v-2h3v-3h2v3h3V15z" ]
+                    []
+                ]
+            ]
+        ]
+
+
+{-| -}
+medication : Icon msg
+medication =
+    icon
+        [ enableBackground "new 0 0 24 24", viewBox "0 0 24 24" ]
+        [ g
+            []
+            [ path
+                [ d "M0,0h24v24H0V0z", fill "none" ]
+                []
+            ]
+        , g
+            []
+            [ g
+                []
+                [ rect
+                    []
+                    []
+                , path
+                    [ d "M19,6H5v15h14V6z M16,15h-2.5v2.5h-3V15H8v-3h2.5V9.5h3V12H16V15z" ]
                     []
                 ]
             ]
@@ -11321,6 +17158,58 @@ mic =
                     []
                 , path
                     [ d "M17,11c0,2.76-2.24,5-5,5s-5-2.24-5-5H5c0,3.53,2.61,6.43,6,6.92V21h2v-3.08c3.39-0.49,6-3.39,6-6.92H17z" ]
+                    []
+                ]
+            ]
+        ]
+
+
+{-| -}
+mic_external_off : Icon msg
+mic_external_off =
+    icon
+        [ enableBackground "new 0 0 24 24", viewBox "0 0 24 24" ]
+        [ g
+            []
+            [ rect
+                [ fill "none" ]
+                []
+            ]
+        , g
+            []
+            [ g
+                []
+                [ path
+                    [ d "M10,5c0-1.66-1.34-3-3-3C6.38,2,5.81,2.19,5.33,2.5l4.15,4.15C9.8,6.18,10,5.61,10,5z" ]
+                    []
+                , polygon
+                    [ points "14,4 18,4 18,15.17 20,17.17 20,2 12,2 12,9.17 14,11.17" ]
+                    []
+                , path
+                    [ d "M2.1,2.1L0.69,3.51L5.17,8H4l1,10h1c0,2.21,0,4,0,4h8v-5.17l6.49,6.49l1.41-1.41L2.1,2.1z M12,20H8v-2h1l0.56-5.61 L12,14.83V20z" ]
+                    []
+                ]
+            ]
+        ]
+
+
+{-| -}
+mic_external_on : Icon msg
+mic_external_on =
+    icon
+        [ enableBackground "new 0 0 24 24", viewBox "0 0 24 24" ]
+        [ g
+            []
+            [ rect
+                [ fill "none" ]
+                []
+            ]
+        , g
+            []
+            [ g
+                []
+                [ path
+                    [ d "M9.22,7H4.78C4.3,6.47,4,5.77,4,5c0-1.66,1.34-3,3-3s3,1.34,3,3C10,5.77,9.7,6.47,9.22,7z M20,2v20h-2V4h-4v18H6 c0,0,0-1.79,0-4H5L4,8h6L9,18H8v2h4V2H20z" ]
                     []
                 ]
             ]
@@ -11500,6 +17389,43 @@ mobile_screen_share =
 
 
 {-| -}
+mobiledata_off : Icon msg
+mobiledata_off =
+    icon
+        [ enableBackground "new 0 0 24 24", viewBox "0 0 24 24" ]
+        [ g
+            []
+            [ path
+                [ d "M0,0h24v24H0V0z", fill "none" ]
+                []
+            ]
+        , g
+            []
+            [ g
+                []
+                [ polygon
+                    [ points "16,7 19,7 15,3 11,7 14,7 14,11.17 16,13.17" ]
+                    []
+                , polygon
+                    [ points "2.81,2.81 1.39,4.22 8,10.83 8,17.01 5,17.02 9,21 13,17 10,17.01 10,12.83 19.78,22.61 21.19,21.19" ]
+                    []
+                ]
+            ]
+        ]
+
+
+{-| -}
+mode : Icon msg
+mode =
+    icon
+        [ viewBox "0 0 24 24" ]
+        [ path
+            [ d "M3 17.25V21h3.75L17.81 9.94l-3.75-3.75L3 17.25zM21.41 6.34l-3.75-3.75-2.53 2.54 3.75 3.75 2.53-2.54z" ]
+            []
+        ]
+
+
+{-| -}
 mode_comment : Icon msg
 mode_comment =
     icon
@@ -11507,6 +17433,95 @@ mode_comment =
         [ path
             [ d "M22 2H2v16h16l4 4z" ]
             []
+        ]
+
+
+{-| -}
+mode_edit : Icon msg
+mode_edit =
+    icon
+        [ enableBackground "new 0 0 24 24", viewBox "0 0 24 24" ]
+        [ g
+            []
+            [ rect
+                [ fill "none" ]
+                []
+            ]
+        , g
+            []
+            [ g
+                []
+                [ path
+                    [ d "M3,17.25V21h3.75L17.81,9.94l-3.75-3.75L3,17.25z M21.41,6.34l-3.75-3.75l-2.53,2.54l3.75,3.75L21.41,6.34z" ]
+                    []
+                ]
+            ]
+        ]
+
+
+{-| -}
+mode_edit_outline : Icon msg
+mode_edit_outline =
+    icon
+        [ enableBackground "new 0 0 24 24", viewBox "0 0 24 24" ]
+        [ g
+            []
+            [ rect
+                [ fill "none" ]
+                []
+            ]
+        , g
+            []
+            [ g
+                []
+                [ path
+                    [ d "M3,17.25V21h3.75L17.81,9.94l-3.75-3.75L3,17.25z M21.41,6.34l-3.75-3.75l-2.53,2.54l3.75,3.75L21.41,6.34z" ]
+                    []
+                ]
+            ]
+        ]
+
+
+{-| -}
+mode_night : Icon msg
+mode_night =
+    icon
+        [ enableBackground "new 0 0 24 24", viewBox "0 0 24 24" ]
+        [ g
+            []
+            [ path
+                [ d "M0,0h24v24H0V0z", fill "none" ]
+                []
+            ]
+        , g
+            []
+            [ path
+                [ d "M9.5,2c-1.82,0-3.53,0.5-5,1.35c2.99,1.73,5,4.95,5,8.65s-2.01,6.92-5,8.65C5.97,21.5,7.68,22,9.5,22c5.52,0,10-4.48,10-10 S15.02,2,9.5,2z" ]
+                []
+            ]
+        ]
+
+
+{-| -}
+mode_standby : Icon msg
+mode_standby =
+    icon
+        [ enableBackground "new 0 0 24 24", viewBox "0 0 24 24" ]
+        [ g
+            []
+            [ path
+                [ d "M0,0h24v24H0V0z", fill "none" ]
+                []
+            ]
+        , g
+            []
+            [ g
+                []
+                [ path
+                    [ d "M12,2C6.49,2,2,6.49,2,12s4.49,10,10,10s10-4.49,10-10S17.51,2,12,2z M12,20c-4.41,0-8-3.59-8-8s3.59-8,8-8s8,3.59,8,8 S16.41,20,12,20z M15,12c0,1.66-1.34,3-3,3s-3-1.34-3-3s1.34-3,3-3S15,10.34,15,12z" ]
+                    []
+                ]
+            ]
         ]
 
 
@@ -11560,6 +17575,72 @@ money_off =
         [ path
             [ d "M12.5 6.9c1.78 0 2.44.85 2.5 2.1h2.21c-.07-1.72-1.12-3.3-3.21-3.81V3h-3v2.16c-.39.08-.75.21-1.1.36l1.51 1.51c.32-.08.69-.13 1.09-.13zM5.47 3.92L4.06 5.33 7.5 8.77c0 2.08 1.56 3.22 3.91 3.91l3.51 3.51c-.34.49-1.05.91-2.42.91-2.06 0-2.87-.92-2.98-2.1h-2.2c.12 2.19 1.76 3.42 3.68 3.83V21h3v-2.15c.96-.18 1.83-.55 2.46-1.12l2.22 2.22 1.41-1.41L5.47 3.92z" ]
             []
+        ]
+
+
+{-| -}
+money_off_csred : Icon msg
+money_off_csred =
+    icon
+        [ viewBox "0 0 24 24" ]
+        [ path
+            [ d "M12.5 6.9c1.78 0 2.44.85 2.5 2.1h2.21c-.07-1.72-1.12-3.3-3.21-3.81V3h-3v2.16c-.39.08-.75.21-1.1.36l1.51 1.51c.32-.08.69-.13 1.09-.13zM5.47 3.92L4.06 5.33 7.5 8.77c0 2.08 1.56 3.22 3.91 3.91l3.51 3.51c-.34.49-1.05.91-2.42.91-2.06 0-2.87-.92-2.98-2.1h-2.2c.12 2.19 1.76 3.42 3.68 3.83V21h3v-2.15c.96-.18 1.83-.55 2.46-1.12l2.22 2.22 1.41-1.41L5.47 3.92z" ]
+            []
+        ]
+
+
+{-| -}
+monitor : Icon msg
+monitor =
+    icon
+        [ enableBackground "new 0 0 24 24", viewBox "0 0 24 24" ]
+        [ g
+            []
+            [ rect
+                [ fill "none" ]
+                []
+            ]
+        , g
+            []
+            [ g
+                []
+                [ path
+                    [ d "M22,3H2v15h5l-1,1v2h12v-2l-1-1h5V3z M20,16H4V5h16V16z" ]
+                    []
+                ]
+            ]
+        ]
+
+
+{-| -}
+monitor_weight : Icon msg
+monitor_weight =
+    icon
+        [ enableBackground "new 0 0 24 24", viewBox "0 0 24 24" ]
+        [ g
+            []
+            [ path
+                [ d "M0,0h24v24H0V0z", fill "none" ]
+                []
+            ]
+        , g
+            []
+            [ g
+                []
+                [ path
+                    [ d "M21,3H3v18h18V3z M14.2,11.2c-3.23,2.43-6.84-1.18-4.4-4.41C13.03,4.37,16.63,7.98,14.2,11.2z" ]
+                    []
+                , rect
+                    []
+                    []
+                , rect
+                    []
+                    []
+                , rect
+                    []
+                    []
+                ]
+            ]
         ]
 
 
@@ -11706,6 +17787,49 @@ more_vert =
 
 
 {-| -}
+motion_photos_auto : Icon msg
+motion_photos_auto =
+    icon
+        [ enableBackground "new 0 0 24 24", viewBox "0 0 24 24" ]
+        [ rect
+            [ fill "none" ]
+            []
+        , path
+            [ d "M2.88,7.88l1.54,1.54C4.15,10.23,4,11.1,4,12c0,4.41,3.59,8,8,8s8-3.59,8-8s-3.59-8-8-8c-0.9,0-1.77,0.15-2.58,0.42 L7.89,2.89C9.15,2.32,10.54,2,12,2c5.52,0,10,4.48,10,10s-4.48,10-10,10S2,17.52,2,12C2,10.53,2.32,9.14,2.88,7.88z M7,5.5 C7,6.33,6.33,7,5.5,7S4,6.33,4,5.5S4.67,4,5.5,4S7,4.67,7,5.5z M12.03,8.99h-0.07l-1.16,3.31h2.39L12.03,8.99z M12,18 c3.31,0,6-2.69,6-6s-2.69-6-6-6s-6,2.69-6,6S8.69,18,12,18z M11.29,7.5h1.43l3.01,8h-1.39l-0.72-2.04h-3.23L9.66,15.5H8.28 L11.29,7.5z" ]
+            []
+        ]
+
+
+{-| -}
+motion_photos_off : Icon msg
+motion_photos_off =
+    icon
+        [ enableBackground "new 0 0 24 24", viewBox "0 0 24 24" ]
+        [ g
+            []
+            [ rect
+                [ fill "none" ]
+                []
+            ]
+        , g
+            []
+            [ g
+                []
+                [ path
+                    [ d "M12,6c-0.92,0-1.8,0.22-2.58,0.59l7.99,7.99C17.78,13.8,18,12.92,18,12C18,8.69,15.31,6,12,6z" ]
+                    []
+                , path
+                    [ d "M2.81,2.81L1.39,4.22l2.27,2.27C2.61,8.07,2,9.96,2,12c0,5.52,4.48,10,10,10c2.04,0,3.93-0.61,5.51-1.66l2.27,2.27 l1.41-1.42L2.81,2.81z M12,20c-4.41,0-8-3.59-8-8c0-1.48,0.41-2.86,1.12-4.06l1.47,1.47C6.22,10.2,6,11.08,6,12c0,3.31,2.69,6,6,6 c0.92,0,1.8-0.22,2.58-0.59l1.47,1.47C14.86,19.59,13.48,20,12,20z" ]
+                    []
+                , path
+                    [ d "M12,4c4.41,0,8,3.59,8,8c0,1.48-0.41,2.86-1.12,4.05l1.45,1.45C21.39,15.93,22,14.04,22,12c0-5.52-4.48-10-10-10 C9.96,2,8.07,2.61,6.49,3.66l1.45,1.45C9.14,4.41,10.52,4,12,4z" ]
+                    []
+                ]
+            ]
+        ]
+
+
+{-| -}
 motion_photos_on : Icon msg
 motion_photos_on =
     icon
@@ -11714,7 +17838,7 @@ motion_photos_on =
             [ fill "none" ]
             []
         , path
-            [ d "M22,12c0,5.52-4.48,10-10,10S2,17.52,2,12c0-1.19,0.22-2.32,0.6-3.38L4.48,9.3C4.17,10.14,4,11.05,4,12c0,4.41,3.59,8,8,8 s8-3.59,8-8s-3.59-8-8-8c-0.95,0-1.85,0.17-2.69,0.48L8.63,2.59C9.69,2.22,10.82,2,12,2C17.52,2,22,6.48,22,12z M5.5,4 C4.67,4,4,4.67,4,5.5S4.67,7,5.5,7S7,6.33,7,5.5S6.33,4,5.5,4z M18,12c0,3.31-2.69,6-6,6s-6-2.69-6-6s2.69-6,6-6S18,8.69,18,12z M15,12l-5-3v6L15,12z" ]
+            [ d "M2.88,7.88l1.54,1.54C4.15,10.23,4,11.1,4,12c0,4.41,3.59,8,8,8s8-3.59,8-8s-3.59-8-8-8c-0.9,0-1.77,0.15-2.58,0.42 L7.89,2.89C9.15,2.32,10.54,2,12,2c5.52,0,10,4.48,10,10s-4.48,10-10,10S2,17.52,2,12C2,10.53,2.32,9.14,2.88,7.88z M6,12 c0-3.31,2.69-6,6-6s6,2.69,6,6s-2.69,6-6,6S6,15.31,6,12z M7,5.5C7,6.33,6.33,7,5.5,7S4,6.33,4,5.5S4.67,4,5.5,4S7,4.67,7,5.5z" ]
             []
         ]
 
@@ -11728,7 +17852,7 @@ motion_photos_pause =
             [ fill "none" ]
             []
         , path
-            [ d "M22,12c0,5.52-4.48,10-10,10S2,17.52,2,12c0-1.19,0.22-2.32,0.6-3.38L4.48,9.3C4.17,10.14,4,11.05,4,12c0,4.41,3.59,8,8,8 s8-3.59,8-8s-3.59-8-8-8c-0.95,0-1.85,0.17-2.69,0.48L8.63,2.59C9.69,2.22,10.82,2,12,2C17.52,2,22,6.48,22,12z M5.5,4 C4.67,4,4,4.67,4,5.5S4.67,7,5.5,7S7,6.33,7,5.5S6.33,4,5.5,4z M18,12c0,3.31-2.69,6-6,6s-6-2.69-6-6s2.69-6,6-6S18,8.69,18,12z M11,9H9v6h2V9z M15,9h-2v6h2V9z" ]
+            [ d "M2.88,7.88l1.54,1.54C4.15,10.23,4,11.1,4,12c0,4.41,3.59,8,8,8s8-3.59,8-8s-3.59-8-8-8c-0.9,0-1.77,0.15-2.58,0.42 L7.89,2.89C9.15,2.32,10.54,2,12,2c5.52,0,10,4.48,10,10s-4.48,10-10,10S2,17.52,2,12C2,10.53,2.32,9.14,2.88,7.88z M7,5.5 C7,6.33,6.33,7,5.5,7S4,6.33,4,5.5S4.67,4,5.5,4S7,4.67,7,5.5z M12,6c-3.31,0-6,2.69-6,6s2.69,6,6,6s6-2.69,6-6S15.31,6,12,6z M11,15H9V9h2V15z M15,15h-2V9h2V15z" ]
             []
         ]
 
@@ -11817,6 +17941,43 @@ movie_filter =
         , path
             [ d "M18 4l2 3h-3l-2-3h-2l2 3h-3l-2-3H8l2 3H7L5 4H4c-1.1 0-1.99.9-1.99 2L2 18c0 1.1.9 2 2 2h16c1.1 0 2-.9 2-2V4h-4zm-6.75 11.25L10 18l-1.25-2.75L6 14l2.75-1.25L10 10l1.25 2.75L14 14l-2.75 1.25zm5.69-3.31L16 14l-.94-2.06L13 11l2.06-.94L16 8l.94 2.06L19 11l-2.06.94z" ]
             []
+        ]
+
+
+{-| -}
+moving : Icon msg
+moving =
+    icon
+        [ enableBackground "new 0 0 24 24", viewBox "0 0 24 24" ]
+        [ rect
+            [ fill "none" ]
+            []
+        , path
+            [ d "M19.71,9.71L22,12V6h-6l2.29,2.29l-4.17,4.17c-0.39,0.39-1.02,0.39-1.41,0l-1.17-1.17c-1.17-1.17-3.07-1.17-4.24,0L2,16.59 L3.41,18l5.29-5.29c0.39-0.39,1.02-0.39,1.41,0l1.17,1.17c1.17,1.17,3.07,1.17,4.24,0L19.71,9.71z" ]
+            []
+        ]
+
+
+{-| -}
+mp : Icon msg
+mp =
+    icon
+        [ enableBackground "new 0 0 24 24", viewBox "0 0 24 24" ]
+        [ g
+            []
+            [ rect
+                [ fill "none" ]
+                []
+            ]
+        , g
+            []
+            [ g
+                []
+                [ path
+                    [ d "M21,3H3v18h18V3z M6,9h6.5v6H11v-4.5h-1v3H8.5v-3h-1V15H6V9z M15,15h-1.5V9H18v4.5h-3V15z M15,12h1.5v-1.5H15V12z" ]
+                    []
+                ]
+            ]
         ]
 
 
@@ -12049,6 +18210,72 @@ near_me_disabled =
 
 
 {-| -}
+nearby_error : Icon msg
+nearby_error =
+    icon
+        [ enableBackground "new 0 0 24 24", viewBox "0 0 24 24" ]
+        [ g
+            []
+            [ path
+                [ d "M0,0h24v24H0V0z", fill "none" ]
+                []
+            ]
+        , g
+            []
+            [ g
+                []
+                [ path
+                    [ d "M12,7.58L16.42,12L12,16.42L7.58,12L12,7.58z M12,19.2L4.8,12L12,4.8l6,6V7.17l-5.99-5.99L1.18,12.01l10.83,10.83 L18,16.83V13.2L12,19.2z M20,20h2v2h-2V20z M22,10h-2v8h2V10" ]
+                    []
+                ]
+            ]
+        ]
+
+
+{-| -}
+nearby_off : Icon msg
+nearby_off =
+    icon
+        [ enableBackground "new 0 0 24 24", viewBox "0 0 24 24" ]
+        [ g
+            []
+            [ path
+                [ d "M0,0h24v24H0V0z", fill "none" ]
+                []
+            ]
+        , g
+            []
+            [ g
+                []
+                [ path
+                    [ d "M22.82,12.01L18.83,16l-1.81-1.81L19.2,12L12,4.8L9.81,6.99L8,5.17l3.99-3.99L22.82,12.01z M21.19,21.19l-1.41,1.41 L16,18.83l-3.99,3.99L1.18,11.99L5.17,8L1.39,4.22L2.8,2.81L21.19,21.19z M14.19,17.02l-1.39-1.39l-0.8,0.8L7.58,12l0.8-0.8 l-1.4-1.39L4.8,12l7.2,7.2L14.19,17.02z M16.42,12L12,7.58l-0.8,0.8l4.42,4.42L16.42,12z" ]
+                    []
+                ]
+            ]
+        ]
+
+
+{-| -}
+network_cell : Icon msg
+network_cell =
+    icon
+        [ enableBackground "new 0 0 24 24", viewBox "0 0 24 24" ]
+        [ g
+            []
+            [ path
+                [ d "M0,0h24v24H0V0z", fill "none" ]
+                []
+            ]
+        , g
+            []
+            [ path
+                [ d "M2,22h20V2L2,22z M20,20h-3V9.83l3-3V20z" ]
+                []
+            ]
+        ]
+
+
+{-| -}
 network_check : Icon msg
 network_check =
     icon
@@ -12073,6 +18300,26 @@ network_locked =
         , path
             [ d "M22 16v-.36c0-1.31-.94-2.5-2.24-2.63-1.5-.15-2.76 1.02-2.76 2.49v.5h-1v6h7v-6h-1zm-1 0h-3v-.5c0-.83.67-1.5 1.5-1.5s1.5.67 1.5 1.5v.5zm-1.5-5c.15 0 .3.01.46.02.01 0 .03.01.04.01V1L1 20h13v-6h1.26c.22-.63.58-1.2 1.06-1.68.85-.85 1.98-1.32 3.18-1.32z" ]
             []
+        ]
+
+
+{-| -}
+network_wifi : Icon msg
+network_wifi =
+    icon
+        [ enableBackground "new 0 0 24 24", viewBox "0 0 24 24" ]
+        [ g
+            []
+            [ path
+                [ d "M0,0h24v24H0V0z", fill "none" ]
+                []
+            ]
+        , g
+            []
+            [ path
+                [ d "M12,4C7.31,4,3.07,5.9,0,8.98L12,21L24,8.98C20.93,5.9,16.69,4,12,4z M12,8c-2.86,0-5.5,0.94-7.65,2.51L2.92,9.07 C5.51,7.08,8.67,6,12,6s6.49,1.08,9.08,3.07l-1.43,1.43C17.5,8.94,14.86,8,12,8z" ]
+                []
+            ]
         ]
 
 
@@ -12153,6 +18400,81 @@ night_shelter =
 
 
 {-| -}
+nightlife : Icon msg
+nightlife =
+    icon
+        [ enableBackground "new 0 0 24 24", viewBox "0 0 24 24" ]
+        [ g
+            []
+            [ rect
+                [ fill "none" ]
+                []
+            ]
+        , g
+            []
+            [ g
+                []
+                [ g
+                    []
+                    [ path
+                        [ d "M1,5h14l-6,9v4h2v2H5v-2h2v-4L1,5z M10.1,9l1.4-2H4.49l1.4,2H10.1z M17,5h5v3h-3v9l0,0c0,1.66-1.34,3-3,3s-3-1.34-3-3 s1.34-3,3-3c0.35,0,0.69,0.06,1,0.17V5z" ]
+                        []
+                    ]
+                ]
+            ]
+        ]
+
+
+{-| -}
+nightlight : Icon msg
+nightlight =
+    icon
+        [ enableBackground "new 0 0 24 24", viewBox "0 0 24 24" ]
+        [ g
+            []
+            [ path
+                [ d "M0,0h24v24H0V0z", fill "none" ]
+                []
+            ]
+        , g
+            []
+            [ g
+                []
+                [ g
+                    []
+                    [ path
+                        [ d "M14,2c1.82,0,3.53,0.5,5,1.35C16.01,5.08,14,8.3,14,12s2.01,6.92,5,8.65C17.53,21.5,15.82,22,14,22C8.48,22,4,17.52,4,12 S8.48,2,14,2z" ]
+                        []
+                    ]
+                ]
+            ]
+        ]
+
+
+{-| -}
+nightlight_round : Icon msg
+nightlight_round =
+    icon
+        [ enableBackground "new 0 0 24 24", viewBox "0 0 24 24" ]
+        [ g
+            []
+            [ rect
+                [ fill "none" ]
+                []
+            ]
+        , g
+            []
+            [ g
+                []
+                [ path
+                    [ d "M15.5,22c1.05,0,2.05-0.16,3-0.46c-4.06-1.27-7-5.06-7-9.54s2.94-8.27,7-9.54C17.55,2.16,16.55,2,15.5,2 c-5.52,0-10,4.48-10,10S9.98,22,15.5,22L15.5,22z" ]
+                    []
+                ]
+            ]
+        ]
+
+
+{-| -}
 nights_stay : Icon msg
 nights_stay =
     icon
@@ -12175,6 +18497,32 @@ nights_stay =
                     ]
                 , path
                     [ d "M7,16l-0.18,0C6.4,14.84,5.3,14,4,14c-1.66,0-3,1.34-3,3s1.34,3,3,3c0.62,0,2.49,0,3,0c1.1,0,2-0.9,2-2 C9,16.9,8.1,16,7,16z" ]
+                    []
+                ]
+            ]
+        ]
+
+
+{-| -}
+no_accounts : Icon msg
+no_accounts =
+    icon
+        [ enableBackground "new 0 0 24 24", viewBox "0 0 24 24" ]
+        [ g
+            []
+            [ rect
+                [ fill "none" ]
+                []
+            ]
+        , g
+            []
+            [ g
+                []
+                [ path
+                    [ d "M15.18,10.94c0.2-0.44,0.32-0.92,0.32-1.44C15.5,7.57,13.93,6,12,6c-0.52,0-1,0.12-1.44,0.32L15.18,10.94z" ]
+                    []
+                , path
+                    [ d "M12,2C6.48,2,2,6.48,2,12s4.48,10,10,10s10-4.48,10-10S17.52,2,12,2z M12,15c-2.32,0-4.45,0.8-6.14,2.12 C4.7,15.73,4,13.95,4,12c0-1.85,0.63-3.55,1.69-4.9l2.86,2.86c0.21,1.56,1.43,2.79,2.99,2.99l2.2,2.2C13.17,15.05,12.59,15,12,15z M18.31,16.9L7.1,5.69C8.45,4.63,10.15,4,12,4c4.42,0,8,3.58,8,8C20,13.85,19.37,15.54,18.31,16.9z" ]
                     []
                 ]
             ]
@@ -12238,6 +18586,20 @@ no_drinks =
 {-| -}
 no_encryption : Icon msg
 no_encryption =
+    icon
+        [ viewBox "0 0 24 24" ]
+        [ path
+            [ d "M0 0h24v24H0V0zm0 0h24v24H0V0zm0 0h24v24H0V0zm0 0h24v24H0V0z", fill "none" ]
+            []
+        , path
+            [ d "M8.9 6c0-1.71 1.39-3.1 3.1-3.1s3.1 1.39 3.1 3.1v2h-4.66L20 17.56V8h-3V6.22c0-2.61-1.91-4.94-4.51-5.19-2.53-.25-4.72 1.41-5.32 3.7L8.9 6.46V6zM4.41 4.81L3 6.22 4.78 8H4v14h14.78l1 1 1.41-1.41z" ]
+            []
+        ]
+
+
+{-| -}
+no_encryption_gmailerrorred : Icon msg
+no_encryption_gmailerrorred =
     icon
         [ viewBox "0 0 24 24" ]
         [ path
@@ -12388,6 +18750,20 @@ no_transfer =
 
 
 {-| -}
+nordic_walking : Icon msg
+nordic_walking =
+    icon
+        [ enableBackground "new 0 0 24 24", viewBox "0 0 24 24" ]
+        [ rect
+            [ fill "none" ]
+            []
+        , path
+            [ d "M19,23h-1.5v-9H19V23z M7.53,14H6l-2,9h1.53L7.53,14z M13.5,5.5c1.1,0,2-0.9,2-2s-0.9-2-2-2s-2,0.9-2,2S12.4,5.5,13.5,5.5z M9.8,8.9L7,23h2.1l1.8-8l2.1,2v6h2v-7.5l-2.1-2l0.6-3C14.8,12,16.8,13,19,13v-2c-1.9,0-3.5-1-4.3-2.4l-1-1.6 c-0.56-0.89-1.68-1.25-2.65-0.84L6,8.3V13h2V9.6L9.8,8.9z" ]
+            []
+        ]
+
+
+{-| -}
 north : Icon msg
 north =
     icon
@@ -12520,6 +18896,26 @@ note_add =
 
 
 {-| -}
+note_alt : Icon msg
+note_alt =
+    icon
+        [ enableBackground "new 0 0 24 24", viewBox "0 0 24 24" ]
+        [ g
+            []
+            [ path
+                [ d "M0,0h24v24H0V0z", fill "none" ]
+                []
+            ]
+        , g
+            []
+            [ path
+                [ d "M21,3h-6.18C14.4,1.84,13.3,1,12,1S9.6,1.84,9.18,3H3v18h18V3z M12,2.75c0.41,0,0.75,0.34,0.75,0.75S12.41,4.25,12,4.25 s-0.75-0.34-0.75-0.75S11.59,2.75,12,2.75z M9.1,17H7v-2.14l5.96-5.96l2.12,2.12L9.1,17z M17.2,8.91l-1.41,1.41L13.66,8.2 l1.41-1.41L17.2,8.91z" ]
+                []
+            ]
+        ]
+
+
+{-| -}
 notes : Icon msg
 notes =
     icon
@@ -12527,6 +18923,23 @@ notes =
         [ path
             [ d "M21 11.01L3 11v2h18zM3 16h12v2H3zM21 6H3v2.01L21 8z" ]
             []
+        ]
+
+
+{-| -}
+notification_add : Icon msg
+notification_add =
+    icon
+        [ enableBackground "new 0 0 24 24", viewBox "0 0 24 24" ]
+        [ rect
+            [ fill "none" ]
+            []
+        , g
+            []
+            [ path
+                [ d "M10,20h4c0,1.1-0.9,2-2,2S10,21.1,10,20z M14,9c0,2.61,1.67,4.83,4,5.66L18,17h2v2H4v-2h2v-7c0-2.79,1.91-5.14,4.5-5.8V2 l3,0v2.2c0.71,0.18,1.36,0.49,1.95,0.9C14.54,6.14,14,7.51,14,9z M24,8h-3V5h-2v3h-3v2h3v3h2v-3h3V8z" ]
+                []
+            ]
         ]
 
 
@@ -12640,6 +19053,44 @@ offline_pin =
 
 
 {-| -}
+offline_share : Icon msg
+offline_share =
+    icon
+        [ enableBackground "new 0 0 24 24", viewBox "0 0 24 24" ]
+        [ g
+            []
+            [ path
+                [ d "M0,0h24v24H0V0z", fill "none" ]
+                []
+            ]
+        , g
+            []
+            [ g
+                []
+                [ g
+                    []
+                    [ polygon
+                        [ points "6,5 4,5 4,23 16,23 16,21 6,21" ]
+                        []
+                    ]
+                , g
+                    []
+                    [ path
+                        [ d "M20,1H8v18h12V1z M18,15h-8V5h8V15z" ]
+                        []
+                    ]
+                , g
+                    []
+                    [ polygon
+                        [ points "12.5,10.25 14.5,10.25 14.5,12 17,9.5 14.5,7 14.5,8.75 11,8.75 11,12 12.5,12" ]
+                        []
+                    ]
+                ]
+            ]
+        ]
+
+
+{-| -}
 ondemand_video : Icon msg
 ondemand_video =
     icon
@@ -12727,6 +19178,20 @@ open_in_new =
 
 
 {-| -}
+open_in_new_off : Icon msg
+open_in_new_off =
+    icon
+        [ enableBackground "new 0 0 24 24", viewBox "0 0 24 24" ]
+        [ rect
+            [ fill "none" ]
+            []
+        , path
+            [ d "M16.79,5.8L14,3h7v7l-2.79-2.8l-4.09,4.09l-1.41-1.41L16.79,5.8z M19,12v4.17l2,2V12H19z M19.78,22.61L18.17,21H3V5.83 L1.39,4.22l1.41-1.41l18.38,18.38L19.78,22.61z M16.17,19l-4.88-4.88L9.7,15.71L8.29,14.3l1.59-1.59L5,7.83V19H16.17z M7.83,5H12V3 H5.83L7.83,5z" ]
+            []
+        ]
+
+
+{-| -}
 open_with : Icon msg
 open_with =
     icon
@@ -12741,8 +19206,22 @@ open_with =
 
 
 {-| -}
-outbond : Icon msg
-outbond =
+other_houses : Icon msg
+other_houses =
+    icon
+        [ enableBackground "new 0 0 24 24", viewBox "0 0 24 24" ]
+        [ rect
+            [ fill "none" ]
+            []
+        , path
+            [ d "M12,3L1,11.4l1.21,1.59L4,11.62V21h16v-9.38l1.79,1.36L23,11.4L12,3z M8,15c-0.55,0-1-0.45-1-1c0-0.55,0.45-1,1-1 s1,0.45,1,1C9,14.55,8.55,15,8,15z M12,15c-0.55,0-1-0.45-1-1c0-0.55,0.45-1,1-1s1,0.45,1,1C13,14.55,12.55,15,12,15z M16,15 c-0.55,0-1-0.45-1-1c0-0.55,0.45-1,1-1s1,0.45,1,1C17,14.55,16.55,15,16,15z" ]
+            []
+        ]
+
+
+{-| -}
+outbound : Icon msg
+outbound =
     icon
         [ enableBackground "new 0 0 24 24", viewBox "0 0 24 24" ]
         [ rect
@@ -12760,6 +19239,32 @@ outbond =
         , g
             []
             []
+        ]
+
+
+{-| -}
+outbox : Icon msg
+outbox =
+    icon
+        [ enableBackground "new 0 0 24 24", viewBox "0 0 24 24" ]
+        [ g
+            []
+            [ rect
+                [ fill "none" ]
+                []
+            ]
+        , g
+            []
+            [ g
+                []
+                [ polygon
+                    [ points "11,14 13,14 13,11 16,11 12,7 8,11 11,11" ]
+                    []
+                , path
+                    [ d "M3,3v18h18V3H3z M19,14h-4.18c-0.41,1.16-1.51,2-2.82,2s-2.4-0.84-2.82-2H5V5h14V14z" ]
+                    []
+                ]
+            ]
         ]
 
 
@@ -12824,6 +19329,26 @@ outlined_flag =
 
 
 {-| -}
+padding : Icon msg
+padding =
+    icon
+        [ enableBackground "new 0 0 24 24", viewBox "0 0 24 24" ]
+        [ g
+            []
+            [ rect
+                [ fill "none" ]
+                []
+            ]
+        , g
+            []
+            [ path
+                [ d "M3,3v18h18V3H3z M9,9H7V7h2V9z M13,9h-2V7h2V9z M17,9h-2V7h2V9z" ]
+                []
+            ]
+        ]
+
+
+{-| -}
 pages : Icon msg
 pages =
     icon
@@ -12848,6 +19373,26 @@ pageview =
         , path
             [ d "M11.5 9C10.12 9 9 10.12 9 11.5s1.12 2.5 2.5 2.5 2.5-1.12 2.5-2.5S12.88 9 11.5 9zM22 4H2v16h20V4zm-5.21 14.21l-2.91-2.91c-.69.44-1.51.7-2.39.7C9.01 16 7 13.99 7 11.5S9.01 7 11.5 7 16 9.01 16 11.5c0 .88-.26 1.69-.7 2.39l2.91 2.9-1.42 1.42z" ]
             []
+        ]
+
+
+{-| -}
+paid : Icon msg
+paid =
+    icon
+        [ enableBackground "new 0 0 24 24", viewBox "0 0 24 24" ]
+        [ g
+            []
+            [ rect
+                [ fill "none" ]
+                []
+            ]
+        , g
+            []
+            [ path
+                [ d "M12,2C6.48,2,2,6.48,2,12s4.48,10,10,10s10-4.48,10-10S17.52,2,12,2z M12.88,17.76V19h-1.75v-1.29 c-0.74-0.18-2.39-0.77-3.02-2.96l1.65-0.67c0.06,0.22,0.58,2.09,2.4,2.09c0.93,0,1.98-0.48,1.98-1.61c0-0.96-0.7-1.46-2.28-2.03 c-1.1-0.39-3.35-1.03-3.35-3.31c0-0.1,0.01-2.4,2.62-2.96V5h1.75v1.24c1.84,0.32,2.51,1.79,2.66,2.23l-1.58,0.67 c-0.11-0.35-0.59-1.34-1.9-1.34c-0.7,0-1.81,0.37-1.81,1.39c0,0.95,0.86,1.31,2.64,1.9c2.4,0.83,3.01,2.05,3.01,3.45 C15.9,17.17,13.4,17.67,12.88,17.76z" ]
+                []
+            ]
         ]
 
 
@@ -12922,6 +19467,72 @@ panorama_horizontal =
 
 
 {-| -}
+panorama_horizontal_select : Icon msg
+panorama_horizontal_select =
+    icon
+        [ enableBackground "new 0 0 24 24", viewBox "0 0 24 24" ]
+        [ g
+            []
+            [ rect
+                [ fill "none" ]
+                []
+            ]
+        , g
+            []
+            [ path
+                [ d "M12,5.5c-5.25,0-9.01-1.54-10-1.92L2,20.4c2.16-0.76,5.21-1.9,10-1.9c4.78,0,7.91,1.17,10,1.9L22,3.6 C19.91,4.33,16.77,5.5,12,5.5z" ]
+                []
+            ]
+        ]
+
+
+{-| -}
+panorama_photosphere : Icon msg
+panorama_photosphere =
+    icon
+        [ enableBackground "new 0 0 24 24", viewBox "0 0 24 24" ]
+        [ g
+            []
+            [ rect
+                [ fill "none" ]
+                []
+            ]
+        , g
+            []
+            [ g
+                []
+                [ path
+                    [ d "M23,8.84c-0.54-0.43-1.23-0.81-1.99-1.15C19.4,4.33,15.98,2,12,2C8.02,2,4.6,4.33,2.99,7.68C2.23,8.03,1.54,8.4,1,8.84 v6.33c0.54,0.43,1.23,0.81,1.99,1.15C4.6,19.67,8.02,22,12,22c3.98,0,7.4-2.33,9.01-5.68c0.76-0.34,1.45-0.72,1.99-1.15V8.84z M12,4c2.37,0,4.49,1.04,5.95,2.68C16.17,6.25,14.15,6,12,6C9.85,6,7.83,6.25,6.05,6.68C7.51,5.04,9.63,4,12,4z M12,20 c-2.37,0-4.49-1.04-5.95-2.68C7.83,17.75,9.85,18,12,18s4.17-0.25,5.95-0.68C16.49,18.96,14.37,20,12,20z" ]
+                    []
+                ]
+            ]
+        ]
+
+
+{-| -}
+panorama_photosphere_select : Icon msg
+panorama_photosphere_select =
+    icon
+        [ enableBackground "new 0 0 24 24", viewBox "0 0 24 24" ]
+        [ g
+            []
+            [ rect
+                [ fill "none" ]
+                []
+            ]
+        , g
+            []
+            [ g
+                []
+                [ path
+                    [ d "M23,8.84c-0.54-0.43-1.23-0.81-1.99-1.15C19.4,4.33,15.98,2,12,2C8.02,2,4.6,4.33,2.99,7.68C2.23,8.03,1.54,8.4,1,8.84 v6.33c0.54,0.43,1.23,0.81,1.99,1.15C4.6,19.67,8.02,22,12,22c3.98,0,7.4-2.33,9.01-5.68c0.76-0.34,1.45-0.72,1.99-1.15V8.84z M12,4c2.37,0,4.49,1.04,5.95,2.68C16.17,6.25,14.15,6,12,6C9.85,6,7.83,6.25,6.05,6.68C7.51,5.04,9.63,4,12,4z M12,20 c-2.37,0-4.49-1.04-5.95-2.68C7.83,17.75,9.85,18,12,18s4.17-0.25,5.95-0.68C16.49,18.96,14.37,20,12,20z" ]
+                    []
+                ]
+            ]
+        ]
+
+
+{-| -}
 panorama_vertical : Icon msg
 panorama_vertical =
     icon
@@ -12932,6 +19543,26 @@ panorama_vertical =
         , path
             [ d "M17.46 4c-.77 2.6-1.16 5.28-1.16 8 0 2.72.39 5.41 1.16 8H6.55c.77-2.6 1.16-5.28 1.16-8 0-2.72-.39-5.41-1.16-8h10.91m2.78-2H3.77s.26.77.3.88C5.16 5.82 5.71 8.91 5.71 12s-.55 6.18-1.64 9.12c-.04.11-.3.88-.3.88h16.47s-.26-.77-.3-.88c-1.09-2.94-1.64-6.03-1.64-9.12s.55-6.18 1.64-9.12c.04-.11.3-.88.3-.88z" ]
             []
+        ]
+
+
+{-| -}
+panorama_vertical_select : Icon msg
+panorama_vertical_select =
+    icon
+        [ enableBackground "new 0 0 24 24", viewBox "0 0 24 24" ]
+        [ g
+            []
+            [ rect
+                [ fill "none" ]
+                []
+            ]
+        , g
+            []
+            [ path
+                [ d "M18.49,11.99c0-5.25,1.54-9.01,1.92-10l-16.82,0c0.76,2.16,1.9,5.21,1.9,10c0,4.78-1.17,7.91-1.9,10l16.81,0 C19.66,19.91,18.49,16.76,18.49,11.99z" ]
+                []
+            ]
         ]
 
 
@@ -12950,6 +19581,72 @@ panorama_wide_angle =
 
 
 {-| -}
+panorama_wide_angle_select : Icon msg
+panorama_wide_angle_select =
+    icon
+        [ enableBackground "new 0 0 24 24", viewBox "0 0 24 24" ]
+        [ g
+            []
+            [ rect
+                [ fill "none" ]
+                []
+            ]
+        , g
+            []
+            [ g
+                []
+                [ g
+                    []
+                    [ path
+                        [ d "M12,4C8.03,4,5.15,4.63,3,5c-0.55,1.97-1,3.92-1,7c0,3.03,0.45,5.05,1,7c2.15,0.37,4.98,1,9,1c3.97,0,6.85-0.63,9-1 c0.57-2.02,1-3.99,1-7c0-3.03-0.45-5.05-1-7C18.85,4.63,16.02,4,12,4z" ]
+                        []
+                    ]
+                ]
+            ]
+        ]
+
+
+{-| -}
+paragliding : Icon msg
+paragliding =
+    icon
+        [ enableBackground "new 0 0 24 24", viewBox "0 0 24 24" ]
+        [ rect
+            [ fill "none" ]
+            []
+        , path
+            [ d "M12,17c-1.1,0-2-0.9-2-2s0.9-2,2-2s2,0.9,2,2S13.1,17,12,17z M8.52,17.94C8.04,17.55,7,16.76,7,14H5 c0,2.7,0.93,4.41,2.3,5.5c0.5,0.4,1.1,0.7,1.7,0.9L9,24h6v-3.6c0.6-0.2,1.2-0.5,1.7-0.9c1.37-1.09,2.3-2.8,2.3-5.5h-2 c0,2.76-1.04,3.55-1.52,3.94C14.68,18.54,14,19,12,19S9.32,18.54,8.52,17.94z M12,0C5.92,0,1,1.9,1,4.25v3.49 C1,8.55,1.88,9,2.56,8.57C2.7,8.48,2.84,8.39,3,8.31L5,13h2l1.5-6.28C9.6,6.58,10.78,6.5,12,6.5s2.4,0.08,3.5,0.22L17,13h2l2-4.69 c0.16,0.09,0.3,0.17,0.44,0.26C22.12,9,23,8.55,23,7.74V4.25C23,1.9,18.08,0,12,0z M5.88,11.24L4.37,7.69 c0.75-0.28,1.6-0.52,2.53-0.71L5.88,11.24z M18.12,11.24L17.1,6.98c0.93,0.19,1.78,0.43,2.53,0.71L18.12,11.24z" ]
+            []
+        ]
+
+
+{-| -}
+park : Icon msg
+park =
+    icon
+        [ enableBackground "new 0 0 24 24", viewBox "0 0 24 24" ]
+        [ g
+            []
+            [ rect
+                [ fill "none" ]
+                []
+            ]
+        , g
+            []
+            [ g
+                []
+                [ g
+                    []
+                    [ polygon
+                        [ points "17,12 19,12 12,2 5.05,12 7,12 3.1,18 10.02,18 10.02,22 13.98,22 13.98,18 21,18" ]
+                        []
+                    ]
+                ]
+            ]
+        ]
+
+
+{-| -}
 party_mode : Icon msg
 party_mode =
     icon
@@ -12964,6 +19661,52 @@ party_mode =
 
 
 {-| -}
+password : Icon msg
+password =
+    icon
+        [ enableBackground "new 0 0 24 24", viewBox "0 0 24 24" ]
+        [ g
+            []
+            [ path
+                [ d "M0,0h24v24H0V0z", fill "none" ]
+                []
+            ]
+        , g
+            []
+            [ g
+                []
+                [ path
+                    [ d "M2,17h20v2H2V17z M3.15,12.95L4,11.47l0.85,1.48l1.3-0.75L5.3,10.72H7v-1.5H5.3l0.85-1.47L4.85,7L4,8.47L3.15,7l-1.3,0.75 L2.7,9.22H1v1.5h1.7L1.85,12.2L3.15,12.95z M9.85,12.2l1.3,0.75L12,11.47l0.85,1.48l1.3-0.75l-0.85-1.48H15v-1.5h-1.7l0.85-1.47 L12.85,7L12,8.47L11.15,7l-1.3,0.75l0.85,1.47H9v1.5h1.7L9.85,12.2z M23,9.22h-1.7l0.85-1.47L20.85,7L20,8.47L19.15,7l-1.3,0.75 l0.85,1.47H17v1.5h1.7l-0.85,1.48l1.3,0.75L20,11.47l0.85,1.48l1.3-0.75l-0.85-1.48H23V9.22z" ]
+                    []
+                ]
+            ]
+        ]
+
+
+{-| -}
+pattern : Icon msg
+pattern =
+    icon
+        [ enableBackground "new 0 0 24 24", viewBox "0 0 24 24" ]
+        [ g
+            []
+            [ path
+                [ d "M0,0h24v24H0V0z", fill "none" ]
+                []
+            ]
+        , g
+            []
+            [ g
+                []
+                [ path
+                    [ d "M4,6c0-1.1,0.9-2,2-2s2,0.9,2,2S7.1,8,6,8S4,7.1,4,6z M6,14c1.1,0,2-0.9,2-2s-0.9-2-2-2s-2,0.9-2,2S4.9,14,6,14z M12,8 c1.1,0,2-0.9,2-2s-0.9-2-2-2s-2,0.9-2,2S10.9,8,12,8z M18,10c-1.1,0-2,0.9-2,2s0.9,2,2,2s2-0.9,2-2S19.1,10,18,10z M17.98,16 c-0.74,0-1.37,0.4-1.72,1h-2.54c-0.34-0.6-0.98-1-1.72-1s-1.37,0.4-1.72,1H8.41l3.07-3.07C11.65,13.97,11.82,14,12,14 c1.1,0,2-0.9,2-2c0-0.18-0.03-0.35-0.07-0.51l3.56-3.56C17.65,7.97,17.82,8,18,8c1.1,0,2-0.9,2-2s-0.9-2-2-2s-2,0.9-2,2 c0,0.18,0.03,0.35,0.07,0.51l-3.56,3.56C12.35,10.03,12.18,10,12,10c-1.1,0-2,0.9-2,2c0,0.18,0.03,0.35,0.07,0.51l-3.56,3.56 C6.35,16.03,6.18,16,6,16c-1.1,0-2,0.9-2,2s0.9,2,2,2c0.74,0,1.37-0.4,1.72-1h2.57c0.34,0.6,0.98,1,1.72,1s1.37-0.4,1.72-1h2.55 c0.34,0.6,0.98,1,1.72,1c1.1,0,2-0.9,2-2C19.98,16.9,19.08,16,17.98,16z" ]
+                    []
+                ]
+            ]
+        ]
+
+
+{-| -}
 pause : Icon msg
 pause =
     icon
@@ -12974,6 +19717,29 @@ pause =
         , path
             [ d "M6 19h4V5H6v14zm8-14v14h4V5h-4z" ]
             []
+        ]
+
+
+{-| -}
+pause_circle : Icon msg
+pause_circle =
+    icon
+        [ enableBackground "new 0 0 24 24", viewBox "0 0 24 24" ]
+        [ g
+            []
+            [ rect
+                [ fill "none" ]
+                []
+            ]
+        , g
+            []
+            [ g
+                []
+                [ path
+                    [ d "M12,2C6.48,2,2,6.48,2,12s4.48,10,10,10s10-4.48,10-10S17.52,2,12,2z M11,16H9V8h2V16z M15,16h-2V8h2V16z" ]
+                    []
+                ]
+            ]
         ]
 
 
@@ -13335,6 +20101,26 @@ person_add =
 
 
 {-| -}
+person_add_alt : Icon msg
+person_add_alt =
+    icon
+        [ enableBackground "new 0 0 24 24", viewBox "0 0 24 24" ]
+        [ g
+            []
+            [ rect
+                [ fill "none" ]
+                []
+            ]
+        , g
+            []
+            [ path
+                [ d "M15.39,14.56C13.71,13.7,11.53,13,9,13c-2.53,0-4.71,0.7-6.39,1.56C1.61,15.07,1,16.1,1,17.22V20h16v-2.78 C17,16.1,16.39,15.07,15.39,14.56z M9,12c2.21,0,4-1.79,4-4c0-2.21-1.79-4-4-4S5,5.79,5,8C5,10.21,6.79,12,9,12z M20,9V6h-2v3h-3v2 h3v3h2v-3h3V9H20z" ]
+                []
+            ]
+        ]
+
+
+{-| -}
 person_add_alt_1 : Icon msg
 person_add_alt_1 =
     icon
@@ -13365,6 +20151,23 @@ person_add_disabled =
         , path
             [ d "M14.48 11.95c.17.02.34.05.52.05 2.21 0 4-1.79 4-4s-1.79-4-4-4-4 1.79-4 4c0 .18.03.35.05.52l3.43 3.43zm2.21 2.21L22.53 20H23v-2c0-2.14-3.56-3.5-6.31-3.84zM0 3.12l4 4V10H1v2h3v3h2v-3h2.88l2.51 2.51C9.19 15.11 7 16.3 7 18v2h9.88l4 4 1.41-1.41L1.41 1.71 0 3.12zM6.88 10H6v-.88l.88.88z" ]
             []
+        ]
+
+
+{-| -}
+person_off : Icon msg
+person_off =
+    icon
+        [ enableBackground "new 0 0 24 24", viewBox "0 0 24 24" ]
+        [ rect
+            [ fill "none" ]
+            []
+        , g
+            []
+            [ path
+                [ d "M8.65,5.82C9.36,4.72,10.6,4,12,4c2.21,0,4,1.79,4,4c0,1.4-0.72,2.64-1.82,3.35L8.65,5.82z M20,17.17 c-0.02-1.1-0.63-2.11-1.61-2.62c-0.54-0.28-1.13-0.54-1.77-0.76L20,17.17z M21.19,21.19L2.81,2.81L1.39,4.22l8.89,8.89 c-1.81,0.23-3.39,0.79-4.67,1.45C4.61,15.07,4,16.1,4,17.22V20h13.17l2.61,2.61L21.19,21.19z" ]
+                []
+            ]
         ]
 
 
@@ -13872,6 +20675,46 @@ photo_camera =
 
 
 {-| -}
+photo_camera_back : Icon msg
+photo_camera_back =
+    icon
+        [ enableBackground "new 0 0 24 24", viewBox "0 0 24 24" ]
+        [ g
+            []
+            [ rect
+                [ fill "none" ]
+                []
+            ]
+        , g
+            []
+            [ path
+                [ d "M16.83,5L15,3H9L7.17,5H2v16h20V5H16.83z M6,17l3-4l2.25,3l3-4L18,17H6z" ]
+                []
+            ]
+        ]
+
+
+{-| -}
+photo_camera_front : Icon msg
+photo_camera_front =
+    icon
+        [ enableBackground "new 0 0 24 24", viewBox "0 0 24 24" ]
+        [ g
+            []
+            [ rect
+                [ fill "none" ]
+                []
+            ]
+        , g
+            []
+            [ path
+                [ d "M16.83,5L15,3H9L7.17,5H2v16h20V5H16.83z M12,9c1.1,0,2,0.9,2,2c0,1.1-0.9,2-2,2s-2-0.9-2-2C10,9.9,10.9,9,12,9z M16,17H8 v-0.57c0-0.81,0.48-1.53,1.22-1.85C10.07,14.21,11.01,14,12,14s1.93,0.21,2.78,0.58C15.52,14.9,16,15.62,16,16.43V17z" ]
+                []
+            ]
+        ]
+
+
+{-| -}
 photo_filter : Icon msg
 photo_filter =
     icon
@@ -13942,6 +20785,34 @@ photo_size_select_small =
 
 
 {-| -}
+piano : Icon msg
+piano =
+    icon
+        [ enableBackground "new 0 0 24 24", viewBox "0 0 24 24" ]
+        [ rect
+            [ fill "none" ]
+            []
+        , path
+            [ d "M21,3H3v18h18V3z M13,14.5h1.25V19h-4.5v-4.5H11V5h2V14.5z M5,5h2v9.5h1.25V19H5V5z M19,19h-3.25v-4.5H17V5h2V19z" ]
+            []
+        ]
+
+
+{-| -}
+piano_off : Icon msg
+piano_off =
+    icon
+        [ enableBackground "new 0 0 24 24", viewBox "0 0 24 24" ]
+        [ rect
+            [ fill "none" ]
+            []
+        , path
+            [ d "M21.19,21.19L2.81,2.81L1.39,4.22L3,5.83V21h15.17l1.61,1.61L21.19,21.19z M8.25,19H5V7.83l2,2v4.67h1.25V19z M9.75,19v-4.5 H11v-0.67l3.25,3.25V19H9.75z M5.83,3H21v15.17l-2-2V5h-2v9.17l-4-4V5h-2v3.17L5.83,3z" ]
+            []
+        ]
+
+
+{-| -}
 picture_as_pdf : Icon msg
 picture_as_pdf =
     icon
@@ -13995,6 +20866,40 @@ pie_chart =
 
 
 {-| -}
+pie_chart_outline : Icon msg
+pie_chart_outline =
+    icon
+        [ viewBox "0 0 24 24" ]
+        [ path
+            [ d "M12 2C6.5 2 2 6.5 2 12s4.5 10 10 10 10-4.5 10-10S17.5 2 12 2zm1 2.07c3.61.45 6.48 3.33 6.93 6.93H13V4.07zM4 12c0-4.06 3.07-7.44 7-7.93v15.87c-3.93-.5-7-3.88-7-7.94zm9 7.93V13h6.93c-.45 3.61-3.32 6.48-6.93 6.93z" ]
+            []
+        ]
+
+
+{-| -}
+pin : Icon msg
+pin =
+    icon
+        [ enableBackground "new 0 0 24 24", viewBox "0 0 24 24" ]
+        [ g
+            []
+            [ path
+                [ d "M0,0h24v24H0V0z", fill "none" ]
+                []
+            ]
+        , g
+            []
+            [ g
+                []
+                [ path
+                    [ d "M22,4H2v16h20V4z M7.64,15H6.49v-4.5l-0.9,0.66l-0.58-0.89L6.77,9h0.87V15z M13.5,15H9.61v-1.02 c1.07-1.07,1.77-1.77,2.13-2.15c0.4-0.42,0.54-0.69,0.54-1.06c0-0.4-0.31-0.72-0.81-0.72c-0.52,0-0.8,0.39-0.9,0.72l-1.01-0.42 c0.01-0.02,0.18-0.76,1-1.15c0.69-0.33,1.48-0.2,1.95,0.03c0.86,0.44,0.91,1.24,0.91,1.48c0,0.64-0.31,1.26-0.92,1.86 c-0.25,0.25-0.72,0.71-1.4,1.39l0.03,0.05h2.37V15z M18.75,14.15C18.67,14.28,18.19,15,16.99,15c-0.04,0-1.6,0.08-2.05-1.51 l1.03-0.41c0.03,0.1,0.19,0.86,1.02,0.86c0.41,0,0.89-0.28,0.89-0.77c0-0.55-0.48-0.79-1.04-0.79h-0.5v-1h0.46 c0.33,0,0.88-0.14,0.88-0.72c0-0.39-0.31-0.65-0.75-0.65c-0.5,0-0.74,0.32-0.85,0.64l-0.99-0.41C15.2,9.9,15.68,9,16.94,9 c1.09,0,1.54,0.64,1.62,0.75c0.33,0.5,0.28,1.16,0.02,1.57c-0.15,0.22-0.32,0.38-0.52,0.48v0.07c0.28,0.11,0.51,0.28,0.68,0.52 C19.11,12.91,19.07,13.66,18.75,14.15z" ]
+                    []
+                ]
+            ]
+        ]
+
+
+{-| -}
 pin_drop : Icon msg
 pin_drop =
     icon
@@ -14005,6 +20910,38 @@ pin_drop =
         , path
             [ d "M5 20h14v2H5v-2zm7-13c-1.1 0-2 .9-2 2s.9 2 2 2a2 2 0 1 0 0-4zm0-5c3.27 0 7 2.46 7 7.15 0 3.12-2.33 6.41-7 9.85-4.67-3.44-7-6.73-7-9.85C5 4.46 8.73 2 12 2z", fillRule "evenodd" ]
             []
+        ]
+
+
+{-| -}
+pivot_table_chart : Icon msg
+pivot_table_chart =
+    icon
+        [ enableBackground "new 0 0 24 24", viewBox "0 0 24 24" ]
+        [ g
+            []
+            [ path
+                [ d "M0,0h24v24H0V0z", fill "none" ]
+                []
+            ]
+        , g
+            []
+            [ g
+                []
+                [ rect
+                    []
+                    []
+                , rect
+                    []
+                    []
+                , rect
+                    []
+                    []
+                , polygon
+                    [ points "18,9 14,13 17,13 17,17 13,17 13,14 9,18 13,22 13,19 19,19 19,13 22,13" ]
+                    []
+                ]
+            ]
         ]
 
 
@@ -14063,6 +21000,26 @@ play_arrow =
 
 
 {-| -}
+play_circle : Icon msg
+play_circle =
+    icon
+        [ enableBackground "new 0 0 24 24", viewBox "0 0 24 24" ]
+        [ g
+            []
+            [ rect
+                [ fill "none" ]
+                []
+            ]
+        , g
+            []
+            [ path
+                [ d "M12,2C6.48,2,2,6.48,2,12s4.48,10,10,10s10-4.48,10-10S17.52,2,12,2z M9.5,16.5v-9l7,4.5L9.5,16.5z" ]
+                []
+            ]
+        ]
+
+
+{-| -}
 play_circle_filled : Icon msg
 play_circle_filled =
     icon
@@ -14091,6 +21048,32 @@ play_circle_outline =
 
 
 {-| -}
+play_disabled : Icon msg
+play_disabled =
+    icon
+        [ enableBackground "new 0 0 24 24", viewBox "0 0 24 24" ]
+        [ g
+            []
+            [ rect
+                [ fill "none" ]
+                []
+            ]
+        , g
+            []
+            [ g
+                []
+                [ polygon
+                    [ points "16.45,13.62 19,12 8,5 8,5.17" ]
+                    []
+                , polygon
+                    [ points "2.81,2.81 1.39,4.22 8,10.83 8,19 12.99,15.82 19.78,22.61 21.19,21.19" ]
+                    []
+                ]
+            ]
+        ]
+
+
+{-| -}
 play_for_work : Icon msg
 play_for_work =
     icon
@@ -14105,16 +21088,48 @@ play_for_work =
 
 
 {-| -}
+play_lesson : Icon msg
+play_lesson =
+    icon
+        [ enableBackground "new 0 0 24 24", viewBox "0 0 24 24" ]
+        [ g
+            []
+            [ path
+                [ d "M0,0h24v24H0V0z", fill "none" ]
+                []
+            ]
+        , g
+            []
+            [ g
+                []
+                [ path
+                    [ d "M18,11c0.34,0,0.67,0.03,1,0.08V2H3v20h9.26C11.47,20.87,11,19.49,11,18C11,14.13,14.13,11,18,11z M7,11V4h5v7L9.5,9.5 L7,11z" ]
+                    []
+                , path
+                    [ d "M18,13c-2.76,0-5,2.24-5,5s2.24,5,5,5s5-2.24,5-5S20.76,13,18,13z M16.75,20.5v-5l4,2.5L16.75,20.5z" ]
+                    []
+                ]
+            ]
+        ]
+
+
+{-| -}
 playlist_add : Icon msg
 playlist_add =
     icon
-        [ viewBox "0 0 24 24" ]
-        [ path
-            [ d "M0 0h24v24H0V0z", fill "none" ]
+        [ enableBackground "new 0 0 24 24", viewBox "0 0 24 24" ]
+        [ g
             []
-        , path
-            [ d "M14 10H2v2h12v-2zm0-4H2v2h12V6zm4 8v-4h-2v4h-4v2h4v4h2v-4h4v-2h-4zM2 16h8v-2H2v2z" ]
+            [ rect
+                [ fill "none" ]
+                []
+            ]
+        , g
             []
+            [ path
+                [ d "M14,10H3v2h11V10z M14,6H3v2h11V6z M18,14v-4h-2v4h-4v2h4v4h2v-4h4v-2H18z M3,16h7v-2H3V16z" ]
+                []
+            ]
         ]
 
 
@@ -14122,13 +21137,31 @@ playlist_add =
 playlist_add_check : Icon msg
 playlist_add_check =
     icon
-        [ viewBox "0 0 24 24" ]
-        [ path
-            [ d "M0 0h24v24H0V0z", fill "none" ]
+        [ enableBackground "new 0 0 24 24", viewBox "0 0 24 24" ]
+        [ g
             []
-        , path
-            [ d "M14 10H2v2h12v-2zm0-4H2v2h12V6zM2 16h8v-2H2v2zm19.5-4.5L23 13l-6.99 7-4.51-4.5L13 14l3.01 3 5.49-5.5z" ]
+            [ rect
+                [ fill "none" ]
+                []
+            ]
+        , g
             []
+            [ g
+                []
+                [ rect
+                    []
+                    []
+                , rect
+                    []
+                    []
+                , rect
+                    []
+                    []
+                , polygon
+                    [ points "20.59,11.93 16.34,16.17 14.22,14.05 12.81,15.46 16.34,19 22,13.34" ]
+                    []
+                ]
+            ]
         ]
 
 
@@ -14136,13 +21169,31 @@ playlist_add_check =
 playlist_play : Icon msg
 playlist_play =
     icon
-        [ viewBox "0 0 24 24" ]
-        [ path
-            [ d "M0 0h24v24H0V0z", fill "none" ]
+        [ enableBackground "new 0 0 24 24", viewBox "0 0 24 24" ]
+        [ g
             []
-        , path
-            [ d "M4 10h12v2H4zm0-4h12v2H4zm0 8h8v2H4zm10 0v6l5-3z" ]
+            [ rect
+                [ fill "none" ]
+                []
+            ]
+        , g
             []
+            [ g
+                []
+                [ rect
+                    []
+                    []
+                , rect
+                    []
+                    []
+                , rect
+                    []
+                    []
+                , polygon
+                    [ points "16,13 16,21 22,17" ]
+                    []
+                ]
+            ]
         ]
 
 
@@ -14186,6 +21237,26 @@ plus_one =
         , path
             [ d "M10 8H8v4H4v2h4v4h2v-4h4v-2h-4V8zm4.5-1.92V7.9l2.5-.5V18h2V5l-4.5 1.08z" ]
             []
+        ]
+
+
+{-| -}
+podcasts : Icon msg
+podcasts =
+    icon
+        [ enableBackground "new 0 0 24 24", viewBox "0 0 24 24" ]
+        [ g
+            []
+            [ path
+                [ d "M0,0h24v24H0V0z", fill "none" ]
+                []
+            ]
+        , g
+            []
+            [ path
+                [ d "M14,12c0,0.74-0.4,1.38-1,1.72V22h-2v-8.28c-0.6-0.35-1-0.98-1-1.72c0-1.1,0.9-2,2-2S14,10.9,14,12z M12,6 c-3.31,0-6,2.69-6,6c0,1.74,0.75,3.31,1.94,4.4l1.42-1.42C8.53,14.25,8,13.19,8,12c0-2.21,1.79-4,4-4s4,1.79,4,4 c0,1.19-0.53,2.25-1.36,2.98l1.42,1.42C17.25,15.31,18,13.74,18,12C18,8.69,15.31,6,12,6z M12,2C6.48,2,2,6.48,2,12 c0,2.85,1.2,5.41,3.11,7.24l1.42-1.42C4.98,16.36,4,14.29,4,12c0-4.41,3.59-8,8-8s8,3.59,8,8c0,2.29-0.98,4.36-2.53,5.82l1.42,1.42 C20.8,17.41,22,14.85,22,12C22,6.48,17.52,2,12,2z" ]
+                []
+            ]
         ]
 
 
@@ -14403,6 +21474,26 @@ power_settings_new =
 
 
 {-| -}
+precision_manufacturing : Icon msg
+precision_manufacturing =
+    icon
+        [ enableBackground "new 0 0 24 24", viewBox "0 0 24 24" ]
+        [ g
+            []
+            [ rect
+                [ fill "none" ]
+                []
+            ]
+        , g
+            []
+            [ path
+                [ d "M14,10V9.82l2.01,2.01l5.23-2.44l-0.63-1.36l-4.28,2L14,7.7V6.3l2.33-2.33l4.28,2l0.63-1.36l-5.23-2.44L14,4.18V4h-2v2 H8.82C8.4,4.84,7.3,4,6,4C4.34,4,3,5.34,3,7c0,1.1,0.6,2.05,1.48,2.58L7.08,18H4v3h13v-3h-3.62L8.41,8.76 C8.58,8.53,8.72,8.28,8.82,8H12v2H14z M6,8C5.45,8,5,7.55,5,7c0-0.55,0.45-1,1-1s1,0.45,1,1C7,7.55,6.55,8,6,8z" ]
+                []
+            ]
+        ]
+
+
+{-| -}
 pregnant_woman : Icon msg
 pregnant_woman =
     icon
@@ -14443,6 +21534,52 @@ preview =
             , path
                 [ d "M3,3v18h18V3H3z M19,19H5V7h14V19z M13.5,13c0,0.83-0.67,1.5-1.5,1.5s-1.5-0.67-1.5-1.5c0-0.83,0.67-1.5,1.5-1.5 S13.5,12.17,13.5,13z M12,9c-2.73,0-5.06,1.66-6,4c0.94,2.34,3.27,4,6,4s5.06-1.66,6-4C17.06,10.66,14.73,9,12,9z M12,15.5 c-1.38,0-2.5-1.12-2.5-2.5c0-1.38,1.12-2.5,2.5-2.5c1.38,0,2.5,1.12,2.5,2.5C14.5,14.38,13.38,15.5,12,15.5z" ]
                 []
+            ]
+        ]
+
+
+{-| -}
+price_change : Icon msg
+price_change =
+    icon
+        [ enableBackground "new 0 0 24 24", viewBox "0 0 24 24" ]
+        [ g
+            []
+            [ path
+                [ d "M0,0h24v24H0V0z", fill "none" ]
+                []
+            ]
+        , g
+            []
+            [ path
+                [ d "M2,4v16h20V4H2z M12,10H8v1h4v5h-2v1H8v-1H6v-2h4v-1H6V8h2V7h2v1h2V10z M16,16.25l-2-2h4L16,16.25z M14,10l2-2l2,2H14z" ]
+                []
+            ]
+        ]
+
+
+{-| -}
+price_check : Icon msg
+price_check =
+    icon
+        [ enableBackground "new 0 0 24 24", viewBox "0 0 24 24" ]
+        [ g
+            []
+            [ path
+                [ d "M0,0h24v24H0V0z", fill "none" ]
+                []
+            ]
+        , g
+            []
+            [ g
+                []
+                [ polygon
+                    [ points "11,8 6,8 6,6 11,6 11,4 8.5,4 8.5,3 6.5,3 6.5,4 4,4 4,10 9,10 9,12 4,12 4,14 6.5,14 6.5,15 8.5,15 8.5,14 11,14" ]
+                    []
+                , polygon
+                    [ points "19.59,12.52 13.93,18.17 11.1,15.34 9.69,16.76 13.93,21 21,13.93" ]
+                    []
+                ]
             ]
         ]
 
@@ -14506,6 +21643,20 @@ privacy_tip =
                 [ d "M12,1L3,5v6c0,5.55,3.84,10.74,9,12c5.16-1.26,9-6.45,9-12V5L12,1L12,1z M11,7h2v2h-2V7z M11,11h2v6h-2V11z" ]
                 []
             ]
+        ]
+
+
+{-| -}
+production_quantity_limits : Icon msg
+production_quantity_limits =
+    icon
+        [ enableBackground "new 0 0 24 24", viewBox "0 0 24 24" ]
+        [ rect
+            [ fill "none" ]
+            []
+        , path
+            [ d "M13,10h-2V8h2V10z M13,6h-2V1h2V6z M7,18c-1.1,0-1.99,0.9-1.99,2S5.9,22,7,22s2-0.9,2-2S8.1,18,7,18z M17,18 c-1.1,0-1.99,0.9-1.99,2s0.89,2,1.99,2s2-0.9,2-2S18.1,18,17,18z M8.1,13h7.45c0.75,0,1.41-0.41,1.75-1.03L21,4.96L19.25,4l-3.7,7 H8.53L4.27,2H1v2h2l3.6,7.59l-1.35,2.44C4.52,15.37,5.48,17,7,17h12v-2H7L8.1,13z" ]
+            []
         ]
 
 
@@ -14710,6 +21861,23 @@ query_builder =
 
 
 {-| -}
+query_stats : Icon msg
+query_stats =
+    icon
+        [ enableBackground "new 0 0 24 24", viewBox "0 0 24 24" ]
+        [ rect
+            [ fill "none" ]
+            []
+        , g
+            []
+            [ path
+                [ d "M19.88,18.47c0.44-0.7,0.7-1.51,0.7-2.39c0-2.49-2.01-4.5-4.5-4.5s-4.5,2.01-4.5,4.5s2.01,4.5,4.49,4.5 c0.88,0,1.7-0.26,2.39-0.7L21.58,23L23,21.58L19.88,18.47z M16.08,18.58c-1.38,0-2.5-1.12-2.5-2.5c0-1.38,1.12-2.5,2.5-2.5 s2.5,1.12,2.5,2.5C18.58,17.46,17.46,18.58,16.08,18.58z M15.72,10.08c-0.74,0.02-1.45,0.18-2.1,0.45l-0.55-0.83l-3.8,6.18 l-3.01-3.52l-3.63,5.81L1,17l5-8l3,3.5L13,6C13,6,15.72,10.08,15.72,10.08z M18.31,10.58c-0.64-0.28-1.33-0.45-2.05-0.49 c0,0,5.12-8.09,5.12-8.09L23,3.18L18.31,10.58z" ]
+                []
+            ]
+        ]
+
+
+{-| -}
 question_answer : Icon msg
 question_answer =
     icon
@@ -14745,12 +21913,6 @@ queue_music =
         [ g
             []
             [ rect
-                [ fill "none" ]
-                []
-            , rect
-                [ fill "none" ]
-                []
-            , rect
                 [ fill "none" ]
                 []
             ]
@@ -14810,6 +21972,78 @@ quickreply =
 
 
 {-| -}
+quiz : Icon msg
+quiz =
+    icon
+        [ enableBackground "new 0 0 24 24", viewBox "0 0 24 24" ]
+        [ g
+            []
+            [ path
+                [ d "M0,0h24v24H0V0z", fill "none" ]
+                []
+            ]
+        , g
+            []
+            [ g
+                []
+                [ polygon
+                    [ points "4,6 2,6 2,22 18,22 18,20 4,20" ]
+                    []
+                , path
+                    [ d "M6,2v16h16V2H6z M13.51,10.16c0.41-0.73,1.18-1.16,1.63-1.8c0.48-0.68,0.21-1.94-1.14-1.94c-0.88,0-1.32,0.67-1.5,1.23 l-1.37-0.57C11.51,5.96,12.52,5,13.99,5c1.23,0,2.08,0.56,2.51,1.26c0.37,0.6,0.58,1.73,0.01,2.57c-0.63,0.93-1.23,1.21-1.56,1.81 c-0.13,0.24-0.18,0.4-0.18,1.18h-1.52C13.26,11.41,13.19,10.74,13.51,10.16z M12.95,13.95c0-0.59,0.47-1.04,1.05-1.04 c0.59,0,1.04,0.45,1.04,1.04c0,0.58-0.44,1.05-1.04,1.05C13.42,15,12.95,14.53,12.95,13.95z" ]
+                    []
+                ]
+            ]
+        ]
+
+
+{-| -}
+r_mobiledata : Icon msg
+r_mobiledata =
+    icon
+        [ enableBackground "new 0 0 24 24", viewBox "0 0 24 24" ]
+        [ g
+            []
+            [ path
+                [ d "M0,0h24v24H0V0z", fill "none" ]
+                []
+            ]
+        , g
+            []
+            [ g
+                []
+                [ path
+                    [ d "M7.8,7.2L9,10H7L5.87,7.33H4V10H2V2h7v5.2H7.8z M7,4H4v1.33h3V4z" ]
+                    []
+                ]
+            ]
+        ]
+
+
+{-| -}
+radar : Icon msg
+radar =
+    icon
+        [ enableBackground "new 0 0 24 24", viewBox "0 0 24 24" ]
+        [ g
+            []
+            [ path
+                [ d "M0,0h24v24H0V0z", fill "none" ]
+                []
+            ]
+        , g
+            []
+            [ g
+                []
+                [ path
+                    [ d "M19.74,18.33C21.15,16.6,22,14.4,22,12c0-5.52-4.48-10-10-10S2,6.48,2,12s4.48,10,10,10c2.4,0,4.6-0.85,6.33-2.26 c0.27-0.22,0.53-0.46,0.78-0.71c0.03-0.03,0.05-0.06,0.07-0.08C19.38,18.75,19.57,18.54,19.74,18.33z M12,20c-4.41,0-8-3.59-8-8 s3.59-8,8-8s8,3.59,8,8c0,1.85-0.63,3.54-1.69,4.9l-1.43-1.43c0.69-0.98,1.1-2.17,1.1-3.46c0-3.31-2.69-6-6-6s-6,2.69-6,6 s2.69,6,6,6c1.3,0,2.51-0.42,3.49-1.13l1.42,1.42C15.54,19.37,13.85,20,12,20z M13.92,12.51c0.17-0.66,0.02-1.38-0.49-1.9 l-0.02-0.02c-0.77-0.77-2-0.78-2.78-0.04c-0.01,0.01-0.03,0.02-0.05,0.04c-0.78,0.78-0.78,2.05,0,2.83l0.02,0.02 c0.52,0.51,1.25,0.67,1.91,0.49l1.51,1.51c-0.6,0.36-1.29,0.58-2.04,0.58c-2.21,0-4-1.79-4-4s1.79-4,4-4s4,1.79,4,4 c0,0.73-0.21,1.41-0.56,2L13.92,12.51z" ]
+                    []
+                ]
+            ]
+        ]
+
+
+{-| -}
 radio : Icon msg
 radio =
     icon
@@ -14855,6 +22089,58 @@ radio_button_unchecked =
 
 
 {-| -}
+railway_alert : Icon msg
+railway_alert =
+    icon
+        [ enableBackground "new 0 0 24 24", viewBox "0 0 24 24" ]
+        [ g
+            []
+            [ rect
+                [ fill "none" ]
+                []
+            ]
+        , g
+            []
+            [ g
+                []
+                [ g
+                    []
+                    [ path
+                        [ d "M4,11V8h7.29c-0.77-2.6,0.21-4.61,0.37-4.97C2.97,2.67,2,5.02,2,7v9.5C2,18.43,3.57,20,5.5,20L4,21v1h12v-1l-1.5-1 c1.93,0,3.5-1.57,3.5-3.5V13c-1.91,0-3.63-0.76-4.89-2H4z M10,17c-0.83,0-1.5-0.67-1.5-1.5c0-0.83,0.67-1.5,1.5-1.5 s1.5,0.67,1.5,1.5C11.5,16.33,10.83,17,10,17z" ]
+                        []
+                    ]
+                , g
+                    []
+                    [ path
+                        [ d "M18,1c-2.76,0-5,2.24-5,5s2.24,5,5,5s5-2.24,5-5S20.76,1,18,1z M18.5,9h-1V8h1V9z M18.5,7h-1V3h1V7z" ]
+                        []
+                    ]
+                ]
+            ]
+        ]
+
+
+{-| -}
+ramen_dining : Icon msg
+ramen_dining =
+    icon
+        [ enableBackground "new 0 0 24 24", viewBox "0 0 24 24" ]
+        [ g
+            []
+            [ rect
+                [ fill "none" ]
+                []
+            ]
+        , g
+            []
+            [ path
+                [ d "M22,3.51V2L4,3.99V12H2c0,3.69,2.47,6.86,6,8.25V22h8v-1.75c3.53-1.39,6-4.56,6-8.25H10.5V8H22V6.5H10.5V4.78L22,3.51z M6.5,5.22V6.5h-1V5.34L6.5,5.22z M5.5,8h1v4h-1V8z M9,12H8V8h1V12z M9,6.5H8V5.06l1-0.11V6.5z" ]
+                []
+            ]
+        ]
+
+
+{-| -}
 rate_review : Icon msg
 rate_review =
     icon
@@ -14865,6 +22151,61 @@ rate_review =
         , path
             [ d "M22 2H2v20l4-4h16V2zM6 14v-2.47l6.88-6.88c.2-.2.51-.2.71 0l1.77 1.77c.2.2.2.51 0 .71L8.47 14H6zm12 0h-7.5l2-2H18v2z" ]
             []
+        ]
+
+
+{-| -}
+raw_off : Icon msg
+raw_off =
+    icon
+        [ enableBackground "new 0 0 24 24", viewBox "0 0 24 24" ]
+        [ g
+            []
+            [ rect
+                [ fill "none" ]
+                []
+            ]
+        , g
+            []
+            [ g
+                []
+                [ polygon
+                    [ points "17.15,14.32 17.74,11.96 18.5,15 19.98,15 21.48,9 19.98,9 19.24,12 18.5,9 16.98,9 16.24,12 15.5,9 14,9 14.72,11.9" ]
+                    []
+                , path
+                    [ d "M1.39,4.22L6.17,9H3v6h1.5v-2h1.1l0.9,2H8l-0.9-2.1C7.6,12.6,8,12.1,8,11.5v-0.67l1.43,1.43L8.75,15h1.5l0.38-1.5h0.04 l9.11,9.11l1.41-1.41L2.81,2.81L1.39,4.22z M6.5,11.5h-2v-1h2V11.5z" ]
+                    []
+                ]
+            ]
+        ]
+
+
+{-| -}
+raw_on : Icon msg
+raw_on =
+    icon
+        [ enableBackground "new 0 0 24 24", viewBox "0 0 24 24" ]
+        [ g
+            []
+            [ rect
+                [ fill "none" ]
+                []
+            ]
+        , g
+            []
+            [ g
+                []
+                [ path
+                    [ d "M6.5,9H3v6h1.5v-2h1.1l0.9,2H8l-0.9-2.1C7.6,12.6,8,12.1,8,11.5v-1C8,9.7,7.3,9,6.5,9z M6.5,11.5h-2v-1h2V11.5z" ]
+                    []
+                , path
+                    [ d "M10.25,9l-1.5,6h1.5l0.38-1.5h1.75l0.37,1.5h1.5l-1.5-6H10.25z M11,12l0.25-1h0.5L12,12H11z" ]
+                    []
+                , polygon
+                    [ points "19.98,9 19.24,12 18.5,9 16.98,9 16.24,12 15.5,9 14,9 15.5,15 16.98,15 17.74,11.96 18.5,15 19.98,15 21.48,9" ]
+                    []
+                ]
+            ]
         ]
 
 
@@ -14958,6 +22299,29 @@ recent_actors =
 
 
 {-| -}
+recommend : Icon msg
+recommend =
+    icon
+        [ enableBackground "new 0 0 24 24", viewBox "0 0 24 24" ]
+        [ g
+            []
+            [ rect
+                [ fill "none" ]
+                []
+            ]
+        , g
+            []
+            [ g
+                []
+                [ path
+                    [ d "M12,2C6.48,2,2,6.48,2,12s4.48,10,10,10s10-4.48,10-10S17.52,2,12,2z M18,12.05L15.46,18H7l0-7.56L12,5l1,1l0,0.53 L12.41,10H18V12.05z" ]
+                    []
+                ]
+            ]
+        ]
+
+
+{-| -}
 record_voice_over : Icon msg
 record_voice_over =
     icon
@@ -15031,6 +22395,32 @@ refresh =
 
 
 {-| -}
+remember_me : Icon msg
+remember_me =
+    icon
+        [ enableBackground "new 0 0 24 24", viewBox "0 0 24 24" ]
+        [ g
+            []
+            [ path
+                [ d "M0,0h24v24H0V0z", fill "none" ]
+                []
+            ]
+        , g
+            []
+            [ g
+                []
+                [ path
+                    [ d "M19,1H5v22h14V1z M17,15.21C15.5,14.44,13.8,14,12,14s-3.5,0.44-5,1.21V6h10V15.21z" ]
+                    []
+                , circle
+                    [ cx "12", cy "10", r "3" ]
+                    []
+                ]
+            ]
+        ]
+
+
+{-| -}
 remove : Icon msg
 remove =
     icon
@@ -15073,6 +22463,26 @@ remove_circle_outline =
 
 
 {-| -}
+remove_done : Icon msg
+remove_done =
+    icon
+        [ enableBackground "new 0 0 24 24", viewBox "0 0 24 24" ]
+        [ g
+            []
+            [ rect
+                [ fill "none" ]
+                []
+            ]
+        , g
+            []
+            [ path
+                [ d "M4.84,1.98L3.43,3.39l10.38,10.38l-1.41,1.41l-4.24-4.24l-1.41,1.41l5.66,5.66l2.83-2.83l6.6,6.6l1.41-1.41L4.84,1.98z M18.05,12.36L23,7.4L21.57,6l-4.94,4.94L18.05,12.36z M17.34,7.4l-1.41-1.41l-2.12,2.12l1.41,1.41L17.34,7.4z M1.08,12.35 l5.66,5.66l1.41-1.41l-5.66-5.66L1.08,12.35z" ]
+                []
+            ]
+        ]
+
+
+{-| -}
 remove_from_queue : Icon msg
 remove_from_queue =
     icon
@@ -15083,6 +22493,29 @@ remove_from_queue =
         , path
             [ d "M23 3H1v16h7v2h8v-2h7V3zm-2 14H3V5h18v12zm-5-7v2H8v-2h8z" ]
             []
+        ]
+
+
+{-| -}
+remove_moderator : Icon msg
+remove_moderator =
+    icon
+        [ enableBackground "new 0 0 24 24", viewBox "0 0 24 24" ]
+        [ g
+            []
+            [ rect
+                [ fill "none" ]
+                []
+            , rect
+                [ fill "none" ]
+                []
+            ]
+        , g
+            []
+            [ path
+                [ d "M20,11.09V5l-8-3L6.78,3.96l12.09,12.09C19.59,14.52,20,12.83,20,11.09z M2.81,2.81L1.39,4.22L4,6.83v4.26 c0,5.05,3.41,9.76,8,10.91c1.72-0.43,3.28-1.36,4.55-2.62l3.23,3.23l1.41-1.41L2.81,2.81z" ]
+                []
+            ]
         ]
 
 
@@ -15143,6 +22576,26 @@ repeat =
 
 
 {-| -}
+repeat_on : Icon msg
+repeat_on =
+    icon
+        [ enableBackground "new 0 0 24 24", viewBox "0 0 24 24" ]
+        [ g
+            []
+            [ rect
+                [ fill "none" ]
+                []
+            ]
+        , g
+            []
+            [ path
+                [ d "M21,1H3C1.9,1,1,1.9,1,3v18c0,1.1,0.9,2,2,2h18c1.1,0,2-0.9,2-2V3C23,1.9,22.1,1,21,1z M19,19H7v3l-4-4l4-4v3h10v-4h2V19z M17,10V7H7v4H5V5h12V2l4,4L17,10z" ]
+                []
+            ]
+        ]
+
+
+{-| -}
 repeat_one : Icon msg
 repeat_one =
     icon
@@ -15153,6 +22606,26 @@ repeat_one =
         , path
             [ d "M7 7h10v3l4-4-4-4v3H5v6h2V7zm10 10H7v-3l-4 4 4 4v-3h12v-6h-2v4zm-4-2V9h-1l-2 1v1h1.5v4H13z" ]
             []
+        ]
+
+
+{-| -}
+repeat_one_on : Icon msg
+repeat_one_on =
+    icon
+        [ enableBackground "new 0 0 24 24", viewBox "0 0 24 24" ]
+        [ g
+            []
+            [ rect
+                [ fill "none" ]
+                []
+            ]
+        , g
+            []
+            [ path
+                [ d "M21,1H3C1.9,1,1,1.9,1,3v18c0,1.1,0.9,2,2,2h18c1.1,0,2-0.9,2-2V3C23,1.9,22.1,1,21,1z M19,19H7v3l-4-4l4-4v3h10v-4h2V19z M10,10.5V9h3v6h-1.5v-4.5H10z M17,10V7H7v4H5V5h12V2l4,4L17,10z" ]
+                []
+            ]
         ]
 
 
@@ -15225,6 +22698,26 @@ replay_5 =
 
 
 {-| -}
+replay_circle_filled : Icon msg
+replay_circle_filled =
+    icon
+        [ enableBackground "new 0 0 24 24", viewBox "0 0 24 24" ]
+        [ g
+            []
+            [ rect
+                [ fill "none" ]
+                []
+            ]
+        , g
+            []
+            [ path
+                [ d "M12,2C6.48,2,2,6.48,2,12s4.48,10,10,10s10-4.48,10-10S17.52,2,12,2z M18,12.5c0,3.31-2.69,6-6,6s-6-2.69-6-6h2 c0,2.21,1.79,4,4,4s4-1.79,4-4s-1.79-4-4-4v3l-4-4l4-4v3C15.31,6.5,18,9.19,18,12.5z" ]
+                []
+            ]
+        ]
+
+
+{-| -}
 reply : Icon msg
 reply =
     icon
@@ -15262,6 +22755,26 @@ report =
             []
         , path
             [ d "M15.73 3H8.27L3 8.27v7.46L8.27 21h7.46L21 15.73V8.27L15.73 3zM12 17.3c-.72 0-1.3-.58-1.3-1.3s.58-1.3 1.3-1.3 1.3.58 1.3 1.3-.58 1.3-1.3 1.3zm1-4.3h-2V7h2v6z" ]
+            []
+        ]
+
+
+{-| -}
+report_gmailerrorred : Icon msg
+report_gmailerrorred =
+    icon
+        [ viewBox "0 0 24 24" ]
+        [ path
+            [ d "M0 0h24v24H0V0z", fill "none" ]
+            []
+        , path
+            [ d "M15.73 3H8.27L3 8.27v7.46L8.27 21h7.46L21 15.73V8.27L15.73 3zM19 14.9L14.9 19H9.1L5 14.9V9.1L9.1 5h5.8L19 9.1v5.8z" ]
+            []
+        , circle
+            [ cx "12", cy "16", r "1" ]
+            []
+        , path
+            [ d "M11 7h2v7h-2z" ]
             []
         ]
 
@@ -15321,6 +22834,52 @@ request_quote =
             , path
                 [ d "M14,2H4v20h16V8L14,2z M15,12h-4v1h4v5h-2v1h-2v-1H9v-2h4v-1H9v-5h2V9h2v1h2V12z M13,8V3.5L17.5,8H13z" ]
                 []
+            ]
+        ]
+
+
+{-| -}
+reset_tv : Icon msg
+reset_tv =
+    icon
+        [ enableBackground "new 0 0 24 24", viewBox "0 0 24 24" ]
+        [ g
+            []
+            [ path
+                [ d "M0,0h24v24H0V0z", fill "none" ]
+                []
+            ]
+        , g
+            []
+            [ polygon
+                [ points "22,10 12.99,10 12.99,7 9,11 12.99,15 12.99,12 20,12 20,17 4,17 4,5 20,5 20,8 22,8 22,3 2,3 2,19 8,19 8,21 16,21 16,19 22,19" ]
+                []
+            ]
+        ]
+
+
+{-| -}
+restart_alt : Icon msg
+restart_alt =
+    icon
+        [ enableBackground "new 0 0 24 24", viewBox "0 0 24 24" ]
+        [ g
+            []
+            [ path
+                [ d "M0,0h24v24H0V0z", fill "none" ]
+                []
+            ]
+        , g
+            []
+            [ g
+                []
+                [ path
+                    [ d "M12,5V2L8,6l4,4V7c3.31,0,6,2.69,6,6c0,2.97-2.17,5.43-5,5.91v2.02c3.95-0.49,7-3.85,7-7.93C20,8.58,16.42,5,12,5z" ]
+                    []
+                , path
+                    [ d "M6,13c0-1.65,0.67-3.15,1.76-4.24L6.34,7.34C4.9,8.79,4,10.79,4,13c0,4.08,3.05,7.44,7,7.93v-2.02 C8.17,18.43,6,15.97,6,13z" ]
+                    []
+                ]
             ]
         ]
 
@@ -15392,6 +22951,26 @@ restore_page =
         , path
             [ d "M14 2H4v20h16V8l-6-6zm-2 16c-2.05 0-3.81-1.24-4.58-3h1.71c.63.9 1.68 1.5 2.87 1.5 1.93 0 3.5-1.57 3.5-3.5S13.93 9.5 12 9.5c-1.35 0-2.52.78-3.1 1.9l1.6 1.6h-4V9l1.3 1.3C8.69 8.92 10.23 8 12 8c2.76 0 5 2.24 5 5s-2.24 5-5 5z" ]
             []
+        ]
+
+
+{-| -}
+reviews : Icon msg
+reviews =
+    icon
+        [ enableBackground "new 0 0 24 24", viewBox "0 0 24 24" ]
+        [ g
+            []
+            [ path
+                [ d "M0,0h24v24H0V0z", fill "none" ]
+                []
+            ]
+        , g
+            []
+            [ path
+                [ d "M22,2H2v20l4-4h16V2z M13.57,11.57L12,15l-1.57-3.43L7,10l3.43-1.57L12,5l1.57,3.43L17,10L13.57,11.57z" ]
+                []
+            ]
         ]
 
 
@@ -15584,6 +23163,49 @@ rss_feed =
 
 
 {-| -}
+rsvp : Icon msg
+rsvp =
+    icon
+        [ enableBackground "new 0 0 24 24", viewBox "0 0 24 24" ]
+        [ g
+            []
+            [ path
+                [ d "M0,0h24v24H0V0z", fill "none" ]
+                []
+            ]
+        , g
+            []
+            [ g
+                []
+                [ path
+                    [ d "M16,9h1.5l-1.75,6h-1.5L12.5,9H14l1,3.43L16,9z M5.14,13L6,15H4.5l-0.85-2H2.5v2H1V9h5v4L5.14,13z M4.5,10.5h-2v1h2V10.5z M23,13h-3.5v2H18V9h5V13z M21.5,10.5h-2v1h2V10.5z M11.5,9v1.5h-3v0.75h3V15H7v-1.5h3v-0.75H7V9H11.5z" ]
+                    []
+                ]
+            ]
+        ]
+
+
+{-| -}
+rtt : Icon msg
+rtt =
+    icon
+        [ enableBackground "new 0 0 24 24", viewBox "0 0 24 24" ]
+        [ g
+            []
+            [ rect
+                [ fill "none" ]
+                []
+            ]
+        , g
+            []
+            [ path
+                [ d "M9.03,3l-1.11,7.07h2.62l0.7-4.5h2.58L11.8,18.43H9.47L9.06,21h7.27l0.4-2.57h-2.35l2-12.86h2.58l-0.71,4.5h2.65L22,3H9.03 z M8,5H4L3.69,7h4L8,5z M7.39,9h-4l-0.31,2h4L7.39,9z M8.31,17h-6L2,19h6L8.31,17z M8.93,13h-6l-0.31,2h6.01L8.93,13z" ]
+                []
+            ]
+        ]
+
+
+{-| -}
 rule : Icon msg
 rule =
     icon
@@ -15638,6 +23260,20 @@ run_circle =
 
 
 {-| -}
+running_with_errors : Icon msg
+running_with_errors =
+    icon
+        [ enableBackground "new 0 0 24 24", viewBox "0 0 24 24" ]
+        [ rect
+            [ fill "none" ]
+            []
+        , path
+            [ d "M22,10v8h-2v-8H22z M20,20v2h2v-2H20z M18,17.29C16.53,18.95,14.39,20,12,20c-4.41,0-8-3.59-8-8c0-4.41,3.59-8,8-8v9 l7.55-7.55C17.72,3.34,15.02,2,12,2C6.48,2,2,6.48,2,12c0,5.52,4.48,10,10,10c2.25,0,4.33-0.74,6-2V17.29z" ]
+            []
+        ]
+
+
+{-| -}
 rv_hookup : Icon msg
 rv_hookup =
     icon
@@ -15647,6 +23283,34 @@ rv_hookup =
             []
         , path
             [ d "M20 17V9H7V7l-3 3 3 3v-2h4v3H4v5h4c0 1.66 1.34 3 3 3s3-1.34 3-3h8v-2h-2zm-9 3c-.55 0-1-.45-1-1s.45-1 1-1 1 .45 1 1-.45 1-1 1zm7-6h-4v-3h4v3zM17 2v2H9v2h8v2l3-3-3-3z" ]
+            []
+        ]
+
+
+{-| -}
+safety_divider : Icon msg
+safety_divider =
+    icon
+        [ enableBackground "new 0 0 24 24", viewBox "0 0 24 24" ]
+        [ rect
+            [ fill "none" ]
+            []
+        , path
+            [ d "M11,5h2v14h-2V5z M5,12c1.1,0,2-0.9,2-2c0-1.1-0.9-2-2-2s-2,0.9-2,2C3,11.1,3.9,12,5,12z M7.78,13.58 C6.93,13.21,5.99,13,5,13s-1.93,0.21-2.78,0.58C1.48,13.9,1,14.62,1,15.43L1,16h8l0-0.57C9,14.62,8.52,13.9,7.78,13.58z M19,12 c1.1,0,2-0.9,2-2c0-1.1-0.9-2-2-2s-2,0.9-2,2C17,11.1,17.9,12,19,12z M21.78,13.58C20.93,13.21,19.99,13,19,13s-1.93,0.21-2.78,0.58 C15.48,13.9,15,14.62,15,15.43L15,16h8l0-0.57C23,14.62,22.52,13.9,21.78,13.58z" ]
+            []
+        ]
+
+
+{-| -}
+sailing : Icon msg
+sailing =
+    icon
+        [ enableBackground "new 0 0 24 24", viewBox "0 0 24 24" ]
+        [ rect
+            [ fill "none" ]
+            []
+        , path
+            [ d "M11,13.5V2L3,13.5H11z M21,13.5C21,6.5,14.5,1,12.5,1c0,0,1,3,1,6.5s-1,6-1,6H21z M22,15H2c0.31,1.53,1.16,2.84,2.33,3.73 C4.98,18.46,5.55,18.01,6,17.5C6.73,18.34,7.8,19,9,19s2.27-0.66,3-1.5c0.73,0.84,1.8,1.5,3,1.5s2.26-0.66,3-1.5 c0.45,0.51,1.02,0.96,1.67,1.23C20.84,17.84,21.69,16.53,22,15z M22,23v-2h-1c-1.04,0-2.08-0.35-3-1c-1.83,1.3-4.17,1.3-6,0 c-1.83,1.3-4.17,1.3-6,0c-0.91,0.65-1.96,1-3,1H2l0,2h1c1.03,0,2.05-0.25,3-0.75c1.89,1,4.11,1,6,0c1.89,1,4.11,1,6,0h0 c0.95,0.5,1.97,0.75,3,0.75H22z" ]
             []
         ]
 
@@ -15708,6 +23372,49 @@ save_alt =
 
 
 {-| -}
+saved_search : Icon msg
+saved_search =
+    icon
+        [ enableBackground "new 0 0 24 24", viewBox "0 0 24 24" ]
+        [ g
+            []
+            [ rect
+                [ fill "none" ]
+                []
+            ]
+        , g
+            []
+            [ g
+                []
+                [ path
+                    [ d "M14.73,13.31C15.52,12.24,16,10.93,16,9.5C16,5.91,13.09,3,9.5,3S3,5.91,3,9.5C3,13.09,5.91,16,9.5,16 c1.43,0,2.74-0.48,3.81-1.27L19.59,21L21,19.59L14.73,13.31z M9.5,14C7.01,14,5,11.99,5,9.5S7.01,5,9.5,5S14,7.01,14,9.5 S11.99,14,9.5,14z" ]
+                    []
+                , polygon
+                    [ points "10.29,8.44 9.5,6 8.71,8.44 6.25,8.44 8.26,10.03 7.49,12.5 9.5,10.97 11.51,12.5 10.74,10.03 12.75,8.44" ]
+                    []
+                ]
+            ]
+        ]
+
+
+{-| -}
+savings : Icon msg
+savings =
+    icon
+        [ enableBackground "new 0 0 24 24", viewBox "0 0 24 24" ]
+        [ rect
+            [ fill "none" ]
+            []
+        , g
+            []
+            [ path
+                [ d "M19.83,7.5l-2.27-2.27c0.07-0.42,0.18-0.81,0.32-1.15c0.23-0.56,0.56-1.06,0.97-1.5C18.15,2.21,17.35,2,16.5,2 c-1.64,0-3.09,0.79-4,2l-5,0C4.46,4,2,6.46,2,9.5S4.5,21,4.5,21l5.5,0v-2h2v2l5.5,0l1.68-5.59L22,14.47V7.5H19.83z M13,9H8V7h5V9z M16,11c-0.55,0-1-0.45-1-1c0-0.55,0.45-1,1-1s1,0.45,1,1C17,10.55,16.55,11,16,11z" ]
+                []
+            ]
+        ]
+
+
+{-| -}
 scanner : Icon msg
 scanner =
     icon
@@ -15748,6 +23455,46 @@ schedule =
             []
         , path
             [ d "M11.99 2C6.47 2 2 6.48 2 12s4.47 10 9.99 10C17.52 22 22 17.52 22 12S17.52 2 11.99 2zM12 20c-4.42 0-8-3.58-8-8s3.58-8 8-8 8 3.58 8 8-3.58 8-8 8zm.5-13H11v6l5.25 3.15.75-1.23-4.5-2.67z" ]
+            []
+        ]
+
+
+{-| -}
+schedule_send : Icon msg
+schedule_send =
+    icon
+        [ enableBackground "new 0 0 24 24", viewBox "0 0 24 24" ]
+        [ g
+            []
+            [ rect
+                [ fill "none" ]
+                []
+            ]
+        , g
+            []
+            [ g
+                []
+                [ path
+                    [ d "M17,10c0.1,0,0.19,0.01,0.28,0.01L3,4v6l8,2l-8,2v6l7-2.95c0-0.02,0-0.03,0-0.05C10,13.14,13.14,10,17,10z" ]
+                    []
+                , path
+                    [ d "M17,12c-2.76,0-5,2.24-5,5s2.24,5,5,5c2.76,0,5-2.24,5-5S19.76,12,17,12z M18.65,19.35l-2.15-2.15V14h1v2.79l1.85,1.85 L18.65,19.35z" ]
+                    []
+                ]
+            ]
+        ]
+
+
+{-| -}
+schema : Icon msg
+schema =
+    icon
+        [ enableBackground "new 0 0 24 24", viewBox "0 0 24 24" ]
+        [ rect
+            [ fill "none" ]
+            []
+        , path
+            [ d "M14,9v2h-3V9H8.5V7H11V1H4v6h2.5v2H4v6h2.5v2H4v6h7v-6H8.5v-2H11v-2h3v2h7V9H14z" ]
             []
         ]
 
@@ -15854,6 +23601,35 @@ screen_rotation =
 
 
 {-| -}
+screen_search_desktop : Icon msg
+screen_search_desktop =
+    icon
+        [ enableBackground "new 0 0 24 24", viewBox "0 0 24 24" ]
+        [ g
+            []
+            [ path
+                [ d "M0,0h24v24H0V0z", fill "none" ]
+                []
+            ]
+        , g
+            []
+            [ g
+                []
+                [ rect
+                    []
+                    []
+                , path
+                    [ d "M22,3H2v15h19.99L22,3z M15.47,15.03l-2.09-2.09c-1.35,0.87-3.17,0.71-4.36-0.47c-1.37-1.37-1.37-3.58,0-4.95 s3.58-1.37,4.95,0c1.18,1.18,1.34,3,0.47,4.36l2.09,2.09L15.47,15.03z" ]
+                    []
+                , circle
+                    [ cx "11.5", cy "10", r "2" ]
+                    []
+                ]
+            ]
+        ]
+
+
+{-| -}
 screen_share : Icon msg
 screen_share =
     icon
@@ -15868,6 +23644,49 @@ screen_share =
 
 
 {-| -}
+screenshot : Icon msg
+screenshot =
+    icon
+        [ enableBackground "new 0 0 24 24", viewBox "0 0 24 24" ]
+        [ g
+            []
+            [ path
+                [ d "M0,0h24v24H0V0z", fill "none" ]
+                []
+            ]
+        , g
+            []
+            [ g
+                []
+                [ path
+                    [ d "M5,1v22h14V1H5z M17,18H7V6h10V18z M9.5,8.5H12V7H8v4h1.5V8.5z M12,17h4v-4h-1.5v2.5H12V17z" ]
+                    []
+                ]
+            ]
+        ]
+
+
+{-| -}
+sd : Icon msg
+sd =
+    icon
+        [ enableBackground "new 0 0 24 24", viewBox "0 0 24 24" ]
+        [ g
+            []
+            [ rect
+                [ fill "none" ]
+                []
+            ]
+        , g
+            []
+            [ path
+                [ d "M2,4v16h20V4H2z M13,9h4c0.55,0,1,0.45,1,1v4c0,0.55-0.45,1-1,1h-4V9z M9.5,13.5v-1H6V9h5v2H9.5v-0.5h-2v1H11V15H6v-2h1.5 v0.5H9.5z M14.5,13.5h2v-3h-2V13.5z" ]
+                []
+            ]
+        ]
+
+
+{-| -}
 sd_card : Icon msg
 sd_card =
     icon
@@ -15877,6 +23696,20 @@ sd_card =
             []
         , path
             [ d "M20 2H10L4 8v14h16V2zm-8 6h-2V4h2v4zm3 0h-2V4h2v4zm3 0h-2V4h2v4z" ]
+            []
+        ]
+
+
+{-| -}
+sd_card_alert : Icon msg
+sd_card_alert =
+    icon
+        [ viewBox "0 0 24 24" ]
+        [ path
+            [ d "M0 0h24v24H0V0z", fill "none" ]
+            []
+        , path
+            [ d "M20 2H10L4 8v14h16V2zm-7 15h-2v-2h2v2zm0-4h-2V8h2v5z" ]
             []
         ]
 
@@ -15950,6 +23783,95 @@ security =
 
 
 {-| -}
+security_update : Icon msg
+security_update =
+    icon
+        [ enableBackground "new 0 0 24 24", viewBox "0 0 24 24" ]
+        [ g
+            []
+            [ path
+                [ d "M0,0h24v24H0V0z", fill "none" ]
+                []
+            ]
+        , g
+            []
+            [ path
+                [ d "M5,1v22h14V1H5z M17,18H7V6h10V18z M16,12h-3V8h-2v4H8l4,4L16,12z" ]
+                []
+            ]
+        ]
+
+
+{-| -}
+security_update_good : Icon msg
+security_update_good =
+    icon
+        [ enableBackground "new 0 0 24 24", viewBox "0 0 24 24" ]
+        [ g
+            []
+            [ path
+                [ d "M0,0h24v24H0V0z", fill "none" ]
+                []
+            ]
+        , g
+            []
+            [ path
+                [ d "M5,1v22h14V1H5z M17,18H7V6h10V18z M16,10.05l-1.41-1.41l-3.54,3.54l-1.41-1.41l-1.41,1.41L11.05,15L16,10.05z" ]
+                []
+            ]
+        ]
+
+
+{-| -}
+security_update_warning : Icon msg
+security_update_warning =
+    icon
+        [ enableBackground "new 0 0 24 24", viewBox "0 0 24 24" ]
+        [ g
+            []
+            [ path
+                [ d "M0,0h24v24H0V0z", fill "none" ]
+                []
+            ]
+        , g
+            []
+            [ g
+                []
+                [ rect
+                    []
+                    []
+                , rect
+                    []
+                    []
+                , path
+                    [ d "M5.01,1v22H19V1H5.01z M17,18H7V6h10V18z" ]
+                    []
+                ]
+            ]
+        ]
+
+
+{-| -}
+segment : Icon msg
+segment =
+    icon
+        [ enableBackground "new 0 0 24 24", viewBox "0 0 24 24" ]
+        [ g
+            []
+            [ rect
+                [ fill "none" ]
+                []
+            ]
+        , g
+            []
+            [ path
+                [ d "M9,18h12v-2H9V18z M3,6v2h18V6H3z M9,13h12v-2H9V13z" ]
+                []
+            ]
+        ]
+
+
+{-| -}
 select_all : Icon msg
 select_all =
     icon
@@ -15990,6 +23912,26 @@ self_improvement =
 
 
 {-| -}
+sell : Icon msg
+sell =
+    icon
+        [ enableBackground "new 0 0 24 24", viewBox "0 0 24 24" ]
+        [ g
+            []
+            [ path
+                [ d "M0,0h24v24H0V0z", fill "none" ]
+                []
+            ]
+        , g
+            []
+            [ path
+                [ d "M22.83,12.83L12,2H2v10l10.83,10.83L22.83,12.83z M6.5,8C5.67,8,5,7.33,5,6.5S5.67,5,6.5,5S8,5.67,8,6.5S7.33,8,6.5,8z" ]
+                []
+            ]
+        ]
+
+
+{-| -}
 send : Icon msg
 send =
     icon
@@ -16000,6 +23942,64 @@ send =
         , path
             [ d "M2.01 21L23 12 2.01 3 2 10l15 2-15 2 .01 7z" ]
             []
+        ]
+
+
+{-| -}
+send_and_archive : Icon msg
+send_and_archive =
+    icon
+        [ enableBackground "new 0 0 24 24", viewBox "0 0 24 24" ]
+        [ g
+            []
+            [ rect
+                [ fill "none" ]
+                []
+            ]
+        , g
+            []
+            [ g
+                []
+                [ g
+                    []
+                    [ path
+                        [ d "M17,10c0.1,0,0.19,0.01,0.28,0.01L3,4v6l8,2l-8,2v6l7-2.95c0-0.02,0-0.03,0-0.05C10,13.13,13.13,10,17,10z" ]
+                        []
+                    ]
+                , g
+                    []
+                    [ path
+                        [ d "M17,12c-2.76,0-5,2.24-5,5s2.24,5,5,5s5-2.24,5-5S19.76,12,17,12z M17,20l-3-3h2.5v-3h1v3H20L17,20z" ]
+                        []
+                    ]
+                ]
+            ]
+        ]
+
+
+{-| -}
+send_to_mobile : Icon msg
+send_to_mobile =
+    icon
+        [ enableBackground "new 0 0 24 24", viewBox "0 0 24 24" ]
+        [ g
+            []
+            [ path
+                [ d "M0,0h24v24H0V0z", fill "none" ]
+                []
+            ]
+        , g
+            []
+            [ g
+                []
+                [ polygon
+                    [ points "17,18 7,18 7,6 17,6 17,7 19,7 19,1 5,1 5,23 19,23 19,17 17,17" ]
+                    []
+                , polygon
+                    [ points "22,12 18,8 18,11 13,11 13,13 18,13 18,16" ]
+                    []
+                ]
+            ]
         ]
 
 
@@ -16038,6 +24038,34 @@ sensor_window =
 
 
 {-| -}
+sensors : Icon msg
+sensors =
+    icon
+        [ enableBackground "new 0 0 24 24", viewBox "0 0 24 24" ]
+        [ rect
+            [ fill "none" ]
+            []
+        , path
+            [ d "M7.76,16.24C6.67,15.16,6,13.66,6,12s0.67-3.16,1.76-4.24l1.42,1.42C8.45,9.9,8,10.9,8,12c0,1.1,0.45,2.1,1.17,2.83 L7.76,16.24z M16.24,16.24C17.33,15.16,18,13.66,18,12s-0.67-3.16-1.76-4.24l-1.42,1.42C15.55,9.9,16,10.9,16,12 c0,1.1-0.45,2.1-1.17,2.83L16.24,16.24z M12,10c-1.1,0-2,0.9-2,2s0.9,2,2,2s2-0.9,2-2S13.1,10,12,10z M20,12 c0,2.21-0.9,4.21-2.35,5.65l1.42,1.42C20.88,17.26,22,14.76,22,12s-1.12-5.26-2.93-7.07l-1.42,1.42C19.1,7.79,20,9.79,20,12z M6.35,6.35L4.93,4.93C3.12,6.74,2,9.24,2,12s1.12,5.26,2.93,7.07l1.42-1.42C4.9,16.21,4,14.21,4,12S4.9,7.79,6.35,6.35z" ]
+            []
+        ]
+
+
+{-| -}
+sensors_off : Icon msg
+sensors_off =
+    icon
+        [ enableBackground "new 0 0 24 24", viewBox "0 0 24 24" ]
+        [ rect
+            [ fill "none" ]
+            []
+        , path
+            [ d "M8.14,10.96C8.05,11.29,8,11.64,8,12c0,1.1,0.45,2.1,1.17,2.83l-1.42,1.42C6.67,15.16,6,13.66,6,12 c0-0.93,0.21-1.8,0.58-2.59L5.11,7.94C4.4,9.13,4,10.52,4,12c0,2.21,0.9,4.21,2.35,5.65l-1.42,1.42C3.12,17.26,2,14.76,2,12 c0-2.04,0.61-3.93,1.66-5.51L1.39,4.22l1.41-1.41l18.38,18.38l-1.41,1.41L8.14,10.96z M17.42,14.59C17.79,13.8,18,12.93,18,12 c0-1.66-0.67-3.16-1.76-4.24l-1.42,1.42C15.55,9.9,16,10.9,16,12c0,0.36-0.05,0.71-0.14,1.04L17.42,14.59z M20,12 c0,1.48-0.4,2.87-1.11,4.06l1.45,1.45C21.39,15.93,22,14.04,22,12c0-2.76-1.12-5.26-2.93-7.07l-1.42,1.42C19.1,7.79,20,9.79,20,12z" ]
+            []
+        ]
+
+
+{-| -}
 sentiment_dissatisfied : Icon msg
 sentiment_dissatisfied =
     icon
@@ -16054,6 +24082,29 @@ sentiment_dissatisfied =
         , path
             [ d "M12 14c-2.33 0-4.32 1.45-5.12 3.5h1.67c.69-1.19 1.97-2 3.45-2s2.75.81 3.45 2h1.67c-.8-2.05-2.79-3.5-5.12-3.5zm-.01-12C6.47 2 2 6.48 2 12s4.47 10 9.99 10C17.52 22 22 17.52 22 12S17.52 2 11.99 2zM12 20c-4.42 0-8-3.58-8-8s3.58-8 8-8 8 3.58 8 8-3.58 8-8 8z" ]
             []
+        ]
+
+
+{-| -}
+sentiment_neutral : Icon msg
+sentiment_neutral =
+    icon
+        [ enableBackground "new 0 0 24 24", viewBox "0 0 24 24" ]
+        [ g
+            []
+            [ rect
+                [ fill "none" ]
+                []
+            , rect
+                [ fill "none" ]
+                []
+            ]
+        , g
+            []
+            [ path
+                [ d "M11.99,2C6.47,2,2,6.48,2,12s4.47,10,9.99,10C17.52,22,22,17.52,22,12S17.52,2,11.99,2z M7,9.5C7,8.67,7.67,8,8.5,8 S10,8.67,10,9.5S9.33,11,8.5,11S7,10.33,7,9.5z M15,15.5H9V14h6V15.5z M15.5,11c-0.83,0-1.5-0.67-1.5-1.5S14.67,8,15.5,8 S17,8.67,17,9.5S16.33,11,15.5,11z" ]
+                []
+            ]
         ]
 
 
@@ -16150,6 +24201,26 @@ settings =
         , path
             [ d "M19.44 12.99l-.01.02c.04-.33.08-.67.08-1.01 0-.34-.03-.66-.07-.99l.01.02 2.44-1.92-2.43-4.22-2.87 1.16.01.01c-.52-.4-1.09-.74-1.71-1h.01L14.44 2H9.57l-.44 3.07h.01c-.62.26-1.19.6-1.71 1l.01-.01-2.88-1.17-2.44 4.22 2.44 1.92.01-.02c-.04.33-.07.65-.07.99 0 .34.03.68.08 1.01l-.01-.02-2.1 1.65-.33.26 2.43 4.2 2.88-1.15-.02-.04c.53.41 1.1.75 1.73 1.01h-.03L9.58 22h4.85s.03-.18.06-.42l.38-2.65h-.01c.62-.26 1.2-.6 1.73-1.01l-.02.04 2.88 1.15 2.43-4.2s-.14-.12-.33-.26l-2.11-1.66zM12 15.5c-1.93 0-3.5-1.57-3.5-3.5s1.57-3.5 3.5-3.5 3.5 1.57 3.5 3.5-1.57 3.5-3.5 3.5z" ]
             []
+        ]
+
+
+{-| -}
+settings_accessibility : Icon msg
+settings_accessibility =
+    icon
+        [ enableBackground "new 0 0 24 24", viewBox "0 0 24 24" ]
+        [ g
+            []
+            [ rect
+                [ fill "none" ]
+                []
+            ]
+        , g
+            []
+            [ path
+                [ d "M20.5,4c-2.61,0.7-5.67,1-8.5,1S6.11,4.7,3.5,4L3,6c1.86,0.5,4,0.83,6,1v12h2v-6h2v6h2V7c2-0.17,4.14-0.5,6-1L20.5,4z M12,4c1.1,0,2-0.9,2-2s-0.9-2-2-2s-2,0.9-2,2S10.9,4,12,4z M7,24h2v-2H7V24z M11,24h2v-2h-2V24z M15,24h2v-2h-2V24z" ]
+                []
+            ]
         ]
 
 
@@ -16367,6 +24438,23 @@ settings_remote =
 
 
 {-| -}
+settings_suggest : Icon msg
+settings_suggest =
+    icon
+        [ enableBackground "new 0 0 24 24", viewBox "0 0 24 24" ]
+        [ rect
+            [ fill "none" ]
+            []
+        , g
+            []
+            [ path
+                [ d "M17.41,6.59L15,5.5l2.41-1.09L18.5,2l1.09,2.41L22,5.5l-2.41,1.09L18.5,9L17.41,6.59z M21.28,12.72L20.5,11l-0.78,1.72 L18,13.5l1.72,0.78L20.5,16l0.78-1.72L23,13.5L21.28,12.72z M16.24,14.37l1.94,1.47l-2.5,4.33l-2.24-0.94 c-0.2,0.13-0.42,0.26-0.64,0.37L12.5,22h-5l-0.3-2.41c-0.22-0.11-0.43-0.23-0.64-0.37l-2.24,0.94l-2.5-4.33l1.94-1.47 C3.75,14.25,3.75,14.12,3.75,14s0-0.25,0.01-0.37l-1.94-1.47l2.5-4.33l2.24,0.94c0.2-0.13,0.42-0.26,0.64-0.37L7.5,6h5l0.3,2.41 c0.22,0.11,0.43,0.23,0.64,0.37l2.24-0.94l2.5,4.33l-1.94,1.47c0.01,0.12,0.01,0.24,0.01,0.37S16.25,14.25,16.24,14.37z M13,14 c0-1.66-1.34-3-3-3s-3,1.34-3,3s1.34,3,3,3S13,15.66,13,14z" ]
+                []
+            ]
+        ]
+
+
+{-| -}
 settings_system_daydream : Icon msg
 settings_system_daydream =
     icon
@@ -16409,6 +24497,67 @@ share =
 
 
 {-| -}
+share_location : Icon msg
+share_location =
+    icon
+        [ enableBackground "new 0 0 24 24", viewBox "0 0 24 24" ]
+        [ g
+            []
+            [ path
+                [ d "M0,0h24v24H0V0z", fill "none" ]
+                []
+            ]
+        , g
+            []
+            [ g
+                []
+                [ path
+                    [ d "M13.02,19.93v2.02c2.01-0.2,3.84-1,5.32-2.21l-1.42-1.43C15.81,19.17,14.48,19.75,13.02,19.93z" ]
+                    []
+                , path
+                    [ d "M4.03,12c0-4.05,3.03-7.41,6.95-7.93V2.05C5.95,2.58,2.03,6.84,2.03,12c0,5.16,3.92,9.42,8.95,9.95v-2.02 C7.06,19.41,4.03,16.05,4.03,12z" ]
+                    []
+                , path
+                    [ d "M19.95,11h2.02c-0.2-2.01-1-3.84-2.21-5.32l-1.43,1.43C19.19,8.21,19.77,9.54,19.95,11z" ]
+                    []
+                , path
+                    [ d "M18.34,4.26c-1.48-1.21-3.32-2.01-5.32-2.21v2.02c1.46,0.18,2.79,0.76,3.9,1.62L18.34,4.26z" ]
+                    []
+                , path
+                    [ d "M18.33,16.9l1.43,1.42c1.21-1.48,2.01-3.31,2.21-5.32h-2.02C19.77,14.46,19.19,15.79,18.33,16.9z" ]
+                    []
+                , path
+                    [ d "M16,11.1C16,8.61,14.1,7,12,7s-4,1.61-4,4.1c0,1.66,1.33,3.63,4,5.9C14.67,14.73,16,12.76,16,11.1z M12,12 c-0.59,0-1.07-0.48-1.07-1.07c0-0.59,0.48-1.07,1.07-1.07s1.07,0.48,1.07,1.07C13.07,11.52,12.59,12,12,12z" ]
+                    []
+                ]
+            ]
+        ]
+
+
+{-| -}
+shield : Icon msg
+shield =
+    icon
+        [ enableBackground "new 0 0 24 24", viewBox "0 0 24 24" ]
+        [ g
+            []
+            [ rect
+                [ fill "none" ]
+                []
+            ]
+        , g
+            []
+            [ g
+                []
+                [ path
+                    [ d "M12,2L4,5v6.09c0,5.05,3.41,9.76,8,10.91c4.59-1.15,8-5.86,8-10.91V5L12,2z" ]
+                    []
+                ]
+            ]
+        ]
+
+
+{-| -}
 shop : Icon msg
 shop =
     icon
@@ -16419,6 +24568,32 @@ shop =
         , path
             [ d "M16 6V4c0-1.1-.9-2-2-2h-4c-1.1 0-2 .9-2 2v2H2v15h20V6h-6zm-6-2h4v2h-4V4zM9 18V9l7.5 4L9 18z" ]
             []
+        ]
+
+
+{-| -}
+shop_2 : Icon msg
+shop_2 =
+    icon
+        [ enableBackground "new 0 0 24 24", viewBox "0 0 24 24" ]
+        [ g
+            []
+            [ rect
+                [ fill "none" ]
+                []
+            ]
+        , g
+            []
+            [ g
+                []
+                [ polygon
+                    [ points "3,9 1,9 1,22 19,22 19,20 3,20" ]
+                    []
+                , path
+                    [ d "M18,5V1h-8v4H5v13h18V5H18z M12,3h4v2h-4V3z M12,15V8l5.5,3.5L12,15z" ]
+                    []
+                ]
+            ]
         ]
 
 
@@ -16493,6 +24668,26 @@ short_text =
 
 
 {-| -}
+shortcut : Icon msg
+shortcut =
+    icon
+        [ enableBackground "new 0 0 24 24", viewBox "0 0 24 24" ]
+        [ g
+            []
+            [ path
+                [ d "M0,0h24v24H0V0z", fill "none" ]
+                []
+            ]
+        , g
+            []
+            [ path
+                [ d "M21,11l-6-6v5H8c-2.76,0-5,2.24-5,5v4h2v-4c0-1.65,1.35-3,3-3h7v5L21,11z" ]
+                []
+            ]
+        ]
+
+
+{-| -}
 show_chart : Icon msg
 show_chart =
     icon
@@ -16500,6 +24695,44 @@ show_chart =
         [ path
             [ d "M3.5 18.49l6-6.01 4 4L22 6.92l-1.41-1.41-7.09 7.97-4-4L2 16.99l1.5 1.5z" ]
             []
+        ]
+
+
+{-| -}
+shower : Icon msg
+shower =
+    icon
+        [ enableBackground "new 0 0 24 24", viewBox "0 0 24 24" ]
+        [ g
+            []
+            [ path
+                [ d "M0,0h24v24H0V0z", fill "none" ]
+                []
+            ]
+        , g
+            []
+            [ circle
+                [ cx "8", cy "17", r "1" ]
+                []
+            , circle
+                [ cx "12", cy "17", r "1" ]
+                []
+            , circle
+                [ cx "16", cy "17", r "1" ]
+                []
+            , path
+                [ d "M13,5.08V3h-2v2.08C7.61,5.57,5,8.47,5,12v2h14v-2C19,8.47,16.39,5.57,13,5.08z" ]
+                []
+            , circle
+                [ cx "8", cy "20", r "1" ]
+                []
+            , circle
+                [ cx "12", cy "20", r "1" ]
+                []
+            , circle
+                [ cx "16", cy "20", r "1" ]
+                []
+            ]
         ]
 
 
@@ -16514,6 +24747,26 @@ shuffle =
         , path
             [ d "M10.59 9.17L5.41 4 4 5.41l5.17 5.17 1.42-1.41zM14.5 4l2.04 2.04L4 18.59 5.41 20 17.96 7.46 20 9.5V4h-5.5zm.33 9.41l-1.41 1.41 3.13 3.13L14.5 20H20v-5.5l-2.04 2.04-3.13-3.13z" ]
             []
+        ]
+
+
+{-| -}
+shuffle_on : Icon msg
+shuffle_on =
+    icon
+        [ enableBackground "new 0 0 24 24", viewBox "0 0 24 24" ]
+        [ g
+            []
+            [ rect
+                [ fill "none" ]
+                []
+            ]
+        , g
+            []
+            [ path
+                [ d "M1,1v22h22V1H1z M5.41,4l5.18,5.17l-1.42,1.41L4,5.41L5.41,4z M20,20h-5.5l2.05-2.05l-3.13-3.13l1.41-1.41l3.13,3.13 L20,14.5V20z M20,9.5l-2.04-2.04L5.41,20L4,18.59L16.54,6.04L14.5,4H20V9.5z" ]
+                []
+            ]
         ]
 
 
@@ -16546,6 +24799,26 @@ sick =
 
 
 {-| -}
+signal_cellular_0_bar : Icon msg
+signal_cellular_0_bar =
+    icon
+        [ enableBackground "new 0 0 24 24", viewBox "0 0 24 24" ]
+        [ g
+            []
+            [ path
+                [ d "M0,0h24v24H0V0z", fill "none" ]
+                []
+            ]
+        , g
+            []
+            [ path
+                [ d "M2,22h20V2L2,22z M20,20H6.83L20,6.83V20z" ]
+                []
+            ]
+        ]
+
+
+{-| -}
 signal_cellular_4_bar : Icon msg
 signal_cellular_4_bar =
     icon
@@ -16574,16 +24847,42 @@ signal_cellular_alt =
 
 
 {-| -}
+signal_cellular_connected_no_internet_0_bar : Icon msg
+signal_cellular_connected_no_internet_0_bar =
+    icon
+        [ enableBackground "new 0 0 24 24", viewBox "0 0 24 24" ]
+        [ rect
+            [ fill "none" ]
+            []
+        , path
+            [ d "M20,18h2v-8h-2V18z M20,22h2v-2h-2V22z M18,20v2H2L22,2v6h-2V6.83L6.83,20H18z" ]
+            []
+        ]
+
+
+{-| -}
 signal_cellular_connected_no_internet_4_bar : Icon msg
 signal_cellular_connected_no_internet_4_bar =
     icon
-        [ viewBox "0 0 24 24" ]
-        [ path
-            [ d "M0 0h24v24H0V0z", fill "none" ]
+        [ enableBackground "new 0 0 24 24", viewBox "0 0 24 24" ]
+        [ g
             []
-        , path
-            [ d "M20 18h2v-8h-2v8zm0 4h2v-2h-2v2zM2 22h16V8h4V2L2 22z" ]
+            [ path
+                [ d "M0,0h24v24H0V0z", fill "none" ]
+                []
+            ]
+        , g
             []
+            [ g
+                []
+                [ g
+                    []
+                    [ path
+                        [ d "M20,18h2v-8h-2V18z M20,22h2v-2h-2V22z M2,22h16V8h4V2L2,22z" ]
+                        []
+                    ]
+                ]
+            ]
         ]
 
 
@@ -16598,6 +24897,29 @@ signal_cellular_no_sim =
         , path
             [ d "M19 3h-9L7.95 5.06 19 16.11zm-15.21.74L2.38 5.15 5 7.77V21h13.23l1.62 1.62 1.41-1.41z" ]
             []
+        ]
+
+
+{-| -}
+signal_cellular_nodata : Icon msg
+signal_cellular_nodata =
+    icon
+        [ enableBackground "new 0 0 24 24", viewBox "0 0 24 24" ]
+        [ g
+            []
+            [ path
+                [ d "M0,0h24v24H0V0z", fill "none" ]
+                []
+            ]
+        , g
+            []
+            [ g
+                []
+                [ path
+                    [ d "M22,13h-9v9H2L22,2V13z M21,15.41L19.59,14l-2.09,2.09L15.41,14L14,15.41l2.09,2.09L14,19.59L15.41,21l2.09-2.08L19.59,21 L21,19.59l-2.08-2.09L21,15.41z" ]
+                    []
+                ]
+            ]
         ]
 
 
@@ -16630,6 +24952,26 @@ signal_cellular_off =
 
 
 {-| -}
+signal_wifi_0_bar : Icon msg
+signal_wifi_0_bar =
+    icon
+        [ enableBackground "new 0 0 24 24", viewBox "0 0 24 24" ]
+        [ g
+            []
+            [ path
+                [ d "M0,0h24v24H0V0z", fill "none" ]
+                []
+            ]
+        , g
+            []
+            [ path
+                [ d "M12,4C7.31,4,3.07,5.9,0,8.98L12,21L24,8.98C20.93,5.9,16.69,4,12,4z M2.92,9.07C5.51,7.08,8.67,6,12,6 s6.49,1.08,9.08,3.07L12,18.17L2.92,9.07z" ]
+                []
+            ]
+        ]
+
+
+{-| -}
 signal_wifi_4_bar : Icon msg
 signal_wifi_4_bar =
     icon
@@ -16647,13 +24989,65 @@ signal_wifi_4_bar =
 signal_wifi_4_bar_lock : Icon msg
 signal_wifi_4_bar_lock =
     icon
-        [ viewBox "0 0 24 24" ]
-        [ path
-            [ d "M0 0h24v24H0V0z", fill "none" ]
+        [ enableBackground "new 0 0 24 24", viewBox "0 0 24 24" ]
+        [ g
             []
-        , path
-            [ d "M20.5 9.5c.36 0 .71.04 1.05.11L23.64 7c-.45-.34-4.93-4-11.64-4C5.28 3 .81 6.66.36 7L12 21.5l3.5-4.36V14.5c0-2.8 2.2-5 5-5zM23 16v-1.5c0-1.4-1.1-2.5-2.5-2.5S18 13.1 18 14.5V16h-1v6h7v-6h-1zm-1 0h-3v-1.5c0-.8.7-1.5 1.5-1.5s1.5.7 1.5 1.5V16z" ]
+            [ path
+                [ d "M0,0h24v24H0V0z", fill "none" ]
+                []
+            ]
+        , g
             []
+            [ g
+                []
+                [ path
+                    [ d "M21.98,11L24,8.98C20.93,5.9,16.69,4,12,4C7.31,4,3.07,5.9,0,8.98l6.35,6.36L12,21l3.05-3.05V15 c0-0.45,0.09-0.88,0.23-1.29c0.54-1.57,2.01-2.71,3.77-2.71H21.98z" ]
+                    []
+                , path
+                    [ d "M22,15.11c0-1-0.68-1.92-1.66-2.08c-0.12-0.02-0.24-0.02-0.36-0.02l0,0c0,0-0.01,0-0.01,0C18.88,13.03,18,13.91,18,15v1 c-0.55,0-1,0-1,0v5h6v-5c0,0-0.45,0-1,0V15.11z M21,16h-2v-1c0-0.55,0.45-1,1-1s1,0.45,1,1V16z" ]
+                    []
+                ]
+            ]
+        ]
+
+
+{-| -}
+signal_wifi_bad : Icon msg
+signal_wifi_bad =
+    icon
+        [ enableBackground "new 0 0 24 24", viewBox "0 0 24 24" ]
+        [ g
+            []
+            [ path
+                [ d "M0,0h24v24H0V0z", fill "none" ]
+                []
+            ]
+        , g
+            []
+            [ path
+                [ d "M24,8.98C20.93,5.9,16.69,4,12,4C7.31,4,3.07,5.9,0,8.98L12,21v-9h8.99L24,8.98z M19.59,14l-2.09,2.09l-0.3-0.3L15.41,14 L14,15.41l1.79,1.79l0.3,0.3L14,19.59L15.41,21l2.09-2.08L19.59,21L21,19.59l-2.08-2.09L21,15.41L19.59,14z" ]
+                []
+            ]
+        ]
+
+
+{-| -}
+signal_wifi_connected_no_internet_4 : Icon msg
+signal_wifi_connected_no_internet_4 =
+    icon
+        [ enableBackground "new 0 0 24 24", viewBox "0 0 24 24" ]
+        [ g
+            []
+            [ path
+                [ d "M0,0h24v24H0V0z", fill "none" ]
+                []
+            ]
+        , g
+            []
+            [ path
+                [ d "M24,8.98C20.93,5.9,16.69,4,12,4C7.31,4,3.07,5.9,0,8.98L12,21v-9h8.99L24,8.98z M19.59,14l-2.09,2.09l-0.3-0.3L15.41,14 L14,15.41l1.79,1.79l0.3,0.3L14,19.59L15.41,21l2.09-2.08L19.59,21L21,19.59l-2.08-2.09L21,15.41L19.59,14z" ]
+                []
+            ]
         ]
 
 
@@ -16672,6 +25066,75 @@ signal_wifi_off =
 
 
 {-| -}
+signal_wifi_statusbar_4_bar : Icon msg
+signal_wifi_statusbar_4_bar =
+    icon
+        [ enableBackground "new 0 0 24 24", viewBox "0 0 24 24" ]
+        [ g
+            []
+            [ path
+                [ d "M0,0h24v24H0V0z", fill "none" ]
+                []
+            ]
+        , g
+            []
+            [ path
+                [ d "M12,4C7.31,4,3.07,5.9,0,8.98L12,21L24,8.98C20.93,5.9,16.69,4,12,4z" ]
+                []
+            ]
+        ]
+
+
+{-| -}
+signal_wifi_statusbar_connected_no_internet_4 : Icon msg
+signal_wifi_statusbar_connected_no_internet_4 =
+    icon
+        [ enableBackground "new 0 0 24 24", viewBox "0 0 24 24" ]
+        [ g
+            []
+            [ path
+                [ d "M0,0h24v24H0V0z", fill "none" ]
+                []
+            ]
+        , g
+            []
+            [ g
+                []
+                [ rect
+                    []
+                    []
+                , rect
+                    []
+                    []
+                , path
+                    [ d "M12,4C7.31,4,3.07,5.9,0,8.98L12,21l5-5.01V8h5.92C19.97,5.51,16.16,4,12,4z" ]
+                    []
+                ]
+            ]
+        ]
+
+
+{-| -}
+signal_wifi_statusbar_null : Icon msg
+signal_wifi_statusbar_null =
+    icon
+        [ enableBackground "new 0 0 24 24", viewBox "0 0 24 24" ]
+        [ g
+            []
+            [ path
+                [ d "M0,0h24v24H0V0z", fill "none" ]
+                []
+            ]
+        , g
+            []
+            [ path
+                [ d "M12,4C7.31,4,3.07,5.9,0,8.98L12,21L24,8.98C20.93,5.9,16.69,4,12,4z M2.92,9.07C5.51,7.08,8.67,6,12,6 c3.33,0,6.49,1.08,9.08,3.07L12,18.17L2.92,9.07z" ]
+                []
+            ]
+        ]
+
+
+{-| -}
 sim_card : Icon msg
 sim_card =
     icon
@@ -16682,6 +25145,52 @@ sim_card =
         , path
             [ d "M19.99 2H10L4 8v14h16l-.01-20zM9 19H7v-2h2v2zm8 0h-2v-2h2v2zm-8-4H7v-4h2v4zm4 4h-2v-4h2v4zm0-6h-2v-2h2v2zm4 2h-2v-4h2v4z" ]
             []
+        ]
+
+
+{-| -}
+sim_card_alert : Icon msg
+sim_card_alert =
+    icon
+        [ enableBackground "new 0 0 24 24", viewBox "0 0 24 24" ]
+        [ g
+            []
+            [ rect
+                [ fill "none" ]
+                []
+            ]
+        , g
+            []
+            [ g
+                []
+                [ g
+                    []
+                    [ path
+                        [ d "M20,2H10L4,8v14h16V2z M13,17h-2v-2h2V17z M13,13h-2V8h2V13z" ]
+                        []
+                    ]
+                ]
+            ]
+        ]
+
+
+{-| -}
+sim_card_download : Icon msg
+sim_card_download =
+    icon
+        [ enableBackground "new 0 0 24 24", viewBox "0 0 24 24" ]
+        [ g
+            []
+            [ path
+                [ d "M0,0h24v24H0V0z", fill "none" ]
+                []
+            ]
+        , g
+            []
+            [ path
+                [ d "M20,2H10L4,8v14h16V2z M12,17l-4-4h3V9.02L13,9v4h3L12,17z" ]
+                []
+            ]
         ]
 
 
@@ -16702,6 +25211,46 @@ single_bed =
                 [ d "M18,10V5H6v5H4v7h1.33L6,19h1l0.67-2h8.67L17,19h1l0.67-2H20v-7H18z M11,10H8V7h3V10z M16,10h-3V7h3V10z" ]
                 []
             ]
+        ]
+
+
+{-| -}
+sip : Icon msg
+sip =
+    icon
+        [ enableBackground "new 0 0 24 24", viewBox "0 0 24 24" ]
+        [ g
+            []
+            [ rect
+                [ fill "none" ]
+                []
+            ]
+        , g
+            []
+            [ g
+                []
+                [ rect
+                    []
+                    []
+                , path
+                    [ d "M20,4H4C2.9,4,2,4.9,2,6v12c0,1.1,0.9,2,2,2h16c1.1,0,2-0.9,2-2V6C22,4.9,21.1,4,20,4z M10,10.5H6.5v0.75H10V15H5v-1.5 h3.5v-0.75H5V9h5V10.5z M13,15h-2V9h2V15z M19,9v4h-3.5v2H14V9H19z" ]
+                    []
+                ]
+            ]
+        ]
+
+
+{-| -}
+skateboarding : Icon msg
+skateboarding =
+    icon
+        [ enableBackground "new 0 0 24 24", viewBox "0 0 24 24" ]
+        [ rect
+            [ fill "none" ]
+            []
+        , path
+            [ d "M13,3c0-1.1,0.9-2,2-2s2,0.9,2,2c0,1.1-0.9,2-2,2S13,4.1,13,3z M7.25,22.5c-0.41,0-0.75,0.34-0.75,0.75S6.84,24,7.25,24 S8,23.66,8,23.25S7.66,22.5,7.25,22.5z M15.75,22.5c-0.41,0-0.75,0.34-0.75,0.75S15.34,24,15.75,24s0.75-0.34,0.75-0.75 S16.16,22.5,15.75,22.5z M19.24,19c-0.24,0-0.45,0.11-0.59,0.3c-0.55,0.73-1.42,1.2-2.4,1.2H16v-6l-4.32-2.67l1.8-2.89 C14.63,10.78,16.68,12,19,12v-2c-1.85,0-3.44-1.12-4.13-2.72l-0.52-1.21C14.16,5.64,13.61,5,12.7,5H7L4.5,9l1.7,1.06L8.1,7h2.35 l-2.89,4.63l1.62,5.03l-3.12,3.76c-0.7-0.16-1.3-0.57-1.71-1.12C4.21,19.11,3.99,19,3.75,19C3.31,19,3,19.36,3,19.75 c0,0.15,0.05,0.31,0.15,0.45c0.82,1.1,2.13,1.8,3.6,1.8h9.5c1.47,0,2.78-0.7,3.6-1.8c0.1-0.14,0.15-0.3,0.15-0.45 C20,19.36,19.68,19,19.24,19z M14,20.5H8.6l2.9-3.5l-1-3.3l3.5,2.2V20.5z" ]
+            []
         ]
 
 
@@ -16729,6 +25278,20 @@ skip_previous =
             []
         , path
             [ d "M6 6h2v12H6V6zm3.5 6l8.5 6V6l-8.5 6z" ]
+            []
+        ]
+
+
+{-| -}
+sledding : Icon msg
+sledding =
+    icon
+        [ enableBackground "new 0 0 24 24", viewBox "0 0 24 24" ]
+        [ rect
+            [ fill "none" ]
+            []
+        , path
+            [ d "M14,4.5c0,1.1-0.9,2-2,2s-2-0.9-2-2s0.9-2,2-2S14,3.4,14,4.5z M17.22,17.9l1.93,0.63l-0.46,1.43l-3.32-1.08L14.9,20.3 l3.32,1.08l0,0c1.31,0.43,2.72-0.29,3.15-1.61c0.43-1.31-0.29-2.72-1.61-3.15l0.46-1.43c2.1,0.68,3.25,2.94,2.57,5.04 c-0.68,2.1-2.94,3.25-5.04,2.57h0L1,17.36l0.46-1.43l3.93,1.28l0.46-1.43L1.93,14.5l0.46-1.43L4,13.6V9.5l5.47-2.35 c0.39-0.17,0.84-0.21,1.28-0.07c0.95,0.31,1.46,1.32,1.16,2.27l-1.05,3.24L14.5,12L17.22,17.9z M6,14.25l0.48,0.16l0.75-2.31 L7.92,10L6,10.82V14.25z M13.94,18.41l-6.66-2.16l-0.46,1.43l6.66,2.16L13.94,18.41z M14.63,17.05l-1.18-2.56l-3.97,0.89 L14.63,17.05z" ]
             []
         ]
 
@@ -16774,6 +25337,84 @@ smart_button =
             , path
                 [ d "M22,17h-3l0-2h1V9H4v6h6v2H2V7h20V17z M14.5,19l1.09-2.41L18,15.5l-2.41-1.09L14.5,12l-1.09,2.41L11,15.5l2.41,1.09 L14.5,19z M17,14l0.62-1.38L19,12l-1.38-0.62L17,10l-0.62,1.38L15,12l1.38,0.62L17,14z" ]
                 []
+            ]
+        ]
+
+
+{-| -}
+smart_display : Icon msg
+smart_display =
+    icon
+        [ enableBackground "new 0 0 24 24", viewBox "0 0 24 24" ]
+        [ g
+            []
+            [ rect
+                [ fill "none" ]
+                []
+            ]
+        , g
+            []
+            [ path
+                [ d "M22,4H2v16h20V4z M9.5,16.5v-9l7,4.5L9.5,16.5z" ]
+                []
+            ]
+        ]
+
+
+{-| -}
+smart_screen : Icon msg
+smart_screen =
+    icon
+        [ enableBackground "new 0 0 24 24", viewBox "0 0 24 24" ]
+        [ g
+            []
+            [ rect
+                [ fill "none" ]
+                []
+            ]
+        , g
+            []
+            [ g
+                []
+                [ path
+                    [ d "M1,5v14h22V5H1z M18,17H6V7h12V17z" ]
+                    []
+                , rect
+                    []
+                    []
+                , rect
+                    []
+                    []
+                , rect
+                    []
+                    []
+                , rect
+                    []
+                    []
+                ]
+            ]
+        ]
+
+
+{-| -}
+smart_toy : Icon msg
+smart_toy =
+    icon
+        [ enableBackground "new 0 0 24 24", viewBox "0 0 24 24" ]
+        [ g
+            []
+            [ rect
+                [ fill "none" ]
+                []
+            ]
+        , g
+            []
+            [ g
+                []
+                [ path
+                    [ d "M20,9V5h-5V2H9v3H4v4H1v6h3v6h16v-6h3V9H20z M7.5,11.5C7.5,10.67,8.17,10,9,10s1.5,0.67,1.5,1.5S9.83,13,9,13 S7.5,12.33,7.5,11.5z M16,17H8v-2h8V17z M15,13c-0.83,0-1.5-0.67-1.5-1.5S14.17,10,15,10s1.5,0.67,1.5,1.5S15.83,13,15,13z" ]
+                    []
+                ]
             ]
         ]
 
@@ -16880,6 +25521,48 @@ snooze =
 
 
 {-| -}
+snowboarding : Icon msg
+snowboarding =
+    icon
+        [ enableBackground "new 0 0 24 24", viewBox "0 0 24 24" ]
+        [ rect
+            [ fill "none" ]
+            []
+        , path
+            [ d "M14,3c0-1.1,0.9-2,2-2s2,0.9,2,2c0,1.1-0.9,2-2,2S14,4.1,14,3z M21.4,20.09c-0.23-0.05-0.46,0.02-0.64,0.17 c-0.69,0.6-1.64,0.88-2.6,0.67L17,20.69l-1-6.19l-3.32-2.67l1.8-2.89C15.63,10.78,17.68,12,20,12v-2c-1.85,0-3.44-1.12-4.13-2.72 l-0.52-1.21C15.16,5.64,14.61,5,13.7,5H8L5.5,9l1.7,1.06L9.1,7h2.35L8.5,11.7l1,4.3L6,18.35l-0.47-0.1c-0.96-0.2-1.71-0.85-2.1-1.67 c-0.1-0.21-0.28-0.37-0.51-0.42c-0.43-0.09-0.82,0.2-0.9,0.58C1.98,16.88,2,17.05,2.07,17.2c0.58,1.24,1.71,2.2,3.15,2.51 l12.63,2.69c1.44,0.31,2.86-0.11,3.9-1.01c0.13-0.11,0.21-0.26,0.24-0.41C22.06,20.6,21.83,20.18,21.4,20.09z M8.73,18.93l3.02-2.03 l-0.44-3.32l2.84,2.02l0.75,4.64L8.73,18.93z" ]
+            []
+        ]
+
+
+{-| -}
+snowmobile : Icon msg
+snowmobile =
+    icon
+        [ enableBackground "new 0 0 24 24", viewBox "0 0 24 24" ]
+        [ rect
+            [ fill "none" ]
+            []
+        , path
+            [ d "M22,17c0,0.55-0.45,1-1,1h-0.17l-2.2-2.2C21.6,15.18,23,13,23,13l-9-8h-3v2h2.25l1.45,1.3L11,11l-9.5-1L0,13l4.54,1.36 l-3.49,1.88C-0.77,17.22-0.07,20,2,20h6c2.21,0,4-1.79,4-4h4l2,2h-3v2h6c1.66,0,3-1.34,3-3H22z M8,18H2l5.25-2.83L10,16 C10,17.1,9.11,18,8,18z" ]
+            []
+        ]
+
+
+{-| -}
+snowshoeing : Icon msg
+snowshoeing =
+    icon
+        [ enableBackground "new 0 0 24 24", viewBox "0 0 24 24" ]
+        [ rect
+            [ fill "none" ]
+            []
+        , path
+            [ d "M12.5,3.5c0-1.1,0.9-2,2-2s2,0.9,2,2c0,1.1-0.9,2-2,2S12.5,4.6,12.5,3.5z M6.32,19.03l-1.14-1.47L4,18.5l2.38,3.04 c0.51,0.65,1.16,1.15,1.88,1.41c0.28,0.1,0.53,0.04,0.72-0.11c0.3-0.23,0.42-0.7,0.12-1.07c-0.08-0.1-0.2-0.17-0.31-0.22 c-0.43-0.18-0.82-0.45-1.14-0.83l-0.08-0.1L11,18.2l0.89-3.22l2.11,2v4.52h-2V23h3.87c0.82,0,1.61-0.21,2.26-0.61 c0.26-0.16,0.37-0.39,0.37-0.64c0-0.38-0.3-0.75-0.77-0.75c-0.13,0-0.26,0.04-0.37,0.1c-0.4,0.23-0.87,0.37-1.36,0.4l0-6.02l-2.11-2 l0.6-3C15.79,11.98,17.8,13,20,13v-2c-1.9,0-3.51-1.02-4.31-2.42l-1-1.58c-0.4-0.6-1-1-1.7-1C12.24,6,11.58,6.34,7,8.28V13h2V9.58 l1.79-0.7L9.2,17L6.32,19.03z" ]
+            []
+        ]
+
+
+{-| -}
 soap : Icon msg
 soap =
     icon
@@ -16893,6 +25576,20 @@ soap =
                 [ d "M14.25,6C14.66,6,15,6.34,15,6.75S14.66,7.5,14.25,7.5S13.5,7.16,13.5,6.75S13.84,6,14.25,6 M14.25,4.5 C13.01,4.5,12,5.51,12,6.75S13.01,9,14.25,9s2.25-1.01,2.25-2.25S15.49,4.5,14.25,4.5L14.25,4.5z M20,5.5c0.28,0,0.5,0.22,0.5,0.5 S20.28,6.5,20,6.5S19.5,6.28,19.5,6S19.72,5.5,20,5.5 M20,4c-1.1,0-2,0.9-2,2s0.9,2,2,2s2-0.9,2-2S21.1,4,20,4L20,4z M18,2.5 C18,3.33,17.33,4,16.5,4C15.67,4,15,3.33,15,2.5S15.67,1,16.5,1C17.33,1,18,1.67,18,2.5z M1,12.68V23h18v-2.5h-7v-1h9V17h-9v-1h10 v-2.5H12v-1h8V10H8.86l1.88-3.3L9.12,5L1,12.68z" ]
                 []
             ]
+        ]
+
+
+{-| -}
+social_distance : Icon msg
+social_distance =
+    icon
+        [ enableBackground "new 0 0 24 24", viewBox "0 0 24 24" ]
+        [ rect
+            [ fill "none" ]
+            []
+        , path
+            [ d "M4,5c0-1.1,0.9-2,2-2s2,0.9,2,2c0,1.1-0.9,2-2,2S4,6.1,4,5z M8.78,8.58C7.93,8.21,6.99,8,6,8S4.07,8.21,3.22,8.58 C2.48,8.9,2,9.62,2,10.43L2,11h8l0-0.57C10,9.62,9.52,8.9,8.78,8.58z M18,7c1.1,0,2-0.9,2-2c0-1.1-0.9-2-2-2s-2,0.9-2,2 C16,6.1,16.9,7,18,7z M20.78,8.58C19.93,8.21,18.99,8,18,8c-0.99,0-1.93,0.21-2.78,0.58C14.48,8.9,14,9.62,14,10.43L14,11h8l0-0.57 C22,9.62,21.52,8.9,20.78,8.58z M22,17l-4-4v3H6v-3l-4,4l4,4v-3h12v3L22,17z" ]
+            []
         ]
 
 
@@ -17112,6 +25809,29 @@ spellcheck =
         , path
             [ d "M12.45 16h2.09L9.43 3H7.57L2.46 16h2.09l1.12-3h5.64l1.14 3zm-6.02-5L8.5 5.48 10.57 11H6.43zm15.16.59l-8.09 8.09L9.83 16l-1.41 1.41 5.09 5.09L23 13l-1.41-1.41z" ]
             []
+        ]
+
+
+{-| -}
+splitscreen : Icon msg
+splitscreen =
+    icon
+        [ enableBackground "new 0 0 24 24", viewBox "0 0 24 24" ]
+        [ g
+            []
+            [ path
+                [ d "M0,0h24v24H0V0z", fill "none" ]
+                []
+            ]
+        , g
+            []
+            [ g
+                []
+                [ path
+                    [ d "M18,4v5H6V4H18 M20,2H4v9h16V2z M18,15v5H6v-5H18 M20,13H4v9h16V13z" ]
+                    []
+                ]
+            ]
         ]
 
 
@@ -17558,6 +26278,29 @@ sports_rugby =
 
 
 {-| -}
+sports_score : Icon msg
+sports_score =
+    icon
+        [ enableBackground "new 0 0 24 24", viewBox "0 0 24 24" ]
+        [ g
+            []
+            [ path
+                [ d "M0,0h24v24H0V0z", fill "none" ]
+                []
+            ]
+        , g
+            []
+            [ g
+                []
+                [ path
+                    [ d "M11,6H9V4h2V6z M15,4h-2v2h2V4z M9,14h2v-2H9V14z M19,10V8h-2v2H19z M19,14v-2h-2v2H19z M13,14h2v-2h-2V14z M19,4h-2v2h2 V4z M13,8V6h-2v2H13z M7,10V8h2V6H7V4H5v16h2v-8h2v-2H7z M15,12h2v-2h-2V12z M11,10v2h2v-2H11z M9,8v2h2V8H9z M13,10h2V8h-2V10z M15,6v2h2V6H15z" ]
+                    []
+                ]
+            ]
+        ]
+
+
+{-| -}
 sports_soccer : Icon msg
 sports_soccer =
     icon
@@ -17665,6 +26408,26 @@ square_foot =
 
 
 {-| -}
+stacked_bar_chart : Icon msg
+stacked_bar_chart =
+    icon
+        [ enableBackground "new 0 0 24 24", viewBox "0 0 24 24" ]
+        [ g
+            []
+            [ rect
+                [ fill "none" ]
+                []
+            ]
+        , g
+            []
+            [ path
+                [ d "M6,10h3v10H6V10z M6,5h3v4H6V5z M16,16h3v4h-3V16z M16,13h3v2h-3V13z M11,13h3v7h-3V13z M11,9h3v3h-3V9z" ]
+                []
+            ]
+        ]
+
+
+{-| -}
 stacked_line_chart : Icon msg
 stacked_line_chart =
     icon
@@ -17739,6 +26502,20 @@ star_border =
 
 
 {-| -}
+star_border_purple500 : Icon msg
+star_border_purple500 =
+    icon
+        [ viewBox "0 0 24 24" ]
+        [ path
+            [ d "M0 0h24v24H0V0z", fill "none" ]
+            []
+        , path
+            [ d "M22 9.24l-7.19-.62L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21 12 17.27 18.18 21l-1.63-7.03L22 9.24zM12 15.4l-3.76 2.27 1-4.28-3.32-2.88 4.38-.38L12 6.1l1.71 4.04 4.38.38-3.32 2.88 1 4.28L12 15.4z" ]
+            []
+        ]
+
+
+{-| -}
 star_half : Icon msg
 star_half =
     icon
@@ -17762,6 +26539,20 @@ star_outline =
             []
         , path
             [ d "M22 9.24l-7.19-.62L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21 12 17.27 18.18 21l-1.63-7.03L22 9.24zM12 15.4l-3.76 2.27 1-4.28-3.32-2.88 4.38-.38L12 6.1l1.71 4.04 4.38.38-3.32 2.88 1 4.28L12 15.4z" ]
+            []
+        ]
+
+
+{-| -}
+star_purple500 : Icon msg
+star_purple500 =
+    icon
+        [ viewBox "0 0 24 24" ]
+        [ path
+            [ d "M0 0h24v24H0V0z", fill "none" ]
+            []
+        , path
+            [ d "M12 17.27L18.18 21l-1.64-7.03L22 9.24l-7.19-.61L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21 12 17.27z" ]
             []
         ]
 
@@ -17984,6 +26775,29 @@ storefront =
 
 
 {-| -}
+storm : Icon msg
+storm =
+    icon
+        [ enableBackground "new 0 0 24 24", viewBox "0 0 24 24" ]
+        [ g
+            []
+            [ path
+                [ d "M0,0h24v24H0V0z", fill "none" ]
+                []
+            ]
+        , g
+            []
+            [ g
+                []
+                [ path
+                    [ d "M18.93,8C16.72,4.18,11.82,2.87,8,5.07c-1.41,0.82-2.48,2-3.16,3.37C4.71,6.24,5.06,4.04,5.86,2H3.74 C2.2,6.49,2.52,11.58,5.07,16c1.1,1.91,2.88,3.19,4.86,3.72c1.98,0.53,4.16,0.31,6.07-0.79c1.41-0.82,2.48-2,3.16-3.37 c0.13,2.2-0.21,4.4-1.01,6.44h2.11C21.79,17.51,21.48,12.42,18.93,8z M15,17.2c-2.87,1.65-6.54,0.67-8.2-2.2 c-0.11-0.2-0.21-0.4-0.3-0.6C5.3,11.64,6.33,8.34,9,6.8c2.86-1.65,6.54-0.67,8.2,2.2c0.11,0.2,0.21,0.4,0.3,0.6 C18.7,12.36,17.67,15.66,15,17.2z M12,10c1.1,0,2,0.9,2,2s-0.9,2-2,2s-2-0.9-2-2S10.9,10,12,10 M12,8c-2.21,0-4,1.79-4,4 s1.79,4,4,4s4-1.79,4-4S14.21,8,12,8z" ]
+                    []
+                ]
+            ]
+        ]
+
+
+{-| -}
 straighten : Icon msg
 straighten =
     icon
@@ -17994,6 +26808,50 @@ straighten =
         , path
             [ d "M23 6H1v12h22V6zm-2 10H3V8h2v4h2V8h2v4h2V8h2v4h2V8h2v4h2V8h2v8z" ]
             []
+        ]
+
+
+{-| -}
+stream : Icon msg
+stream =
+    icon
+        [ enableBackground "new 0 0 24 24", viewBox "0 0 24 24" ]
+        [ g
+            []
+            [ rect
+                [ fill "none" ]
+                []
+            ]
+        , g
+            []
+            [ g
+                []
+                [ circle
+                    [ cx "20", cy "12", r "2" ]
+                    []
+                , circle
+                    [ cx "4", cy "12", r "2" ]
+                    []
+                , circle
+                    [ cx "12", cy "20", r "2" ]
+                    []
+                , rect
+                    [ t "matrix(0.7081 -0.7061 0.7061 0.7081 -0.1146 13.9802)" ]
+                    []
+                , polygon
+                    [ points "8.32,9.68 8.63,10 10.05,8.59 6.03,4.55 6.02,4.55 5.71,4.23 4.29,5.64 8.31,9.69" ]
+                    []
+                , polygon
+                    [ points "15.41,13.94 14,15.35 17.99,19.36 18.34,19.71 19.76,18.3 15.77,14.29" ]
+                    []
+                , polygon
+                    [ points "8.59,13.95 4.56,17.96 4.24,18.29 5.65,19.7 9.68,15.68 10.01,15.36" ]
+                    []
+                , circle
+                    [ cx "12", cy "4", r "2" ]
+                    []
+                ]
+            ]
         ]
 
 
@@ -18193,6 +27051,29 @@ subway =
 
 
 {-| -}
+summarize : Icon msg
+summarize =
+    icon
+        [ enableBackground "new 0 0 24 24", viewBox "0 0 24 24" ]
+        [ g
+            []
+            [ path
+                [ d "M0,0h24v24H0V0z", fill "none" ]
+                []
+            ]
+        , g
+            []
+            [ g
+                []
+                [ path
+                    [ d "M15,3H3v18h18V9L15,3z M8,17c-0.55,0-1-0.45-1-1s0.45-1,1-1s1,0.45,1,1S8.55,17,8,17z M8,13c-0.55,0-1-0.45-1-1 s0.45-1,1-1s1,0.45,1,1S8.55,13,8,13z M8,9C7.45,9,7,8.55,7,8s0.45-1,1-1s1,0.45,1,1S8.55,9,8,9z M14,10V4.5l5.5,5.5H14z" ]
+                    []
+                ]
+            ]
+        ]
+
+
+{-| -}
 superscript : Icon msg
 superscript =
     icon
@@ -18290,6 +27171,20 @@ support_agent =
 
 
 {-| -}
+surfing : Icon msg
+surfing =
+    icon
+        [ enableBackground "new 0 0 24 24", viewBox "0 0 24 24" ]
+        [ rect
+            [ fill "none" ]
+            []
+        , path
+            [ d "M21,23c-1.03,0-2.06-0.25-3-0.75h0c-1.89,1-4.11,1-6,0c-1.89,1-4.11,1-6,0C5.05,22.75,4.03,23,3,23H2l0-2h1 c1.04,0,2.08-0.35,3-1c1.83,1.3,4.17,1.3,6,0c1.83,1.3,4.17,1.3,6,0c0.91,0.65,1.96,1,3,1h1v2H21z M17,1.5c-1.1,0-2,0.9-2,2 s0.9,2,2,2s2-0.9,2-2S18.1,1.5,17,1.5z M14.43,8.48L12.18,10L16,13v3.84c0.53,0.38,1.03,0.78,1.49,1.17C16.81,18.59,15.94,19,15,19 c-1.2,0-2.27-0.66-3-1.5c-0.73,0.84-1.8,1.5-3,1.5c-0.33,0-0.65-0.05-0.96-0.14C5.19,16.9,3,14.72,3,13.28C3,12.25,4.01,12,4.85,12 c0.98,0,2.28,0.31,3.7,0.83L7.83,8.59l3.12-2.1l-2-0.37L6.13,8.05L5,6.4L8.5,4l5.55,1.03c0.45,0.09,0.93,0.37,1.22,0.89l0.88,1.55 C17.01,8.98,18.64,10,20.5,10v2C17.91,12,15.64,10.58,14.43,8.48z M10.3,11.1l0.44,2.65c0.92,0.42,2.48,1.27,3.26,1.75V14L10.3,11.1 z" ]
+            []
+        ]
+
+
+{-| -}
 surround_sound : Icon msg
 surround_sound =
     icon
@@ -18382,6 +27277,52 @@ swap_vertical_circle =
         , path
             [ d "M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zM6.5 9L10 5.5 13.5 9H11v4H9V9H6.5zm7.5 9.5L10.5 15H13v-4h2v4h2.5L14 18.5z" ]
             []
+        ]
+
+
+{-| -}
+swipe : Icon msg
+swipe =
+    icon
+        [ enableBackground "new 0 0 24 24", viewBox "0 0 24 24" ]
+        [ g
+            []
+            [ rect
+                [ fill "none" ]
+                []
+            ]
+        , g
+            []
+            [ g
+                []
+                [ path
+                    [ d "M20.13,3.87C18.69,2.17,15.6,1,12,1S5.31,2.17,3.87,3.87L2,2v5h5L4.93,4.93c1-1.29,3.7-2.43,7.07-2.43 s6.07,1.14,7.07,2.43L17,7h5V2L20.13,3.87z" ]
+                    []
+                , path
+                    [ d "M13,12.5v-6C13,5.67,12.33,5,11.5,5S10,5.67,10,6.5v10.74l-4.04-0.85l-1.21,1.23L10.13,23h8.97l1.09-7.64l-6.11-2.86H13z" ]
+                    []
+                ]
+            ]
+        ]
+
+
+{-| -}
+switch_account : Icon msg
+switch_account =
+    icon
+        [ enableBackground "new 0 0 24 24", viewBox "0 0 24 24" ]
+        [ g
+            []
+            [ rect
+                [ fill "none" ]
+                []
+            ]
+        , g
+            []
+            [ path
+                [ d "M4,6H2v16h16v-2H4V6z M6,2v16h16V2H6z M14,5c1.66,0,3,1.34,3,3c0,1.66-1.34,3-3,3s-3-1.34-3-3C11,6.34,12.34,5,14,5z M7.76,16c1.47-1.83,3.71-3,6.24-3s4.77,1.17,6.24,3H7.76z" ]
+                []
+            ]
         ]
 
 
@@ -18509,6 +27450,75 @@ sync_problem =
         , path
             [ d "M3 12c0 2.21.91 4.2 2.36 5.64L3 20h6v-6l-2.24 2.24C5.68 15.15 5 13.66 5 12c0-2.61 1.67-4.83 4-5.65V4.26C5.55 5.15 3 8.27 3 12zm8 5h2v-2h-2v2zM21 4h-6v6l2.24-2.24C18.32 8.85 19 10.34 19 12c0 2.61-1.67 4.83-4 5.65v2.09c3.45-.89 6-4.01 6-7.74 0-2.21-.91-4.2-2.36-5.64L21 4zm-10 9h2V7h-2v6z" ]
             []
+        ]
+
+
+{-| -}
+system_security_update : Icon msg
+system_security_update =
+    icon
+        [ enableBackground "new 0 0 24 24", viewBox "0 0 24 24" ]
+        [ g
+            []
+            [ path
+                [ d "M0,0h24v24H0V0z", fill "none" ]
+                []
+            ]
+        , g
+            []
+            [ path
+                [ d "M5,1v22h14V1H5z M17,18H7V6h10V18z M16,12h-3V8h-2v4H8l4,4L16,12z" ]
+                []
+            ]
+        ]
+
+
+{-| -}
+system_security_update_good : Icon msg
+system_security_update_good =
+    icon
+        [ enableBackground "new 0 0 24 24", viewBox "0 0 24 24" ]
+        [ g
+            []
+            [ path
+                [ d "M0,0h24v24H0V0z", fill "none" ]
+                []
+            ]
+        , g
+            []
+            [ path
+                [ d "M5,1v22h14V1H5z M17,18H7V6h10V18z M16,10.05l-1.41-1.41l-3.54,3.54l-1.41-1.41l-1.41,1.41L11.05,15L16,10.05z" ]
+                []
+            ]
+        ]
+
+
+{-| -}
+system_security_update_warning : Icon msg
+system_security_update_warning =
+    icon
+        [ enableBackground "new 0 0 24 24", viewBox "0 0 24 24" ]
+        [ g
+            []
+            [ path
+                [ d "M0,0h24v24H0V0z", fill "none" ]
+                []
+            ]
+        , g
+            []
+            [ g
+                []
+                [ rect
+                    []
+                    []
+                , rect
+                    []
+                    []
+                , path
+                    [ d "M5.01,1v22H19V1H5.01z M17,18H7V6h10V18z" ]
+                    []
+                ]
+            ]
         ]
 
 
@@ -18653,6 +27663,26 @@ tablet_mac =
 
 
 {-| -}
+tag : Icon msg
+tag =
+    icon
+        [ enableBackground "new 0 0 24 24", viewBox "0 0 24 24" ]
+        [ g
+            []
+            [ rect
+                [ fill "none" ]
+                []
+            ]
+        , g
+            []
+            [ path
+                [ d "M20,10V8h-4V4h-2v4h-4V4H8v4H4v2h4v4H4v2h4v4h2v-4h4v4h2v-4h4v-2h-4v-4H20z M14,14h-4v-4h4V14z" ]
+                []
+            ]
+        ]
+
+
+{-| -}
 tag_faces : Icon msg
 tag_faces =
     icon
@@ -18663,6 +27693,32 @@ tag_faces =
         , path
             [ d "M12.01 2C6.49 2 2.02 6.48 2.02 12s4.47 10 9.99 10c5.53 0 10.01-4.48 10.01-10S17.54 2 12.01 2zm.01 18c-4.42 0-8-3.58-8-8s3.58-8 8-8 8 3.58 8 8-3.58 8-8 8zm3.5-9c.83 0 1.5-.67 1.5-1.5S16.35 8 15.52 8s-1.5.67-1.5 1.5.67 1.5 1.5 1.5zm-7 0c.83 0 1.5-.67 1.5-1.5S9.35 8 8.52 8s-1.5.67-1.5 1.5.67 1.5 1.5 1.5zm3.5 6.5c2.33 0 4.31-1.46 5.11-3.5H6.91c.8 2.04 2.78 3.5 5.11 3.5z" ]
             []
+        ]
+
+
+{-| -}
+takeout_dining : Icon msg
+takeout_dining =
+    icon
+        [ enableBackground "new 0 0 24 24", viewBox "0 0 24 24" ]
+        [ g
+            []
+            [ rect
+                [ fill "none" ]
+                []
+            ]
+        , g
+            []
+            [ g
+                []
+                [ polygon
+                    [ points "22,7.46 20.59,6.05 19,7.63 19.03,7.07 14.98,3 9.02,3 4.97,7.07 5,7.57 3.41,6.01 2,7.44 4.66,10 19.35,10" ]
+                    []
+                , polygon
+                    [ points "5.93,20 18.07,20 18.7,11.55 5.3,11.55" ]
+                    []
+                ]
+            ]
         ]
 
 
@@ -18691,6 +27747,72 @@ tapas =
         , path
             [ d "M22,10V1h-8v9c0,1.86,1.28,3.41,3,3.86V21h-2v2h6v-2h-2v-7.14C20.72,13.41,22,11.86,22,10z M20,3v3h-4V3H20z M10,9H8V8h2 c1.38,0,2.5-1.12,2.5-2.5C12.5,4.12,11.38,3,10,3H8V1H6v2H4C2.62,3,1.5,4.12,1.5,5.5C1.5,6.88,2.62,8,4,8h2v1H4 c-1.38,0-2.5,1.12-2.5,2.5C1.5,12.88,2.62,14,4,14h2v9h2v-9h2c1.38,0,2.5-1.12,2.5-2.5C12.5,10.12,11.38,9,10,9z" ]
             []
+        ]
+
+
+{-| -}
+task : Icon msg
+task =
+    icon
+        [ enableBackground "new 0 0 24 24", viewBox "0 0 24 24" ]
+        [ g
+            []
+            [ path
+                [ d "M0,0h24v24H0V0z", fill "none" ]
+                []
+            ]
+        , g
+            []
+            [ path
+                [ d "M14,2H4v20h16V8L14,2z M10.94,18L7.4,14.46l1.41-1.41l2.12,2.12l4.24-4.24l1.41,1.41L10.94,18z M13,9V3.5L18.5,9H13z" ]
+                []
+            ]
+        ]
+
+
+{-| -}
+task_alt : Icon msg
+task_alt =
+    icon
+        [ enableBackground "new 0 0 24 24", viewBox "0 0 24 24" ]
+        [ rect
+            [ fill "none" ]
+            []
+        , path
+            [ d "M22,5.18L10.59,16.6l-4.24-4.24l1.41-1.41l2.83,2.83l10-10L22,5.18z M19.79,10.22C19.92,10.79,20,11.39,20,12 c0,4.42-3.58,8-8,8s-8-3.58-8-8c0-4.42,3.58-8,8-8c1.58,0,3.04,0.46,4.28,1.25l1.44-1.44C16.1,2.67,14.13,2,12,2C6.48,2,2,6.48,2,12 c0,5.52,4.48,10,10,10s10-4.48,10-10c0-1.19-0.22-2.33-0.6-3.39L19.79,10.22z" ]
+            []
+        ]
+
+
+{-| -}
+taxi_alert : Icon msg
+taxi_alert =
+    icon
+        [ enableBackground "new 0 0 24 24", viewBox "0 0 24 24" ]
+        [ g
+            []
+            [ rect
+                [ fill "none" ]
+                []
+            ]
+        , g
+            []
+            [ g
+                []
+                [ g
+                    []
+                    [ path
+                        [ d "M18,13c-1.91,0-3.63-0.76-4.89-2H4.81l1.04-3h5.44C11.1,7.37,11,6.7,11,6s0.1-1.37,0.29-2H8v2H4.43L2,13v9h3v-2h12v2h3 v-9l-0.09-0.27C19.3,12.9,18.66,13,18,13z M6.5,17C5.67,17,5,16.33,5,15.5S5.67,14,6.5,14S8,14.67,8,15.5S7.33,17,6.5,17z M15.5,17c-0.83,0-1.5-0.67-1.5-1.5s0.67-1.5,1.5-1.5s1.5,0.67,1.5,1.5S16.33,17,15.5,17z" ]
+                        []
+                    ]
+                , g
+                    []
+                    [ path
+                        [ d "M18,1c-2.76,0-5,2.24-5,5s2.24,5,5,5s5-2.24,5-5S20.76,1,18,1z M18.5,9h-1V8h1V9z M18.5,7h-1V3h1V7z" ]
+                        []
+                    ]
+                ]
+            ]
         ]
 
 
@@ -18863,6 +27985,32 @@ texture =
 
 
 {-| -}
+theater_comedy : Icon msg
+theater_comedy =
+    icon
+        [ enableBackground "new 0 0 24 24", viewBox "0 0 24 24" ]
+        [ g
+            []
+            [ rect
+                [ fill "none" ]
+                []
+            ]
+        , g
+            []
+            [ g
+                []
+                [ path
+                    [ d "M11,2v5.5h3.5v3.31C14.55,9.8,15.64,9,16.99,9c1.38,0,2.5,0.84,2.5,1.88H14.5v3.56C15.26,14.8,16.11,15,17,15 c3.31,0,6-2.69,6-6V2H11z M15,7.5c-0.55,0-1-0.45-1-1s0.45-1,1-1s1,0.45,1,1S15.55,7.5,15,7.5z M19,7.5c-0.55,0-1-0.45-1-1 s0.45-1,1-1s1,0.45,1,1S19.55,7.5,19,7.5z" ]
+                    []
+                , path
+                    [ d "M1,16c0,3.31,2.69,6,6,6s6-2.69,6-6V9H1V16z M7,17.88c-1.38,0-2.5-0.84-2.5-1.88h5C9.5,17.04,8.38,17.88,7,17.88z M9,12.5 c0.55,0,1,0.45,1,1s-0.45,1-1,1s-1-0.45-1-1S8.45,12.5,9,12.5z M5,12.5c0.55,0,1,0.45,1,1s-0.45,1-1,1s-1-0.45-1-1 S4.45,12.5,5,12.5z" ]
+                    []
+                ]
+            ]
+        ]
+
+
+{-| -}
 theaters : Icon msg
 theaters =
     icon
@@ -18873,6 +28021,40 @@ theaters =
         , path
             [ d "M18 3v2h-2V3H8v2H6V3H4v18h2v-2h2v2h8v-2h2v2h2V3h-2zM8 17H6v-2h2v2zm0-4H6v-2h2v2zm0-4H6V7h2v2zm10 8h-2v-2h2v2zm0-4h-2v-2h2v2zm0-4h-2V7h2v2z" ]
             []
+        ]
+
+
+{-| -}
+thermostat : Icon msg
+thermostat =
+    icon
+        [ viewBox "0 0 24 24" ]
+        [ path
+            [ d "M0 0h24v24H0V0z", fill "none" ]
+            []
+        , path
+            [ d "M15 13V5c0-1.66-1.34-3-3-3S9 3.34 9 5v8c-1.21.91-2 2.37-2 4 0 2.76 2.24 5 5 5s5-2.24 5-5c0-1.63-.79-3.09-2-4zm-4-8c0-.55.45-1 1-1s1 .45 1 1h-1v1h1v2h-1v1h1v2h-2V5z" ]
+            []
+        ]
+
+
+{-| -}
+thermostat_auto : Icon msg
+thermostat_auto =
+    icon
+        [ enableBackground "new 0 0 24 24", viewBox "0 0 24 24" ]
+        [ g
+            []
+            [ rect
+                [ fill "none" ]
+                []
+            ]
+        , g
+            []
+            [ path
+                [ d "M11,12V6c0-1.66-1.34-3-3-3S5,4.34,5,6v6c-1.21,0.91-2,2.37-2,4c0,1.12,0.38,2.14,1,2.97V19h0.02c0.91,1.21,2.35,2,3.98,2 s3.06-0.79,3.98-2H12v-0.03c0.62-0.83,1-1.85,1-2.97C13,14.37,12.21,12.91,11,12z M5,16c0-0.94,0.45-1.84,1.2-2.4L7,13V6 c0-0.55,0.45-1,1-1s1,0.45,1,1v7l0.8,0.6c0.75,0.57,1.2,1.46,1.2,2.4H5z M18.62,4h-1.61l-3.38,9h1.56L16,10.7h3.63l0.8,2.3H22 L18.62,4z M16.47,9.39l1.31-3.72h0.08l1.31,3.72H16.47z" ]
+                []
+            ]
         ]
 
 
@@ -18905,6 +28087,32 @@ thumb_down_alt =
 
 
 {-| -}
+thumb_down_off_alt : Icon msg
+thumb_down_off_alt =
+    icon
+        [ enableBackground "new 0 0 24 24", viewBox "0 0 24 24" ]
+        [ g
+            []
+            [ rect
+                [ fill "none" ]
+                []
+            ]
+        , g
+            []
+            [ g
+                []
+                [ rect
+                    []
+                    []
+                , path
+                    [ d "M1,11.6V16h8.31l-1.12,5.38L9.83,23L17,15.82V3H4.69L1,11.6z M15,5v9.99l-4.34,4.35l0.61-2.93l0.5-2.41H9.31H3v-1.99 L6.01,5H15z" ]
+                    []
+                ]
+            ]
+        ]
+
+
+{-| -}
 thumb_up : Icon msg
 thumb_up =
     icon
@@ -18929,6 +28137,29 @@ thumb_up_alt =
         , path
             [ d "M14.17 1L7 8.18V21h12.31L23 12.4V8h-8.31l1.12-5.38zM1 9h4v12H1z" ]
             []
+        ]
+
+
+{-| -}
+thumb_up_off_alt : Icon msg
+thumb_up_off_alt =
+    icon
+        [ enableBackground "new 0 0 24 24", viewBox "0 0 24 24" ]
+        [ g
+            []
+            [ rect
+                [ fill "none" ]
+                []
+            ]
+        , g
+            []
+            [ g
+                []
+                [ path
+                    [ d "M14.17,1L7,8.18V21h12.31L23,12.4V8h-8.31l1.12-5.38L14.17,1z M1,9h4v12H1V9z" ]
+                    []
+                ]
+            ]
         ]
 
 
@@ -19026,6 +28257,20 @@ timer_10 =
 
 
 {-| -}
+timer_10_select : Icon msg
+timer_10_select =
+    icon
+        [ enableBackground "new 0 0 24 24", viewBox "0 0 24 24" ]
+        [ rect
+            [ fill "none" ]
+            []
+        , path
+            [ d "M13,8v8h-3V8H13 M16,5H7v14h9V5z M1,8h2v11h3V5H1V8z M23,11h-6v5h4v1h-4v2h6v-5h-4v-1h4V11z" ]
+            []
+        ]
+
+
+{-| -}
 timer_3 : Icon msg
 timer_3 =
     icon
@@ -19035,6 +28280,20 @@ timer_3 =
             []
         , path
             [ d "M11.61 12.97c-.16-.24-.36-.46-.62-.65-.25-.19-.56-.35-.93-.48.3-.14.57-.3.8-.5.23-.2.42-.41.57-.64.15-.23.27-.46.34-.71.08-.24.11-.49.11-.73 0-.55-.09-1.04-.28-1.46-.18-.42-.44-.77-.78-1.06-.33-.28-.73-.5-1.2-.64-.45-.13-.97-.2-1.53-.2-.55 0-1.06.08-1.52.24-.47.17-.87.4-1.2.69-.33.29-.6.63-.78 1.03-.2.39-.29.83-.29 1.29h1.98c0-.26.05-.49.14-.69.09-.2.22-.38.38-.52.17-.14.36-.25.58-.33s.46-.12.73-.12c.61 0 1.06.16 1.36.47.3.31.44.75.44 1.32 0 .27-.04.52-.12.74-.08.22-.21.41-.38.57s-.38.28-.63.37-.55.13-.89.13H6.72v1.57H7.9c.34 0 .64.04.91.11.27.08.5.19.69.35.19.16.34.36.44.61.1.24.16.54.16.87 0 .62-.18 1.09-.53 1.42-.35.33-.84.49-1.45.49-.29 0-.56-.04-.8-.13-.24-.08-.44-.2-.61-.36s-.3-.34-.39-.56c-.09-.22-.14-.46-.14-.72H4.19c0 .55.11 1.03.32 1.45.21.42.5.77.86 1.05s.77.49 1.24.63.96.21 1.48.21c.57 0 1.09-.08 1.58-.23s.91-.38 1.26-.68c.36-.3.64-.66.84-1.1.2-.43.3-.93.3-1.48 0-.29-.04-.58-.11-.86-.08-.25-.19-.51-.35-.76zm9.26 1.4c-.14-.28-.35-.53-.63-.74-.28-.21-.61-.39-1.01-.53s-.85-.27-1.35-.38c-.35-.07-.64-.15-.87-.23-.23-.08-.41-.16-.55-.25s-.23-.19-.28-.3c-.05-.11-.08-.24-.08-.39s.03-.28.09-.41.15-.25.27-.34c.12-.1.27-.18.45-.24s.4-.09.64-.09c.25 0 .47.04.66.11s.35.17.48.29.22.26.29.42c.06.16.1.32.1.49h1.95c0-.39-.08-.75-.24-1.09s-.39-.63-.69-.88c-.3-.25-.66-.44-1.09-.59-.43-.15-.92-.22-1.46-.22-.51 0-.98.07-1.39.21s-.77.33-1.06.57c-.29.24-.51.52-.67.84s-.23.65-.23 1.01.08.68.23.96.37.52.64.73c.27.21.6.38.98.53.38.14.81.26 1.27.36.39.08.71.17.95.26s.43.19.57.29c.13.1.22.22.27.34.05.12.07.25.07.39 0 .32-.13.57-.4.77s-.66.29-1.17.29c-.22 0-.43-.02-.64-.08-.21-.05-.4-.13-.56-.24-.17-.11-.3-.26-.41-.44-.11-.18-.17-.41-.18-.67h-1.89c0 .36.08.71.24 1.05s.39.65.7.93c.31.27.69.49 1.15.66.46.17.98.25 1.58.25.53 0 1.01-.06 1.44-.19.43-.13.8-.31 1.11-.54.31-.23.54-.51.71-.83.17-.32.25-.67.25-1.06-.02-.4-.09-.74-.24-1.02z" ]
+            []
+        ]
+
+
+{-| -}
+timer_3_select : Icon msg
+timer_3_select =
+    icon
+        [ enableBackground "new 0 0 24 24", viewBox "0 0 24 24" ]
+        [ rect
+            [ fill "none" ]
+            []
+        , path
+            [ d "M21,11v2h-4v1h4v5h-6v-2h4v-1h-4v-5H21z M4,5v3h6v2.5H4v3h6V16H4v3h9V5H4z" ]
             []
         ]
 
@@ -19209,13 +28468,19 @@ tour =
 toys : Icon msg
 toys =
     icon
-        [ viewBox "0 0 24 24" ]
-        [ path
-            [ d "M0 0h24v24H0V0zm0 0h24v24H0V0z", fill "none" ]
+        [ enableBackground "new 0 0 24 24", viewBox "0 0 24 24" ]
+        [ g
             []
-        , path
-            [ d "M12 12c0-3 2.5-5.5 5.5-5.5S23 9 23 12H12zm0 0c0 3-2.5 5.5-5.5 5.5S1 15 1 12h11zm0 0c-3 0-5.5-2.5-5.5-5.5S9 1 12 1v11zm0 0c3 0 5.5 2.5 5.5 5.5S15 23 12 23V12z" ]
+            [ rect
+                [ fill "none" ]
+                []
+            ]
+        , g
             []
+            [ path
+                [ d "M18.72,10l-2-6H7.28L5.81,8.4L4.41,7l1-1L4,4.59L0.59,8L2,9.41l1-1L4.59,10H2v8h2.18C4.59,19.16,5.7,20,7,20 c1.3,0,2.4-0.84,2.82-2h4.37c0.41,1.16,1.51,2,2.82,2c1.3,0,2.41-0.84,2.82-2H22v-8H18.72z M7,18c-0.55,0-1-0.45-1-1s0.45-1,1-1 s1,0.45,1,1S7.55,18,7,18z M11,10H7.41L7.39,9.98L8.72,6c0,0,0,0,0,0H11V10z M13,10V6h2.28l1.33,4H13z M17,18c-0.55,0-1-0.45-1-1 s0.45-1,1-1s1,0.45,1,1S17.55,18,17,18z" ]
+                []
+            ]
         ]
 
 
@@ -19304,6 +28569,20 @@ transform =
 
 
 {-| -}
+transgender : Icon msg
+transgender =
+    icon
+        [ enableBackground "new 0 0 24 24", viewBox "0 0 24 24" ]
+        [ rect
+            [ fill "none" ]
+            []
+        , path
+            [ d "M12,8c1.93,0,3.5,1.57,3.5,3.5S13.93,15,12,15s-3.5-1.57-3.5-3.5S10.07,8,12,8z M16.53,8.38l3.97-3.96V7h2V1h-6v2h2.58 l-3.97,3.97C14.23,6.36,13.16,6,12,6c-1.16,0-2.23,0.36-3.11,0.97L8.24,6.32l1.41-1.41L8.24,3.49L6.82,4.9L4.92,3H7.5V1h-6v6h2V4.42 l1.91,1.9L3.99,7.74l1.41,1.41l1.41-1.41l0.65,0.65C6.86,9.27,6.5,10.34,6.5,11.5c0,2.7,1.94,4.94,4.5,5.41L11,19H9v2h2v2h2v-2h2v-2 h-2l0-2.09c2.56-0.47,4.5-2.71,4.5-5.41C17.5,10.34,17.14,9.27,16.53,8.38z" ]
+            []
+        ]
+
+
+{-| -}
 transit_enterexit : Icon msg
 transit_enterexit =
     icon
@@ -19327,6 +28606,20 @@ translate =
             []
         , path
             [ d "M12.87 15.07l-2.54-2.51.03-.03c1.74-1.94 2.98-4.17 3.71-6.53H17V4h-7V2H8v2H1v1.99h11.17C11.5 7.92 10.44 9.75 9 11.35 8.07 10.32 7.3 9.19 6.69 8h-2c.73 1.63 1.73 3.17 2.98 4.56l-5.09 5.02L4 19l5-5 3.11 3.11.76-2.04zM18.5 10h-2L12 22h2l1.12-3h4.75L21 22h2l-4.5-12zm-2.62 7l1.62-4.33L19.12 17h-3.24z" ]
+            []
+        ]
+
+
+{-| -}
+travel_explore : Icon msg
+travel_explore =
+    icon
+        [ enableBackground "new 0 0 24 24", viewBox "0 0 24 24" ]
+        [ rect
+            [ fill "none" ]
+            []
+        , path
+            [ d "M19.3,16.9c0.4-0.7,0.7-1.5,0.7-2.4c0-2.5-2-4.5-4.5-4.5S11,12,11,14.5s2,4.5,4.5,4.5c0.9,0,1.7-0.3,2.4-0.7l3.2,3.2 l1.4-1.4L19.3,16.9z M15.5,17c-1.4,0-2.5-1.1-2.5-2.5s1.1-2.5,2.5-2.5s2.5,1.1,2.5,2.5S16.9,17,15.5,17z M12,20v2 C6.48,22,2,17.52,2,12C2,6.48,6.48,2,12,2c4.84,0,8.87,3.44,9.8,8h-2.07c-0.64-2.46-2.4-4.47-4.73-5.41V5c0,1.1-0.9,2-2,2h-2v2 c0,0.55-0.45,1-1,1H8v2h2v3H9l-4.79-4.79C4.08,10.79,4,11.38,4,12C4,16.41,7.59,20,12,20z" ]
             []
         ]
 
@@ -19388,6 +28681,26 @@ trip_origin =
 
 
 {-| -}
+try : Icon msg
+try =
+    icon
+        [ enableBackground "new 0 0 24 24", viewBox "0 0 24 24" ]
+        [ g
+            []
+            [ rect
+                [ fill "none" ]
+                []
+            ]
+        , g
+            []
+            [ path
+                [ d "M22,2H2v20l4-4h16V2z M13.57,11.57L12,15l-1.57-3.43L7,10l3.43-1.57L12,5l1.57,3.43L17,10L13.57,11.57z" ]
+                []
+            ]
+        ]
+
+
+{-| -}
 tty : Icon msg
 tty =
     icon
@@ -19415,6 +28728,44 @@ tune =
         , path
             [ d "M3 17v2h6v-2H3zM3 5v2h10V5H3zm10 16v-2h8v-2h-8v-2h-2v6h2zM7 9v2H3v2h4v2h2V9H7zm14 4v-2H11v2h10zm-6-4h2V7h4V5h-4V3h-2v6z" ]
             []
+        ]
+
+
+{-| -}
+tungsten : Icon msg
+tungsten =
+    icon
+        [ enableBackground "new 0 0 24 24", viewBox "0 0 24 24" ]
+        [ g
+            []
+            [ path
+                [ d "M0,0h24v24H0V0z", fill "none" ]
+                []
+            ]
+        , g
+            []
+            [ g
+                []
+                [ rect
+                    []
+                    []
+                , rect
+                    []
+                    []
+                , rect
+                    []
+                    []
+                , rect
+                    [ t "matrix(0.7071 -0.7071 0.7071 0.7071 -7.6665 17.8014)" ]
+                    []
+                , rect
+                    [ t "matrix(0.7071 -0.7071 0.7071 0.7071 -10.9791 9.8041)" ]
+                    []
+                , path
+                    [ d "M15,8.02V3H9v5.02C7.79,8.94,7,10.37,7,12c0,2.76,2.24,5,5,5s5-2.24,5-5C17,10.37,16.21,8.94,15,8.02z M11,5h2v2.1 C12.68,7.04,12.34,7,12,7s-0.68,0.04-1,0.1V5z" ]
+                    []
+                ]
+            ]
         ]
 
 
@@ -19593,6 +28944,38 @@ unsubscribe =
 
 
 {-| -}
+upcoming : Icon msg
+upcoming =
+    icon
+        [ enableBackground "new 0 0 24 24", viewBox "0 0 24 24" ]
+        [ g
+            []
+            [ rect
+                [ fill "none" ]
+                []
+            ]
+        , g
+            []
+            [ g
+                []
+                [ path
+                    [ d "M21.16,7.26l-1.41-1.41L16.19,9.4l1.41,1.41C17.6,10.81,21.05,7.29,21.16,7.26z" ]
+                    []
+                , rect
+                    []
+                    []
+                , path
+                    [ d "M6.4,10.81L7.81,9.4L4.26,5.84L2.84,7.26C2.95,7.29,6.4,10.81,6.4,10.81z" ]
+                    []
+                , path
+                    [ d "M22,12h-7c0,1.66-1.34,3-3,3s-3-1.34-3-3H2v9h20V12z" ]
+                    []
+                ]
+            ]
+        ]
+
+
+{-| -}
 update : Icon msg
 update =
     icon
@@ -19650,6 +29033,40 @@ upgrade =
 
 
 {-| -}
+upload : Icon msg
+upload =
+    icon
+        [ viewBox "0 0 24 24" ]
+        [ path
+            [ d "M0 0h24v24H0V0z", fill "none" ]
+            []
+        , path
+            [ d "M9 16h6v-6h4l-7-7-7 7h4v6zm-4 2h14v2H5v-2z" ]
+            []
+        ]
+
+
+{-| -}
+upload_file : Icon msg
+upload_file =
+    icon
+        [ enableBackground "new 0 0 24 24", viewBox "0 0 24 24" ]
+        [ g
+            []
+            [ rect
+                [ fill "none" ]
+                []
+            ]
+        , g
+            []
+            [ path
+                [ d "M14,2H4v20h16V8L14,2z M13,15v4h-2v-4H8l4.01-4L16,15H13z M13,9V3.5L18.5,9H13z" ]
+                []
+            ]
+        ]
+
+
+{-| -}
 usb : Icon msg
 usb =
     icon
@@ -19659,6 +29076,20 @@ usb =
             []
         , path
             [ d "M15 7v4h1v2h-3V5h2l-3-4-3 4h2v8H8v-2.07c.7-.37 1.2-1.08 1.2-1.93 0-1.21-.99-2.2-2.2-2.2S4.8 7.79 4.8 9c0 .85.5 1.56 1.2 1.93V13c0 1.11.89 2 2 2h3v3.05c-.71.37-1.2 1.1-1.2 1.95 0 1.22.99 2.2 2.2 2.2s2.2-.98 2.2-2.2c0-.85-.49-1.58-1.2-1.95V15h3c1.11 0 2-.89 2-2v-2h1V7h-4z" ]
+            []
+        ]
+
+
+{-| -}
+usb_off : Icon msg
+usb_off =
+    icon
+        [ enableBackground "new 0 0 24 24", viewBox "0 0 24 24" ]
+        [ rect
+            [ fill "none" ]
+            []
+        , path
+            [ d "M15,8h4v4h-1v2c0,0.34-0.08,0.66-0.23,0.94L16,13.17V12h-1V8z M11,8.17l2,2V6h2l-3-4L9,6h2V8.17z M13,16v2.28 c0.6,0.34,1,0.98,1,1.72c0,1.1-0.9,2-2,2s-2-0.9-2-2c0-0.74,0.4-1.37,1-1.72V16H8c-1.11,0-2-0.89-2-2v-2.28C5.4,11.38,5,10.74,5,10 c0-0.59,0.26-1.13,0.68-1.49L1.39,4.22l1.41-1.41l18.38,18.38l-1.41,1.41L13.17,16H13z M11,14v-0.17l-2.51-2.51 c-0.14,0.16-0.31,0.29-0.49,0.4V14H11z" ]
             []
         ]
 
@@ -19787,6 +29218,46 @@ video_call =
 
 
 {-| -}
+video_camera_back : Icon msg
+video_camera_back =
+    icon
+        [ enableBackground "new 0 0 24 24", viewBox "0 0 24 24" ]
+        [ g
+            []
+            [ rect
+                [ fill "none" ]
+                []
+            ]
+        , g
+            []
+            [ path
+                [ d "M18,10.48V4H2v16h16v-6.48l4,3.98v-11L18,10.48z M5,16l2.38-3.17L9,15l2.62-3.5L15,16H5z" ]
+                []
+            ]
+        ]
+
+
+{-| -}
+video_camera_front : Icon msg
+video_camera_front =
+    icon
+        [ enableBackground "new 0 0 24 24", viewBox "0 0 24 24" ]
+        [ g
+            []
+            [ rect
+                [ fill "none" ]
+                []
+            ]
+        , g
+            []
+            [ path
+                [ d "M18,10.48V4H2v16h16v-6.48l4,3.98v-11L18,10.48z M10,8c1.1,0,2,0.9,2,2s-0.9,2-2,2s-2-0.9-2-2S8.9,8,10,8z M14,16H6v-0.57 c0-0.81,0.48-1.53,1.22-1.85C8.07,13.21,9.01,13,10,13c0.99,0,1.93,0.21,2.78,0.58C13.52,13.9,14,14.62,14,15.43V16z" ]
+                []
+            ]
+        ]
+
+
+{-| -}
 video_label : Icon msg
 video_label =
     icon
@@ -19844,6 +29315,29 @@ video_settings =
 
 
 {-| -}
+video_stable : Icon msg
+video_stable =
+    icon
+        [ enableBackground "new 0 0 24 24", viewBox "0 0 24 24" ]
+        [ g
+            []
+            [ rect
+                [ fill "none" ]
+                []
+            ]
+        , g
+            []
+            [ g
+                []
+                [ path
+                    [ d "M2,4v16h20V4H2z M4,18V6h2.95l-2.33,8.73L16.82,18H4z M20,18h-2.95l2.34-8.73L7.18,6H20V18z" ]
+                    []
+                ]
+            ]
+        ]
+
+
+{-| -}
 videocam : Icon msg
 videocam =
     icon
@@ -19881,6 +29375,20 @@ videogame_asset =
             []
         , path
             [ d "M23 6H1v12h22V6zm-12 7H8v3H6v-3H3v-2h3V8h2v3h3v2zm4.5 2c-.83 0-1.5-.67-1.5-1.5s.67-1.5 1.5-1.5 1.5.67 1.5 1.5-.67 1.5-1.5 1.5zm4-3c-.83 0-1.5-.67-1.5-1.5S18.67 9 19.5 9s1.5.67 1.5 1.5-.67 1.5-1.5 1.5z" ]
+            []
+        ]
+
+
+{-| -}
+videogame_asset_off : Icon msg
+videogame_asset_off =
+    icon
+        [ enableBackground "new 0 0 24 24", viewBox "0 0 24 24" ]
+        [ rect
+            [ fill "none" ]
+            []
+        , path
+            [ d "M20.83,18H22V6H8.83L20.83,18z M17.5,9c0.83,0,1.5,0.67,1.5,1.5S18.33,12,17.5,12S16,11.33,16,10.5S16.67,9,17.5,9z M21.19,21.19L2.81,2.81L1.39,4.22L3.17,6H2v12h13.17l4.61,4.61L21.19,21.19z M9,13v2H7v-2H5v-2h2V9.83L10.17,13H9z" ]
             []
         ]
 
@@ -19998,6 +29506,41 @@ view_headline =
 
 
 {-| -}
+view_in_ar : Icon msg
+view_in_ar =
+    icon
+        [ enableBackground "new 0 0 24 24", viewBox "0 0 24 24" ]
+        [ g
+            []
+            [ rect
+                [ fill "none" ]
+                []
+            ]
+        , g
+            []
+            [ g
+                []
+                [ polygon
+                    [ points "18,1 18,3 21,3 21,6 23,6 23,1" ]
+                    []
+                , polygon
+                    [ points "21,21 18,21 18,23 23,23 23,18 21,18" ]
+                    []
+                , polygon
+                    [ points "3,3 6,3 6,1 1,1 1,6 3,6" ]
+                    []
+                , polygon
+                    [ points "3,18 1,18 1,23 6,23 6,21 3,21" ]
+                    []
+                , path
+                    [ d "M19,7.97l-7-4.03L5,7.97v8.06l7,4.03l7-4.03V7.97z M11,17.17l-4-2.3v-4.63l4,2.33V17.17z M12,10.84L8.04,8.53L12,6.25 l3.96,2.28L12,10.84z M17,14.87l-4,2.3v-4.6l4-2.33V14.87z" ]
+                    []
+                ]
+            ]
+        ]
+
+
+{-| -}
 view_list : Icon msg
 view_list =
     icon
@@ -20094,6 +29637,20 @@ vignette =
             []
         , path
             [ d "M23 3H1v18h22V3zM12 18c-4.42 0-8-2.69-8-6s3.58-6 8-6 8 2.69 8 6-3.58 6-8 6z" ]
+            []
+        ]
+
+
+{-| -}
+villa : Icon msg
+villa =
+    icon
+        [ enableBackground "new 0 0 24 24", viewBox "0 0 24 24" ]
+        [ rect
+            [ fill "none" ]
+            []
+        , path
+            [ d "M7,21H3V8l13-5v7H7V21z M19,10c-1.1,0-2,0.9-2,2H9v9h5v-5h2v5h5v-9C21,10.9,20.1,10,19,10z" ]
             []
         ]
 
@@ -20225,6 +29782,35 @@ volume_up =
 
 
 {-| -}
+volunteer_activism : Icon msg
+volunteer_activism =
+    icon
+        [ enableBackground "new 0 0 24 24", viewBox "0 0 24 24" ]
+        [ g
+            []
+            [ rect
+                [ fill "none" ]
+                []
+            ]
+        , g
+            []
+            [ g
+                []
+                [ rect
+                    []
+                    []
+                , path
+                    [ d "M16,3.25C16.65,2.49,17.66,2,18.7,2C20.55,2,22,3.45,22,5.3c0,2.27-2.91,4.9-6,7.7c-3.09-2.81-6-5.44-6-7.7 C10,3.45,11.45,2,13.3,2C14.34,2,15.35,2.49,16,3.25z" ]
+                    []
+                , polygon
+                    [ points "22,17 13,17 10.91,16.27 11.24,15.32 13,16 17,16 17,14 8.97,11 7,11 7,20.02 14,22 22,19" ]
+                    []
+                ]
+            ]
+        ]
+
+
+{-| -}
 vpn_key : Icon msg
 vpn_key =
     icon
@@ -20253,6 +29839,26 @@ vpn_lock =
 
 
 {-| -}
+vrpano : Icon msg
+vrpano =
+    icon
+        [ enableBackground "new 0 0 24 24", viewBox "0 0 24 24" ]
+        [ g
+            []
+            [ rect
+                [ fill "none" ]
+                []
+            ]
+        , g
+            []
+            [ path
+                [ d "M12,5.5c-5.25,0-9.01-1.54-10-1.92V20.4c2.16-0.76,5.21-1.9,10-1.9c4.78,0,7.91,1.17,10,1.9V3.6 C19.91,4.33,16.77,5.5,12,5.5z M12,15c-2.34,0-4.52,0.15-6.52,0.41l3.69-4.42l2,2.4L14,10l4.51,5.4C16.52,15.15,14.3,15,12,15z" ]
+                []
+            ]
+        ]
+
+
+{-| -}
 wallpaper : Icon msg
 wallpaper =
     icon
@@ -20273,6 +29879,17 @@ warning =
         [ viewBox "0 0 24 24" ]
         [ path
             [ d "M1 21h22L12 2 1 21zm12-3h-2v-2h2v2zm0-4h-2v-4h2v4z" ]
+            []
+        ]
+
+
+{-| -}
+warning_amber : Icon msg
+warning_amber =
+    icon
+        [ viewBox "0 0 24 24" ]
+        [ path
+            [ d "M12 5.99L19.53 19H4.47L12 5.99M12 2L1 21h22L12 2zm1 14h-2v2h2v-2zm0-6h-2v4h2v-4z" ]
             []
         ]
 
@@ -20332,6 +29949,29 @@ watch_later =
 
 
 {-| -}
+water : Icon msg
+water =
+    icon
+        [ enableBackground "new 0 0 24 24", viewBox "0 0 24 24" ]
+        [ g
+            []
+            [ path
+                [ d "M0,0h24v24H0V0z", fill "none" ]
+                []
+            ]
+        , g
+            []
+            [ g
+                []
+                [ path
+                    [ d "M21.98,14H22H21.98z M5.35,13c1.19,0,1.42,1,3.33,1c1.95,0,2.09-1,3.33-1c1.19,0,1.42,1,3.33,1c1.95,0,2.09-1,3.33-1 c1.19,0,1.4,0.98,3.31,1v-2c-1.19,0-1.42-1-3.33-1c-1.95,0-2.09,1-3.33,1c-1.19,0-1.42-1-3.33-1c-1.95,0-2.09,1-3.33,1 c-1.19,0-1.42-1-3.33-1C3.38,11,3.24,12,2,12v2C3.9,14,4.17,13,5.35,13z M18.67,15c-1.95,0-2.09,1-3.33,1c-1.19,0-1.42-1-3.33-1 c-1.95,0-2.1,1-3.34,1c-1.24,0-1.38-1-3.33-1c-1.95,0-2.1,1-3.34,1v2c1.95,0,2.11-1,3.34-1c1.24,0,1.38,1,3.33,1 c1.95,0,2.1-1,3.34-1c1.19,0,1.42,1,3.33,1c1.94,0,2.09-1,3.33-1c1.19,0,1.42,1,3.33,1v-2C20.76,16,20.62,15,18.67,15z M5.35,9 c1.19,0,1.42,1,3.33,1c1.95,0,2.09-1,3.33-1c1.19,0,1.42,1,3.33,1c1.95,0,2.09-1,3.33-1c1.19,0,1.4,0.98,3.31,1V8 c-1.19,0-1.42-1-3.33-1c-1.95,0-2.09,1-3.33,1c-1.19,0-1.42-1-3.33-1C10.04,7,9.9,8,8.66,8C7.47,8,7.24,7,5.33,7 C3.38,7,3.24,8,2,8v2C3.9,10,4.17,9,5.35,9z" ]
+                    []
+                ]
+            ]
+        ]
+
+
+{-| -}
 water_damage : Icon msg
 water_damage =
     icon
@@ -20342,6 +29982,29 @@ water_damage =
         , path
             [ d "M12,3L2,12h3v8h14v-8h3L12,3z M12,16c-1.1,0-2-0.9-2-2c0-1.1,2-4,2-4s2,2.9,2,4C14,15.1,13.1,16,12,16z" ]
             []
+        ]
+
+
+{-| -}
+waterfall_chart : Icon msg
+waterfall_chart =
+    icon
+        [ enableBackground "new 0 0 24 24", viewBox "0 0 24 24" ]
+        [ g
+            []
+            [ path
+                [ d "M0,0h24v24H0V0z", fill "none" ]
+                []
+            ]
+        , g
+            []
+            [ g
+                []
+                [ path
+                    [ d "M18,4h3v16h-3V4z M3,13h3v7H3V13z M14,4h3v3h-3V4z M10,5h3v4h-3V5z M7,10h3v4H7V10z" ]
+                    []
+                ]
+            ]
         ]
 
 
@@ -20416,6 +30079,29 @@ wb_iridescent =
 
 
 {-| -}
+wb_shade : Icon msg
+wb_shade =
+    icon
+        [ enableBackground "new 0 0 24 24", viewBox "0 0 24 24" ]
+        [ g
+            []
+            [ rect
+                [ fill "none" ]
+                []
+            ]
+        , g
+            []
+            [ g
+                []
+                [ path
+                    [ d "M14,12v2.5l5.5,5.5H22L14,12z M14,20h3l-3-3V20z M8,4l-6,6h2v10h8V10h2L8,4z M9,14H7v-4h2V14z" ]
+                    []
+                ]
+            ]
+        ]
+
+
+{-| -}
 wb_sunny : Icon msg
 wb_sunny =
     icon
@@ -20426,6 +30112,41 @@ wb_sunny =
         , path
             [ d "M6.76 4.84l-1.8-1.79-1.41 1.41 1.79 1.79 1.42-1.41zM4 10.5H1v2h3v-2zm9-9.95h-2V3.5h2V.55zm7.45 3.91l-1.41-1.41-1.79 1.79 1.41 1.41 1.79-1.79zm-3.21 13.7l1.79 1.8 1.41-1.41-1.8-1.79-1.4 1.4zM20 10.5v2h3v-2h-3zm-8-5c-3.31 0-6 2.69-6 6s2.69 6 6 6 6-2.69 6-6-2.69-6-6-6zm-1 16.95h2V19.5h-2v2.95zm-7.45-3.91l1.41 1.41 1.79-1.8-1.41-1.41-1.79 1.8z" ]
             []
+        ]
+
+
+{-| -}
+wb_twilight : Icon msg
+wb_twilight =
+    icon
+        [ enableBackground "new 0 0 24 24", viewBox "0 0 24 24" ]
+        [ g
+            []
+            [ rect
+                [ fill "none" ]
+                []
+            ]
+        , g
+            []
+            [ g
+                []
+                [ rect
+                    [ t "matrix(0.7069 -0.7074 0.7074 0.7069 -0.3887 15.676)" ]
+                    []
+                , rect
+                    []
+                    []
+                , rect
+                    []
+                    []
+                , rect
+                    [ t "matrix(0.7071 -0.7071 0.7071 0.7071 -4.2992 6.1783)" ]
+                    []
+                , path
+                    [ d "M5,16h14c0-3.87-3.13-7-7-7S5,12.13,5,16z" ]
+                    []
+                ]
+            ]
         ]
 
 
@@ -20479,6 +30200,20 @@ web_asset =
             []
         , path
             [ d "M3 4v16h18V4H3zm16 14H5V8h14v10z" ]
+            []
+        ]
+
+
+{-| -}
+web_asset_off : Icon msg
+web_asset_off =
+    icon
+        [ enableBackground "new 0 0 24 24", viewBox "0 0 24 24" ]
+        [ rect
+            [ fill "none" ]
+            []
+        , path
+            [ d "M6.83,4H22v15.17l-2-2V8h-9.17L6.83,4z M20.49,23.31L17.17,20H2V4.83L0.69,3.51L2.1,2.1l19.8,19.8L20.49,23.31z M15.17,18 l-10-10H4v10H15.17z" ]
             []
         ]
 
@@ -20611,16 +30346,60 @@ wifi_calling =
 
 
 {-| -}
+wifi_calling_3 : Icon msg
+wifi_calling_3 =
+    icon
+        [ enableBackground "new 0 0 24 24", viewBox "0 0 24 24" ]
+        [ g
+            []
+            [ path
+                [ d "M0,0h24v24H0V0z", fill "none" ]
+                []
+            ]
+        , g
+            []
+            [ g
+                []
+                [ path
+                    [ d "M16.49,3c-2.21,0-4.21,0.9-5.66,2.34l1.06,1.06c1.18-1.18,2.8-1.91,4.59-1.91s3.42,0.73,4.59,1.91l1.06-1.06 C20.7,3.9,18.7,3,16.49,3z" ]
+                    []
+                , path
+                    [ d "M20.03,7.46C19.12,6.56,17.87,6,16.49,6s-2.63,0.56-3.54,1.46l1.06,1.06c0.63-0.63,1.51-1.03,2.47-1.03 s1.84,0.39,2.47,1.03L20.03,7.46z" ]
+                    []
+                , path
+                    [ d "M15.08,9.59L16.49,11l1.41-1.41C17.54,9.22,17.04,9,16.49,9S15.44,9.22,15.08,9.59z" ]
+                    []
+                , path
+                    [ d "M21,15l-5-1l-2.9,2.9c-2.5-1.43-4.57-3.5-6-6L10,8L9,3L3,3c0,3.28,0.89,6.35,2.43,9c1.58,2.73,3.85,4.99,6.57,6.57 c2.65,1.53,5.72,2.43,9,2.43L21,15z" ]
+                    []
+                ]
+            ]
+        ]
+
+
+{-| -}
 wifi_lock : Icon msg
 wifi_lock =
     icon
-        [ viewBox "0 0 24 24" ]
-        [ path
-            [ d "M0 0h24v24H0V0z", fill "none" ]
+        [ enableBackground "new 0 0 24 24", viewBox "0 0 24 24" ]
+        [ g
             []
-        , path
-            [ d "M23 14.64c0-1.31-.94-2.5-2.24-2.63-1.5-.15-2.76 1.02-2.76 2.49V16h-1v6h7v-6h-1v-1.36zM22 16h-3v-1.5c0-.83.67-1.5 1.5-1.5s1.5.67 1.5 1.5V16zm-.69-6.42L24 6c-3.34-2.51-7.5-4-12-4S3.34 3.49 0 6l12 16 3.5-4.67V14.5c0-2.76 2.24-5 5-5 .28 0 .55.04.81.08z" ]
+            [ path
+                [ d "M0,0h24v24H0V0z", fill "none" ]
+                []
+            ]
+        , g
             []
+            [ g
+                []
+                [ path
+                    [ d "M21.98,11L24,8.98C20.93,5.9,16.69,4,12,4C7.31,4,3.07,5.9,0,8.98l6.35,6.36L12,21l3.05-3.05V15 c0-0.45,0.09-0.88,0.23-1.29c0.54-1.57,2.01-2.71,3.77-2.71H21.98z" ]
+                    []
+                , path
+                    [ d "M22,15.11c0-1-0.68-1.92-1.66-2.08c-0.12-0.02-0.24-0.02-0.36-0.02l0,0c0,0-0.01,0-0.01,0C18.88,13.03,18,13.91,18,15v1 c-0.55,0-1,0-1,0v5h6v-5c0,0-0.45,0-1,0V15.11z M21,16h-2v-1c0-0.55,0.45-1,1-1s1,0.45,1,1V16z" ]
+                    []
+                ]
+            ]
         ]
 
 
@@ -20685,6 +30464,72 @@ wifi_tethering =
 
 
 {-| -}
+wifi_tethering_error_rounded : Icon msg
+wifi_tethering_error_rounded =
+    icon
+        [ enableBackground "new 0 0 24 24", viewBox "0 0 24 24" ]
+        [ g
+            []
+            [ path
+                [ d "M0,0h24v24H0V0z", fill "none" ]
+                []
+            ]
+        , g
+            []
+            [ g
+                []
+                [ path
+                    [ d "M12,7c-3.31,0-6,2.69-6,6c0,1.66,0.68,3.15,1.76,4.24l1.42-1.42C8.45,15.1,8,14.11,8,13c0-2.21,1.79-4,4-4s4,1.79,4,4 c0,1.11-0.45,2.1-1.18,2.82l1.42,1.42C17.32,16.15,18,14.66,18,13C18,9.69,15.31,7,12,7z M12,3C6.48,3,2,7.48,2,13 c0,2.76,1.12,5.26,2.93,7.07l1.42-1.42C4.9,17.21,4,15.21,4,13c0-4.42,3.58-8,8-8c2.53,0,4.78,1.17,6.24,3h2.42 C18.93,5.01,15.7,3,12,3z M12,11c-1.1,0-2,0.9-2,2c0,0.55,0.23,1.05,0.59,1.41C10.95,14.77,11.45,15,12,15s1.05-0.23,1.41-0.59 C13.77,14.05,14,13.55,14,13C14,11.9,13.1,11,12,11z M20,10h2v6h-2V10z M20,18h2v2h-2V18z" ]
+                    []
+                ]
+            ]
+        ]
+
+
+{-| -}
+wifi_tethering_off : Icon msg
+wifi_tethering_off =
+    icon
+        [ enableBackground "new 0 0 24 24", viewBox "0 0 24 24" ]
+        [ g
+            []
+            [ path
+                [ d "M0,0h24v24H0V0z", fill "none" ]
+                []
+            ]
+        , g
+            []
+            [ g
+                []
+                [ path
+                    [ d "M2.81,2.81L1.39,4.22l2.69,2.69C2.78,8.6,2,10.71,2,13c0,2.76,1.12,5.26,2.93,7.07l1.42-1.42C4.9,17.21,4,15.21,4,13 c0-1.75,0.57-3.35,1.51-4.66l1.43,1.43C6.35,10.7,6,11.81,6,13c0,1.66,0.68,3.15,1.76,4.24l1.42-1.42C8.45,15.1,8,14.11,8,13 c0-0.63,0.15-1.23,0.41-1.76l1.61,1.61c0,0.05-0.02,0.1-0.02,0.15c0,0.55,0.23,1.05,0.59,1.41C10.95,14.77,11.45,15,12,15 c0.05,0,0.1-0.01,0.16-0.02l7.62,7.62l1.41-1.41L2.81,2.81z M17.7,14.87C17.89,14.28,18,13.65,18,13c0-3.31-2.69-6-6-6 c-0.65,0-1.28,0.1-1.87,0.3l1.71,1.71C11.89,9,11.95,9,12,9c2.21,0,4,1.79,4,4c0,0.05,0,0.11-0.01,0.16L17.7,14.87z M12,5 c4.42,0,8,3.58,8,8c0,1.22-0.27,2.37-0.77,3.4l1.49,1.49C21.53,16.45,22,14.78,22,13c0-5.52-4.48-10-10-10 c-1.78,0-3.44,0.46-4.89,1.28l1.48,1.48C9.63,5.27,10.78,5,12,5z" ]
+                    []
+                ]
+            ]
+        ]
+
+
+{-| -}
+window : Icon msg
+window =
+    icon
+        [ enableBackground "new 0 0 24 24", viewBox "0 0 24 24" ]
+        [ g
+            []
+            [ path
+                [ d "M0,0h24v24H0V0z", fill "none" ]
+                []
+            ]
+        , g
+            []
+            [ path
+                [ d "M22,2H2v20h20V2z M20,11h-7V4h7V11z M11,4v7H4V4H11z M4,13h7v7H4V13z M13,20v-7h7v7H13z" ]
+                []
+            ]
+        ]
+
+
+{-| -}
 wine_bar : Icon msg
 wine_bar =
     icon
@@ -20741,6 +30586,29 @@ work_outline =
 
 
 {-| -}
+workspaces : Icon msg
+workspaces =
+    icon
+        [ enableBackground "new 0 0 24 24", viewBox "0 0 24 24" ]
+        [ g
+            []
+            [ rect
+                [ fill "none" ]
+                []
+            ]
+        , g
+            []
+            [ g
+                []
+                [ path
+                    [ d "M6,13c-2.2,0-4,1.8-4,4s1.8,4,4,4s4-1.8,4-4S8.2,13,6,13z M12,3C9.8,3,8,4.8,8,7s1.8,4,4,4s4-1.8,4-4S14.2,3,12,3z M18,13 c-2.2,0-4,1.8-4,4s1.8,4,4,4s4-1.8,4-4S20.2,13,18,13z" ]
+                    []
+                ]
+            ]
+        ]
+
+
+{-| -}
 wrap_text : Icon msg
 wrap_text =
     icon
@@ -20790,6 +30658,32 @@ wysiwyg =
             , path
                 [ d "M17,12H7v-2h10V12z M13,14H7v2h6V14z M21,21H3V3h18V21z M19,7H5v12h14V7z" ]
                 []
+            ]
+        ]
+
+
+{-| -}
+yard : Icon msg
+yard =
+    icon
+        [ enableBackground "new 0 0 24 24", viewBox "0 0 24 24" ]
+        [ g
+            []
+            [ path
+                [ d "M0,0h24v24H0V0z", fill "none" ]
+                []
+            ]
+        , g
+            []
+            [ g
+                []
+                [ path
+                    [ d "M22,2H2v20h20V2z M8,8.22c0-0.86,0.7-1.56,1.56-1.56c0.33,0,0.64,0.1,0.89,0.28l-0.01-0.12c0-0.86,0.7-1.56,1.56-1.56 s1.56,0.7,1.56,1.56l-0.01,0.12c0.26-0.18,0.56-0.28,0.89-0.28c0.86,0,1.56,0.7,1.56,1.56c0,0.62-0.37,1.16-0.89,1.4 C15.63,9.87,16,10.41,16,11.03c0,0.86-0.7,1.56-1.56,1.56c-0.33,0-0.64-0.11-0.89-0.28l0.01,0.12c0,0.86-0.7,1.56-1.56,1.56 s-1.56-0.7-1.56-1.56l0.01-0.12c-0.26,0.18-0.56,0.28-0.89,0.28C8.7,12.59,8,11.89,8,11.03c0-0.62,0.37-1.16,0.89-1.4 C8.37,9.38,8,8.84,8,8.22z M12,19c-3.31,0-6-2.69-6-6C9.31,13,12,15.69,12,19c0-3.31,2.69-6,6-6C18,16.31,15.31,19,12,19z" ]
+                    []
+                , circle
+                    [ cx "12", cy "9.62", r "1.56" ]
+                    []
+                ]
             ]
         ]
 
