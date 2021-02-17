@@ -1,9 +1,9 @@
 {
     "type": "package",
-    "name": "icidasset/elm-material-icons",
+    "name": "buildrtech/elm-material-icons",
     "summary": "Material Icons Library",
     "license": "BSD-3-Clause",
-    "version": "5.0.0",
+    "version": "6.0.0",
     "exposed-modules": [
         "Material.Icons",
         "Material.Icons.Outlined",
